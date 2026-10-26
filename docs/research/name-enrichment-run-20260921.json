@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "purpose": "pending_name_enrichment",
+  "createdAt": "2026-09-21T09:30:01.828162+00:00",
+  "catalogSha256": "0ff632511565043531da210db3a512d3c2b7d95b3237d1bdb3ea01aa9fdf2cb9",
+  "counts": {
+    "records": 14750,
+    "records_unmatched": 3073,
+    "candidates": 17256,
+    "candidates_unmatched": 3102,
+    "records_exact": 10367,
+    "candidates_exact": 12648,
+    "records_unresolved_rank": 1310,
+    "candidates_unresolved_rank": 1506,
+    "names_shared_across_species": 93,
+    "records_without_names": 1049,
+    "matched_hidden_species": 8438,
+    "matched_visible_species": 1294
+  },
+  "productionChanges": false,
+  "allCandidatesRequireReview": true,
+  "outputFile": "name-candidates-20260921-r3.sqlite3",
+  "outputSha256": "36e2a935cca80ad4ee7e07b2e9cf55abb771829d41fc8624a995f0403272661d",
+  "integrityCheck": "ok",
+  "sources": [
+    {
+      "id": "sciencedb-01711-v1",
+      "title": "中国外来植物名录数据集",
+      "version": "V1",
+      "url": "https://doi.org/10.57760/sciencedb.01711",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+      "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+      "modifications": "Extracted name fields; aliases split on list separators; not a full copy."
+    },
+    {
+      "id": "wikidata",
+      "title": "Wikidata taxon common-name statements",
+      "url": "https://www.wikidata.org",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "snapshots": [
+        {
+          "file": "Q112867914.json",
+          "sha256": "c441c99ffaf0c0f5f56d91b87bab1916be4715eff446ae1523c2cf3b0ce891f9"
+        },
+        {
+          "file": "Q112869463.json",
+          "sha256": "fa202109850dbfcdf1c8fb8fcb024f7ea171ffbafee174bc714a71439f67cc45"
+        },
+        {
+          "file": "Q1209922.json",
+          "sha256": "2c8991188458f696eeb0a767386e265af2b9cf755a16e39d7e9500e272f3b8af"
+        },
+        {
+          "file": "Q159219.json",
+          "sha256": "4c1f6ede8128509a1f3c3e56b34485cb8802b9187923a58dbb8f5724b0e0c06b"
+        },
+        {
+          "file": "Q161116.json",
+          "sha256": "20a0087ebc0e35aff165578bdbd8cfa5aeeae709ef58d212dc268bea41278843"
+        },
+        {
+          "file": "Q161809.json",
+          "sha256": "1f2c4ee3801836242f9c5423e8945ea1495b4769a18c584a7dcb9115979e45e0"
+        },
+        {
+          "file": "Q43284.json",
+          "sha256": "f0191f1855c5a16da150ec9db4ab9c55ae6d18580ddce09819f00dcdf8aff43f"
+        }
+      ],
+      "modifications": "Chinese P1843 statements only; pending review, not all aliases."
+    }
+  ],
+  "sourceRecordCounts": {
+    "sciencedb-01711-v1": 14710,
+    "wikidata": 40
+  },
+  "recordsWithoutNamesBySource": {
+    "sciencedb-01711-v1": 1049
+  },
+  "pendingCount": 17256,
+  "catalogUnchanged": true
+}

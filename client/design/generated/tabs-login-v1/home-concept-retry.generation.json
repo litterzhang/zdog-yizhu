@@ -1,0 +1,17 @@
+{
+  "asset": "home-concept",
+  "attempt": 2,
+  "date": "2026-09-20",
+  "provider": "antigravity",
+  "model": "gemini-3.1-flash-image",
+  "method": "direct xdog-ai image CLI invocation; text-to-image; no reference uploads",
+  "prompt": "client/design/generated/tabs-login-v1/home-concept.prompt.txt",
+  "aspect_ratio_requested": "9:16",
+  "image_size_requested": "1K",
+  "output_dir": "client/design/generated/tabs-login-v1/raw/home-concept-retry",
+  "returncode": 1,
+  "status": "failed; no saved image found after process exit",
+  "error": "Error: image generation timed out; check provider status before retrying.",
+  "paths": [],
+  "remote_completion_and_billing": "unknown"
+}

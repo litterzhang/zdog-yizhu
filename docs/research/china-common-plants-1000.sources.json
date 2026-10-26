@@ -1,0 +1,33 @@
+{
+  "createdAt": "2026-09-22T01:54:39.556382+00:00",
+  "policy": "china-inat-research-visible-exact-v1",
+  "catalogSha256": "38faa0c3f0da61d74bbfde82a97a203a9553fbd93606fe47e1d173de3067f910",
+  "source": "https://api.inaturalist.org/v1/observations/species_counts",
+  "placeId": 6903,
+  "placeName": "China (iNaturalist place boundary)",
+  "countScope": "research-grade species observations; not abundance or national ranking",
+  "trainingImageScope": "worldwide public CC0/CC BY photographs, not private user photos",
+  "limitations": [
+    "Citizen-science geographic and observer bias; cultivated plants underrepresented.",
+    "Only exact scientific-name matches with existing visible Chinese names included.",
+    "Counts are a live paginated snapshot, not an atomic census."
+  ],
+  "selectedCount": 1000,
+  "excludedBeforeCutoff": 120,
+  "minimumChinaResearchObservationCount": 49,
+  "csvSha256": "a3c8fae5cca0f69a47c7087bdcfa665aedcb00b374ba8eecfb00f48dd0ea81f9",
+  "countPages": [
+    {
+      "file": "1.json",
+      "sha256": "515c37d802c9786f581f4a39782af64ddcc5f379e6b236540500a7e45ebcb15a"
+    },
+    {
+      "file": "2.json",
+      "sha256": "250c1fafaaa4d60c9bbebef2ae3c780a327e431a3f1875f6e0d17cf24324e7ad"
+    },
+    {
+      "file": "3.json",
+      "sha256": "6d4b08586c34314d6f3ca858c030e05a8ef955016098e1ce5c1c93c432403c14"
+    }
+  ]
+}

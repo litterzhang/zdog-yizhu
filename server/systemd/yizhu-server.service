@@ -1,0 +1,16 @@
+[Unit]
+Description=Yizhu Flask API and plant recognition service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/zhang/workspace/zdog-yizhu/server
+ExecStart=/home/zhang/workspace/zdog-yizhu/server/.venv/bin/yizhu-server --host 127.0.0.1 --port 8091
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=default.target

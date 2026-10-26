@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-22",
+  "status": "trained-and-tested-offline-not-approved-for-production",
+  "architecture": "frozen-plantnet-resnet50-2048-to-2-linear-softmax",
+  "headParameters": 4098,
+  "encoder": {
+    "architecture": "resnet50",
+    "weightsSha256": "4bdaa41d62d0fb9640f6ba137812560d2f2d587ecabe810e3c3571625f72305c",
+    "dimension": 2048,
+    "preprocessing": "whole-image-letterbox224-imagenet-normalization-l2-v1"
+  },
+  "modelFile": "server/.cache/models/plant-presence/resnet50-linear-v1.json",
+  "modelSha256": "f7c554e7b2e5adcbd983c0d770c761ea47300aff3da63d316c26604ca82d032b",
+  "modelBytes": 115871,
+  "datasetFile": "server/.cache/training/plant-presence-openimages/samples.json",
+  "datasetSha256": "41face7f33eabc94b90473185f974a37f038ad7023bf31a6ef7b4a51b59a2576",
+  "datasetSource": "Open Images V7 human-verified image-level labels",
+  "sourceSubset": "validation",
+  "splitPolicy": "project-specific author-hash split; NOT official benchmark splits",
+  "metadataSha256": {
+    "oidv7-val-annotations-human-imagelabels.csv": "92ddbdfceb3626e044df5e89100b24f6c22a79c1888a4bddd00a6f231d86d56a",
+    "validation-images-with-rotation.csv": "ed93a0e121fe345effdfc7359b848dbc64a1ff6778c8c73563157cb500b33a17",
+    "oidv7-class-descriptions.csv": "84a4373a0efb7fd6d93fe19b0e7ceb6c1b855c233d13b9b78a9a33655c9fdce3",
+    "bbox_labels_600_hierarchy.json": "a28f06e83c8378c4285d92d768ceda7568a48cac3c02994b6c346df804e7d612"
+  },
+  "labelMethod": "explicit Open Images human-verified Plant 1/0; no assistant-generated image labels",
+  "photoLicense": "CC BY 2.0, per-image attribution retained in dataset",
+  "samples": 599,
+  "distinctPhotographerGroups": 599,
+  "counts": {
+    "train": {
+      "plant": 200,
+      "nonplant": 199
+    },
+    "validation": {
+      "plant": 50,
+      "nonplant": 50
+    },
+    "test": {
+      "nonplant": 50,
+      "plant": 50
+    }
+  },
+  "excludedBeforeTraining": [
+    {
+      "id": "openimages:validation:bd5c4b6253c459bc",
+      "reason": "Photo exceeds the 20-megapixel limit."
+    }
+  ],
+  "threshold": 0.3770689070224762,
+  "thresholdSelectedOn": "validation-only",
+  "validationPlantRecallTarget": 0.95,
+  "epochsRun": 33,
+  "bestEpoch": 18,
+  "validationMetrics": {
+    "samples": 100,
+    "truePositive": 48,
+    "falsePositive": 15,
+    "trueNegative": 35,
+    "falseNegative": 2,
+    "plantRecall": 0.96,
+    "nonplantRecall": 0.7,
+    "plantPrecision": 0.7619047619047619,
+    "falsePositiveRate": 0.3,
+    "accuracy": 0.83,
+    "balancedAccuracy": 0.83
+  },
+  "testMetrics": {
+    "samples": 100,
+    "truePositive": 44,
+    "falsePositive": 14,
+    "trueNegative": 36,
+    "falseNegative": 6,
+    "plantRecall": 0.88,
+    "nonplantRecall": 0.72,
+    "plantPrecision": 0.7586206896551724,
+    "falsePositiveRate": 0.28,
+    "accuracy": 0.8,
+    "balancedAccuracy": 0.8
+  },
+  "testReport": "server/.artifacts/plant-presence/resnet50-linear-v1-test.json",
+  "testReportSha256": "44783f1d9e826cea6e0215aa7b715f999b31cf15408519bf7c66331cebad284a",
+  "versions": {
+    "torch": "2.14.0+cpu",
+    "torchvision": "0.29.0+cpu",
+    "pillow": "12.3.0"
+  },
+  "tests": {
+    "backendPassed": 361,
+    "seconds": 7.68,
+    "ruff": "passed"
+  },
+  "productionChanged": false,
+  "productionApproved": false,
+  "speciesTrainingResumed": false,
+  "privatePhotosUsed": false,
+  "externalRecognitionRequests": 0,
+  "limitations": [
+    "Small custom split from the official validation subset, not an official benchmark.",
+    "Dataset labels can contain noise; known related-class conflicts excluded, not every inconsistency.",
+    "No dedicated China/user-distribution or tiny/background/artificial-plant benchmark.",
+    "Pretraining overlap not ruled out; independent checkpoint license not separately cleared.",
+    "No test-set threshold adjustment or training; 95% validation recall is not a production guarantee.",
+    "6/50 plant test photos rejected, 14/50 nonplant test photos accepted; not ready for hard rejection."
+  ]
+}

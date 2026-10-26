@@ -1,0 +1,1658 @@
+{
+  "createdAt": "2026-09-22T03:06:38.938932+00:00",
+  "title": "中国日常场景植物候选草案（待核验）",
+  "status": "draft-not-a-ranked-list-not-approved-for-training",
+  "candidateCount": 50,
+  "purpose": "Review intended product coverage before gathering commonness evidence and resolving exact training taxa.",
+  "catalogSha256": "38faa0c3f0da61d74bbfde82a97a203a9553fbd93606fe47e1d173de3067f910",
+  "notice": "Name-source evidence is not evidence of commonness. Local exact-name matches are provisional, not taxonomic decisions. No manual aliases added to the catalog.",
+  "externalEvidenceLimitation": "Web research did not yield verifiable official page bodies this round; no commonness sources or regional prevalence claims fabricated.",
+  "candidates": [
+    {
+      "candidateId": "everyday-draft-001",
+      "proposedName": "桂花",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-009",
+          "scientificName": "Osmanthus fragrans",
+          "canonicalChineseName": "木犀",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-30134",
+              "sourceName": "木犀",
+              "matchedScientificName": "Osmanthus fragrans",
+              "acceptedScientificName": "Osmanthus fragrans",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            },
+            {
+              "title": "Wikidata 俗名声明（引自《中国植物志》，CC0）",
+              "url": "https://www.wikidata.org/wiki/Q1209922",
+              "version": "2547139348",
+              "license": "CC0-1.0",
+              "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "recordId": "Q1209922$27C94BED-3E29-4558-AD64-B4E6E8EBC3DB",
+              "references": [
+                {
+                  "id": "Q112869463",
+                  "revision": 2245651118,
+                  "title": "中国植物志第六十一卷",
+                  "reference": {
+                    "hash": "ebf35d4055c491dfe9d458b53bc299185fac23bc",
+                    "snaks": {
+                      "P248": [
+                        {
+                          "snaktype": "value",
+                          "property": "P248",
+                          "hash": "12293c7bc9b59c33a4f4911a4f1d6e0c0223d858",
+                          "datavalue": {
+                            "value": {
+                              "entity-type": "item",
+                              "numeric-id": 112869463,
+                              "id": "Q112869463"
+                            },
+                            "type": "wikibase-entityid"
+                          },
+                          "datatype": "wikibase-item"
+                        }
+                      ],
+                      "P304": [
+                        {
+                          "snaktype": "value",
+                          "property": "P304",
+                          "hash": "6f9468b479dda4fd47645cb685feea0355d5383b",
+                          "datavalue": {
+                            "value": "107",
+                            "type": "string"
+                          },
+                          "datatype": "string"
+                        }
+                      ]
+                    },
+                    "snaks-order": [
+                      "P248",
+                      "P304"
+                    ]
+                  }
+                }
+              ],
+              "sourceName": "桂花",
+              "language": "zh-hans",
+              "matchedScientificName": "Osmanthus fragrans",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "f654b6aebfbb1b7bbab55d99df8b26c0083240ce2bbc0ea3f6d21a0e614bfc39"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-002",
+      "proposedName": "银杏",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-001",
+          "scientificName": "Ginkgo biloba",
+          "canonicalChineseName": "银杏",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-19732",
+              "sourceName": "银杏",
+              "matchedScientificName": "Ginkgo biloba",
+              "acceptedScientificName": "Ginkgo biloba",
+              "matchType": "exact",
+              "attribution": "杨永"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-003",
+      "proposedName": "香樟",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-004",
+      "proposedName": "国槐",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-005",
+      "proposedName": "悬铃木",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-006",
+      "proposedName": "垂柳",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-012",
+          "scientificName": "Salix babylonica",
+          "canonicalChineseName": "垂柳",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-39651",
+              "sourceName": "垂柳",
+              "matchedScientificName": "Salix babylonica",
+              "acceptedScientificName": "Salix babylonica",
+              "matchType": "exact",
+              "attribution": "张志翔,廖帅,谢宜飞"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-007",
+      "proposedName": "白蜡",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-008",
+      "proposedName": "女贞",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:b3553acd8f3950c0998e0303",
+          "scientificName": "Ligustrum lucidum",
+          "canonicalChineseName": "女贞",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-25380",
+              "sourceName": "女贞",
+              "matchedScientificName": "Ligustrum lucidum",
+              "acceptedScientificName": "Ligustrum lucidum",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-009",
+      "proposedName": "紫薇",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:294311e4b8cd11fed6b55c0e",
+          "scientificName": "Lagerstroemia indica",
+          "canonicalChineseName": "紫薇",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-24221",
+              "sourceName": "紫薇",
+              "matchedScientificName": "Lagerstroemia indica",
+              "acceptedScientificName": "Lagerstroemia indica",
+              "matchType": "exact",
+              "attribution": "张志翔,廖帅,谢宜飞"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-010",
+      "proposedName": "石楠",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:76b3f37f6937d3e72de38382",
+          "scientificName": "Photinia serratifolia",
+          "canonicalChineseName": "石楠",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-32647",
+              "sourceName": "石楠",
+              "matchedScientificName": "Photinia serratifolia",
+              "acceptedScientificName": "Photinia serratifolia",
+              "matchType": "exact",
+              "attribution": "夏念和,童毅华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-011",
+      "proposedName": "木棉",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:6a24ee5d4826e7ed97074c62",
+          "scientificName": "Bombax ceiba",
+          "canonicalChineseName": "木棉",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-6589",
+              "sourceName": "木棉",
+              "matchedScientificName": "Bombax ceiba",
+              "acceptedScientificName": "Bombax ceiba",
+              "matchType": "exact",
+              "attribution": "侯元同"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-012",
+      "proposedName": "榕树",
+      "proposedScene": "街道、公园、校园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:07b2fe56649390b7cd7699fd",
+          "scientificName": "Ficus microcarpa",
+          "canonicalChineseName": "榕树",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-18248",
+              "sourceName": "榕树",
+              "matchedScientificName": "Ficus microcarpa",
+              "acceptedScientificName": "Ficus microcarpa",
+              "matchType": "exact",
+              "attribution": "夏念和,童毅华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-013",
+      "proposedName": "月季",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-014",
+      "proposedName": "栀子",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-017",
+          "scientificName": "Gardenia jasminoides",
+          "canonicalChineseName": "栀子",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-19086",
+              "sourceName": "栀子",
+              "matchedScientificName": "Gardenia jasminoides",
+              "acceptedScientificName": "Gardenia jasminoides",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-015",
+      "proposedName": "茉莉",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-016",
+      "proposedName": "山茶",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-016",
+          "scientificName": "Camellia japonica",
+          "canonicalChineseName": "山茶",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-7870",
+              "sourceName": "山茶",
+              "matchedScientificName": "Camellia japonica",
+              "acceptedScientificName": "Camellia japonica",
+              "matchType": "exact",
+              "attribution": "于胜祥"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-017",
+      "proposedName": "杜鹃",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+          "scientificName": "Rhododendron simsii",
+          "canonicalChineseName": "杜鹃",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-38270",
+              "sourceName": "杜鹃",
+              "matchedScientificName": "Rhododendron simsii",
+              "acceptedScientificName": "Rhododendron simsii",
+              "matchType": "exact",
+              "attribution": "金孝锋"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-018",
+      "proposedName": "绣球",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-020",
+          "scientificName": "Hydrangea macrophylla",
+          "canonicalChineseName": "绣球",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-21803",
+              "sourceName": "绣球",
+              "matchedScientificName": "Hydrangea macrophylla",
+              "acceptedScientificName": "Hydrangea macrophylla",
+              "matchType": "exact",
+              "attribution": "于胜祥"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-019",
+      "proposedName": "三角梅",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-020",
+      "proposedName": "木槿",
+      "proposedScene": "庭院、观赏花木",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:f3374d167c525e2853872c32",
+          "scientificName": "Hibiscus syriacus",
+          "canonicalChineseName": "木槿",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-21370",
+              "sourceName": "木槿",
+              "matchedScientificName": "Hibiscus syriacus",
+              "acceptedScientificName": "Hibiscus syriacus",
+              "matchType": "exact",
+              "attribution": "侯元同"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-021",
+      "proposedName": "绿萝",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-015",
+          "scientificName": "Epipremnum aureum",
+          "canonicalChineseName": "绿萝",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-16992",
+              "sourceName": "绿萝",
+              "matchedScientificName": "Epipremnum aureum",
+              "acceptedScientificName": "Epipremnum aureum",
+              "matchType": "exact",
+              "attribution": "刘冰,马政旭"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-022",
+      "proposedName": "吊兰",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:ecbaed74cc3b325f7d203533",
+          "scientificName": "Chlorophytum comosum",
+          "canonicalChineseName": "吊兰",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-10148",
+              "sourceName": "吊兰",
+              "matchedScientificName": "Chlorophytum comosum",
+              "acceptedScientificName": "Chlorophytum comosum",
+              "matchType": "exact",
+              "attribution": "刘冰"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-023",
+      "proposedName": "虎尾兰",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-024",
+      "proposedName": "龟背竹",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-014",
+          "scientificName": "Monstera deliciosa",
+          "canonicalChineseName": "龟背竹",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-28314",
+              "sourceName": "龟背竹",
+              "matchedScientificName": "Monstera deliciosa",
+              "acceptedScientificName": "Monstera deliciosa",
+              "matchType": "exact",
+              "attribution": "刘冰,马政旭"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-025",
+      "proposedName": "发财树",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-026",
+      "proposedName": "橡皮树",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-027",
+      "proposedName": "芦荟",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:f24588f9924dc5d0a1a88993",
+          "scientificName": "Aloe vera",
+          "canonicalChineseName": "芦荟",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-1841",
+              "sourceName": "芦荟",
+              "matchedScientificName": "Aloe vera",
+              "acceptedScientificName": "Aloe vera",
+              "matchType": "exact",
+              "attribution": "张树仁"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-028",
+      "proposedName": "长寿花",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:3dd966ad79e3de5d968d2cc7",
+          "scientificName": "Kalanchoe blossfeldiana",
+          "canonicalChineseName": "长寿花",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；中文名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted source Chinese name; existing catalog taxonomy unchanged.",
+              "recordId": "sciencedb-01711-v1:row-5803",
+              "sourceName": "长寿花",
+              "matchedScientificName": "Kalanchoe blossfeldiana",
+              "matchType": "exact",
+              "acceptancePolicy": "missing-primary-sciencedb-exact-v1",
+              "sourceTaxonomy": {
+                "family": "Crassulaceae",
+                "genus": "Kalanchoe"
+              },
+              "taxonomyDifferences": []
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-029",
+      "proposedName": "蝴蝶兰",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:1366a88040628cfc228eb3d0",
+          "scientificName": "Phalaenopsis aphrodite",
+          "canonicalChineseName": "蝴蝶兰",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-32265",
+              "sourceName": "蝴蝶兰",
+              "matchedScientificName": "Phalaenopsis aphrodite",
+              "acceptedScientificName": "Phalaenopsis aphrodite",
+              "matchType": "exact",
+              "attribution": "金效华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-030",
+      "proposedName": "富贵竹",
+      "proposedScene": "室内、阳台",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:6f7b725180d75e28233b5f96",
+          "scientificName": "Dracaena sanderiana",
+          "canonicalChineseName": "富贵竹",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；中文名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted source Chinese name; existing catalog taxonomy unchanged.",
+              "recordId": "sciencedb-01711-v1:row-3463",
+              "sourceName": "富贵竹",
+              "matchedScientificName": "Dracaena sanderiana",
+              "matchType": "exact",
+              "acceptancePolicy": "missing-primary-sciencedb-exact-v1",
+              "sourceTaxonomy": {
+                "family": "Asparagaceae",
+                "genus": "Dracaena"
+              },
+              "taxonomyDifferences": []
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-031",
+      "proposedName": "狗尾草",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:8a4140a37ce4ef13d54c6c79",
+          "scientificName": "Setaria viridis",
+          "canonicalChineseName": "狗尾草",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-42177",
+              "sourceName": "狗尾草",
+              "matchedScientificName": "Setaria viridis",
+              "acceptedScientificName": "Setaria viridis",
+              "matchType": "exact",
+              "attribution": "陈文俐"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-032",
+      "proposedName": "蒲公英",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:e4088b9f9dc0e126d5f381b1",
+          "scientificName": "Taraxacum mongolicum",
+          "canonicalChineseName": "蒲公英",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-44964",
+              "sourceName": "蒲公英",
+              "matchedScientificName": "Taraxacum mongolicum",
+              "acceptedScientificName": "Taraxacum mongolicum",
+              "matchType": "exact",
+              "attribution": "高天刚,张国进"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-033",
+      "proposedName": "车前",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:63bfe89953ede69af8c06708",
+          "scientificName": "Plantago asiatica",
+          "canonicalChineseName": "车前",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-33595",
+              "sourceName": "车前",
+              "matchedScientificName": "Plantago asiatica",
+              "acceptedScientificName": "Plantago asiatica",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-034",
+      "proposedName": "马齿苋",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:1c12cb20047a68aca980faaf",
+          "scientificName": "Portulaca oleracea",
+          "canonicalChineseName": "马齿苋",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-34860",
+              "sourceName": "马齿苋",
+              "matchedScientificName": "Portulaca oleracea",
+              "acceptedScientificName": "Portulaca oleracea",
+              "matchType": "exact",
+              "attribution": "于胜祥"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-035",
+      "proposedName": "酢浆草",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-024",
+          "scientificName": "Oxalis corniculata",
+          "canonicalChineseName": "酢浆草",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-30231",
+              "sourceName": "酢浆草",
+              "matchedScientificName": "Oxalis corniculata",
+              "acceptedScientificName": "Oxalis corniculata",
+              "matchType": "exact",
+              "attribution": "夏念和,童毅华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-036",
+      "proposedName": "白车轴草",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "bioclip:plant-023",
+          "scientificName": "Trifolium repens",
+          "canonicalChineseName": "白车轴草",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-46228",
+              "sourceName": "白车轴草",
+              "matchedScientificName": "Trifolium repens",
+              "acceptedScientificName": "Trifolium repens",
+              "matchType": "exact",
+              "attribution": "朱相云"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-037",
+      "proposedName": "紫花地丁",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:49a3f86771353d23358c7d8b",
+          "scientificName": "Viola philippica",
+          "canonicalChineseName": "紫花地丁",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-47518",
+              "sourceName": "紫花地丁",
+              "matchedScientificName": "Viola philippica",
+              "acceptedScientificName": "Viola philippica",
+              "matchType": "exact",
+              "attribution": "张志翔,廖帅,谢宜飞"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-038",
+      "proposedName": "葎草",
+      "proposedScene": "路边、郊野",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-039",
+      "proposedName": "稻",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:dc88153bdc7403d9bc98a3c2",
+          "scientificName": "Oryza sativa",
+          "canonicalChineseName": "稻",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-30111",
+              "sourceName": "稻",
+              "matchedScientificName": "Oryza sativa",
+              "acceptedScientificName": "Oryza sativa",
+              "matchType": "exact",
+              "attribution": "陈文俐"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-040",
+      "proposedName": "小麦",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:7f776d9fae1cca264a4d538a",
+          "scientificName": "Triticum aestivum",
+          "canonicalChineseName": "小麦",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-46393",
+              "sourceName": "小麦",
+              "matchedScientificName": "Triticum aestivum",
+              "acceptedScientificName": "Triticum aestivum",
+              "matchType": "exact",
+              "attribution": "陈文俐"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-5102",
+              "sourceName": "瓦维洛夫小麦",
+              "language": "zh",
+              "matchedScientificName": "Triticum aestivum",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "3263075d25524b71f8acf008a3f580481d67396587100d7dd72bc79d54c3af34"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-5102",
+              "sourceName": "云南小麦",
+              "language": "zh",
+              "matchedScientificName": "Triticum aestivum",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "58138daf61e85f33dc496bb01084afa518b4d4016a897c656846b5462154a657"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-041",
+      "proposedName": "玉米",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:cfdf869d38c88257a5bafe25",
+          "scientificName": "Zea mays",
+          "canonicalChineseName": "玉米",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-48195",
+              "sourceName": "玉米",
+              "matchedScientificName": "Zea mays",
+              "acceptedScientificName": "Zea mays",
+              "matchType": "exact",
+              "attribution": "陈文俐"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-5310",
+              "sourceName": "玉蜀黍",
+              "language": "zh",
+              "matchedScientificName": "Zea mays",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "01aefd290f4edc416d68d5e355eccad976dd152613763b1071626684998dda1e"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-042",
+      "proposedName": "大豆",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:e1f33f0dc46c2205cf25a310",
+          "scientificName": "Glycine max",
+          "canonicalChineseName": "大豆",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-19863",
+              "sourceName": "大豆",
+              "matchedScientificName": "Glycine max",
+              "acceptedScientificName": "Glycine max",
+              "matchType": "exact",
+              "attribution": "朱相云"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-043",
+      "proposedName": "花生",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-044",
+      "proposedName": "马铃薯",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:52c98e2dd6868a507935f703",
+          "scientificName": "Solanum tuberosum",
+          "canonicalChineseName": "马铃薯",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-42855",
+              "sourceName": "马铃薯",
+              "matchedScientificName": "Solanum tuberosum",
+              "acceptedScientificName": "Solanum tuberosum",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-12895",
+              "sourceName": "阳芋",
+              "language": "zh",
+              "matchedScientificName": "Solanum tuberosum",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "31426b89dd74a36ab750beb55ac61cb0fbc72d2e4c02f3e4e221c0760982b8eb"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-12895",
+              "sourceName": "土豆",
+              "language": "zh",
+              "matchedScientificName": "Solanum tuberosum",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "5af36b1829b3b7c9633c1d5e5b182bafc2fb9157e0ec27e5d38b92f05f865050"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-045",
+      "proposedName": "番茄",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:3fecceb87032ca227111ade4",
+          "scientificName": "Solanum lycopersicum",
+          "canonicalChineseName": "番茄",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-42829",
+              "sourceName": "番茄",
+              "matchedScientificName": "Solanum lycopersicum",
+              "acceptedScientificName": "Solanum lycopersicum",
+              "matchType": "exact",
+              "attribution": "刘冰"
+            },
+            {
+              "id": "sciencedb-01711-v1",
+              "title": "中国外来植物名录数据集 · 林秦文、崔晓、马金双（2022，CC BY 4.0；别名提取）",
+              "version": "V1",
+              "url": "https://doi.org/10.57760/sciencedb.01711",
+              "license": "CC-BY-4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+              "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+              "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+              "modifications": "Extracted name fields; aliases split on list separators; not a full copy.",
+              "recordId": "sciencedb-01711-v1:row-12877",
+              "sourceName": "西红柿",
+              "language": "zh",
+              "matchedScientificName": "Solanum lycopersicum",
+              "matchType": "exact",
+              "acceptancePolicy": "visible-sourced-aliases-v1",
+              "candidateId": "0a70267a710f4e82fac4d502a172c77a75daee11a630463f03514682a61656ca"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-046",
+      "proposedName": "黄瓜",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:1692d16fdd4a447e8dec69b6",
+          "scientificName": "Cucumis sativus",
+          "canonicalChineseName": "黄瓜",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-12780",
+              "sourceName": "黄瓜",
+              "matchedScientificName": "Cucumis sativus",
+              "acceptedScientificName": "Cucumis sativus",
+              "matchType": "exact",
+              "attribution": "夏念和,童毅华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-047",
+      "proposedName": "辣椒",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:f7589be4fdc15108ec541449",
+          "scientificName": "Capsicum annuum",
+          "canonicalChineseName": "辣椒",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-8220",
+              "sourceName": "辣椒",
+              "matchedScientificName": "Capsicum annuum",
+              "acceptedScientificName": "Capsicum annuum",
+              "matchType": "exact",
+              "attribution": "王瑞江"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-048",
+      "proposedName": "桃",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+          "scientificName": "Prunus persica",
+          "canonicalChineseName": "桃",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-35957",
+              "sourceName": "桃",
+              "matchedScientificName": "Prunus persica",
+              "acceptedScientificName": "Prunus persica",
+              "matchType": "exact",
+              "attribution": "夏念和,童毅华"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-049",
+      "proposedName": "梨",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    },
+    {
+      "candidateId": "everyday-draft-050",
+      "proposedName": "柑橘",
+      "proposedScene": "农田、菜园、果园",
+      "selectionStatus": "editorial-proposal-pending-user-and-source-review",
+      "commonnessEvidenceStatus": "not-yet-verified",
+      "commonnessSources": [],
+      "regionCoverageStatus": "not-yet-verified",
+      "catalogNameMatches": [
+        {
+          "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+          "scientificName": "Citrus reticulata",
+          "canonicalChineseName": "柑橘",
+          "isVisible": true,
+          "nameSources": [
+            {
+              "title": "中国生物物种名录 2026 · 植物界",
+              "url": "http://www.sp2000.org.cn/download",
+              "version": "2026",
+              "snapshotSha256": "bfae790b1bda9ba103e68d6b028fe7f5322eaadeb4873b249ccbc24fdd0d6582",
+              "license": "工作簿未附开放许可声明；按来源使用要求引用，不转载完整工作簿",
+              "recordId": "植物界-2026-48356!row-10527",
+              "sourceName": "柑橘",
+              "matchedScientificName": "Citrus reticulata",
+              "acceptedScientificName": "Citrus reticulata",
+              "matchType": "exact",
+              "attribution": "侯元同"
+            }
+          ]
+        }
+      ],
+      "trainingSpeciesId": null,
+      "trainingApproved": false,
+      "taxonomyScopeStatus": "review-required-even-if-name-match-is-unique"
+    }
+  ]
+}

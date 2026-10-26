@@ -1,0 +1,18 @@
+@use '../../styles/tokens' as *;
+
+.plant__description { margin-bottom: 24px; }
+.plant__description-text { white-space: pre-wrap; margin-top: 8px; }
+
+.plant__heading { margin: 4px 0 18px; }
+.plant__identity { margin-top: 22px; }
+.plant__identity .title { margin-bottom: 7px; }
+.plant__location { color: $muted; font-size: 12px; margin-top: 14px; }
+.plant__story { margin: 22px 0; padding: 0 0 0 14px; border-left: 2px solid #d7e0d0; }
+.plant__story .block { margin-top: 8px; font-size: 14px; }
+.plant__story .small { font-size: 11px; }
+.plant__timeline { padding-top: 22px; }
+.plant__entry { position: relative; margin-left: 5px; padding: 0 0 24px 22px; border-left: 1px solid $line; }
+.plant__entry:last-child { border-left-color: transparent; padding-bottom: 0; }
+.plant__node { position: absolute; left: -5px; top: 7px; width: 9px; height: 9px; border: 1px solid $green; background: $paper; border-radius: 45% 55% 50% 45%; }
+.plant__date { font-size: 12px; color: $muted; }
+.plant__note { font-size: 14px; margin: 8px 0 12px; }

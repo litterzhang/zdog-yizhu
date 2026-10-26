@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-23",
+  "completedAt": "2026-09-23T09:36:36+08:00",
+  "status": "completed-offline-comparison-not-production-approved",
+  "source": "Open Images V7 explicit human-verified Plant positive/negative labels",
+  "sourceSubset": "official-validation-with-custom-project-author-splits-not-official-benchmark",
+  "datasetPath": "server/.cache/training/plant-presence-openimages-v2/samples.json",
+  "datasetSha256": "ec8e4b45bb3ad059f5fb7a09c489d362d6cd2ee8043ffa8a98aff0599c86c85b",
+  "samples": 5990,
+  "counts": {
+    "train": {
+      "plant": 1996,
+      "nonplant": 1996
+    },
+    "validation": {
+      "plant": 500,
+      "nonplant": 499
+    },
+    "test": {
+      "nonplant": 500,
+      "plant": 499
+    }
+  },
+  "excludedBeforeTraining": [
+    {
+      "id": "openimages:validation:bd5c4b6253c459bc",
+      "reason": "Photo exceeds the 20-megapixel limit."
+    },
+    {
+      "id": "openimages:validation:0c7c670d8ee7677e",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:9c22e204e1aac0c0",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:acf2bd7e58fbb456",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:d1e768bb7d35f85f",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:d3831aa42d49c77f",
+      "reason": "Photo exceeds the 20-megapixel limit."
+    },
+    {
+      "id": "openimages:validation:e23576bde0240d2c",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:33f643e863732881",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    },
+    {
+      "id": "openimages:validation:b8391ca31095fd9e",
+      "reason": "exact-or-near-duplicate"
+    },
+    {
+      "id": "openimages:validation:9f31ab4090dce13d",
+      "reason": "Only JPEG, PNG and WebP are supported."
+    }
+  ],
+  "chosenBackbone": "imagenet",
+  "selectionRule": "validation recall >= 95%, then minimum FPR; no test-based selection",
+  "testUsedForSelection": false,
+  "models": {
+    "plantnet": {
+      "file": "server/.cache/models/plant-presence/comparison-v2/plantnet-resnet50-linear.json",
+      "sha256": "12f1851f0feff3f23bff3fae563e4b1a3c06cc39af2c1db4e1670e7300bc63fb",
+      "encoder": {
+        "architecture": "resnet50",
+        "weightsSha256": "4bdaa41d62d0fb9640f6ba137812560d2f2d587ecabe810e3c3571625f72305c",
+        "dimension": 2048,
+        "preprocessing": "whole-image-letterbox224-imagenet-normalization-l2-v1"
+      },
+      "threshold": 0.1935620903968811,
+      "epochsRun": 95,
+      "bestEpoch": 80,
+      "validation": {
+        "samples": 999,
+        "truePositive": 475,
+        "falsePositive": 176,
+        "trueNegative": 323,
+        "falseNegative": 25,
+        "plantRecall": 0.95,
+        "nonplantRecall": 0.6472945891783567,
+        "plantPrecision": 0.7296466973886329,
+        "falsePositiveRate": 0.3527054108216433,
+        "accuracy": 0.7987987987987988,
+        "balancedAccuracy": 0.7986472945891783
+      },
+      "test": {
+        "samples": 999,
+        "truePositive": 482,
+        "falsePositive": 182,
+        "trueNegative": 318,
+        "falseNegative": 17,
+        "plantRecall": 0.9659318637274549,
+        "nonplantRecall": 0.636,
+        "plantPrecision": 0.7259036144578314,
+        "falsePositiveRate": 0.364,
+        "accuracy": 0.8008008008008008,
+        "balancedAccuracy": 0.8009659318637274
+      },
+      "testArtifact": "server/.artifacts/plant-presence/comparison-v2/plantnet-test.json",
+      "testArtifactSha256": "59254ed931d9915f08d45cfa906425ef0706080fc34df7b9cd632a40a405f188"
+    },
+    "imagenet": {
+      "file": "server/.cache/models/plant-presence/comparison-v2/imagenet-resnet50-linear.json",
+      "sha256": "ee2e1720425591043fde746d4ae6ca8a564379104749a41688b723274a86ca64",
+      "encoder": {
+        "architecture": "resnet50",
+        "weightsSha256": "11ad3fa62ca79e40addfd354a8ec4b7c75143b3038b8d2a807fbc68deab379ca",
+        "dimension": 2048,
+        "preprocessing": "whole-image-letterbox224-imagenet-normalization-l2-v1"
+      },
+      "threshold": 0.3697161078453064,
+      "epochsRun": 27,
+      "bestEpoch": 12,
+      "validation": {
+        "samples": 999,
+        "truePositive": 475,
+        "falsePositive": 94,
+        "trueNegative": 405,
+        "falseNegative": 25,
+        "plantRecall": 0.95,
+        "nonplantRecall": 0.811623246492986,
+        "plantPrecision": 0.8347978910369068,
+        "falsePositiveRate": 0.18837675350701402,
+        "accuracy": 0.8808808808808809,
+        "balancedAccuracy": 0.880811623246493
+      },
+      "test": {
+        "samples": 999,
+        "truePositive": 463,
+        "falsePositive": 109,
+        "trueNegative": 391,
+        "falseNegative": 36,
+        "plantRecall": 0.9278557114228457,
+        "nonplantRecall": 0.782,
+        "plantPrecision": 0.8094405594405595,
+        "falsePositiveRate": 0.218,
+        "accuracy": 0.8548548548548549,
+        "balancedAccuracy": 0.8549278557114228
+      },
+      "testArtifact": "server/.artifacts/plant-presence/comparison-v2/imagenet-test.json",
+      "testArtifactSha256": "1cbb6e2f43fc6481a4180c01afaf660555b66b27b17caf7444642c1f089656f9"
+    }
+  },
+  "audit": {
+    "identicalTestIdsAndLabels": true,
+    "testCasesPerModel": 999,
+    "headDatasetAndTestHashesMatched": true,
+    "frozenThresholdsMatched": true,
+    "confusionMatricesRecomputed": true,
+    "pretestSelectionTimestampChecked": true,
+    "savedHeadReloadPredictionCases": 2,
+    "rawImageScoresReproducedWithin": 1e-06
+  },
+  "summaryArtifact": "server/.artifacts/plant-presence/comparison-v2/summary.json",
+  "summaryArtifactSha256": "06e6528899a78e1e0f6835b64e9fad5d35140c616b945ca446139cb80f924168",
+  "versions": {
+    "torch": "2.14.0+cpu",
+    "torchvision": "0.29.0+cpu",
+    "pillow": "12.3.0"
+  },
+  "recentChecks": {
+    "backendPassed": 369,
+    "backendSeconds": 14.33,
+    "ruff": "passed-before-run"
+  },
+  "productionChanged": false,
+  "productionApproved": false,
+  "speciesTrainingResumed": false,
+  "privatePhotosUsed": false,
+  "externalRecognitionRequests": 0,
+  "limitations": [
+    "ImageNet test plant recall 92.8% does not meet the intended 95% recall goal.",
+    "ImageNet reduces false accepts versus PlantNet but increases false plant rejections.",
+    "Dataset labels may be noisy; this custom test is not China-specific real-user validation.",
+    "Previously reported v1 80% uses a different 100-image test set; not a paired improvement estimate.",
+    "Checkpoint/license and base-model-pretraining overlap limitations remain; no automatic production gate."
+  ]
+}

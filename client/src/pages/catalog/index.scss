@@ -1,0 +1,7 @@
+@use '../../styles/tokens' as *;
+
+.catalog-trail { display: flex; flex-wrap: wrap; gap: 0 10px; margin: 16px 0; }
+.catalog-detail { margin-top: 20px; }
+.catalog-taxonomy { display: flex; gap: 16px; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid $line; }
+.catalog-taxonomy__label { flex-shrink: 0; color: $muted; }
+.catalog-taxonomy__value { text-align: right; }

@@ -1,0 +1,3076 @@
+{
+  "summary": {
+    "observedAt": "2026-09-25T05:01:37.705502+00:00",
+    "approvedSpecies": 249,
+    "primaryImages": 14065,
+    "primaryReadySpecies": 109,
+    "shortfallSpecies": 140,
+    "reasonCounts": {
+      "below-split-quotas": 109,
+      "source-name-unresolved": 14,
+      "no-eligible-source-images": 17
+    },
+    "zeroImageSpecies": 31,
+    "supplementalCandidateImages": 28,
+    "supplementalCandidatesTrainingEligible": false
+  },
+  "sourceFiles": [
+    {
+      "path": "docs/research/landscape-targets-reviewed-20260924.json",
+      "sha256": "d61c450cb1046fbb7302ab918bbc490598c69ce7950eda427e33f6695c10f644"
+    },
+    {
+      "path": "server/.cache/training/china-landscape-public-249/overall-coverage.json",
+      "sha256": "eafe3f82db2f1340893586afe3a2bbd8d582f83db54f03cecf17fbd24897be3b"
+    },
+    {
+      "path": "server/.cache/training/china-landscape-commons-20260925/candidates.json",
+      "sha256": "2bcfdd39c12a1067c00ed3e0eaaca435d798c5d04b58a56c399a671be5d55b2a"
+    }
+  ],
+  "sourceMappingFiles": {
+    "server/.cache/training/china-landscape-public-249/taxon-matches/addb8b1936769241795446a577c391d19637ce5846e43e1881f264dee9bbdc3e.json": "6332ecca666c737af367376d91ecad5d4658df76780f68c024e9d4a4a367e1d4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/76451f9063d1f5f9390a1a54ac5f7975433ea14d940e24412e2bf73f04ef433c.json": "8f50cecc5e2ff746b5b9a5fdd23cd04b1e50270753769ebee12d44017b12790a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/77f4f98f2585ac9559b29203b7c688c5a5f3a5eaa4267bb3d57a69bda5fe949b.json": "d5eeace15343560924b524b7b850e232a87588b8f31fc87b5e5d6dbde7154efd",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/cd6f017baf7069477c7106dc839665b6955d7e62b5271df1f4f1e28ea52dae45.json": "42f571f43f102d8fbf754b59644d8d4bdfcc1279f038710321234e056e73efef",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1932c29ddb8dcf5026341d1b114ad8653d8d34695b169bb27bc54040eeae1df7.json": "c099693b7d370933238ce3e987e7e904dcea1558c7ae5097e166cd394c1fafd0",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/c482f048011eb9c292f3e9447af8f6dc3aaef2c7f2afc6470f6e25d651d179f0.json": "78e3d4c4ceb61a6a1b72b2bdb828e3f55c8f8fefa6fbf1cf28a90537837517ea",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/dbff4623448e2280efda91e10ae5c883a21452a36a5848ae376848f022f21240.json": "88b69754a00667ba8f703fb6fc4c8c31eb1cfa5dabc0ed56d66171627d7b8f2c",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/eb9cd66fb2e833e848b8beb5c42ef8e670bf4ec29ee0b61176d534536332669c.json": "1f497e6ea254d952af8dd44b21b131d598ec4617ca70ace76dfd79541884e695",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/eae598499297b36bb9a4e0b4d1a6c1f504b488a491f253c789d2d444eee3682d.json": "77514ebbb8ea1f8000fdaca68a42d436c3a0ce071d939243f7a17b2c7f4a500d",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ccbb6d25ef55a67cb8de17b3da31b544b7e2fbb806ac6ceda89ab5b80866a9fb.json": "e333af04969ffc5c4ae8dab21abd3af9ef31f8857009778133ba7f2cce39ff35",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/15c872cc9c292989d0d90e196d933b2000eacd6eb2d7482b45b852152f78b8de.json": "a41e3a385d7cf9321327a8170a7514f1d75e1a0b8c8048936e7f3c9da643b35a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/38b97b9619111975ca22cc5b9f3266853962d02d5df682c49160ef116fab272a.json": "7f3e032e521224d0bc8593eadde3380dd6d69b8534ba119bcd8bcfe93cfbc92a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/773b4af98b8fb0818f21ef4c7b72e45bc6fd2c69251ca46660bd434f287b5f01.json": "6e7d59bad98f83061eccdf4c06d69e7f79bf4c82241177e0939dbb07f1bcba0e",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/d6d0e0e7b93404d1a43625846765478a7e8d7c28905f9cd1bd06daf2133b006f.json": "ca886526493c978e7e84cbfc328bfdd2e7738db93fea15ad08fc481f39429f2a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b6d9df103f351fbb0a192546092ac580545a9f01f6a05575a44fe07753ffeb46.json": "21dbe387a53e1a40348873148a3609d4ff3b608a0cca4848661061e7478e9476",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/a649de7f6ccf2c06a8c31aabd25ef9f0550212197dd302333d285115af557b84.json": "fb6b57073afd28496effa66e11ff13e045c7a3d8d376008dcacddebb32976f36",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/47fbf9f5a81677fc9077ab36e17bb96efe15337006bdf27564c53d34d2e26b17.json": "146187c19fd2a0bbe6a3cb64175f3a9c293d0c218051c88e11d95e1c7614a331",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/370fc3a65449e540e59e8f5ac31af6f1c06750aaa1779e4b0bb2096ce777d7ab.json": "0c97e7c70297f43ce896ac8036db8da079642022a726adb8c2d409e47e90fd09",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ccaf60d060389c654ff0ad7a60e5b57a193984d1ec268a1b9c24d784fc8b0166.json": "d744ce0f980b90ba88ed5a0c1266a1fc307065f10ce7aa3bf3f159dd84bd348d",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/95dfc1179d3b47d196e2ea744d96127b0875a80d5e6fefcde29342655374a909.json": "fd559fa5fd51869a1f2386eb2cb9be6c9b4fa374a6dc74b6cd3725b361735d4d",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/67e62be191a75499c5926d1cdbe79d6169e5a68af6a102208902f52744cb32b0.json": "f9dfc54152bc7a177bafd1de482bcefafbaa3a691258f27a2549bf1363370f43",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/606db181e0680d0430cc99f2b449f7eb86c703714c2c53be81c7ef21d8696929.json": "b82c65f49bd132d27038c79df9861af1a977a98b6310732e0d1c3c596ab02928",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/89ab1085fe5f488f743b6894050aea115e04ff8e62fc55c157740c99a1778946.json": "0e6fc45f5b4dfbd43f3db487210ecb4f18ef725188784a25aa848b1e99a252ed",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/78e12e8802de37c4abace924e864d56b9f722ebadd6e427b905c9b12ba50bf90.json": "65a552d7a7e40089960fd0cd18974f9d5b9c5cc9e6fddfa543cd31bc91ddc6a2",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/502294fe3bbb677eb5c77d397fcb9cd2ef51919eeff56146ad9d2db3ba56a079.json": "cbec8abf55a97eda7ed2bb9c7609f1a8d7fc3daa8c386a708a07fd7771f1afea",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/68091ee2d10462b0aac134964fc1ab9e727eb56dd790a65d4ef3a2bab8f93e3c.json": "e1067aa5b412352389786c6603c193a079c1547a4e2d944b4e5c3aaaa23712d4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/30c977b420b1772fc8e4b40108d28fb7e7735a93cf1a4a7d3c1cb05c89fee19c.json": "e164a6e9822e604b453a64b795911902588bb87c12d5a75e505c19525e2ed521",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/7d5560b5acf2f6beb9daf73f618314439b10249c5ce47bbaafe8823f12a024df.json": "9c7a6b4ea86ac747ba645fb7279ba35f4d9c5328ac1a1235501c9c4a34b435ca",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e1074ffb88985c9aea2b70ee47d8d048fcd201da54522b6c518ec1ca80e85187.json": "cc94aca95796ea9d481479fe47ee090f9eb7d94b3f3214b20119e24b4c1a4b6b",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b4ddd098c4dcf5970905e609c6832d61e183bb49c1ce6a833e58a396b8a47c14.json": "ce9823371f6b4ff24739edb7fd34bee944447b204afcbbe4003cce50322833db",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/f71381281917c8e0ea5b0227115c9c1b7abe886777669ff5c02e70ed4da6e3f9.json": "8c0d68522ab93a742d7e1f222ec8fb0f6a8c32f78ff11909d79f86f765b988aa",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/0c9337a4de504a46602bf2acaada9c74cc25fff0f2603b1ba3aa5aba26d1dae1.json": "b44c51b9c43a0541a08cb34fe7421942175d3646830309ea1c7ec17d28dfcec4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/152cc8bebfc7e593cd138b71c6793ada3941db14161225eb1aff4ecd814a7638.json": "713a5500e90ace3aca7a98e81d661828c5a5e965e2389f476cb423b2a63b6270",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/63d25f07505760e2700fd9d9035b1952b1809572a8dbc8c33eeaca53f2c69366.json": "5a090b4105f4b12dce1c86868099d414fe04ae84c517d22c199d3224c499ec53",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/40c7dba28e3a2efd87ebfb1ee75ffa65717ed951e656c6bd4108dbca2c723d4f.json": "9d81132075eca0234f6b0d54eac349dc32102b17f7691edea276a60e3b130aae",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/3b62fa97d7ae11a73aa64270dedc6f389079b0d09c2220bf0c5c094258dd2beb.json": "2cbd1e297395fd04a16e89b3a4b774f0197c39257c18d45372cd5942ecc2b1ce",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/01aff8a43b2ba27945076cdb9fca3e8c0ca89027acadcdd6a80d9e0dea27956e.json": "01ba4fb7c38ba05277a340dafcc534d1ffb7485a71288390619c9f453fe01b99",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/814376a2b5f14c009c8b6d0962679ad1b793de986b1dd9e5074db10020586d7f.json": "c8fcedba4dc72fd0bc3236a54ebd713bd0970e4e15be93a5c384f0e681d779e4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e684917932bc0726cc4a6635fb2466a9ba91d103a126974d77f66fcbc79b1118.json": "419a402288928500fc6a7119a0836bbd67c92b0c55a5989bb08a63c07b947a99",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/93e3d4009332acfe701a44957839a9860079cbf8c5652f340bc18dcfbb549136.json": "d1781d9c6bbe3934eb18940314e59202860e43ff639b43e1286d1a5df7a25188",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/da14570f79ec2692fa60fbb1fbbcb822671d379361b165cd43cfef4225829366.json": "67ce205e2ab7c095effd454865f05415ed29b175196fbccc3e4921d5ea357b96",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/527ce7b88806338ad3132e9867cb23c104524b3ecbc9a29180880786c118874a.json": "51af9be9a44b5e43012703b76950ee36538a480b3f4cb8e55227552432e29647",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e6d5fc1c3dd40ef66851798036b1b75482aeb51bcfae1a06cf262c881177057c.json": "ac447bb3c37002754a64225be864c1fe9076bc57534e94052b36ae10faa8003c",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/f124f8817de56280242d1e0c402a018ed5ee533d1e80905cf6c56afb737eb053.json": "07613fc5f0eb97e40e14786eb5f872303e28475502ae590a54c5a490d4693554",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ff90a68a32ebe277bcbf94781afdc7f9a5ed697613b2ed66ebce99febbcfe4d3.json": "f40a216dbbce4e91c1b8212d58bda95e605f893987779529dd80586e954e83ba",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ecb0979faa3d6fba7d2429f2272c0d803d49c9042311ba5be5118518c7cdc46d.json": "b4c3c7a952f32d7a95fafb1f851ac91d84ef229581f19dddc3adcfd144c1ff73",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/5a8a671ee037cc280eda9adf6d4d0949ede8c68bfc350f12cca26e5440a0a319.json": "6304fc5993446bf132742b71bd1cf86fcba0becbb6fcdf239e8c7af36bd661ab",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/076bf1ff9bd811b4b9626cb34d804022369a6bf3ec1bc8e57a42807cf76f5d26.json": "16b7399810c1783d6792095ce5c5a9f3dc425f2152134d13ce2f391593b436c9",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/730bed5cd9252006b06b65071b3ee398c8cce3abe6034a2c7a597517be0231db.json": "2cbdc5cea7f31c3728acc930e6d4de68441e3a971c9cd078ed6bcf69d86482a5",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/931ca2e6f9d2f205f18161ee9eba7fa2a2d195f1288becd31c79b38ad0ca84cb.json": "58431d63a77f562ef583ca2fe100aae85ace33fb800a5b992c6f369f8e7aa7af",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1af55a24405e119a7c02ce3276dbf51b655253d51366af085fc0572d628fb296.json": "5d0886f421528704932d7a1bcf61c8a9911a69b03a2a665c05c95f5ac6016437",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/29f0ecc4a23bab5a4eae3b1d863a30da9b305d40a56e537917ff81e142fc1ed9.json": "9b05ab847619e9484596b8a4a3a6b39f42bb3960e7439cc982c7c84bbd3dba32",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/a3b83bbf366b57ef7a7845f1669c6e40e297558de2b16f8b74ab903dd372ce91.json": "8093bcdb26aa1bc42ae0d3ea84a9fce17dd7233cea3b330ffd0a2896ef234120",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ff64a71662ed4cc7a4bd765ef834139fe42689e5fada4043d0a6bbdfe7c326e4.json": "bf1fccfdf4e442f4860b0d436bbc42e0b0d239851e01a94cb5c79feb3150d530",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/43710b95dc392433d9a9c17871d4d882c486d035743a52a74059942211440557.json": "f2c9b36dc9b4aaa5940014de4400179b165e77527a80a26db798424deab324dd",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1edde39aef69a234b0736ef939985a0f5e1e19f7695ded0afd0cfca452fb09f7.json": "b8aa617a6aa47873ad08524a765b7bc75ea8e1258cb18cf0330be968fc85cbcf",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/34305c93eb0735600eb01f6a99f20ea3ff85c7ee87e797dd4376ad1c36342d58.json": "3b3ba914f842656bf3d58affa8b18af2a42a9de04b8f97f8cb389d1638c737ec",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/62ad09f42166d8a24daf1aaf4af943646ba1eb84742e589d44fcddd532d769f8.json": "8c2f0c237a41fefed505505a696c4e024ffe3bbc554fe163787b24df05b24223",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/63173669f5d4c9d30006b95313b16fd83735b24564da40583d8ae6ca86cf1876.json": "853f88f823bf8659c53cf819484a26677ab8e00b471b8ad6b24871d066b33137",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/5b6cb5bf142f92a361b17330b40e785556127a86a5dbef25f75d4f66ad033a2f.json": "cee50d7374b853988e2edd137d88231173da4d01402e64d3296c4dac1d6b7b3f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/db627766c0e159e6948abf5a8138176c4f089838db4f7db19af42bb1ab9890a8.json": "e2fcd86cc87a155adc179cbce7c3c885b9bb0448f1ac6a8ab2bd2002c818f676",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/f5a9a5a060f4afc14c0f762de526747b2a9c67871af8bc3559307de7fa010c87.json": "1681828c457aed3e0ea705e5d88efc3f9270cdafe69ea54f9a2962c470c94123",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/a523bbd3713d991b644379004b7f3b39c239744e42a8db51df57e60ef7aadb3c.json": "1e6dffabc276bcf70c5da159e7a4c6ab9e7e36ff0eb729f45d6e6afbcdeeb24f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/69c3668d4663171ad261821661cf9a2033584181d2df9da3da2e25aede2a1a19.json": "5882a4d1551d06e261e99b3ae466a93c34dc40e15a8f36515bea292c81ee6ab4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/5165959f655a90ccdae1f7a3ce3a7edbe0e73671478460d8d77dc98267defca2.json": "e9c179e613050c3f7e71233ac688eae1eb92f4c514ff326fdd83df83087d20b8",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/391afc41301eec5aa8a7f4188fb76e9d94e9c10ef06c104134c167773d06827f.json": "48d3c550d34e342f6619c56b9e4d563793e6ee43a14c637d15e351610b93e009",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ca2f5ab6c223b7e49b07328660bb82cd517eed3237714d88088351c5786fadb0.json": "03517d2dd653cc4b469a4f8273289356a6acfba7269e89adc23852b265c7735a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/dc6df69b12eb3e24d64d5ec24414ad56008831044cad6a468ad094e47aaf2f87.json": "f42dee4c5b680f3fe8398136c0b814e17eb0a95fa069d59a135bbe62139729f3",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/c82ccccbc201d1135752f520b2539e6f914bb36642170860ef76e33b5d46c98f.json": "46b51167e8c77f23ace018070e4e96f99708e60784c27b46b36f8aad3242bcbd",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/bb645ac4b5d515223a868e93f74d13bf46897e0d9759cf0ed2acee1431bd9c90.json": "82bbfd88d6076c181f526305f811af600a3ab981fc1840e4680531136d791876",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/4f9f9ab6e9128e9b6fa3161ff2b92953db72e68b46611d3d4e2ddfd68de6fab3.json": "93ff0410ee0737749647fc6a95584773113689daada6cf6839d10c594120d933",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b7e900e9f3c81209ba128adde16dc24a32849b1f2e15cadd0baf069543301ba0.json": "cd9781ddda8af49541d3352e67e4c74e9e52fe188be587111a9ea84f3e6c4385",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/92d1dbb39e5728f19fb452ddc2159db98ff7ed4d8affe6982815268373e50f9b.json": "b0d3ef4edd5402a6b18f83719bb4c8c16be6ac966aac6b76b6a5fd610d45a1f5",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/9a33f1aee376ed217c5bf39f3300cf3deea9d8a14bcbd8878910934ad117c83a.json": "7276501a6137aa5cfa2b19d815e022327f0b90aeadf665917dc6a3a12f39d72b",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/7284d34035216a1756fd19263e1634d3150a15ad5628088f407556bd57d5f5bf.json": "ed38c29ddd712f206c84a53d25807a982d71718981eee4b32f70b13e6d50aef5",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/246d12aa47586e1136cf9824db9c4e3d4fe9cb56fcaac87b8dd02dc3684b234b.json": "a47bf59597923d67aee990626525476bfd1ad01339bd7c2af09e9494bdb83647",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/234caa9e2320b49653779ad36782e9d9ea145f04c51f57b6117f4942ac3080b5.json": "90f13800df76f0c845afe60fb70f5659e176741195c0aaed083faed211709812",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/aac267e60db0c8732fb2a934f8e0bed49f317f72ceb5299b0579156d4a3566a5.json": "253c9a8f4fcbbe9fb60659f7456ccde77373ab01ca51d65c49bed1ae1e53e1f1",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/d2bbedf4bef1eabd6145ccacb701989f5a50e1f7d48213c7731b902f584b8008.json": "4395d655254f04a39091ebeec78114b791539f87e2687cfa3ac66cf6e5c73a07",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/4277efd62071542f0df95a021497d4085f6d697047ffd506d2d97daa4396bd22.json": "9f6aa6779169b4ede0c9d11ccadd031548b46940689f34ec77f7d09e48f1c425",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1561026689a948e40f808ffaa28f6d2243b47175e24491ae455b2eb5b137914f.json": "668935c232414c260025eca7447f02b915c233481d0c0bed054efdc51256f407",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b54be9efb4eb6c96000b58550d533d158ffc39bd053643571b4f06638d80a0b4.json": "d54c955b05cd4f44875572e0851de89868f2e8ddc88d4c55870288503077f27d",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1464265697544c7583e1445e1515855db79161b63846902b60badec775dfa1af.json": "d083b59dfb80ddcc77fba15f2618ffe4527937fb91110e623522d85b4ddf489f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/1f731dee1b16ce5b425e95d6af63d3f14d2c5091e86b94464529ea8e8f6537ad.json": "ae356d28f38819867295240509abc66af9c83097f8cbb787c6771ea3172f9ddb",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/8db39eaafc996437dfa42155970b6a5613fc4f470e9eba9779d7486644fd7149.json": "801013f4dbc8202b15735e4bf4074eb4ab6e80eb6693d7d2805ce094d3d1f36e",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/2a49bf0e649b3a7e6225d8390f607c51d1f27385098a4e701ad889d5a2f39f48.json": "b8b59ef850ad808f3f1ca06595947a9a082c091f28c12640b1215e69fffa08d4",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/5c1c097ea758bedede4ec7af8fca136bd79b396f99e96271ebd3a0fdd31b4ec7.json": "87a8bb96fa447ba470da2372c5a10ec64e7a5f9b1269195173fd0ffe6fc9c124",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/60a98d329175e040e03a08d2d3a9d5a38f20906d8bf9d8306b6bb11d4cec232e.json": "37c6163e475e810f808b7c04199895087afda7f9588429e01fe6a74d7b11ce47",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/c7a185db2c9beb7fd121ea26fecbe2406bdf23045c1f00bc8744b772131b8284.json": "9f0bd02200011021b87b8bfa4b4a1528142f5c0572e7637b0c1cc36c294a6222",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/0e080e9c03a8bd4121baaca2d26fc8389a80ee5bdd2ab3a84519e60045ba4595.json": "d646a4956a0d895547130784838e248fdb0d428501aac275e3d894c3106f0783",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/4b49f9b6c4ffc00ddb3bb43faf2bf9c89b9fcdc5c93b20f4d09f2d10c5c128ed.json": "47a69c7f09091b4090414b85d43dbdb7c9c10c1a50c47d96ce62cca0cd14575c",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/7e2eafe24c2ea28edf3eac358b3bfa14689f595211a55c42d6d1be275565f543.json": "1590c5231b68198fc6b853097d14dcdbbde47acec0e6293dacf106cd6eca5863",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/c02b12ea53c3701096a82572598dca5818c543b312280119d8b97758eb97bf5b.json": "01e44704bb50157a097c567d81f423bdfb826202d6f76f41e65b187f1979cc21",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/fd37ed6e2085a6e5af758bd82f3654083d9eaabc46e0db94a41bcf7903019c98.json": "eac1edd46eac23880ff4442b48681135a3eb53089dffc05b85116a0c75a5b572",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/eef25295ed468e5961c34a6bea37fc3e083303671d3f6ba51efae92b2dbd0bbc.json": "5c468e13cf1e9897e855db7fa34ddf438ed755ecceaac73c16de0649d8a235c8",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/84283177009150c092655e1e2579d1a3d14a8978531972fe65e6b58db46cff3b.json": "5cf49176ed1da972a9e2a69a908f58d5381d023e7e028742f7c6f94185d055c6",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/ccf0f15597a8af1bc23428d83c30c163fb346d6f9971a329717553fbc6e668d6.json": "40f5efa65f7143ccc7e038d9a1fc7dfe07496485a2b39aa7474ec94fcddd20ce",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/d36eeb293fb4fb438fdb11ae5567a2fbba00eec96713e9e4289f0ac9db264b8a.json": "fcce552df7909e84e24697f17eab61b61e0f78a6aa8128e66f348e91e0b93b1e",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e8849b43069c9125510f737835eb873585819d03cab1e3cbfb6f5194b07a3155.json": "3d751096c1996305a80da8708fbd99e77a07b66fcc3ef7d08e8e26d6d3c47189",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/31769cb4bb9da06d329bac92226e387ee57cdc703162fc9b73ad4d2665f08720.json": "2d6508ce74c45d661d3eda545bccc52c326cc55bf98d4900ee9cd97b95b494e5",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e9dea2c5538b71d3fb8122895807abd2571afa586f86e5631eb38b4634dbec47.json": "7883079afa8abc4d035d94b212607a871fe44db64e73bc67806dc9abdd4e2939",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/98bb27c714da72603bbacf882ccf9a9f1d1e25b40f1ca83117b0460fcf6beb75.json": "6d3b1966c9f2e217ce3bdcb970a081c85296fe9ba520e3e7ac3a5def718ef47e",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/cd026698e08378c9ac8d8965d275db616316f8c663d52f4db90a44f1680513cd.json": "8b8ca9b9f140377c32347fe93e6466dda4661daf2975ec54c0d01f945d8f7353",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b54aad89f2f46906c9ae938b8ee98358e20adf5df2d8ef897ece488dd7900aa3.json": "552e01f74973475b97f84e0c0bbfc6d2e21a47e560a9893495ade0a4e8d2b199",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/8a01ee831385f39f771322f6d2c2e1f279ad172534ea3a3dbf167fed20b8ea78.json": "01bd78a1b7a141a4c5a64e5751ca51b9910235ce16e23caffa95846aab635479",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/db4ead6bc56a42447474f6f7402deaf2cffe9b2cd3bea8a90ff4518db6fd4c7f.json": "54fe02fc985085cecc9c0087d708336b77a2cb96325124455453b4a501692ec2",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/50b5243b57df14c30d38503326a8955c8fd1bce77fd716c7a7e242f1c0d7058c.json": "688fbcbd629fe5c183d418cd84ca71bf28c1656fb8165fb30c8ba22d55491346",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/181290c6c2c4cad33047643acb3b343bec1a4f48c718a601e224a258adb1449e.json": "66d43a6e8e47aa83aa8182f372d6f2da307703a2cd841394506e90b6111e935c",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/90281c64803c481007aa4a4b9452c5d72ac90d46945e40c31943383842671860.json": "22f0efd212a4c3687b34f0474a1f3d1c79133f7269435ce98a4299d5de21f26f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/e9231b660ff2c88fa7da9071bfcebbd333bb289f0ecd018dd45a1fc272b9fcbb.json": "dac57cd2b59654e8cb41981951813cf18bff246e77ce788e5054d3d2241c8eb2",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/81d0d2e116324b24a306480ec314b7439527cbf3ffd303de731f6387fca89c6b.json": "2e3929ab4583310231024d9fc7b222c8c49ce908e0c3609176a904c62781ce7c",
+    "server/.cache/training/china-landscape-public/taxon-matches/9d6d4a98fddd611b1084199444c8881406e3e407031125b1b1bcd4a7631cdaf3.json": "e3460aac051ba5670f8b7b245defc94cbc61968568f4131000f13441d00b834b",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/c93fe6ebdde52b0c149e71ac586f0bbdede77de5cd36daf97b1f4405e8a8d3a7.json": "3412aabdffe4bf8860e836dddae6653288888a126c3db44e7be68a7d00cd598f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/06d0222dfe98c29063870ab2db135cede02b07c522439545a5446aa50f23d390.json": "e537adc7d40e48c97a6eac7d02caa7da836b476f4f371b3b33dad7264c7c5778",
+    "server/.cache/training/china-landscape-public/taxon-matches/5deb9898f6168193996bce37bfd1e21092f4be88d651a368fafad6809132784c.json": "23b178f48c43f26c6a84e67a31b28625595872a243c46c6c7e414bdb2ff3fa6a",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/83d6d21919e8ea28e5cc922b725697ad45325474aecc76a4f72e70642d63d806.json": "6150954097faad7bceafc8d011e20a55def69eae4e28b0740de674b4c73b5f33",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/9c463e1d738deba614e2458c27d1355b31b42d2f4215a624621eee2a2beb0883.json": "168ed9c8c55e13504a3c9e3333c01ab1dafe343c23c6fa55c276c8575c5d5c5d",
+    "server/.cache/training/china-landscape-public/taxon-matches/a93b6e0c8f4a2a63d9d083a97cf020608f2a5278d87a394f1cb68a6e020f5751.json": "ddf0a010df3c087fb6ffbbff6df4c09e67b98007d2e6573763fe80837d212e8b",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/70103e72138065f33578eda63d02badee542565784c5073fcc325fb2fc945e4e.json": "4d42a2645cbfe61b69baaab0cdb8e7395f6f6c2d6526f04217cbc1b4c77839b5",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/54e536eedd932de00382004f0ee8362705e419b9756e470e33d7fd770ba91b14.json": "b9e6357fcdecf8832b2f7037430f473da6c51cc3da34f73de97f8a686c4d2087",
+    "server/.cache/training/china-landscape-public/taxon-matches/4e6e1f6449a16612c6c3f66b0eb43c3d4680dfb205cb58d920d7afca1a50b90c.json": "be8dc0f53929fb05db0206ab562b9cb34d8a736f5e04e27885a33618ca4c5ed1",
+    "server/.cache/training/china-landscape-public/taxon-matches/e06e5d5f668fc3ba77c11e3f77d3ee376c14b3aa56fd07a9c998356f71057dda.json": "330bb80c8782bdc06e6da3150a243afceae0d506570537b543f8bdef8f2d4134",
+    "server/.cache/training/china-landscape-public/taxon-matches/a9506994192743dbc19ca4b2059a9e4c07ca6f05b35fc7c126c139517a3b2fb9.json": "5f2295857e233791c0fe550d3ec0bc7cc8c60039e72b6dfef03b727a8a266939",
+    "server/.cache/training/china-landscape-public/taxon-matches/0d8c188c0906838e513c5a5c962f48152f6efce3f5c9d8f06e04bdb3bfd269ce.json": "a1d76c643de6978853cab1c4d2299a8defdded9c018cc18c2a68469f41c03085",
+    "server/.cache/training/china-landscape-public/taxon-matches/64c129011eb67cc6a41b9d86a787ffa34f9827e49bbcc497420380e8417bf199.json": "91fcf83681e07d8bbb897183458c418a8a8a887f4addefd84b5223c8d5c5953c",
+    "server/.cache/training/china-landscape-public/taxon-matches/d1b6b1f4e4f8ced52c710eb5d33777eafa22f93f84b66347a9734f1b9ba0f78f.json": "46e066886420842a650514dcda85a90252e1eb8d636be25d4205c16bbdbb79e6",
+    "server/.cache/training/china-landscape-public/taxon-matches/8f77867ef267d3f7f7c01badc7012730b09c094f1209c7bccab287d054cce882.json": "10fd9c1218825acc07094e7a744509fa0a38ee7be4c26c30aaddfb34ee6c7654",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/b091fc67d0c0f998defac719f22232f3ae74031d5c9120f6167c63bc76ba64c7.json": "3d5ad1520cb3bdb6247edafacfc6334bc2ffdaa8d58ea88169dfa2f71061aa0f",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/a51c063d0481c9113af8e9622b15cedff5eee49b8be6f492c3b11cf8ba64dcb6.json": "490e0dbcc51fe733147dc70ad5998d05d40e12e4b8ff659bd5edb4fd2e37dcf9",
+    "server/.cache/training/china-landscape-public/taxon-matches/cb0f3e1914c6356f40237e82b845f819c8a61e99c4099a31ac1e6caf53b2e94e.json": "64392c1665e6698ebf2d0a613b7a99174d8c0e3fcebfbae6b4b3cafd6d4218b1",
+    "server/.cache/training/china-landscape-public/taxon-matches/f3491d6962867ce46606b8a4d491284f23d374fd775e475c4aed217c4e152aa5.json": "1731c8e561d249e9ec5a3ff6267e8027c76c6acffafa9716abe0861a2ab06a55",
+    "server/.cache/training/china-landscape-public/taxon-matches/1258ecf34438376d770c36e7a9758aa111b211b00c52eb21aa01f5cae4e12e69.json": "4dae095584fbb398c1e43650291ea80563ad012a089a294227db028677520d54",
+    "server/.cache/training/china-landscape-public/taxon-matches/7f4bb4c8a0ce02f8ec73a3f9772a4313df92f89845caca23457343d6bf7c670c.json": "86e6fceff525767a3d5bd43cd65d97e7c8adf3c36c176bd106aec55b92c46986",
+    "server/.cache/training/china-landscape-public/taxon-matches/24a0093148c90e66992da7d2d4aeaf2a49a831910339f92c4250ddfd3ab81a72.json": "73d3857a8e53ec12146d6c91af1edf375a91018ec07ff32a7932def308892e03",
+    "server/.cache/training/china-landscape-public/taxon-matches/65c7fd0d6f4c6d445df3b3612ad729b508bf3ab30daf73187b142379eec0e34d.json": "08f9c87873ccf9cefc64eb898050c4418b7f752968f476cd8be7ca1cf1cdf30b",
+    "server/.cache/training/china-landscape-public/taxon-matches/71aa5cb2f9132a1d2c6c28f6dbfcf2ad5d3b5d0e0a738e173403afc90431f2e9.json": "43448bb9dabc6945e7d423d076c33c05ddff61a51f928fb1e4225c93f4e4a873",
+    "server/.cache/training/china-landscape-public/taxon-matches/2dccaaf7219ab035c59bbb4d0c16f1847125c2daeb4527a84d100075529114e7.json": "ddb927514fc6c4ac4ac6599bd8ef21e6a881b42549aa1435174a34d6ecac34c5",
+    "server/.cache/training/china-landscape-public/taxon-matches/2b9945c13d21b01bf16f466c2e967378e561a10d6b556429d9f191b291cd362a.json": "35c113219336ddad5e1defd2ccd30df71fddaefd129017d4656a01685da9ad5e",
+    "server/.cache/training/china-landscape-public-249/taxon-matches/cac9dac23313cf8e6aec1eb440608c1d3ecfb23e2035feec1bc8fc2d5922b908.json": "c8f9e277789ca4d380b1f5440567fc75d765662c9dbf6e73dc1bcde8bc90204a",
+    "server/.cache/training/china-landscape-public/taxon-matches/5e914dcdd95b95ac4a85277b47a6a91d7e3112d7a222b72aa8824567a99e1328.json": "ae2237319b35666916e4b8450694866d585d8e3b69af96e7cad231989c13f5ee"
+  },
+  "rows": [
+    {
+      "speciesId": "bioclip:plant-009",
+      "scientificName": "Osmanthus fragrans",
+      "chineseName": "木犀",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/addb8b1936769241795446a577c391d19637ce5846e43e1881f264dee9bbdc3e.json",
+      "primaryImageCount": 24,
+      "primaryCounts": {
+        "train": 19,
+        "validation": 2,
+        "test": 3
+      },
+      "missing": {
+        "train": 51,
+        "validation": 13,
+        "test": 12
+      },
+      "supplementalCandidateCount": 6,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+      "scientificName": "Begonia hiemalis",
+      "chineseName": "丽格秋海棠",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e9231b660ff2c88fa7da9071bfcebbd333bb289f0ecd018dd45a1fc272b9fcbb.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+      "scientificName": "Begonia tuberhybrida",
+      "chineseName": "球根秋海棠",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/81d0d2e116324b24a306480ec314b7439527cbf3ffd303de731f6387fca89c6b.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:414c7845208037a868c7155f",
+      "scientificName": "Chrysanthemum morifolium",
+      "chineseName": "菊花",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/06d0222dfe98c29063870ab2db135cede02b07c522439545a5446aa50f23d390.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:31a467166f33aae110bb78f8",
+      "scientificName": "Fatshedera lizei",
+      "chineseName": "熊掌木",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/a93b6e0c8f4a2a63d9d083a97cf020608f2a5278d87a394f1cb68a6e020f5751.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+      "scientificName": "Fragaria ananassa",
+      "chineseName": "草莓",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/70103e72138065f33578eda63d02badee542565784c5073fcc325fb2fc945e4e.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:3254df6482aa60f08d900bca",
+      "scientificName": "Ligustrum vicaryi",
+      "chineseName": "金叶女贞",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/0d8c188c0906838e513c5a5c962f48152f6efce3f5c9d8f06e04bdb3bfd269ce.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:27fb32d1651dc67c0863c2f9",
+      "scientificName": "Magnolia x soulangeana",
+      "chineseName": "二乔玉兰",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/d1b6b1f4e4f8ced52c710eb5d33777eafa22f93f84b66347a9734f1b9ba0f78f.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b091fc67d0c0f998defac719f22232f3ae74031d5c9120f6167c63bc76ba64c7.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:012964d1ecf672eacc0c6040",
+      "scientificName": "Petunia hybrida",
+      "chineseName": "矮牵牛",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/a51c063d0481c9113af8e9622b15cedff5eee49b8be6f492c3b11cf8ba64dcb6.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:ae40e57c76799e05213a7ba8",
+      "scientificName": "Populus tomentosa",
+      "chineseName": "毛白杨",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/7f4bb4c8a0ce02f8ec73a3f9772a4313df92f89845caca23457343d6bf7c670c.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:10eff2f4132a35c1be168236",
+      "scientificName": "Prunus lannesiana",
+      "chineseName": "日本晚樱",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/24a0093148c90e66992da7d2d4aeaf2a49a831910339f92c4250ddfd3ab81a72.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:450c33c4039f4e478c4eb58b",
+      "scientificName": "Prunus yedoensis",
+      "chineseName": "东京樱花",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/71aa5cb2f9132a1d2c6c28f6dbfcf2ad5d3b5d0e0a738e173403afc90431f2e9.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5564d457c579400c33c12410",
+      "scientificName": "Rhododendron pulchrum",
+      "chineseName": "锦绣杜鹃",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/2dccaaf7219ab035c59bbb4d0c16f1847125c2daeb4527a84d100075529114e7.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:b93d1f3535f8c98e269aba0a",
+      "scientificName": "Talipariti hamabo",
+      "chineseName": "海滨木槿",
+      "reason": "source-name-unresolved",
+      "sourceMappingStatus": "no-exact-scientific-name-evidence",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/5e914dcdd95b95ac4a85277b47a6a91d7e3112d7a222b72aa8824567a99e1328.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:9b485e539c13d4e2469e7419",
+      "scientificName": "Bischofia polycarpa",
+      "chineseName": "重阳木",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/9d6d4a98fddd611b1084199444c8881406e3e407031125b1b1bcd4a7631cdaf3.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 3,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:36e410b3aec1cb5755887bba",
+      "scientificName": "Celosia cristata",
+      "chineseName": "鸡冠花",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/c93fe6ebdde52b0c149e71ac586f0bbdede77de5cd36daf97b1f4405e8a8d3a7.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+      "scientificName": "Citrus reticulata",
+      "chineseName": "柑橘",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/5deb9898f6168193996bce37bfd1e21092f4be88d651a368fafad6809132784c.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 9,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:07d83d85c6a532d5547b2a67",
+      "scientificName": "Clematis florida",
+      "chineseName": "铁线莲",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/83d6d21919e8ea28e5cc922b725697ad45325474aecc76a4f72e70642d63d806.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+      "scientificName": "Curio rowleyanus",
+      "chineseName": "翡翠珠",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/9c463e1d738deba614e2458c27d1355b31b42d2f4215a624621eee2a2beb0883.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:927699252b5d9e824084c017",
+      "scientificName": "Goeppertia makoyana",
+      "chineseName": "孔雀肖竹芋",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/54e536eedd932de00382004f0ee8362705e419b9756e470e33d7fd770ba91b14.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 2,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:997e759932bf548693041203",
+      "scientificName": "Hypericum monogynum",
+      "chineseName": "金丝桃",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/4e6e1f6449a16612c6c3f66b0eb43c3d4680dfb205cb58d920d7afca1a50b90c.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 4,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:169789741d642728ea20a136",
+      "scientificName": "Indocalamus tessellatus",
+      "chineseName": "箬竹",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/e06e5d5f668fc3ba77c11e3f77d3ee376c14b3aa56fd07a9c998356f71057dda.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 3,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:0c7e9e94234c18e6c5befe8d",
+      "scientificName": "Juniperus procumbens",
+      "chineseName": "铺地柏",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/a9506994192743dbc19ca4b2059a9e4c07ca6f05b35fc7c126c139517a3b2fb9.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:f0d6862175734b78820dae65",
+      "scientificName": "Magnolia chapensis",
+      "chineseName": "乐昌含笑",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/64c129011eb67cc6a41b9d86a787ffa34f9827e49bbcc497420380e8417bf199.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:220f94bc77b4aae4270ecae7",
+      "scientificName": "Malva cathayensis",
+      "chineseName": "锦葵",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/8f77867ef267d3f7f7c01badc7012730b09c094f1209c7bccab287d054cce882.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 1,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5b651ce88a2634922bb33f7a",
+      "scientificName": "Photinia bodinieri",
+      "chineseName": "椤木",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/cb0f3e1914c6356f40237e82b845f819c8a61e99c4099a31ac1e6caf53b2e94e.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:051044b2f3b491ebe3ad6375",
+      "scientificName": "Phyllostachys glauca",
+      "chineseName": "淡竹",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/f3491d6962867ce46606b8a4d491284f23d374fd775e475c4aed217c4e152aa5.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:ef557e44c87d8e5d2a767093",
+      "scientificName": "Phyllostachys propinqua",
+      "chineseName": "早园竹",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/1258ecf34438376d770c36e7a9758aa111b211b00c52eb21aa01f5cae4e12e69.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:ad4424cb2dd858859c3ed4d3",
+      "scientificName": "Prunus pseudocerasus",
+      "chineseName": "樱桃",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/65c7fd0d6f4c6d445df3b3612ad729b508bf3ab30daf73187b142379eec0e34d.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5a288d2aaa533f04e649ade8",
+      "scientificName": "Salix argyracea",
+      "chineseName": "银柳",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public/taxon-matches/2b9945c13d21b01bf16f466c2e967378e561a10d6b556429d9f191b291cd362a.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5bb689a6962669f3631bf421",
+      "scientificName": "Spathiphyllum floribundum",
+      "chineseName": "多花白鹤芋",
+      "reason": "no-eligible-source-images",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/cac9dac23313cf8e6aec1eb440608c1d3ecfb23e2035feec1bc8fc2d5922b908.json",
+      "primaryImageCount": 0,
+      "primaryCounts": {},
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:f2ef49f981d85776371adc01",
+      "scientificName": "Adenium obesum",
+      "chineseName": "天宝花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/3b62fa97d7ae11a73aa64270dedc6f389079b0d09c2220bf0c5c094258dd2beb.json",
+      "primaryImageCount": 38,
+      "primaryCounts": {
+        "train": 27,
+        "test": 6,
+        "validation": 5
+      },
+      "missing": {
+        "train": 43,
+        "validation": 10,
+        "test": 9
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:873aa36302fbd8a7ba90e9d9",
+      "scientificName": "Allamanda schottii",
+      "chineseName": "黄蝉",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b7e900e9f3c81209ba128adde16dc24a32849b1f2e15cadd0baf069543301ba0.json",
+      "primaryImageCount": 10,
+      "primaryCounts": {
+        "test": 2,
+        "train": 4,
+        "validation": 4
+      },
+      "missing": {
+        "train": 66,
+        "validation": 11,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:f2a48ffb6b7e3a597b32f2e0",
+      "scientificName": "Androsace umbellata",
+      "chineseName": "点地梅",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/63d25f07505760e2700fd9d9035b1952b1809572a8dbc8c33eeaca53f2c69366.json",
+      "primaryImageCount": 43,
+      "primaryCounts": {
+        "validation": 11,
+        "train": 27,
+        "test": 5
+      },
+      "missing": {
+        "train": 43,
+        "validation": 4,
+        "test": 10
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:74db8fa10bf676cb119913e0",
+      "scientificName": "Anthurium andraeanum",
+      "chineseName": "花烛",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/606db181e0680d0430cc99f2b449f7eb86c703714c2c53be81c7ef21d8696929.json",
+      "primaryImageCount": 55,
+      "primaryCounts": {
+        "train": 42,
+        "test": 7,
+        "validation": 6
+      },
+      "missing": {
+        "train": 28,
+        "validation": 9,
+        "test": 8
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:6badf97a86b56d64cfee0ba0",
+      "scientificName": "Aucuba chinensis",
+      "chineseName": "桃叶珊瑚",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/5b6cb5bf142f92a361b17330b40e785556127a86a5dbef25f75d4f66ad033a2f.json",
+      "primaryImageCount": 16,
+      "primaryCounts": {
+        "train": 13,
+        "test": 3
+      },
+      "missing": {
+        "train": 57,
+        "validation": 15,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+      "scientificName": "Bambusa multiplex",
+      "chineseName": "孝顺竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/246d12aa47586e1136cf9824db9c4e3d4fe9cb56fcaac87b8dd02dc3684b234b.json",
+      "primaryImageCount": 8,
+      "primaryCounts": {
+        "train": 4,
+        "test": 3,
+        "validation": 1
+      },
+      "missing": {
+        "train": 66,
+        "validation": 14,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:dbb13acd5c4c600e8d0ea952",
+      "scientificName": "Berberis fortunei",
+      "chineseName": "十大功劳",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/0e080e9c03a8bd4121baaca2d26fc8389a80ee5bdd2ab3a84519e60045ba4595.json",
+      "primaryImageCount": 4,
+      "primaryCounts": {
+        "validation": 2,
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 13,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+      "scientificName": "Bougainvillea spectabilis",
+      "chineseName": "叶子花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/db627766c0e159e6948abf5a8138176c4f089838db4f7db19af42bb1ab9890a8.json",
+      "primaryImageCount": 16,
+      "primaryCounts": {
+        "validation": 7,
+        "train": 8,
+        "test": 1
+      },
+      "missing": {
+        "train": 62,
+        "validation": 8,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:a5c632ff1578e41b1be01020",
+      "scientificName": "Buddleja lindleyana",
+      "chineseName": "醉鱼草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/dc6df69b12eb3e24d64d5ec24414ad56008831044cad6a468ad094e47aaf2f87.json",
+      "primaryImageCount": 11,
+      "primaryCounts": {
+        "train": 11
+      },
+      "missing": {
+        "train": 59,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:ff11767affd87ab5245842fe",
+      "scientificName": "Buxus sinica",
+      "chineseName": "黄杨",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/d36eeb293fb4fb438fdb11ae5567a2fbba00eec96713e9e4289f0ac9db264b8a.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "test": 2
+      },
+      "missing": {
+        "train": 70,
+        "validation": 15,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-016",
+      "scientificName": "Camellia japonica",
+      "chineseName": "山茶",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b6d9df103f351fbb0a192546092ac580545a9f01f6a05575a44fe07753ffeb46.json",
+      "primaryImageCount": 68,
+      "primaryCounts": {
+        "train": 54,
+        "test": 7,
+        "validation": 7
+      },
+      "missing": {
+        "train": 16,
+        "validation": 8,
+        "test": 8
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:4c661e44b600b22ad2fe590d",
+      "scientificName": "Camellia sasanqua",
+      "chineseName": "茶梅",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/c82ccccbc201d1135752f520b2539e6f914bb36642170860ef76e33b5d46c98f.json",
+      "primaryImageCount": 11,
+      "primaryCounts": {
+        "train": 9,
+        "test": 1,
+        "validation": 1
+      },
+      "missing": {
+        "train": 61,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:a475507f39154d2bd556f2d1",
+      "scientificName": "Campsis grandiflora",
+      "chineseName": "凌霄",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/a523bbd3713d991b644379004b7f3b39c239744e42a8db51df57e60ef7aadb3c.json",
+      "primaryImageCount": 13,
+      "primaryCounts": {
+        "train": 12,
+        "test": 1
+      },
+      "missing": {
+        "train": 58,
+        "validation": 15,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:f3cc3b562bfd8a7166f358de",
+      "scientificName": "Camptotheca acuminata",
+      "chineseName": "喜树",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/7284d34035216a1756fd19263e1634d3150a15ad5628088f407556bd57d5f5bf.json",
+      "primaryImageCount": 9,
+      "primaryCounts": {
+        "train": 7,
+        "test": 1,
+        "validation": 1
+      },
+      "missing": {
+        "train": 63,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+      "scientificName": "Canarium album",
+      "chineseName": "橄榄",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/234caa9e2320b49653779ad36782e9d9ea145f04c51f57b6117f4942ac3080b5.json",
+      "primaryImageCount": 8,
+      "primaryCounts": {
+        "validation": 6,
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 9,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:bf95ddd3eb546b49828acb72",
+      "scientificName": "Catalpa bungei",
+      "chineseName": "楸",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/db4ead6bc56a42447474f6f7402deaf2cffe9b2cd3bea8a90ff4518db6fd4c7f.json",
+      "primaryImageCount": 1,
+      "primaryCounts": {
+        "train": 1
+      },
+      "missing": {
+        "train": 69,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:e3be6b02ba7259038b6c05c4",
+      "scientificName": "Cedrus deodara",
+      "chineseName": "雪松",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/89ab1085fe5f488f743b6894050aea115e04ff8e62fc55c157740c99a1778946.json",
+      "primaryImageCount": 53,
+      "primaryCounts": {
+        "train": 31,
+        "validation": 13,
+        "test": 9
+      },
+      "missing": {
+        "train": 39,
+        "validation": 2,
+        "test": 6
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:85244f69d528cb5d52248986",
+      "scientificName": "Cercis chinensis",
+      "chineseName": "紫荆",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/50b5243b57df14c30d38503326a8955c8fd1bce77fd716c7a7e242f1c0d7058c.json",
+      "primaryImageCount": 1,
+      "primaryCounts": {
+        "train": 1
+      },
+      "missing": {
+        "train": 69,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+      "scientificName": "Chamaedorea elegans",
+      "chineseName": "袖珍竹节椰",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/bb645ac4b5d515223a868e93f74d13bf46897e0d9759cf0ed2acee1431bd9c90.json",
+      "primaryImageCount": 11,
+      "primaryCounts": {
+        "test": 3,
+        "train": 8
+      },
+      "missing": {
+        "train": 62,
+        "validation": 15,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+      "scientificName": "Chimonanthus praecox",
+      "chineseName": "蜡梅",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/92d1dbb39e5728f19fb452ddc2159db98ff7ed4d8affe6982815268373e50f9b.json",
+      "primaryImageCount": 10,
+      "primaryCounts": {
+        "train": 9,
+        "validation": 1
+      },
+      "missing": {
+        "train": 61,
+        "validation": 14,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+      "scientificName": "Citrus japonica",
+      "chineseName": "金柑",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/4277efd62071542f0df95a021497d4085f6d697047ffd506d2d97daa4396bd22.json",
+      "primaryImageCount": 7,
+      "primaryCounts": {
+        "train": 4,
+        "test": 3
+      },
+      "missing": {
+        "train": 66,
+        "validation": 15,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:f124eebb9daa3387c35c1a9a",
+      "scientificName": "Citrus maxima",
+      "chineseName": "柚",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/931ca2e6f9d2f205f18161ee9eba7fa2a2d195f1288becd31c79b38ad0ca84cb.json",
+      "primaryImageCount": 21,
+      "primaryCounts": {
+        "train": 13,
+        "validation": 7,
+        "test": 1
+      },
+      "missing": {
+        "train": 57,
+        "validation": 8,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:7103098fabbac77885499506",
+      "scientificName": "Citrus medica",
+      "chineseName": "香橼",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/4b49f9b6c4ffc00ddb3bb43faf2bf9c89b9fcdc5c93b20f4d09f2d10c5c128ed.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 3
+      },
+      "missing": {
+        "train": 67,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:c3ff8f02bc9a21c623eb5cc4",
+      "scientificName": "Crassula ovata",
+      "chineseName": "燕子掌",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1932c29ddb8dcf5026341d1b114ad8653d8d34695b169bb27bc54040eeae1df7.json",
+      "primaryImageCount": 92,
+      "primaryCounts": {
+        "validation": 15,
+        "train": 70,
+        "test": 7
+      },
+      "missing": {
+        "train": 0,
+        "validation": 0,
+        "test": 8
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:db042186064092ed8fe387f5",
+      "scientificName": "Crataegus pinnatifida",
+      "chineseName": "山楂",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ecb0979faa3d6fba7d2429f2272c0d803d49c9042311ba5be5118518c7cdc46d.json",
+      "primaryImageCount": 26,
+      "primaryCounts": {
+        "train": 24,
+        "test": 1,
+        "validation": 1
+      },
+      "missing": {
+        "train": 46,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:ae6f1cdc62727bdd9e63356d",
+      "scientificName": "Cycas revoluta",
+      "chineseName": "苏铁",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/f71381281917c8e0ea5b0227115c9c1b7abe886777669ff5c02e70ed4da6e3f9.json",
+      "primaryImageCount": 46,
+      "primaryCounts": {
+        "train": 29,
+        "validation": 9,
+        "test": 8
+      },
+      "missing": {
+        "train": 41,
+        "validation": 6,
+        "test": 7
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:681d4d1530b17dace52e0565",
+      "scientificName": "Dahlia pinnata",
+      "chineseName": "大丽花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e6d5fc1c3dd40ef66851798036b1b75482aeb51bcfae1a06cf262c881177057c.json",
+      "primaryImageCount": 27,
+      "primaryCounts": {
+        "train": 15,
+        "validation": 8,
+        "test": 4
+      },
+      "missing": {
+        "train": 55,
+        "validation": 7,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+      "scientificName": "Dianthus caryophyllus",
+      "chineseName": "香石竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e8849b43069c9125510f737835eb873585819d03cab1e3cbfb6f5194b07a3155.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:d745f1be8e41defe4c17b5f7",
+      "scientificName": "Diospyros kaki",
+      "chineseName": "柿",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/68091ee2d10462b0aac134964fc1ab9e727eb56dd790a65d4ef3a2bab8f93e3c.json",
+      "primaryImageCount": 50,
+      "primaryCounts": {
+        "test": 2,
+        "validation": 10,
+        "train": 38
+      },
+      "missing": {
+        "train": 32,
+        "validation": 5,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5d08e67d08480c41c070832e",
+      "scientificName": "Disocactus ackermannii",
+      "chineseName": "令箭荷花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/7e2eafe24c2ea28edf3eac358b3bfa14689f595211a55c42d6d1be275565f543.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 3
+      },
+      "missing": {
+        "train": 67,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:91f7f2e9ecce03a913a679cd",
+      "scientificName": "Distylium racemosum",
+      "chineseName": "蚊母树",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/62ad09f42166d8a24daf1aaf4af943646ba1eb84742e589d44fcddd532d769f8.json",
+      "primaryImageCount": 17,
+      "primaryCounts": {
+        "train": 12,
+        "validation": 1,
+        "test": 4
+      },
+      "missing": {
+        "train": 58,
+        "validation": 14,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:6f7b725180d75e28233b5f96",
+      "scientificName": "Dracaena sanderiana",
+      "chineseName": "富贵竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/69c3668d4663171ad261821661cf9a2033584181d2df9da3da2e25aede2a1a19.json",
+      "primaryImageCount": 13,
+      "primaryCounts": {
+        "test": 2,
+        "validation": 4,
+        "train": 7
+      },
+      "missing": {
+        "train": 63,
+        "validation": 11,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:586378f5658469e1484aee9d",
+      "scientificName": "Dypsis lutescens",
+      "chineseName": "散尾葵",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/15c872cc9c292989d0d90e196d933b2000eacd6eb2d7482b45b852152f78b8de.json",
+      "primaryImageCount": 74,
+      "primaryCounts": {
+        "train": 49,
+        "validation": 15,
+        "test": 10
+      },
+      "missing": {
+        "train": 21,
+        "validation": 0,
+        "test": 5
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:2c027f541440b002c1e3cbe0",
+      "scientificName": "Edgeworthia chrysantha",
+      "chineseName": "结香",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1af55a24405e119a7c02ce3276dbf51b655253d51366af085fc0572d628fb296.json",
+      "primaryImageCount": 21,
+      "primaryCounts": {
+        "validation": 5,
+        "train": 16
+      },
+      "missing": {
+        "train": 54,
+        "validation": 10,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:502258803819c9e4018f51bf",
+      "scientificName": "Elaeocarpus decipiens",
+      "chineseName": "杜英",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e684917932bc0726cc4a6635fb2466a9ba91d103a126974d77f66fcbc79b1118.json",
+      "primaryImageCount": 33,
+      "primaryCounts": {
+        "validation": 9,
+        "train": 20,
+        "test": 4
+      },
+      "missing": {
+        "train": 50,
+        "validation": 6,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:72c38aed84b492db5fe1098b",
+      "scientificName": "Epiphyllum oxypetalum",
+      "chineseName": "昙花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/f124f8817de56280242d1e0c402a018ed5ee533d1e80905cf6c56afb737eb053.json",
+      "primaryImageCount": 27,
+      "primaryCounts": {
+        "train": 18,
+        "validation": 7,
+        "test": 2
+      },
+      "missing": {
+        "train": 52,
+        "validation": 8,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+      "scientificName": "Ficus elastica",
+      "chineseName": "印度榕",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/c482f048011eb9c292f3e9447af8f6dc3aaef2c7f2afc6470f6e25d651d179f0.json",
+      "primaryImageCount": 89,
+      "primaryCounts": {
+        "train": 61,
+        "validation": 15,
+        "test": 13
+      },
+      "missing": {
+        "train": 9,
+        "validation": 0,
+        "test": 2
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:69e42467286c0b73173930d7",
+      "scientificName": "Fittonia albivenis",
+      "chineseName": "网纹草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/34305c93eb0735600eb01f6a99f20ea3ff85c7ee87e797dd4376ad1c36342d58.json",
+      "primaryImageCount": 18,
+      "primaryCounts": {
+        "train": 5,
+        "validation": 10,
+        "test": 3
+      },
+      "missing": {
+        "train": 65,
+        "validation": 5,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:79d6ca01356d8c1a06b86f85",
+      "scientificName": "Forsythia suspensa",
+      "chineseName": "连翘",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/152cc8bebfc7e593cd138b71c6793ada3941db14161225eb1aff4ecd814a7638.json",
+      "primaryImageCount": 45,
+      "primaryCounts": {
+        "train": 30,
+        "validation": 10,
+        "test": 5
+      },
+      "missing": {
+        "train": 40,
+        "validation": 5,
+        "test": 10
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5f75c63c2f6bc80d4d65aa1e",
+      "scientificName": "Forsythia viridissima",
+      "chineseName": "金钟花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/c02b12ea53c3701096a82572598dca5818c543b312280119d8b97758eb97bf5b.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 2,
+        "validation": 1
+      },
+      "missing": {
+        "train": 68,
+        "validation": 14,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-001",
+      "scientificName": "Ginkgo biloba",
+      "chineseName": "银杏",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ccbb6d25ef55a67cb8de17b3da31b544b7e2fbb806ac6ceda89ab5b80866a9fb.json",
+      "primaryImageCount": 79,
+      "primaryCounts": {
+        "test": 15,
+        "train": 55,
+        "validation": 9
+      },
+      "missing": {
+        "train": 15,
+        "validation": 6,
+        "test": 0
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:63a6367398beba9f3315efda",
+      "scientificName": "Haworthia cooperi",
+      "chineseName": "玉露",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/31769cb4bb9da06d329bac92226e387ee57cdc703162fc9b73ad4d2665f08720.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "test": 1,
+        "train": 1
+      },
+      "missing": {
+        "train": 69,
+        "validation": 15,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:8b180f9a32d89298c5ccf815",
+      "scientificName": "Hibiscus mutabilis",
+      "chineseName": "木芙蓉",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/0c9337a4de504a46602bf2acaada9c74cc25fff0f2603b1ba3aa5aba26d1dae1.json",
+      "primaryImageCount": 46,
+      "primaryCounts": {
+        "train": 27,
+        "test": 8,
+        "validation": 11
+      },
+      "missing": {
+        "train": 43,
+        "validation": 4,
+        "test": 7
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:d81a1acfbc6dcdfde20f3573",
+      "scientificName": "Hosta plantaginea",
+      "chineseName": "玉簪",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/fd37ed6e2085a6e5af758bd82f3654083d9eaabc46e0db94a41bcf7903019c98.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "validation": 1,
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 14,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:75b111e19e785e6a7a1e0d1e",
+      "scientificName": "Iris tectorum",
+      "chineseName": "鸢尾",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/c7a185db2c9beb7fd121ea26fecbe2406bdf23045c1f00bc8744b772131b8284.json",
+      "primaryImageCount": 5,
+      "primaryCounts": {
+        "validation": 1,
+        "test": 1,
+        "train": 3
+      },
+      "missing": {
+        "train": 67,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:0c1631d5e623bd439108d02e",
+      "scientificName": "Jasminum mesnyi",
+      "chineseName": "野迎春",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/eae598499297b36bb9a4e0b4d1a6c1f504b488a491f253c789d2d444eee3682d.json",
+      "primaryImageCount": 82,
+      "primaryCounts": {
+        "train": 63,
+        "test": 13,
+        "validation": 6
+      },
+      "missing": {
+        "train": 7,
+        "validation": 9,
+        "test": 2
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-002",
+      "scientificName": "Jasminum sambac",
+      "chineseName": "茉莉花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ca2f5ab6c223b7e49b07328660bb82cd517eed3237714d88088351c5786fadb0.json",
+      "primaryImageCount": 12,
+      "primaryCounts": {
+        "test": 4,
+        "train": 8
+      },
+      "missing": {
+        "train": 62,
+        "validation": 15,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+      "scientificName": "Juniperus chinensis",
+      "chineseName": "圆柏",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/9a33f1aee376ed217c5bf39f3300cf3deea9d8a14bcbd8878910934ad117c83a.json",
+      "primaryImageCount": 10,
+      "primaryCounts": {
+        "validation": 1,
+        "train": 8,
+        "test": 1
+      },
+      "missing": {
+        "train": 62,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:3dd966ad79e3de5d968d2cc7",
+      "scientificName": "Kalanchoe blossfeldiana",
+      "chineseName": "长寿花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/4f9f9ab6e9128e9b6fa3161ff2b92953db72e68b46611d3d4e2ddfd68de6fab3.json",
+      "primaryImageCount": 11,
+      "primaryCounts": {
+        "train": 5,
+        "validation": 3,
+        "test": 3
+      },
+      "missing": {
+        "train": 65,
+        "validation": 12,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:cb88374801f6e5c5e7fd96c8",
+      "scientificName": "Lamprocapnos spectabilis",
+      "chineseName": "荷包牡丹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/dbff4623448e2280efda91e10ae5c883a21452a36a5848ae376848f022f21240.json",
+      "primaryImageCount": 87,
+      "primaryCounts": {
+        "train": 68,
+        "validation": 4,
+        "test": 15
+      },
+      "missing": {
+        "train": 2,
+        "validation": 11,
+        "test": 0
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+      "scientificName": "Lilium brownii",
+      "chineseName": "野百合",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/076bf1ff9bd811b4b9626cb34d804022369a6bf3ec1bc8e57a42807cf76f5d26.json",
+      "primaryImageCount": 23,
+      "primaryCounts": {
+        "validation": 9,
+        "train": 14
+      },
+      "missing": {
+        "train": 56,
+        "validation": 6,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "bioclip:plant-007",
+      "scientificName": "Liquidambar formosana",
+      "chineseName": "枫香树",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/a649de7f6ccf2c06a8c31aabd25ef9f0550212197dd302333d285115af557b84.json",
+      "primaryImageCount": 65,
+      "primaryCounts": {
+        "validation": 8,
+        "test": 15,
+        "train": 42
+      },
+      "missing": {
+        "train": 28,
+        "validation": 7,
+        "test": 0
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-011",
+      "scientificName": "Liriodendron chinense",
+      "chineseName": "鹅掌楸",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1f731dee1b16ce5b425e95d6af63d3f14d2c5091e86b94464529ea8e8f6537ad.json",
+      "primaryImageCount": 6,
+      "primaryCounts": {
+        "train": 6
+      },
+      "missing": {
+        "train": 64,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:c7f2fb40dd0b580cb7558824",
+      "scientificName": "Loropetalum chinense",
+      "chineseName": "檵木",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/5165959f655a90ccdae1f7a3ce3a7edbe0e73671478460d8d77dc98267defca2.json",
+      "primaryImageCount": 13,
+      "primaryCounts": {
+        "train": 9,
+        "validation": 2,
+        "test": 2
+      },
+      "missing": {
+        "train": 61,
+        "validation": 13,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+      "scientificName": "Lupinus micranthus",
+      "chineseName": "羽扇豆",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/47fbf9f5a81677fc9077ab36e17bb96efe15337006bdf27564c53d34d2e26b17.json",
+      "primaryImageCount": 64,
+      "primaryCounts": {
+        "train": 48,
+        "validation": 7,
+        "test": 9
+      },
+      "missing": {
+        "train": 22,
+        "validation": 8,
+        "test": 6
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:41d78565de08a45f1a0c5b48",
+      "scientificName": "Magnolia figo",
+      "chineseName": "含笑花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/43710b95dc392433d9a9c17871d4d882c486d035743a52a74059942211440557.json",
+      "primaryImageCount": 19,
+      "primaryCounts": {
+        "train": 12,
+        "test": 1,
+        "validation": 6
+      },
+      "missing": {
+        "train": 58,
+        "validation": 9,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:d17e31b16f3831469cfed1b2",
+      "scientificName": "Magnolia liliiflora",
+      "chineseName": "紫玉兰",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e9dea2c5538b71d3fb8122895807abd2571afa586f86e5631eb38b4634dbec47.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:190327b95eeb7adefb295559",
+      "scientificName": "Magnolia maudiae",
+      "chineseName": "深山含笑",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/98bb27c714da72603bbacf882ccf9a9f1d1e25b40f1ca83117b0460fcf6beb75.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5d60c0ea26cd6ee2502fa440",
+      "scientificName": "Malus halliana",
+      "chineseName": "垂丝海棠",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/181290c6c2c4cad33047643acb3b343bec1a4f48c718a601e224a258adb1449e.json",
+      "primaryImageCount": 1,
+      "primaryCounts": {
+        "train": 1
+      },
+      "missing": {
+        "train": 69,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-004",
+      "scientificName": "Metasequoia glyptostroboides",
+      "chineseName": "水杉",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/391afc41301eec5aa8a7f4188fb76e9d94e9c10ef06c104134c167773d06827f.json",
+      "primaryImageCount": 13,
+      "primaryCounts": {
+        "train": 10,
+        "test": 2,
+        "validation": 1
+      },
+      "missing": {
+        "train": 60,
+        "validation": 14,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:3072cae41fb1d81a079e6c70",
+      "scientificName": "Nicotiana alata",
+      "chineseName": "花烟草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/29f0ecc4a23bab5a4eae3b1d863a30da9b305d40a56e537917ff81e142fc1ed9.json",
+      "primaryImageCount": 21,
+      "primaryCounts": {
+        "train": 19,
+        "validation": 2
+      },
+      "missing": {
+        "train": 51,
+        "validation": 13,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:2d6ad06d0d54e9cf252778f8",
+      "scientificName": "Nymphaea tetragona",
+      "chineseName": "睡莲",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/814376a2b5f14c009c8b6d0962679ad1b793de986b1dd9e5074db10020586d7f.json",
+      "primaryImageCount": 36,
+      "primaryCounts": {
+        "train": 26,
+        "test": 5,
+        "validation": 5
+      },
+      "missing": {
+        "train": 44,
+        "validation": 10,
+        "test": 10
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:2360206f343a5bac9cf1aa01",
+      "scientificName": "Ophiopogon jaburan",
+      "chineseName": "剑叶沿阶草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1561026689a948e40f808ffaa28f6d2243b47175e24491ae455b2eb5b137914f.json",
+      "primaryImageCount": 7,
+      "primaryCounts": {
+        "train": 6,
+        "test": 1
+      },
+      "missing": {
+        "train": 64,
+        "validation": 15,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:38fdbf97be9ad878323cef67",
+      "scientificName": "Ophiopogon japonicus",
+      "chineseName": "麦冬",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ff90a68a32ebe277bcbf94781afdc7f9a5ed697613b2ed66ebce99febbcfe4d3.json",
+      "primaryImageCount": 27,
+      "primaryCounts": {
+        "train": 22,
+        "test": 3,
+        "validation": 2
+      },
+      "missing": {
+        "train": 48,
+        "validation": 13,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:3a07f42b3ce1f91b9d493d4d",
+      "scientificName": "Oxalis triangularis",
+      "chineseName": "三角叶酢浆草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/76451f9063d1f5f9390a1a54ac5f7975433ea14d940e24412e2bf73f04ef433c.json",
+      "primaryImageCount": 98,
+      "primaryCounts": {
+        "train": 70,
+        "test": 13,
+        "validation": 15
+      },
+      "missing": {
+        "train": 0,
+        "validation": 0,
+        "test": 2
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:daeb35038d50651d52b911eb",
+      "scientificName": "Pachira glabra",
+      "chineseName": "马拉巴栗",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/93e3d4009332acfe701a44957839a9860079cbf8c5652f340bc18dcfbb549136.json",
+      "primaryImageCount": 33,
+      "primaryCounts": {
+        "validation": 9,
+        "test": 5,
+        "train": 19
+      },
+      "missing": {
+        "train": 51,
+        "validation": 6,
+        "test": 10
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:b86ea749327f1f982ebc5e50",
+      "scientificName": "Paeonia lactiflora",
+      "chineseName": "芍药",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/7d5560b5acf2f6beb9daf73f618314439b10249c5ce47bbaafe8823f12a024df.json",
+      "primaryImageCount": 49,
+      "primaryCounts": {
+        "train": 37,
+        "test": 9,
+        "validation": 3
+      },
+      "missing": {
+        "train": 33,
+        "validation": 12,
+        "test": 6
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:1dabf40818633a9ee3d43f12",
+      "scientificName": "Peperomia graveolens",
+      "chineseName": "红背椒草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/cd026698e08378c9ac8d8965d275db616316f8c663d52f4db90a44f1680513cd.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:d0cafa52112a4033051a6044",
+      "scientificName": "Phyllostachys edulis",
+      "chineseName": "毛竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/da14570f79ec2692fa60fbb1fbbcb822671d379361b165cd43cfef4225829366.json",
+      "primaryImageCount": 30,
+      "primaryCounts": {
+        "train": 25,
+        "validation": 3,
+        "test": 2
+      },
+      "missing": {
+        "train": 45,
+        "validation": 12,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:3fa61fa9a36c98dd9928eb7b",
+      "scientificName": "Phyllostachys nigra",
+      "chineseName": "紫竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/a3b83bbf366b57ef7a7845f1669c6e40e297558de2b16f8b74ab903dd372ce91.json",
+      "primaryImageCount": 20,
+      "primaryCounts": {
+        "test": 4,
+        "train": 15,
+        "validation": 1
+      },
+      "missing": {
+        "train": 55,
+        "validation": 14,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:c5a8754cc89b59f2e1cfd45c",
+      "scientificName": "Phyllostachys reticulata",
+      "chineseName": "桂竹",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/aac267e60db0c8732fb2a934f8e0bed49f317f72ceb5299b0579156d4a3566a5.json",
+      "primaryImageCount": 8,
+      "primaryCounts": {
+        "test": 2,
+        "train": 5,
+        "validation": 1
+      },
+      "missing": {
+        "train": 65,
+        "validation": 14,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:60245d17b2fe44d2d3996f13",
+      "scientificName": "Pinus bungeana",
+      "chineseName": "白皮松",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b54aad89f2f46906c9ae938b8ee98358e20adf5df2d8ef897ece488dd7900aa3.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:503652fb6d07372e27e409c1",
+      "scientificName": "Pinus parviflora",
+      "chineseName": "日本五针松",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/eef25295ed468e5961c34a6bea37fc3e083303671d3f6ba51efae92b2dbd0bbc.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 3
+      },
+      "missing": {
+        "train": 67,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:093a966920494cc044e005ac",
+      "scientificName": "Pinus thunbergii",
+      "chineseName": "黑松",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/d6d0e0e7b93404d1a43625846765478a7e8d7c28905f9cd1bd06daf2133b006f.json",
+      "primaryImageCount": 69,
+      "primaryCounts": {
+        "validation": 11,
+        "train": 49,
+        "test": 9
+      },
+      "missing": {
+        "train": 21,
+        "validation": 4,
+        "test": 6
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-003",
+      "scientificName": "Platycladus orientalis",
+      "chineseName": "侧柏",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ccaf60d060389c654ff0ad7a60e5b57a193984d1ec268a1b9c24d784fc8b0166.json",
+      "primaryImageCount": 59,
+      "primaryCounts": {
+        "test": 6,
+        "train": 45,
+        "validation": 8
+      },
+      "missing": {
+        "train": 25,
+        "validation": 7,
+        "test": 9
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:b3850af9f4e35538b2501bd9",
+      "scientificName": "Podocarpus macrophyllus",
+      "chineseName": "罗汉松",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/78e12e8802de37c4abace924e864d56b9f722ebadd6e427b905c9b12ba50bf90.json",
+      "primaryImageCount": 52,
+      "primaryCounts": {
+        "train": 39,
+        "validation": 6,
+        "test": 7
+      },
+      "missing": {
+        "train": 31,
+        "validation": 9,
+        "test": 8
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+      "scientificName": "Polyscias guilfoylei",
+      "chineseName": "银边南洋参",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/84283177009150c092655e1e2579d1a3d14a8978531972fe65e6b58db46cff3b.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 3
+      },
+      "missing": {
+        "train": 67,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+      "scientificName": "Prunus mume",
+      "chineseName": "梅",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ff64a71662ed4cc7a4bd765ef834139fe42689e5fada4043d0a6bbdfe7c326e4.json",
+      "primaryImageCount": 20,
+      "primaryCounts": {
+        "train": 16,
+        "validation": 4
+      },
+      "missing": {
+        "train": 54,
+        "validation": 11,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:579347b53706ce171e8817b4",
+      "scientificName": "Pseudocydonia sinensis",
+      "chineseName": "木瓜",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b54be9efb4eb6c96000b58550d533d158ffc39bd053643571b4f06638d80a0b4.json",
+      "primaryImageCount": 7,
+      "primaryCounts": {
+        "train": 5,
+        "test": 2
+      },
+      "missing": {
+        "train": 65,
+        "validation": 15,
+        "test": 13
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:0143a0c6dd533a6d6c2bc1fc",
+      "scientificName": "Pterocarya stenoptera",
+      "chineseName": "枫杨",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/63173669f5d4c9d30006b95313b16fd83735b24564da40583d8ae6ca86cf1876.json",
+      "primaryImageCount": 17,
+      "primaryCounts": {
+        "train": 13,
+        "test": 1,
+        "validation": 3
+      },
+      "missing": {
+        "train": 57,
+        "validation": 12,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:8d504bb80c740140a73a1623",
+      "scientificName": "Pulsatilla chinensis",
+      "chineseName": "白头翁",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/8db39eaafc996437dfa42155970b6a5613fc4f470e9eba9779d7486644fd7149.json",
+      "primaryImageCount": 6,
+      "primaryCounts": {
+        "train": 5,
+        "test": 1
+      },
+      "missing": {
+        "train": 65,
+        "validation": 15,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:401dceac758d42eada7de8e0",
+      "scientificName": "Pyracantha fortuneana",
+      "chineseName": "火棘",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/e1074ffb88985c9aea2b70ee47d8d048fcd201da54522b6c518ec1ca80e85187.json",
+      "primaryImageCount": 48,
+      "primaryCounts": {
+        "train": 30,
+        "validation": 8,
+        "test": 10
+      },
+      "missing": {
+        "train": 40,
+        "validation": 7,
+        "test": 5
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:f9a1f3e4e1055aa7c2c1e77e",
+      "scientificName": "Reineckea carnea",
+      "chineseName": "吉祥草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/d2bbedf4bef1eabd6145ccacb701989f5a50e1f7d48213c7731b902f584b8008.json",
+      "primaryImageCount": 8,
+      "primaryCounts": {
+        "train": 6,
+        "validation": 1,
+        "test": 1
+      },
+      "missing": {
+        "train": 64,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "杜鹃",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/5a8a671ee037cc280eda9adf6d4d0949ede8c68bfc350f12cca26e5440a0a319.json",
+      "primaryImageCount": 24,
+      "primaryCounts": {
+        "train": 17,
+        "test": 4,
+        "validation": 3
+      },
+      "missing": {
+        "train": 53,
+        "validation": 12,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:f17951f5a49cf5fc77501ff6",
+      "scientificName": "Rohdea japonica",
+      "chineseName": "万年青",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/2a49bf0e649b3a7e6225d8390f607c51d1f27385098a4e701ad889d5a2f39f48.json",
+      "primaryImageCount": 6,
+      "primaryCounts": {
+        "train": 6
+      },
+      "missing": {
+        "train": 64,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:189b50b7eb14a3496e21ccfd",
+      "scientificName": "Rosa banksiae",
+      "chineseName": "木香花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/ccf0f15597a8af1bc23428d83c30c163fb346d6f9971a329717553fbc6e668d6.json",
+      "primaryImageCount": 3,
+      "primaryCounts": {
+        "train": 2,
+        "test": 1
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "bioclip:plant-019",
+      "scientificName": "Rosa chinensis",
+      "chineseName": "月季花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/90281c64803c481007aa4a4b9452c5d72ac90d46945e40c31943383842671860.json",
+      "primaryImageCount": 1,
+      "primaryCounts": {
+        "train": 1
+      },
+      "missing": {
+        "train": 69,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+      "scientificName": "Salvia japonica",
+      "chineseName": "鼠尾草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/730bed5cd9252006b06b65071b3ee398c8cce3abe6034a2c7a597517be0231db.json",
+      "primaryImageCount": 23,
+      "primaryCounts": {
+        "train": 20,
+        "validation": 2,
+        "test": 1
+      },
+      "missing": {
+        "train": 50,
+        "validation": 13,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:5748130197678ca44609df38",
+      "scientificName": "Sapindus mukorossi",
+      "chineseName": "无患子",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/773b4af98b8fb0818f21ef4c7b72e45bc6fd2c69251ca46660bd434f287b5f01.json",
+      "primaryImageCount": 72,
+      "primaryCounts": {
+        "train": 42,
+        "test": 15,
+        "validation": 15
+      },
+      "missing": {
+        "train": 28,
+        "validation": 0,
+        "test": 0
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:d106f5b003a5fa05cd6463bb",
+      "scientificName": "Sassafras tzumu",
+      "chineseName": "檫木",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/5c1c097ea758bedede4ec7af8fca136bd79b396f99e96271ebd3a0fdd31b4ec7.json",
+      "primaryImageCount": 6,
+      "primaryCounts": {
+        "train": 4,
+        "test": 1,
+        "validation": 1
+      },
+      "missing": {
+        "train": 66,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:349043bdec809c50bb1a1169",
+      "scientificName": "Schima superba",
+      "chineseName": "木荷",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/40c7dba28e3a2efd87ebfb1ee75ffa65717ed951e656c6bd4108dbca2c723d4f.json",
+      "primaryImageCount": 43,
+      "primaryCounts": {
+        "train": 24,
+        "test": 10,
+        "validation": 9
+      },
+      "missing": {
+        "train": 46,
+        "validation": 6,
+        "test": 5
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:0cb693d11093594fd855ca29",
+      "scientificName": "Senna corymbosa",
+      "chineseName": "伞房决明",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/77f4f98f2585ac9559b29203b7c688c5a5f3a5eaa4267bb3d57a69bda5fe949b.json",
+      "primaryImageCount": 96,
+      "primaryCounts": {
+        "train": 70,
+        "test": 15,
+        "validation": 11
+      },
+      "missing": {
+        "train": 0,
+        "validation": 4,
+        "test": 0
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+      "scientificName": "Silene pendula",
+      "chineseName": "大蔓樱草",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/f5a9a5a060f4afc14c0f762de526747b2a9c67871af8bc3559307de7fa010c87.json",
+      "primaryImageCount": 15,
+      "primaryCounts": {
+        "train": 10,
+        "test": 4,
+        "validation": 1
+      },
+      "missing": {
+        "train": 60,
+        "validation": 14,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:d17714eb2cce580e6ea46f75",
+      "scientificName": "Sphagneticola calendulacea",
+      "chineseName": "蟛蜞菊",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1edde39aef69a234b0736ef939985a0f5e1e19f7695ded0afd0cfca452fb09f7.json",
+      "primaryImageCount": 19,
+      "primaryCounts": {
+        "test": 3,
+        "validation": 7,
+        "train": 9
+      },
+      "missing": {
+        "train": 61,
+        "validation": 8,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+      "scientificName": "Styphnolobium japonicum",
+      "chineseName": "槐",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/eb9cd66fb2e833e848b8beb5c42ef8e670bf4ec29ee0b61176d534536332669c.json",
+      "primaryImageCount": 83,
+      "primaryCounts": {
+        "validation": 15,
+        "test": 11,
+        "train": 57
+      },
+      "missing": {
+        "train": 13,
+        "validation": 0,
+        "test": 4
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:2790570a66666ae32ea92b77",
+      "scientificName": "Syringa oblata",
+      "chineseName": "紫丁香",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/8a01ee831385f39f771322f6d2c2e1f279ad172534ea3a3dbf167fed20b8ea78.json",
+      "primaryImageCount": 2,
+      "primaryCounts": {
+        "train": 2
+      },
+      "missing": {
+        "train": 68,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:c0aa99a688c4fa4f1bf59f5a",
+      "scientificName": "Tagetes erecta",
+      "chineseName": "万寿菊",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/95dfc1179d3b47d196e2ea744d96127b0875a80d5e6fefcde29342655374a909.json",
+      "primaryImageCount": 59,
+      "primaryCounts": {
+        "train": 46,
+        "validation": 10,
+        "test": 3
+      },
+      "missing": {
+        "train": 24,
+        "validation": 5,
+        "test": 12
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:e4088b9f9dc0e126d5f381b1",
+      "scientificName": "Taraxacum mongolicum",
+      "chineseName": "蒲公英",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/1464265697544c7583e1445e1515855db79161b63846902b60badec775dfa1af.json",
+      "primaryImageCount": 7,
+      "primaryCounts": {
+        "train": 7
+      },
+      "missing": {
+        "train": 63,
+        "validation": 15,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:4095ac85ddcd3babd2044060",
+      "scientificName": "Ternstroemia gymnanthera",
+      "chineseName": "厚皮香",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/01aff8a43b2ba27945076cdb9fca3e8c0ca89027acadcdd6a80d9e0dea27956e.json",
+      "primaryImageCount": 37,
+      "primaryCounts": {
+        "train": 24,
+        "validation": 4,
+        "test": 9
+      },
+      "missing": {
+        "train": 46,
+        "validation": 11,
+        "test": 6
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:40204e78f192a1eeae904419",
+      "scientificName": "Toona sinensis",
+      "chineseName": "香椿",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/67e62be191a75499c5926d1cdbe79d6169e5a68af6a102208902f52744cb32b0.json",
+      "primaryImageCount": 56,
+      "primaryCounts": {
+        "train": 34,
+        "validation": 9,
+        "test": 13
+      },
+      "missing": {
+        "train": 36,
+        "validation": 6,
+        "test": 2
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:2a8fcd57bca7e3ffb6440098",
+      "scientificName": "Tulipa gesneriana",
+      "chineseName": "郁金香",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/cd6f017baf7069477c7106dc839665b6955d7e62b5271df1f4f1e28ea52dae45.json",
+      "primaryImageCount": 95,
+      "primaryCounts": {
+        "train": 70,
+        "test": 11,
+        "validation": 14
+      },
+      "missing": {
+        "train": 0,
+        "validation": 1,
+        "test": 4
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:36de97396d68a2d0f7d2ed6a",
+      "scientificName": "Viburnum odoratissimum",
+      "chineseName": "珊瑚树",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/30c977b420b1772fc8e4b40108d28fb7e7735a93cf1a4a7d3c1cb05c89fee19c.json",
+      "primaryImageCount": 50,
+      "primaryCounts": {
+        "validation": 6,
+        "train": 37,
+        "test": 7
+      },
+      "missing": {
+        "train": 33,
+        "validation": 9,
+        "test": 8
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:49a3f86771353d23358c7d8b",
+      "scientificName": "Viola philippica",
+      "chineseName": "紫花地丁",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/527ce7b88806338ad3132e9867cb23c104524b3ecbc9a29180880786c118874a.json",
+      "primaryImageCount": 28,
+      "primaryCounts": {
+        "train": 26,
+        "test": 1,
+        "validation": 1
+      },
+      "missing": {
+        "train": 44,
+        "validation": 14,
+        "test": 14
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:7f987f09b6d5b590b7706701",
+      "scientificName": "Weigela florida",
+      "chineseName": "锦带花",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/b4ddd098c4dcf5970905e609c6832d61e183bb49c1ce6a833e58a396b8a47c14.json",
+      "primaryImageCount": 48,
+      "primaryCounts": {
+        "train": 28,
+        "validation": 12,
+        "test": 8
+      },
+      "missing": {
+        "train": 42,
+        "validation": 3,
+        "test": 7
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:5f276278f264809f9f4d70e5",
+      "scientificName": "Yucca flaccida",
+      "chineseName": "软叶丝兰",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/502294fe3bbb677eb5c77d397fcb9cd2ef51919eeff56146ad9d2db3ba56a079.json",
+      "primaryImageCount": 51,
+      "primaryCounts": {
+        "train": 36,
+        "test": 8,
+        "validation": 7
+      },
+      "missing": {
+        "train": 34,
+        "validation": 8,
+        "test": 7
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+      "scientificName": "Zamioculcas zamiifolia",
+      "chineseName": "雪铁芋",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/60a98d329175e040e03a08d2d3a9d5a38f20906d8bf9d8306b6bb11d4cec232e.json",
+      "primaryImageCount": 6,
+      "primaryCounts": {
+        "validation": 2,
+        "train": 4
+      },
+      "missing": {
+        "train": 66,
+        "validation": 13,
+        "test": 15
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": false
+    },
+    {
+      "speciesId": "tol10m:f1fd5519077816f26de50e74",
+      "scientificName": "Zelkova serrata",
+      "chineseName": "榉树",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/38b97b9619111975ca22cc5b9f3266853962d02d5df682c49160ef116fab272a.json",
+      "primaryImageCount": 74,
+      "primaryCounts": {
+        "validation": 15,
+        "train": 46,
+        "test": 13
+      },
+      "missing": {
+        "train": 24,
+        "validation": 0,
+        "test": 2
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    },
+    {
+      "speciesId": "tol10m:04792be1a8ba7e018ac97011",
+      "scientificName": "Ziziphus jujuba",
+      "chineseName": "枣",
+      "reason": "below-split-quotas",
+      "sourceMappingStatus": "matched",
+      "sourceMappingEvidence": "server/.cache/training/china-landscape-public-249/taxon-matches/370fc3a65449e540e59e8f5ac31af6f1c06750aaa1779e4b0bb2096ce777d7ab.json",
+      "primaryImageCount": 62,
+      "primaryCounts": {
+        "validation": 11,
+        "train": 47,
+        "test": 4
+      },
+      "missing": {
+        "train": 23,
+        "validation": 4,
+        "test": 11
+      },
+      "supplementalCandidateCount": 0,
+      "supplementalCandidatesTrainingEligible": false,
+      "originalSourcePassDeferred": true
+    }
+  ],
+  "databaseModified": false,
+  "trainingModified": false,
+  "note": "Source mapping status concerns iNaturalist names, not validity of approved database species IDs. Supplemental candidates never reduce train/validation/test shortfalls until verified and admitted."
+}

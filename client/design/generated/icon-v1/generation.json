@@ -1,0 +1,22 @@
+{
+  "paths": [
+    "/home/zhang/workspace/zdog-yizhu/design/generated/icon-v1/image-878a75044c6b4bd3ba5eb9a7159930dd-1.jpg"
+  ],
+  "text": "",
+  "model": "antigravity/gemini-3.1-flash-image",
+  "provider": "antigravity",
+  "usage": {
+    "input": 245,
+    "output": 1407,
+    "cache_read": 0,
+    "cache_write": 0,
+    "total_tokens": 1652,
+    "cost": {
+      "input": 0.0,
+      "output": 0.0,
+      "cache_read": 0.0,
+      "cache_write": 0.0,
+      "total": 0.0
+    }
+  }
+}

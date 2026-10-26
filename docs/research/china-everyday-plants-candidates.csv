@@ -1,0 +1,51 @@
+﻿候选编号（非排名）,提议称呼,提议使用场景,常见度证据状态,地域覆盖状态,本地名称匹配候选（非最终分类）,本地物种ID候选,可进入训练,待办
+everyday-draft-001,桂花,街道、公园、校园,待核验,待核验,Osmanthus fragrans,bioclip:plant-009,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-002,银杏,街道、公园、校园,待核验,待核验,Ginkgo biloba,bioclip:plant-001,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-003,香樟,街道、公园、校园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-004,国槐,街道、公园、校园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-005,悬铃木,街道、公园、校园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-006,垂柳,街道、公园、校园,待核验,待核验,Salix babylonica,bioclip:plant-012,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-007,白蜡,街道、公园、校园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-008,女贞,街道、公园、校园,待核验,待核验,Ligustrum lucidum,tol10m:b3553acd8f3950c0998e0303,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-009,紫薇,街道、公园、校园,待核验,待核验,Lagerstroemia indica,tol10m:294311e4b8cd11fed6b55c0e,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-010,石楠,街道、公园、校园,待核验,待核验,Photinia serratifolia,tol10m:76b3f37f6937d3e72de38382,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-011,木棉,街道、公园、校园,待核验,待核验,Bombax ceiba,tol10m:6a24ee5d4826e7ed97074c62,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-012,榕树,街道、公园、校园,待核验,待核验,Ficus microcarpa,tol10m:07b2fe56649390b7cd7699fd,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-013,月季,庭院、观赏花木,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-014,栀子,庭院、观赏花木,待核验,待核验,Gardenia jasminoides,bioclip:plant-017,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-015,茉莉,庭院、观赏花木,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-016,山茶,庭院、观赏花木,待核验,待核验,Camellia japonica,bioclip:plant-016,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-017,杜鹃,庭院、观赏花木,待核验,待核验,Rhododendron simsii,tol10m:d8ef0c09aa9fb46bd66f079f,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-018,绣球,庭院、观赏花木,待核验,待核验,Hydrangea macrophylla,bioclip:plant-020,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-019,三角梅,庭院、观赏花木,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-020,木槿,庭院、观赏花木,待核验,待核验,Hibiscus syriacus,tol10m:f3374d167c525e2853872c32,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-021,绿萝,室内、阳台,待核验,待核验,Epipremnum aureum,bioclip:plant-015,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-022,吊兰,室内、阳台,待核验,待核验,Chlorophytum comosum,tol10m:ecbaed74cc3b325f7d203533,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-023,虎尾兰,室内、阳台,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-024,龟背竹,室内、阳台,待核验,待核验,Monstera deliciosa,bioclip:plant-014,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-025,发财树,室内、阳台,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-026,橡皮树,室内、阳台,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-027,芦荟,室内、阳台,待核验,待核验,Aloe vera,tol10m:f24588f9924dc5d0a1a88993,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-028,长寿花,室内、阳台,待核验,待核验,Kalanchoe blossfeldiana,tol10m:3dd966ad79e3de5d968d2cc7,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-029,蝴蝶兰,室内、阳台,待核验,待核验,Phalaenopsis aphrodite,tol10m:1366a88040628cfc228eb3d0,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-030,富贵竹,室内、阳台,待核验,待核验,Dracaena sanderiana,tol10m:6f7b725180d75e28233b5f96,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-031,狗尾草,路边、郊野,待核验,待核验,Setaria viridis,tol10m:8a4140a37ce4ef13d54c6c79,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-032,蒲公英,路边、郊野,待核验,待核验,Taraxacum mongolicum,tol10m:e4088b9f9dc0e126d5f381b1,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-033,车前,路边、郊野,待核验,待核验,Plantago asiatica,tol10m:63bfe89953ede69af8c06708,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-034,马齿苋,路边、郊野,待核验,待核验,Portulaca oleracea,tol10m:1c12cb20047a68aca980faaf,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-035,酢浆草,路边、郊野,待核验,待核验,Oxalis corniculata,bioclip:plant-024,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-036,白车轴草,路边、郊野,待核验,待核验,Trifolium repens,bioclip:plant-023,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-037,紫花地丁,路边、郊野,待核验,待核验,Viola philippica,tol10m:49a3f86771353d23358c7d8b,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-038,葎草,路边、郊野,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-039,稻,农田、菜园、果园,待核验,待核验,Oryza sativa,tol10m:dc88153bdc7403d9bc98a3c2,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-040,小麦,农田、菜园、果园,待核验,待核验,Triticum aestivum,tol10m:7f776d9fae1cca264a4d538a,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-041,玉米,农田、菜园、果园,待核验,待核验,Zea mays,tol10m:cfdf869d38c88257a5bafe25,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-042,大豆,农田、菜园、果园,待核验,待核验,Glycine max,tol10m:e1f33f0dc46c2205cf25a310,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-043,花生,农田、菜园、果园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-044,马铃薯,农田、菜园、果园,待核验,待核验,Solanum tuberosum,tol10m:52c98e2dd6868a507935f703,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-045,番茄,农田、菜园、果园,待核验,待核验,Solanum lycopersicum,tol10m:3fecceb87032ca227111ade4,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-046,黄瓜,农田、菜园、果园,待核验,待核验,Cucumis sativus,tol10m:1692d16fdd4a447e8dec69b6,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-047,辣椒,农田、菜园、果园,待核验,待核验,Capsicum annuum,tol10m:f7589be4fdc15108ec541449,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-048,桃,农田、菜园、果园,待核验,待核验,Prunus persica,tol10m:88e1af87e0c0ac2587a594b7,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-049,梨,农田、菜园、果园,待核验,待核验,,,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签
+everyday-draft-050,柑橘,农田、菜园、果园,待核验,待核验,Citrus reticulata,tol10m:ab8c05538c51422b4934cc80,否,核验常见度依据、地域与具体物种范围；园艺名不直接作为物种标签

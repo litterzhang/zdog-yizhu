@@ -1,0 +1,15 @@
+@use '../../styles/tokens' as *;
+
+.footprints__group { margin-top: 28px; }
+.footprints__date { display: flex; align-items: center; gap: 8px; color: $muted; font-size: 12px; margin-bottom: 10px; }
+.footprints__date-dot { width: 6px; height: 6px; background: #c9d5c3; border-radius: 50%; }
+.footprints__entry { display: flex; align-items: center; gap: 14px; width: 100%; padding: 16px 0; border-bottom: 1px solid $line; border-radius: 0; background: $paper; text-align: left; line-height: 1.5; color: $ink; }
+.footprints__photo { width: 82px; height: 94px; }
+.footprints__entry-heading { gap: 4px; }
+.footprints__name { font-size: 16px; font-weight: 500; overflow-wrap: anywhere; }
+.footprints__arrow { flex-shrink: 0; color: $muted; font-size: 22px; }
+.footprints__time { color: $muted; font-size: 11px; margin-top: 7px; }
+.footprints__labels { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 10px; }
+.footprints__status { background: $surface; color: $green; font-size: 10px; border-radius: 4px; padding: 3px 6px; }
+.footprints__status--failed { color: $warning; background: #fbf8ef; }
+.footprints__saved { color: $muted; font-size: 10px; }

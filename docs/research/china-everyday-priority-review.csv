@@ -1,0 +1,1261 @@
+﻿候选ID（非排名）,来源中文名,学名标签,分类状态,本地目录ID候选,来源地区（非全国分布）,独立资料数,原始常见度标记,城市绿化推荐资料数,优先核对,训练已批准,来源记录定位
+review:0003ab43eb4b7bd4870e,山樱花,Prunus serrulata,种,tol10m:4388fa40600530f1d4cb4d89,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1205
+review:002ec19698a0354cd42f,落新妇,Astilbe chinensis,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:817
+review:00503f2c5a8f115994e2,节节草,Equisetum ramosissimum,种,tol10m:04c5a08f3c691d11cd1e9db1,华东,1,"{""多见"": 1}",0,是,否,F24:wild:11
+review:01392f9fc16a8fdbad8f,水鳖,Hydrocharis dubia,种,tol10m:264638fb1a373c9dcc93ee9b,华东,1,"{""多见"": 1}",0,是,否,F24:wild:111
+review:013c9d748e8fbd63ee29,乐昌含笑,Michelia chapensis,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:196
+review:0162b9d985a5c063816e,矮牵牛,Petunia × atkinsiana,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2257
+review:01a4a63bf987d3189712,红背桂,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:59
+review:021fea441eb82961cc54,银木,Cinnamomum septentrionale,种,tol10m:d9c8ee1bfec303d3ad5a13d6,华中,1,"{""未明确"": 1}",1,是,否,F19:76
+review:024069fc65b08fbb858a,白栎,Quercus fabri,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:40 | F24:wild:605
+review:029e0a3503e3d89b7dd1,白杄 / 白扦,Picea meyeri,种,tol10m:fabef7f7257b2b805d226196,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:3 | F24:cultivated:121
+review:02a0679c313353006c70,韭,Allium tuberosum,种,tol10m:edf69f1a241664468cf30b23,华东,1,"{""常见"": 1}",0,是,否,F24:wild:142
+review:0348b7fd4bc3e6a1a47b,黄山木兰,Magnolia cylindrica,种,tol10m:b0d4bc5819eeca540ea508c8,华中,1,"{""未明确"": 1}",1,是,否,F19:62
+review:03a0c21a2480b1cf853b,龙舌兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:28
+review:03bc352955ce6741e2d8,咖啡黄葵,Abelmoschus esculentus,种,tol10m:12c87c20de69eff0ad6530f8,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1766
+review:0424212b9f052b6c7748,川续断,Dipsacus asper,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2799
+review:042529c949e6f3cadcfc,樟树,Cinnamomum camphora,种,bioclip:plant-008,华中,1,"{""未明确"": 1}",1,是,否,F19:74
+review:042cb0a14931a5a67a72,四籽野豌豆,Vicia tetrasperma,种,tol10m:695e189c5ea769039c783b02,华东,1,"{""常见"": 1}",0,是,否,F24:wild:523
+review:050291a1de4f8038ef37,千金子,Leptochloa chinensis,种,tol10m:bd34efcb52756dddd179105d,华东,1,"{""常见"": 1}",0,是,否,F24:wild:325
+review:050ac8b0e6853a247932,益母草,Leonurus japonicus,种,tol10m:5efb3e8af4019362af11f492,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1036
+review:05149c9b2eac783912a8,母草,Torenia crustacea,种,tol10m:f8d9c9a425c43e8127524e81,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1000
+review:05c9d10c46de174221fb,一叶萩,Flueggea suffruticosa,种,tol10m:4bc7187242cd4f16fe959eb9,华东,1,"{""多见"": 1}",0,是,否,F24:wild:665
+review:05d0bf072fd671d1a319,紫薇,Lagerstroemia indica,种,tol10m:294311e4b8cd11fed6b55c0e,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:144 | F24:cultivated:1563
+review:064b1385d114606348e1,球兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:67
+review:065f55dd68e9734ee0a1,兔儿伞,Syneilesis aconitifolia,种,tol10m:0d29fb498d65bd77b2bf6db3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2748
+review:06a11a4944bda1d713ef,变叶木,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:32
+review:06a12a7e5fe306143c0f,紫花地丁,Viola philippica,种,tol10m:49a3f86771353d23358c7d8b,华东,1,"{""常见"": 1}",0,是,否,F24:wild:638
+review:06cf6176ce9c534acb27,香橙,Citrus × junos,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1733
+review:082094c40d6170bb3a8e,南瓜,Cucurbita moschata,种,tol10m:59bda10199590f8149111e53,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1423
+review:082caad55b2d201c9d5a,杜鹃,Rhododendron simsii,种,tol10m:d8ef0c09aa9fb46bd66f079f,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:151 | F24:wild:893
+review:08f52215a3a744cd6ccc,甜槠,Castanopsis eyrei,种,tol10m:ff3fcda5bc0911f86e58b047,华中,1,"{""未明确"": 1}",1,是,否,F19:30
+review:09478be2eb9cdce6abcb,碱菀,Tripolium pannonicum,种,tol10m:74d0831ff3b29426f34b82b5,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1200
+review:095db105922ee8db3baf,蛇含委陵菜,Potentilla kleiniana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:542
+review:0980fd763e19b4146a0b,六月雪,Serissa japonica,种,tol10m:6cc55c934b50c316e313eb2c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2177
+review:09c1640161f1f7d9a23e,水曲柳,Fraxinus mandshurica,种,tol10m:1aba970c9753ed5cb643de3e,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:100 | F24:cultivated:2293
+review:09d4f7f3977b6a1a227a,阔叶十大功劳,Mahonia bealei,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:406
+review:09dbf5ef90c160c3ae51,苏铁,Cycas revoluta,种,tol10m:ae6f1cdc62727bdd9e63356d,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:13
+review:0a0b45484a6b9c22c7f1,春榆（白杆榆、白皮榆）,Ulmus japonica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:35
+review:0a4673627bf59f74c27a,蒙古蒿,Artemisia mongolica,种,tol10m:5416328a11bcf53958f44e2e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1105
+review:0a5ad03ad2be8910dd8e,油松,Pinus tabuliformis,种,tol10m:cf7277ad68dcebbc60caae65,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:1 | F24:cultivated:139
+review:0aa20080985192841a6b,蒲苇,Cortaderia selloana,种,tol10m:ce4ac42a9f90ff7f396f3153,华东,1,"{""多见"": 1}",0,是,否,F24:wild:283
+review:0aa6dc6a2f7c4c9ab9a8,半边莲,Lobelia chinensis,种,tol10m:1ce6fc66f8f7069bfcb74a42,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1081
+review:0ab486ce45a53d59f57f,山葡萄,Vitis amurensis,种,tol10m:bfae2a6767b4ad644834c491,华北,1,"{""未明确"": 1}",1,是,否,F20:102
+review:0ab9413aa56e2706a809,葎叶蛇葡萄,Ampelopsis humulifolia,种,tol10m:7fab38df3d3f7f19bc538ed2,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:101 | F24:cultivated:860
+review:0ad297bdfd0f29d4efa1,鹅掌柴,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:18
+review:0b0718f66c73076a80b3,白桦（粉桦） / 白桦,Betula platyphylla,种,tol10m:12646d1177cba63ce0c4f643,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:28 | F20:17
+review:0b4f786285058934b98b,欧洲千里光,Senecio vulgaris,种,tol10m:3bf5156939626eeb2f4f2d92,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1183
+review:0b6dc027f4e2abf73611,海州常山,Clerodendrum trichotomum,种,tol10m:26c8fcd276d2469ef162cee6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1019
+review:0b846d45d6ea39e95d95,地肤,Bassia scoparia,种,tol10m:286ec2c45c155298c94caac4,华东,1,"{""常见"": 1}",0,是,否,F24:wild:834
+review:0b91875adda97bf8557f,习见萹蓄,Polygonum plebeium,种,tol10m:0da115a8d16bb719342c1601,华东,1,"{""常见"": 1}",0,是,否,F24:wild:790
+review:0bc834fd7776e5c7cf08,阴香,Cinnamomum burmanni,种,tol10m:5b7fb66642f53ef8d0f30b66,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:252
+review:0bf4003b3f2987ce246d,大丽花,Dahlia pinnata,种,tol10m:681d4d1530b17dace52e0565,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2662
+review:0c09f90980a21f4d72ab,木瓜,Chaenomeles sinensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:98
+review:0c6c1e9997ce19998586,北鱼黄草,Merremia sibirica,种,tol10m:0ef869d038f8455c0a9f2275,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:956
+review:0c732840f56aa361b2b3,金露梅（金老梅） / 金露梅,Potentilla fruticosa,种,tol10m:fe1a620c24e9ec94829b520e,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:52 | F20:59
+review:0c99b993c19d070f4817,黄菖蒲,Iris pseudacorus,种,tol10m:47180927bf775a07481e33b2,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:354
+review:0ca3e6e64407a953dd93,睡莲,Nymphaea tetragona,种,tol10m:2d6ad06d0d54e9cf252778f8,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:172
+review:0d35c08e66045f734ab5,豆薯,Pachyrhizus erosus,种,tol10m:9715280ca8d4aa9c34bc5516,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:932
+review:0d59539a338757381a68,欧洲油菜,Brassica napus,种,tol10m:f3d4597bd3aee545697f81dd,华东,1,"{""常见"": 1}",0,是,否,F24:wild:718
+review:0d6e52cd660945dd77ed,小叶鼠李,Rhamnus parvifolian,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:81
+review:0e14648a157f34a5bed8,美丽月见草,Oenothera speciosa,种,tol10m:52363f412df6a3b0ac9aa94a,华东,1,"{""常见"": 1}",0,是,否,F24:wild:687
+review:0e1a4e4301f3c2cf586d,朝鲜槐（山槐、怀槐、黄色木、高丽槐）,Maackia amurensis,种,tol10m:f78092c41b68ffa484324e3f,东北,1,"{""未明确"": 1}",1,是,否,F18:65
+review:0e5391c1c3893802b9f1,泥胡菜,Hemisteptia lyrata,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1161
+review:0fa10238cccf09ee0f86,柯孟披碱草,Elymus tsukushiensis,种,tol10m:a5ff4fa2db25e14c322dbe09,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:301
+review:0fa9de5135c8afb6cee8,海棠花,Malus spectabilis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1056
+review:0fd568cc5b338310245a,铁坚油杉,Keteleeria davidiana,种,tol10m:d551e1706cf299c8f372d46d,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:7 | F24:cultivated:115
+review:0fe71ae9ad7423c05277,多花含笑,Michelia floribunda,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:70
+review:1042798d5461c018159d,榆树（家榆、白榆） / 榆树 / 榆,Ulmus pumila,种,tol10m:66422f4e99835d3eff0beb35,东北 / 华东 / 华中 / 华北,4,"{""未明确"": 3, ""常见"": 1}",3,是,否,F18:34 | F19:52 | F20:26 | F24:wild:573
+review:107cfb17a53b3e615147,醉香含笑,Michelia macclurei,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:199
+review:108cc496848833260785,加拿利海枣,Phoenix canariensis,种,tol10m:3065a99eb1f58d40fe84f558,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:473
+review:10dddbc06a194e8ad838,红淡比,Cleyera japonica,种,tol10m:e92317d3165dc23551a09c21,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1987
+review:10f76395916d169c963f,黄葵,Abelmoschus moschatus,种,tol10m:ea9e40e618956287020f043e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1769
+review:110f107cb3bc44f7f03b,中国石蒜,Lycoris chinensis,种,tol10m:4fded3878f36d2a16f93aa24,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:396
+review:116fdcb81b3b88ec2d43,皱皮木瓜,Chaenomeles speciosa,种,tol10m:a2b5e676618e7b52bd2e1633,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:995
+review:11e2dabb02a4c17132cf,刺果茶藨子,Ribes burejense,种,tol10m:7a3b4d7c8ddf6fd9a519ad55,东北,1,"{""未明确"": 1}",1,是,否,F18:40
+review:11f363654823b06760ea,络石,Trachelospermum jasminoides,种,tol10m:37e65755a56cfedb1cf90a37,华东,1,"{""常见"": 1}",0,是,否,F24:wild:918
+review:1248de0b5dbef3f2245d,红松（朝鲜松、果松） / 红松,Pinus koraiensis,种,tol10m:abab73839227dbab8730d427,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:6 | F24:cultivated:132
+review:12582fb21f7e4c5c5fdf,百合竹,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:9
+review:126135559dfb2dee9d31,虮子草,Leptochloa panicea,种,tol10m:af6921835e24cc2aaaa08cd2,华东,1,"{""常见"": 1}",0,是,否,F24:wild:326
+review:129e85ac5a4d43112853,栾树,Koelreuteria paniculata,种,tol10m:693a1385d8846f3a00998ed8,华东 / 华中 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F19:131 | F20:96 | F24:cultivated:1728
+review:12d940a79d144e49a60d,红蓼,Persicaria orientalis,种,tol10m:7faa364b1e61fb79b9505822,华东,1,"{""常见"": 1}",0,是,否,F24:wild:777
+review:12ff4a529801431f5385,蒙椴,Tilia mongolica,种,tol10m:123293226fdd43f9d4921816,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:104 | F24:cultivated:1810
+review:133cce2441621ea7bab4,东北茶藨子（灯龙果）,Ribes manshuricum,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:41
+review:1370488d3fe12b24fb74,三裂绣线菊,Spiraea trilobata,种,tol10m:e0b708ff3d364828b6208de5,华北,1,"{""未明确"": 1}",1,是,否,F20:41
+review:139dd218d6965c3a73cc,木麻黄,Casuarina equisetifolia,种,tol10m:a16a2ae3be9df2a59f503072,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1388
+review:13ee1b908e2f8ce726c8,繁缕,Stellaria media,种,tol10m:e0aaefc0a48e1856fdea4eb2,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:816
+review:13f1772de5a6590d100c,棕叶薹草,Carex kucyniakii,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:514
+review:140f9430eaca35a9b909,李,Prunus salicina,种,tol10m:d5391bc0e160a015f26447c9,东北 / 华东,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F18:60 | F24:cultivated:1203
+review:143127e80eaa8fa551a4,省沽油,Staphylea bumalda,种,tol10m:bd8a54b30433ae0c2fd21e95,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F19:126 | F20:91 | F24:cultivated:1608
+review:1520ed30018a66a7b190,菱叶绣线菊,Spiraea × vanhouttei,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1280
+review:1598f9b2ae2010f8f09a,金缕梅,Hamamelis mollis,种,tol10m:c29ed6adea4c209948abe605,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:802
+review:163fd0ff07e8373804c9,玉米,Zea mays,种,tol10m:cfdf869d38c88257a5bafe25,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:620
+review:1640e8010e4076fa9854,彩叶草,Coleus scutellarioides,种,tol10m:fda099434a06756daf1f4d1e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2442
+review:1645576f30110a8ebe07,忍冬,Lonicera japonica,种,tol10m:023667d959ac4722f55c0c82,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1211
+review:1676b5a8797c7c8946ff,紫弹树,Celtis biondii,种,tol10m:e007d2a9a41b879dc90ca9fd,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:44 | F24:cultivated:1328
+review:16862c5627e9c8cafac7,鸡肠繁缕,Stellaria neglecta,种,tol10m:ee8c8efe47bf7100bc8a4158,华东,1,"{""多见"": 1}",0,是,否,F24:wild:817
+review:168cf2b502e3a1ef6b0e,郁金香,Tulipa gesneriana,种,tol10m:2a8fcd57bca7e3ffb6440098,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:331
+review:16c1564305964c81ee06,石楠,Photinia serrulata,种,tol10m:eebf3f60af8f7e8fe925451f,华中,1,"{""未明确"": 1}",1,是,否,F19:93
+review:16d628515616702d8ddc,苦瓜,Momordica charantia,种,tol10m:cc2f31f5a54b5abd68b7fce9,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1431
+review:16de3f55c1dc42dc1657,多花胡枝子,Lespedeza floribunda,种,tol10m:f94af673eb209579b565d025,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:78 | F24:cultivated:925
+review:1703fea75ca304fbc9e9,欧洲红豆杉,Taxus baccata,种,tol10m:2915ba1d4cf34772377c6aae,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:93
+review:1728d88ab7610cbe85fd,东方香蒲,Typha orientalis,种,tol10m:63f4a45c81c568f4ae0780cd,华东,1,"{""多见"": 1}",0,是,否,F24:wild:163
+review:17493ec22c31db3b7540,羊蹄,Rumex japonicus,种,tol10m:6a91f5c374e0f6e2890324df,华东,1,"{""常见"": 1}",0,是,否,F24:wild:796
+review:174feb6ed514d613be0f,茼蒿,Glebionis coronaria,种,tol10m:d7f31beff8ada4b6d15026d2,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2700
+review:17a54cc7441e6a680750,断节莎,Cyperus odoratus,种,tol10m:27629e826aeb5497541608f1,华东,1,"{""多见"": 1}",0,是,否,F24:wild:232
+review:17c0ab480581961eab2f,云实,Biancaea decapetala,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:464
+review:17da260fc9978f0aa657,猬实,Kolkwitzia amabilis,种,tol10m:6ab394c36f7ccc101183b629,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2802
+review:18201b402ec56ddda005,香菇草,Hydrocotyle verticillata,种,tol10m:d8e995445874484ddb58cb3c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1220
+review:182ddc9ca78c3c5009a0,山菅,Dianella ensifolia,种,tol10m:62eb51bb7f4f647d52e42ee3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:363
+review:186add97cc70b500251c,八角金盘,Fatsia japonica,种,tol10m:4edeeb2d649c9cf494d38a40,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1217
+review:187aed699d0d26fed81d,龙牙草,Agrimonia pilosa,种,tol10m:995ee59c56fc3f4f67a8f556,华东,1,"{""多见"": 1}",0,是,否,F24:wild:531
+review:18d182c148446a98aaac,苎麻,Boehmeria nivea,种,tol10m:dfd421380ca88a1893c1ee7e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:591
+review:1960d3db5f80250d9894,勋章菊,Gazania rigens,种,tol10m:d5225ad4a352038e430cbda4,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2693
+review:19edb5338d0817ce2f97,苦苣菜,Sonchus oleraceus,种,tol10m:8f0fca2c760768dc17370fc2,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1194
+review:1a038036b7b2a31a73a3,山荆子（山丁子） / 山荆子,Malus baccata,种,tol10m:1aefaa98b11d5eb2f61effdc,东北 / 华东 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F18:50 | F20:58 | F24:cultivated:1048
+review:1a2a08e6830326dd7b49,圆叶牵牛,Ipomoea purpurea,种,tol10m:9f5a35a7dfcdee1bf3a8542d,华东,1,"{""常见"": 1}",0,是,否,F24:wild:950
+review:1a52bf7bdfebae69b89f,留兰香,Mentha spicata,种,tol10m:71f2a868053956b51ce66bd3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2471
+review:1a6c71d138fe9753deff,鹤望兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:68
+review:1a6e8c2e7bfa04bc0de8,细茎针茅,Stipa tenuissima,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:617
+review:1a71d1133073e24a1344,小叶白蜡,Fraxinus bungeana,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:119
+review:1add1428773bab53d210,野蔷薇,Rosa multiflora,种,tol10m:4d636be435b6eac498daec3d,华东,1,"{""常见"": 1}",0,是,否,F24:wild:555
+review:1ae42270820863867fa3,半夏,Pinellia ternata,种,tol10m:5ea382c5eec0c24ba87efbf4,华东,1,"{""常见"": 1}",0,是,否,F24:wild:102
+review:1afa1d6742fd71c1ea50,梧桐,Firmiana simplex,种,tol10m:cca9e9aec73d6fd8ddfc736c,华东,1,"{""多见"": 1}",0,是,否,F24:wild:703
+review:1b3cb6ff6b1102304f5f,榆叶梅,Prunus triloba,种,tol10m:f70695de1312eb56d4222519,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1210
+review:1b4195cad21ada9af21c,香水月季,Rosa × odorata,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1258
+review:1b57ebc56b383feecf9e,望春玉兰,Magnolia biondii,种,tol10m:e7ef7ba4b0c1cdda81cded8b,华中,1,"{""未明确"": 1}",1,是,否,F19:60
+review:1b9d7e0676e9f8eb62a8,紫玉兰,Magnolia liliflora,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:64
+review:1bceec03454c279654b7,北美枫香,Liquidambar styraciflua,种,tol10m:7c9dddbec5594376bce6af1d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:792
+review:1c0c7e640c3cf3b0d69e,葫芦,Lagenaria siceraria,种,tol10m:add7f96929212a4e956ea18c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1426
+review:1c6151f74910fe4b1662,柳枝稷,Panicum virgatum,种,tol10m:fab2d2a72c740803a1dc4cc1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:577
+review:1ca675d037fd156171f6,二球悬铃木,Platanus × hispanica,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:726
+review:1cc701430bf79dd14833,茑萝松,Ipomoea quamoclit,种,tol10m:78b4ef2b8dd7d201abe5c684,华东,1,"{""多见"": 1}",0,是,否,F24:wild:951
+review:1d99e600206df6e0150f,斑地锦,Euphorbia maculata,种,tol10m:b656fd21edc84762b20372e4,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:651
+review:1dd0d288cee7672cbb41,匍匐大戟,Euphorbia prostrata,种,tol10m:24018754a40e4ec44dcde383,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:654
+review:1e2f09ad15689f060598,水栒子,Cotoneaster multiflorus,种,tol10m:56fa1689d5c8175175b912b9,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:47 | F24:cultivated:1006
+review:1e6761bfdb31d7a00b81,美女樱,Verbena × hybrida,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2400
+review:1e8daf79713772889cb3,金色狗尾草,Setaria pumila,种,tol10m:8fc951dbc33f4e18de0c69a4,华东,1,"{""常见"": 1}",0,是,否,F24:wild:377
+review:1f06d9e9c0502370dae6,甘蔗,Saccharum officinarum,种,tol10m:2bf5e9cc1c4c5b865f1c3114,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:609
+review:1f4183509382172dea9e,番茄,Solanum lycopersicum,种,tol10m:3fecceb87032ca227111ade4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2262
+review:1f64ae8779860a08612d,凌霄,Campsis grandiflora,种,tol10m:a475507f39154d2bd556f2d1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2381
+review:1f84b4483403d65b3006,山茶,Camellia japonica,种,bioclip:plant-016,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2010
+review:1fb3111ef5ae5ddaaf74,河北杨,Populus × hopeiensis Hu et Chow,杂交待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:7
+review:1fbacfb39d5a14ae8790,孔雀稗,Echinochloa crus-pavonis,种,tol10m:7b2a4984cf9c3dea80b6d73a,华东,1,"{""多见"": 1}",0,是,否,F24:wild:295
+review:1fe31aef8fc2e274a616,美国白梣,Fraxinus americana,种,tol10m:78c099471484dadefd2a6e7e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2289
+review:20006a675e65d9f2c8d0,贵州石楠,Photinia bodinieri,种,tol10m:5b651ce88a2634922bb33f7a,华中,1,"{""未明确"": 1}",1,是,否,F19:94
+review:204e05d98f789787bdfb,马蹄金,Dichondra micrantha,种,tol10m:ed03f7db516f9b5c2ec985fd,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:947
+review:20a87103eb4c4965efa6,梧桐,Firmiana platanifolia,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:135
+review:20f5c346333a4ad14ef4,酸模,Rumex acetosa,种,tol10m:31150ae7d8372ed8872a6331,华东,1,"{""多见"": 1}",0,是,否,F24:wild:792
+review:20f77074b9f7427c2bbb,山麻秆,Alchornea davidii,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:645
+review:2121d8bb9abd65f2150e,结缕草,Zoysia japonica,种,tol10m:2357a09a1d47ed238383f072,华东,1,"{""常见"": 1}",0,是,否,F24:wild:389
+review:21be73a5120b1d957ce4,非洲茉莉（灰莉）,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:4
+review:21eae68e1f57b3aa1bd3,金钱蒲,Acorus gramineus,种,tol10m:ca2fc466e83a89c87a68ff6e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:277
+review:21ebdcb1376739f0e739,五叶地锦,Parthenocissus quinquefolia,种,tol10m:896eb4218e426d5dbdf09f28,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:862
+review:221616de18bb64712f86,海石竹,Armeria maritima,种,tol10m:dc294df796149672f694c494,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1866
+review:221c80ff80cf1a29fba7,通泉草,Mazus pumilus,种,tol10m:8e45052086c9c8bbb6485051,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1070
+review:22826c836f4949f7ed15,蘋,Marsilea minuta,种,tol10m:a2cfe1c4c27b9132d063247d,华东,1,"{""多见"": 1}",0,是,否,F24:wild:20
+review:2282f052db76832b8eb2,杜松（崩松、刚松） / 杜松,Juniperus rigida,种,tol10m:bb7973564d740fcdefc98276,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:11 | F24:cultivated:68
+review:228fa921d572e8346bc4,红椿,Toona ciliata,种,tol10m:ddfbf0046c8bc89bd5191735,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1763
+review:22de26d9c6e80d43a92d,胡桃楸（核桃楸、楸子、山核桃） / 核桃楸 / 胡桃楸,Juglans mandshurica,种,tol10m:4031ed4d4b5b971d2770d664,东北 / 华东 / 华北,3,"{""未明确"": 2, ""少见"": 1}",1,是,否,F18:24 | F20:16 | F24:cultivated:1384
+review:233484e1ba85cd911e3b,南蛇藤,Celastrus orbiculatus,种,tol10m:9acf4ad999b3127dacc2ee3c,华东 / 华北,2,"{""未明确"": 1, ""极少见"": 1}",1,是,否,F20:89 | F24:wild:617
+review:2391403a3a04bb85b84b,厚朴,Houpoea officinalis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:184
+review:23a619d943320a792e04,青花椒,Zanthoxylum schinifolium,种,tol10m:2b49eabc94f4059804a297ab,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",0,是,否,F20:83 | F24:cultivated:1758
+review:23b11087000a9f6554ca,雪松,Cedrus deodara,种,tol10m:e3be6b02ba7259038b6c05c4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:114
+review:23d24946dd339c65a9d6,白鹃梅,Exochorda racemosa,种,tol10m:e51923d07259ad6114d26e64,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1013
+review:23fa82e63d4428127458,北美独行菜,Lepidium virginicum,种,tol10m:d50dd77b144b9c9e3530a05f,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:737
+review:24a30e34f455d82d6ea3,姜,Zingiber officinale,种,tol10m:1d33a3aa28e030c93c2673db,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:506
+review:24b59478235ffeb8ba2c,落葵薯,Anredera cordifolia,种,tol10m:05034a6278df47bb27124278,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1922
+review:24bff11b7db51bf6c0a4,牛筋草,Eleusine indica,种,tol10m:1d26634412b32d9c30d21d94,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:296
+review:24f82335b932e0fbf46d,银杏,Ginkgo biloba,种,bioclip:plant-001,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:1 | F24:cultivated:15
+review:25379b0b655221bd0cd6,宜昌润楠,Machilus ichangensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:82
+review:256cd01535a5d5c4028a,红丁香,Syringa villosa,种,tol10m:7de735ca1c6f1a4b24531ee7,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:103 | F20:124
+review:259dcb8998dc294ad012,槲树,Quercus dentata,种,tol10m:f4d52e69f62aa64989d1ea3a,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",0,是,否,F20:22 | F24:cultivated:1361
+review:25a19919ecb9e187d812,碧玉（豆瓣绿）,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:5
+review:25b0fd0a4370580b4476,粉花绣线菊,Spiraea japonica,种,tol10m:36cad5de85d23152fc8189aa,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1286
+review:25b1ab89ba79a3f62aab,野燕麦,Avena fatua,种,tol10m:1965e86b53fd9ff474a58850,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:268
+review:2605550973851fe1c297,山樱花,Cerasus serrulata,种级候选待核验,,华中 / 华北,2,"{""未明确"": 2}",2,是,否,F19:99 | F20:66
+review:26179e84e812b8d2a5db,万寿菊,Tagetes erecta,种,tol10m:c0aa99a688c4fa4f1bf59f5a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2749
+review:262ca1cf2152450aa417,假连翘,Duranta erecta,种,tol10m:a36f60464caf540da687ee73,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2392
+review:2632eaf457f2b3933613,皱果苋,Amaranthus viridis,种,tol10m:b4276d723ccd437ce01f0ad6,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:831
+review:26449ada499304e0b285,海芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F26:indoor:3
+review:26d56e2a6e6352813b7d,雏菊,Bellis perennis,种,tol10m:d7f3aa4bd80a5566b68e787a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2638
+review:26e9a5f8198e75e62539,栀子,Gardenia jasminoides,种,bioclip:plant-017,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2166
+review:27297179b6e7dd07742a,贯月忍冬,Lonicera sempervirens,种,tol10m:3b69f0d8e44285bba25df9be,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2821
+review:2768f8924dd70ebc8b55,大花紫薇,Lagerstroemia speciosa,种,tol10m:35ec9e9c3dc48a95e7a57fb0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1569
+review:27ac2cafcf81685baa88,大叶小檗 / 黄芦木,Berberis amurensis,种,tol10m:77268c3ae92bddc01041483d,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:35 | F24:cultivated:643
+review:286d3ac455e843c4c078,欧洲夹竹桃,Nerium oleander,种,tol10m:281487c1062c0facab7c8f60,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:917
+review:28adf41b41d58635f419,七叶树,Aesculus chinensis,种,tol10m:9be62f68f79bf0dcfa121c4f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1724
+review:28bf306ae4ad5146c31c,粗毛牛膝菊,Galinsoga quadriradiata,种,tol10m:792a952b9df68663b7829ab3,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1157
+review:28d2f1a5df618ad95dac,白脉椒草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:42
+review:28f4393f6ace1957c39c,黄秋英,Cosmos sulphureus,种,tol10m:527040491e6bb2bb9f8eaca6,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1137
+review:29050faf9875ebd88b11,南紫薇,Lagerstroemia subcostata,种,tol10m:878840921b42367aa6cc97f7,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:145 | F24:cultivated:1570
+review:2927aa4571605e2dd023,车前,Plantago asiatica,种,tol10m:63bfe89953ede69af8c06708,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:982
+review:292a0aac26446b9a1a83,白晶菊,Mauranthemum paludosum,种,tol10m:dc9193856c641f89a9a46fa0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2733
+review:2956b22b9d18c92d2455,马唐,Digitaria sanguinalis,种,tol10m:abe8bc3a55afb3391f431aad,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:289
+review:2969e8b765084caa8c64,四季秋海棠,Begonia cucullata,种,tol10m:f8d18bfd41b0d34a31519c9f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1437
+review:29a21ef5e8d1b7eaca75,毛葡萄,Vitis heyneana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:864
+review:2a1709a2e4f544f33f3d,湘楠,Phoebe hunanensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:86
+review:2a32fbcdc8e261694316,窃衣,Torilis scabra,种,tol10m:88199cf3f81ce6852c6ead52,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1238
+review:2b0085982bb956210702,柔弱斑种草,Bothriospermum zeylanicum,种,tol10m:02cb2291a6a8298693febcc4,华东,1,"{""常见"": 1}",0,是,否,F24:wild:926
+review:2b31add41ea2399bf779,蓖麻,Ricinus communis,种,tol10m:6cbddcfe90347c54b3df2514,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:660
+review:2bb6d0bb62d6a06bb1d2,华紫珠,Callicarpa cathayana,种,tol10m:42d2259a6a14c424cab4530c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2413
+review:2bbf1bf4d6a820e6d443,高山蓍,Achillea alpina,种,tol10m:f09dc54da73d30a97f31d5a8,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2609
+review:2bc5cd7021d0505632ec,愉悦蓼,Persicaria jucunda,种,tol10m:964b1f95a21205148fed2c1c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:767
+review:2bc6367ba14778003fca,玉兰,Yulania denudata,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:236
+review:2bde9eec4748891b8937,月季花,Rosa chinensis,种,bioclip:plant-019,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1262
+review:2bfa980a94773bc0b6a9,珊瑚樱,Solanum pseudocapsicum,种,tol10m:6656c256bef5ed878b5674a4,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2269
+review:2c1bfc4bb78f41184e40,白茅,Imperata cylindrica,种,tol10m:12cdf9b53f04bf6cec7e7298,华东,1,"{""常见"": 1}",0,是,否,F24:wild:318
+review:2c1d5978dbfc83913b0d,蜘蛛抱蛋,Aspidistra elatior,种,tol10m:929ea38ff20e70dd6a844e9e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:412
+review:2c34a2ad5bdb7e4d2b7b,结香,Edgeworthia chrysantha,种,tol10m:2c027f541440b002c1e3cbe0,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1817
+review:2c57b603e759fafff5c7,拟鼠曲草,Pseudognaphalium affine,种,tol10m:11b0cd01893e1ea35fa2db36,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1180
+review:2c6c81b74f1e74d28f15,法国熏衣草,Lavandula stoechas,种,tol10m:e9c53db0fcb7ae8d708f3401,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2459
+review:2c7474cbe39e3f6fc645,柘树,Cudrania tricuspidata,种,tol10m:b3f92914a3f36d264d926cd8,华北,1,"{""未明确"": 1}",1,是,否,F20:34
+review:2c84784b2adbc8f4007f,锦带花,Weigela florida,种,tol10m:7f987f09b6d5b590b7706701,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:136 | F24:cultivated:2833
+review:2ca47d7ae028027d5d1a,母菊,Matricaria chamomilla,种,tol10m:abc50daeab444280457dc498,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1176
+review:2cead184bdaa7f291b10,火棘,Pyracantha fortuneana,种,tol10m:401dceac758d42eada7de8e0,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:548
+review:2d3d056a8d3e364af0c6,油柿,Diospyros oleifera,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1997
+review:2d447182520dba7750b0,匍匐筋骨草,Ajuga reptans,种,tol10m:d98ecaf42b113eb37a628cad,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2408
+review:2de478d14e8a2861b441,金刚鼠李,Rhamnus diamantiaca,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:82
+review:2e08fb2754b28b45efa5,韭莲,Zephyranthes carinata,种,tol10m:5fedbd3c69947d58548a4d43,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:405
+review:2e4c939f181c83c7563f,金钱松,Pseudolarix amabilis,种,tol10m:d400d59dc202ce78ef475b4f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:144
+review:2ebc521cb31ad731a04c,矮小山麦冬,Liriope minor,种,tol10m:c1fab331f3ebbee40a067729,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:441
+review:2ec04453e1e2cfcb7672,香橼,Citrus medica,种,tol10m:7103098fabbac77885499506,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1738
+review:2ec15e209287d256416a,弯曲碎米荠,Cardamine flexuosa,种,tol10m:779bc355aa8f703abaddaae7,华东,1,"{""常见"": 1}",0,是,否,F24:wild:722
+review:2ec60e75eed524d05e96,田旋花,Convolvulus arvensis,种,tol10m:2cd7f4d88974180b2a15311f,华东,1,"{""多见"": 1}",0,是,否,F24:wild:943
+review:2eea094602150ee81d79,湖北海棠,Malus hupehensis,种,tol10m:955e90203fd2e975f04c7e39,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:97 | F24:cultivated:1051
+review:2f40d31c7c1e7c0a04fb,垂枝红千层,Callistemon viminalis,种,tol10m:0620f58a6b38053a80de3e14,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1595
+review:2fb8639376f2e15e016c,富贵竹,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:7
+review:2fe5f1dd28974dbd8fa7,盐地碱蓬,Suaeda salsa,种,tol10m:2c32044ff407e56b682d88a1,华东,1,"{""多见"": 1}",0,是,否,F24:wild:855
+review:30048983c47551862719,叉枝莸,Tripora divaricata,种,tol10m:cb6fd78892b2f06ceaea0208,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2542
+review:3038bfcfca9c7a82845f,早熟禾,Poa annua,种,tol10m:7947dd8b225c459678e8c081,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:363
+review:307fb6c4eeb634de34a0,旋覆花,Inula japonica,种,tol10m:13a77d81fe8185d0087de4d6,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1163
+review:30ffeaab3d80cbf1000e,日本花柏,Chamaecyparis pisifera,种,tol10m:09c0b00306c7dda57594a8d0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:36
+review:310e7a3de4e8987711f0,罗布麻,Apocynum venetum,种,tol10m:8a62ca6fa69a808c325beb40,华东 / 华北,2,"{""未明确"": 1, ""近年未见"": 1}",1,是,否,F20:126 | F24:wild:911
+review:3175f963ee03e035e6dc,中华绣线菊,Spiraea chinensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1284
+review:317a99a9d78d26227c07,粉枝柳（苏古特日图-巴日嘎苏、簸箕柳、红毛柳）,Salix rorida,种,tol10m:537ea9bea0fa4828175eff1c,东北,1,"{""未明确"": 1}",1,是,否,F18:22
+review:318bc3e118fc7f373205,辽椴（糠椴、大叶椴）,Tilia mandshurica,种,tol10m:ccdb5262002d123e86b204a3,东北,1,"{""未明确"": 1}",1,是,否,F18:87
+review:31f84ad0a6f98071ddf8,红楠,Machilus thunbergii,种,tol10m:f2c732c6f6caea0f9183d7d7,华东 / 华中,2,"{""未明确"": 1, ""极少见"": 1}",1,是,否,F19:84 | F24:wild:92
+review:321accf0bb31cd96b580,白蜡树,Fraxinus chinensis,种,tol10m:04087a6c294afd6cfb1440ff,华东 / 华中 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F19:156 | F20:121 | F24:cultivated:2290
+review:3250a0ada85029323342,铁苋菜,Acalypha australis,种,tol10m:7e76cd4d6f2c5d12d016fc3a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:644
+review:3252b4ca1442bb2f6f64,丛枝蓼,Persicaria posumbu,种,tol10m:7718f6b669da3c55aa6998a2,华东,1,"{""多见"": 1}",0,是,否,F24:wild:779
+review:32a2342f9fb81c7ca1fb,醉蝶花,Cleome houtteana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1824
+review:32d178099818003b18ac,日本看麦娘,Alopecurus japonicus,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:261
+review:33026b6d74db9579ca2c,湖北紫荆,Cercis glabra,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:104 | F24:cultivated:891
+review:3355d34937ca11fd46d2,大花溲疏,Deutzia grandiflora,种,tol10m:781db142c6ecdb71900fbb39,华北,1,"{""未明确"": 1}",1,是,否,F20:38
+review:33acf2281ff09e148f70,刺槐,Robinia pseudoacacia,种,tol10m:e6b960c3a595eea7282b066e,华东,1,"{""常见"": 1}",0,是,否,F24:wild:507
+review:33ad674cdcd3151d4a80,虎耳草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:60
+review:33b04ad553091d5eb3cb,文竹,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:8
+review:34a09bfb4de95d487d43,龙葵,Solanum nigrum,种,tol10m:b733e5082595186659314796,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:969
+review:35a552d3520f063800f8,绿萝,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F26:indoor:2
+review:35a6075ba64b45628b57,广州蔊菜,Rorippa cantoniensis,种,tol10m:83ed18f192ff3b0612a2b771,华东,1,"{""常见"": 1}",0,是,否,F24:wild:740
+review:362297ebe75743cf6ce0,丝毛飞廉,Carduus crispus,种,tol10m:c1a36f9b37195a6a4e1b7d9a,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1126
+review:362a87c41e7a864b6dfb,小叶青冈,Cyclobalanopsis myrsinifolia,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:36
+review:362b9e4e76a63e045b50,溪荪,Iris sanguinea,种,tol10m:849668c19be9d2becf7a0f26,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:356
+review:36a1331969490471b3cd,泽漆,Euphorbia helioscopia,种,tol10m:12b7ced0a2d1b5c594d0c89c,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:648
+review:36b75e5395bc5e52b1ff,白刺花,Sophora davidi,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:951
+review:36c4f511443e749c7067,水苦荬,Veronica undulata,种,tol10m:3f4b8c94f78800b3893b6e8d,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:995
+review:36ee99420c5fc286816d,三花槭（拧劲槭、柠筋槭、伞花槭）,Acer triflorum,种,tol10m:3ea16d8f48b6f0711d080315,东北,1,"{""未明确"": 1}",1,是,否,F18:78
+review:37a6995ae74cb3fc7c86,紫云英,Astragalus sinicus,种,tol10m:feb6664a4313e3b3efb6c967,华东,1,"{""常见"": 1}",0,是,否,F24:wild:463
+review:382e6728fb036c7604ad,细叶满江红,Azolla filiculoides,种,tol10m:a9897b798599db2e599e3952,华东,1,"{""常见"": 1}",0,是,否,F24:wild:75
+review:386077610fbddd1dae3c,彩叶凤梨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:22
+review:387be5e091fc92013216,毛酸浆,Physalis pubescens,种,tol10m:2aac455e66be855df20f5917,华东,1,"{""常见"": 1}",0,是,否,F24:wild:964
+review:387fc80b853f2a87a2b4,荷花玉兰,Magnolia grandiflora,种,bioclip:plant-010,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:191
+review:388cdbf2262d6eb6165f,杜英,Elaeocarpus decipiens,种,tol10m:502258803819c9e4018f51bf,华东,1,"{""常见"": 1}",0,是,否,F24:wild:628
+review:3892f9820ed40e45f145,冬青,Ilex chinensis,种,tol10m:a1013fec45cdabf4a950c7ab,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:125 | F24:wild:1077
+review:389585dff2f33e2ac811,鹅掌藤,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:30
+review:38b90e304b8f90251849,绶草,Spiranthes sinensis,种,tol10m:bf34993e665f753c5f5e5e58,华东,1,"{""多见"": 1}",0,是,否,F24:wild:139
+review:38ed07a81734a4e6e25f,绵毛水苏,Stachys byzantina,种,tol10m:14b7baabc9259d5612a22c74,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2532
+review:393426f0ac6e8135a826,蓍,Achillea millefolium,种,tol10m:7e2c36f883de50bab7ff3049,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2611
+review:396de81020cce32ad641,长寿花,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:15
+review:39a7c7538eae67860888,点地梅,Androsace umbellata,种,tol10m:f2a48ffb6b7e3a597b32f2e0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:876
+review:39afc69be66a0c6b29b2,黄栌,Cotinus coggygria,种,tol10m:474f9f5e284a4e871940200b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1613
+review:39e62342d15c7f435b0b,落羽杉,Taxodium distichum,种,tol10m:9a76dbb90d2eb77162c0a88e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:79
+review:3a3889d0c48d1e855465,无梗五加,Acanthopanax sessilifloru,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:112
+review:3a4612fd67bfe6900bf2,芦竹,Arundo donax,种,tol10m:72fca1a0d9cd83dd2b8e85bf,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:267
+review:3a5df5c0a34bc7ba438c,木本香薷,Elsholtzia stauntoni,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:129
+review:3a6e486a97be62f3fec6,铁冬青,Ilex rotunda,种,tol10m:1b12f2afccf8cf7297b04dd2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2586
+review:3a79a345463b23d48c4b,紫娇花,Tulbaghia violacea,种,tol10m:eacec599bf4281220b0151eb,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:402
+review:3ac401fd94187e2db5bb,黑松,Pinus thunbergii,种,tol10m:093a966920494cc044e005ac,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:141
+review:3ae6eac8421adcd92585,福绿桐,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:31
+review:3afd6d7e902cd905a096,肥皂草,Saponaria officinalis,种,tol10m:e5d3747579bf1c1d79a63fa3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1891
+review:3b029449a7dbb694b54c,凹头苋,Amaranthus blitum,种,tol10m:f812232d076e0624e17131ae,华东,1,"{""常见"": 1}",0,是,否,F24:wild:824
+review:3b27abef1649de7ead99,胡枝子（帚条儿） / 胡枝子 / 日本胡枝子,Lespedeza bicolor,种,tol10m:aed58c04c0f9bde48c9357f5,东北 / 华东 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F18:66 | F20:77 | F24:cultivated:923
+review:3b4875cbf6475e779c2a,牵牛,Ipomoea nil,种,tol10m:3dc3eca7f3d2957a45ae644b,华东,1,"{""多见"": 1}",0,是,否,F24:wild:949
+review:3c198d60c56e76c30859,双穗雀稗,Paspalum distichum,种,tol10m:1b4f628e7df5c9215868f660,华东,1,"{""常见"": 1}",0,是,否,F24:wild:350
+review:3c2cc692fb52422012a0,大狗尾草,Setaria faberi,种,tol10m:bb99d8461e25e99e13b6735b,华东,1,"{""常见"": 1}",0,是,否,F24:wild:374
+review:3c6487985ecdf9293377,朝天委陵菜,Potentilla supina,种,tol10m:ea8e65f01f4f7aea7b99dffd,华东,1,"{""常见"": 1}",0,是,否,F24:wild:544
+review:3cc65c52e27970929eff,早园竹,Phyllostachys propinqua,种,tol10m:ef557e44c87d8e5d2a767093,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:594
+review:3d6a6b38a27f9daeda89,香丝草,Erigeron bonariensis,种,tol10m:fb8330bf26b44407f26bc41e,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1146
+review:3e0bfdc227bfc34bf2fa,雄黄兰,Crocosmia × crocosmiiflora,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:341
+review:3e160b58588c69e53486,锦葵,Malva cathayensis,种,tol10m:220f94bc77b4aae4270ecae7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1802
+review:3e9f8c542fd1a32a1b55,毛地黄钓钟柳,Penstemon digitalis,种,tol10m:eb5b32662b47f1f9a865fc05,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2349
+review:3ecfd9a02441d9ae6c0e,蔊菜,Rorippa indica,种,tol10m:d6a1079171434749f8b331da,华东,1,"{""常见"": 1}",0,是,否,F24:wild:743
+review:3f57e1856f1a174dc342,接骨木,Sambucus williamsii,种,tol10m:82b6debaaab91bfa059c4d42,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:132 | F24:wild:1208
+review:3f90fcf749465cd40af2,天葵,Semiaquilegia adoxoides,种,tol10m:91ff0fbcaeb43cb892c6b5c4,华东,1,"{""多见"": 1}",0,是,否,F24:wild:427
+review:3fdfbf5e74918a9d662d,粉团,Viburnum plicatum,种,tol10m:cb902f9ed189d958c2ae765a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2785
+review:40757ba6e0fcab9233db,山乌桕,Triadica cochinchinensis,种,tol10m:9de991e89d083ea8b8065223,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1546
+review:40b2b82963bf4af3d31b,鸭跖草,Commelina communis,种,tol10m:347886ebd6ec95c6686abc08,华东,1,"{""常见"": 1}",0,是,否,F24:wild:155
+review:40c3b202be783f093d62,峨眉含笑,Michelia wilsonii,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:203
+review:40db57db37d36cf00c83,大青杨,Populus ussuriensis,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:16
+review:410e52a0185316f240a6,石灰花楸,Sorbus folgneri,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:96
+review:41196543bea476e64184,荩草,Arthraxon hispidus,种,tol10m:e04bae27546ccd55d19b58e6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:263
+review:4156d8415a5205c5a749,麻栎,Quercus acutissima,种,tol10m:33b91746d6c4721d4d72ba5f,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",1,是,否,F19:37 | F20:20 | F24:wild:604
+review:42b35427e1172a09bcfc,东北鼠李,Rhamnus yoshinoi,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:85
+review:42b842847a2ea95de976,刻叶紫堇,Corydalis incisa,种,tol10m:cdf3adfa776509d4920bcb81,华东,1,"{""多见"": 1}",0,是,否,F24:wild:395
+review:431def80c0f56f903c89,鸡矢藤,Paederia foetida,种,tol10m:3772cd20997994adfd20c0c7,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:903
+review:43400d9eb97919aa7cbe,菜豆树,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:49
+review:43582a9cd354ef46ead7,葱莲,Zephyranthes candida,种,tol10m:a6abcc6334bf96caa9bce605,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:404
+review:43701347c9d6477103e3,穗花牡荆,Vitex agnus-castus,种,tol10m:de91dcc71e529c03f770cb22,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2543
+review:43f16409545239d5bacb,花楷槭（花楷子）,Acer ukurunduense,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:76
+review:43f63aceb875f4d07fcf,菊花,Chrysanthemum × morifolium,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2649
+review:43fe400e4651adc4ff4e,半枝莲,Scutellaria barbata,种,tol10m:1710d0cc80f8c1c646ff7801,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1057
+review:4402bd0db5c7b4021df9,素方花,Jasminum officinale,种,tol10m:81b50a713d28f67ba96bc4a9,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2299
+review:4457c3a84c95e1062124,白杜（华北卫矛） / 丝棉木 / 白杜,Euonymus maackii,种,tol10m:6118edc483552701772858f5,东北 / 华东 / 华北,3,"{""未明确"": 2, ""常见"": 1}",2,是,否,F18:71 | F20:92 | F24:wild:621
+review:448ac95ebd3db2d22fa2,直立婆婆纳,Veronica arvensis,种,tol10m:115d20d4908bd36af3b99f97,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:990
+review:44a174327d6cf612a9fd,枹栎,Quercus serrata,种,tol10m:ff2e02ef127c9e693a439b70,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:42 | F24:cultivated:1375
+review:44a739a0a9cbb158e953,高山柏,Juniperus squamata,种,tol10m:619e5e23eef0fc7b989f2793,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:71
+review:44b9e0cd1c41392d3b30,紫竹,Phyllostachys nigra,种,tol10m:3fa61fa9a36c98dd9928eb7b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:592
+review:44f056425e1e4b576ff5,棕榈,Trachycarpus fortunei,种,tol10m:6b3dc9a6d7b254c9155ac174,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:163 | F24:wild:153
+review:4518ebbb419cd720c4ba,金银忍冬（马氏忍冬、金银木、王八骨头） / 金银木 / 金银忍冬,Lonicera maackii,种,tol10m:f5303397a5ca19899569ab16,东北 / 华东 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F18:114 | F20:135 | F24:cultivated:2820
+review:45408989e403d3dfb294,芜菁,Brassica rapa,种,tol10m:48f0e13591017dc06a82c9ed,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1846
+review:45441b4ce1c6f78bd5a5,大花马齿苋,Portulaca grandiflora,种,tol10m:710e9cf787cad34de2974836,华东,1,"{""多见"": 1}",0,是,否,F24:wild:865
+review:455facaedb78ce0cae8a,阴香,Cinnamomum burmannii,种,tol10m:02c46b25e06475bbd58af011,华中,1,"{""未明确"": 1}",1,是,否,F19:80
+review:45aceaa637739035a2de,乌苏里鼠李,Rhamnus ussuriensis,种,tol10m:f717fcbdd939c79ddea97d87,东北,1,"{""未明确"": 1}",1,是,否,F18:83
+review:45dd68b62255e61bed82,水莎草,Cyperus serotinus,种,tol10m:cc5f8e5899b2e21f3be5ff84,华东,1,"{""多见"": 1}",0,是,否,F24:wild:236
+review:45e11965306bfd2ec691,紫花堇菜,Viola grypoceras,种,tol10m:5a184ca93fecef7d801b1633,华东,1,"{""多见"": 1}",0,是,否,F24:wild:635
+review:463bcd0879cb9a4a61a4,硬骨凌霄,Tecomaria capensis,种,tol10m:2733431a09564aa3ab19948c,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2390
+review:46a2da20ee3364e72eaf,泽珍珠菜,Lysimachia candida,种,tol10m:722bf8a69e84acb76ba7680e,华东,1,"{""常见"": 1}",0,是,否,F24:wild:880
+review:4743265b155c1b48630c,中国绣球,Hydrangea chinensis,种,tol10m:7368d550c78031b48095137a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1947
+review:4748c5c5dea568951423,长药八宝,Hylotelephium spectabile,种,tol10m:c3ced97e7edc1a38824b085a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:835
+review:4756d4f61db04a52dc18,知风草,Eragrostis ferruginea,种,tol10m:7c3edb64ca5cdb1c51a650e4,华东,1,"{""多见"": 1}",0,是,否,F24:wild:304
+review:476b1de47ca58d5bb7c2,野莴苣,Lactuca serriola,种,tol10m:06a041b3dbc823a8457bf721,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1174
+review:4786a7fb6b6a148e4058,红叶石楠,Photinia × fraseri,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1059
+review:478f10c68d7a8156f542,钻叶紫菀,Symphyotrichum subulatum,种,tol10m:b7aea28a41ab563f43a92161,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1197
+review:479511c429f4a90bae1d,八宝,Hylotelephium erythrostictum,种,tol10m:13a62e3e3e97e3d6e8c572f9,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:833
+review:47c77db1576a042544f0,东方鸢尾,Iris orientalis,种,tol10m:91767e54689ada6fee06543a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:352
+review:47d91bc013d0539d25f8,白棠子树,Callicarpa dichotoma,种,tol10m:4734059d92c3cd5808422137,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2414
+review:483dfdef32170f0a0e45,飞蛾槭,Acer oblongum,种,tol10m:1a4976305f1e9163e443e899,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1648
+review:486774e18f05258df3ff,藜,Chenopodium album,种,tol10m:1fadf1fc9ce386a4ca95ed94,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:842
+review:489d7978fec0f9365e2d,常春藤,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:29
+review:48d5c31c8927ab23d2d0,草木樨,Melilotus officinalis,种,tol10m:440fe799a33bce1258d5780a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:501
+review:49639d4eaf9e9daacc97,丝兰,Yucca filamentosa,种,tol10m:5163f2f29f8eaf469d905815,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:464
+review:49700b89f862ff2302b6,蚊母树,Distylium racemosum,种,tol10m:91f7f2e9ecce03a913a679cd,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:431
+review:49a1636bae91091127a1,紫茎,Stewartia sinensis,种,tol10m:d7c5627e3202eb1417bb7bf4,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:139 | F24:cultivated:2101
+review:49e5f8df691d5d61a592,细叶水团花,Adina rubella,种,tol10m:58a23bc59d5e86b71171f61b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2162
+review:4a36098d8cb4b848ffbf,棣棠花,Kerria japonica,种,tol10m:2f0b440b042372535020314c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1016
+review:4a4c3e7efe800a353f8c,杨桐,Adinandra millettii,种,tol10m:d77545046c23dd8c70840f1e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1986
+review:4a539fcfa191347b802e,水蛇麻,Fatoua villosa,种,tol10m:c64422f9576ddc5174f6bffc,华东,1,"{""多见"": 1}",0,是,否,F24:wild:583
+review:4a9808a9ebb356439d6f,楝,Melia azedarach,种,tol10m:b522609ca980ac77dcf4c1d4,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:113 | F24:wild:698
+review:4b15e6b2a20c4ae866af,白兰花,Michelia × alba,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:194
+review:4b5b20f795668bd2ad32,三裂叶薯,Ipomoea triloba,种,tol10m:7a142b4f1fde7c8e3d776473,华东,1,"{""多见"": 1}",0,是,否,F24:wild:952
+review:4b79f43891e2e710bbd6,武当木兰,Magnolia sprengeri,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:67
+review:4b7e14618f1a143206a3,楝叶吴萸,Tetradium glabrifolium,种,tol10m:5cd91386ee43f01d8199b05e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1749
+review:4bffecbb93d0644dad7a,雀舌黄杨,Buxus bodinieri,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:732
+review:4c2f58d86d4c3ada422d,杠板归,Persicaria perfoliata,种,tol10m:9228ff2e3018f309839a24e8,华东,1,"{""常见"": 1}",0,是,否,F24:wild:778
+review:4c39a71043d69393de42,小叶大戟,Euphorbia makinoi,种,tol10m:0d5aa1cbc23e97b0eefd10b6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:652
+review:4c85d446fdc94777a2bd,罗汉松,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:64
+review:4c8a344a7782b980f768,粗榧,Cephalotaxus sinensis,种,tol10m:9792fa5226e5128d6f6d1b2a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:89
+review:4d1d29a9568b58d3fed9,金盏菊,Calendula officinalis,种,tol10m:f833b96db89040bd2750d685,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2640
+review:4d89872117f9ebe874ef,白鹤芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:10
+review:4d92c4cf3250f72b207c,深山含笑,Michelia maudiae,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:72 | F24:cultivated:200
+review:4da7712d19eec56d8ccd,野迎春,Jasminum mesnyi,种,tol10m:0c1631d5e623bd439108d02e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2296
+review:4e0e1422c7a81f21a8e9,杜梨,Pyrus betulifolia,种,tol10m:abbcfe424615337de15fd235,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:57 | F24:cultivated:1221
+review:4e30e776eb99016a4e83,随意草,Physostegia virginiana,种,tol10m:c3afa9d293edd30453b32445,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2488
+review:4e42b2b197d7232551d6,柿 / 柿树,Diospyros kaki,种,tol10m:d745f1be8e41defe4c17b5f7,华东 / 华中 / 华北,3,"{""未明确"": 2, ""常见"": 1}",2,是,否,F19:153 | F20:118 | F24:cultivated:1994
+review:4e6d55b2d7011dd7ded3,朴树,Celtis sinensis,种,tol10m:5b111efef64aec93afeb5657,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:46 | F24:wild:579
+review:4e708527f14aaa3b6472,叶下珠,Phyllanthus urinaria,种,tol10m:7f4b4c002cc715ad02140a1e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:669
+review:4e7616994ff38e29feaf,落叶松（兴安落叶松、意气松）,Larix gmelinii,种,tol10m:bf6a0c8448cf57d289614ce2,东北,1,"{""未明确"": 1}",1,是,否,F18:4
+review:4e8e474005779f115c72,乌蔹莓,Causonis japonica,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:449
+review:4f518c2ecc2c20cc03d9,胡卢巴,Trigonella foenum-graecum,种,tol10m:8449b33913ba4b1d22311f50,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:959
+review:4f54e8a87a4ca1f72a1e,蓝花鼠尾草,Salvia farinacea,种,tol10m:2164ab81775783344bc4e3a5,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2506
+review:4f7005a140fa81b8575e,豪猪刺,Berberis julianae,种,tol10m:f8c8c8e0a95e4cac0e22e3fc,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:646
+review:4ff050351982af228c56,西番莲,Passiflora caerulea,种,tol10m:52b085fa848f04b51c7bfe1b,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1505
+review:5015dea1111ed69857b3,吉姆蕨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:41
+review:503e50a9ae2e22436975,细柄蕈树,Liquidambar gracilipes,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:791
+review:50519b9a31e998637eb3,合萌,Aeschynomene indica,种,tol10m:2fd939841791478d54130e1c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:455
+review:507bd9b033c82fdfe265,枫香 / 枫香树,Liquidambar formosana,种,bioclip:plant-007,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:92 | F24:wild:430
+review:50967f5e715379aa0f24,赤松,Pinus densiflora,种,tol10m:f16c67f478a39789d25b57ae,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:128
+review:50db727176302bd79795,台湾杉,Taiwania cryptomerioides,种,tol10m:abc0e9788314066757115467,华中,1,"{""未明确"": 1}",1,是,否,F19:13
+review:50de9350d126f62aaccb,葡萄,Vitis vinifera,种,tol10m:8efc6b11cdf824db473131f4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:865
+review:514ffb8f999e76781212,南天竹,Nandina domestica,种,tol10m:6842e08709d522a16d1c7f21,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:408
+review:519481339c32a73dee02,二乔玉兰,Yulania × soulangeana,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:226
+review:51c7f634f8c5d4f42cfc,毛花点草,Nanocnide lobata,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:595
+review:51db2bdcf867f9ca2880,仙人掌,Opuntia dillenii,种,tol10m:2a878a6cfba926af701a8202,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1928
+review:5275a0a9c336477c4211,柏木,Cupressus funebris,种,tol10m:03a85a15d4799fe46be4c8f3,华中,1,"{""未明确"": 1}",1,是,否,F19:16
+review:52a0e0503c45ccf283d9,积雪草,Centella asiatica,种,tol10m:b3086cbb13cfe10298ab6f19,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1223
+review:52d20c8bb8c68b33e666,沼生栎,Quercus palustris,种,tol10m:fd8b0c17f2c30990463bd18d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1365
+review:5303e703978dc2590e08,闽楠,Phoebe bournei,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:85
+review:532d115b78a8150f2b44,红背桂花,Excoecaria cochinchinensis,种,tol10m:33c7af116e42f35ef1e052d0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1538
+review:53320ce837173820c7ab,凤眼蓝,Pontederia crassipes,种,tol10m:9b61ac67386a13ac1f3ff72c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:159
+review:534cdc4e3ad09ca13e1f,紫露草,Tradescantia ohiensis,种,tol10m:9eb58200b593b97015eb9bc1,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:479
+review:535e29af67b964b0da75,小黑杨,Populus × xiaohei T. S. Hwang et Liang,杂交待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:17
+review:537bf3e4b9d4bca8686c,野慈姑,Sagittaria trifolia,种,tol10m:61803a0c542bed88c9cca161,华东,1,"{""常见"": 1}",0,是,否,F24:wild:108
+review:541221601e90ecb4d5c6,玉簪,Hosta plantaginea,种,tol10m:d81a1acfbc6dcdfde20f3573,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:437
+review:54307622b457f3726f9e,东北茶藨子,Ribes mandshuricum,种,tol10m:836e4e5d4b65cb939b426e8b,华北,1,"{""未明确"": 1}",1,是,否,F20:37
+review:543b96a51f580c455189,梾木,Cornus macrophylla,种,tol10m:81230a13aede29c767a48251,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1970
+review:544789a9cd6c879d93a8,迎春花,Jasminum nudiflorum,种,tol10m:e7c54c19134516b10c35608b,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2298
+review:545e7ed6038913bd9381,头状穗莎草,Cyperus glomeratus,种,tol10m:ee45bcfb0dd4bf3938f28d89,华东,1,"{""多见"": 1}",0,是,否,F24:wild:226
+review:5478e4470d1f713e440c,莲,Nelumbo nucifera,种,bioclip:plant-021,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:429
+review:54b83c852341203cd42b,东南茜草,Rubia argyi,种,tol10m:dc8d8f343b2d0d63351ee537,华东,1,"{""多见"": 1}",0,是,否,F24:wild:904
+review:54df68b4e16d21b4cdc0,珊瑚树,Viburnum odoratissimum,种,tol10m:36de97396d68a2d0f7d2ed6a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2783
+review:5501e028049d3d0afab5,山杨,Populus davidiana,种,tol10m:034a3c08047b2c93e7eacb6b,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:13 | F20:8
+review:551f88e84e245bda7377,圆柏,Juniperus chinensis,种,tol10m:76082481412cbe7e8b590fb3,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:15 | F24:cultivated:56
+review:552f019acf8256a17dba,苋,Amaranthus tricolor,种,tol10m:e8b9019d4d8ff76f776b290f,华东,1,"{""多见"": 1}",0,是,否,F24:wild:830
+review:55331b1e2f15720c15b2,浮萍,Lemna minor,种,tol10m:9e073708be1975b43056eee0,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:99
+review:555e1a0eafdd87e6b9b1,栝楼,Trichosanthes kirilowii,种,tol10m:5c302a3a4af2cedefede46d2,华东,1,"{""常见"": 1}",0,是,否,F24:wild:614
+review:55c30610ef494b92fe21,非洲菊,Gerbera jamesonii,种,tol10m:20497d440897dde3843fd648,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2699
+review:55f0d6c511dd42d3de1f,雪柳,Fontanesia fortunei,种,tol10m:3c9e9b2f55b26e0c44622d5c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2276
+review:560e629bd34396bce020,花楸树,Sorbus pohuashanensis,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:48
+review:5610344da0d9be5312e9,偃伏梾木,Cornus stolonifera,种,tol10m:c4f0b48fda465e3a094ba767,东北,1,"{""未明确"": 1}",1,是,否,F18:95
+review:564c6cfbcc272aca8353,裂叶榆（大叶榆、青榆） / 裂叶榆,Ulmus laciniata,种,tol10m:82696d5348417ae1878de4a8,东北 / 华东 / 华北,3,"{""未明确"": 2, ""少见"": 1}",1,是,否,F18:33 | F20:29 | F24:cultivated:1327
+review:5652e882c1a711e0b4c2,金鱼藻,Ceratophyllum demersum,种,tol10m:05fc5bf6369632d6dd022e0d,华东,1,"{""多见"": 1}",0,是,否,F24:wild:391
+review:5697cc97feb784f21c3a,鸡冠花,Celosia cristata,种,tol10m:36e410b3aec1cb5755887bba,华东,1,"{""多见"": 1}",0,是,否,F24:wild:837
+review:56c27880ed107c492791,猫爪草,Ranunculus ternatus,种,tol10m:8b61b801d5707e1309b37c04,华东,1,"{""多见"": 1}",0,是,否,F24:wild:425
+review:56d12dd01a5dbb3dd000,紫竹草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:58
+review:5723e46d08aac1fc3262,互叶醉鱼草,Buddleja alternifolia,种,tol10m:958cc2466d2fb17d6469f80f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2357
+review:57352d08ae98e939177d,亮叶桦,Betula luminifera,种,tol10m:7d5f79951436aeac3145d4d4,华中,1,"{""未明确"": 1}",1,是,否,F19:25
+review:57389381bf2cc33d69d4,猪殃殃,Galium spurium,种,tol10m:12ebe31336023b2b5bb91376,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:899
+review:5761fe544884d341d17e,红豆树,Ormosia hosiei,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:106 | F24:cultivated:931
+review:579bc27dd82eb00dfd3d,大花君子兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:37
+review:57a8c62da1d7b87d4527,薄叶润楠,Machilus leptophylla,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:83
+review:57fad5bef55b6ec4bf0a,蚂蚱腿子,Myripnois dioica,种,tol10m:9e78e0cc27c461bcd0eb59ad,华北,1,"{""未明确"": 1}",1,是,否,F20:140
+review:582457ac8f1949173dab,刺楸,Kalopanax septemlobus,种,tol10m:5a6d5c392139d10285c21dde,华东 / 华北,2,"{""未明确"": 1, ""近年未见"": 1}",1,是,否,F20:110 | F24:wild:1221
+review:5838e312d410ea85127d,裂叶月见草,Oenothera laciniata,种,tol10m:19bc2f3c24ee7203af9d0732,华东,1,"{""多见"": 1}",0,是,否,F24:wild:685
+review:58a2aff656510fdacea3,山皂荚（皂角） / 山皂荚（日本皂荚） / 山皂荚,Gleditsia japonica,种,tol10m:da069f9ae102d93c1b561c7d,东北 / 华东 / 华北,3,"{""未明确"": 2, ""极少见"": 1}",1,是,否,F18:64 | F20:72 | F24:wild:474
+review:596a9e9c2ce78f569b0d,大花醉鱼草,Buddleja colvilei,种,tol10m:44855295eb147eb0e29ec3c6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2359
+review:598d1511b885b545f54f,灰绿藜,Oxybasis glauca,种,tol10m:9d25653a6cddb8b9066eac25,华东,1,"{""常见"": 1}",0,是,否,F24:wild:852
+review:59b87249adfbfb4e10dd,酸橙,Citrus × aurantium,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1732
+review:59bbe7c3d7232d355534,凤尾丝兰,Yucca gloriosa,种,tol10m:9923e303611c1ac90081cbd7,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:467
+review:59d8167fa28234a29317,草棉,Gossypium herbaceum,种,tol10m:6ef59b6b49c7d6763dae53e1,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1779
+review:5a05aa6edb0805666fe9,三尖杉,Cephalotaxus fortunei,种,tol10m:14b9623f1ff7b44239cbf76c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:86
+review:5a1181b6902043a7ebab,冬青卫矛,Euonymus japonicus,种,tol10m:9997f0283393b220e6627e88,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1456
+review:5a198a75342425023746,十大功劳,Mahonia fortunei,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:407
+review:5a1ca06a9f3fc9389c04,风花菜,Rorippa globosa,种,tol10m:3b1a2915121be9286bcabc87,华东,1,"{""多见"": 1}",0,是,否,F24:wild:742
+review:5a3b7af0b2a2e9aabaea,黄睡莲,Nymphaea mexicana,种,tol10m:6b6ae47e0296a648155a3751,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:170
+review:5a748eab8d1a802d8a9d,婆婆针,Bidens bipinnata,种,tol10m:414fbd61bbb12c88a7a08f90,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1120
+review:5a943cd08eefaaf12041,光皮梾木,Swida wilsoniana,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:148
+review:5b6866d4e9ef61ea2c45,簕杜鹃,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:44
+review:5b830143979db2d59d50,天女木兰,Magnolia sieboldii,种,tol10m:780796918ebf5fe62d98b5b6,华中,1,"{""未明确"": 1}",1,是,否,F19:66
+review:5b91df6e3316aef015d3,金钟花,Forsythia viridissima,种,tol10m:5f75c63c2f6bc80d4d65aa1e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2288
+review:5bf551bcbe9f23a0a1d9,花椒,Zanthoxylum bungeanum,种,tol10m:22c02069b9e95c5f06ed474a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1753
+review:5c22332166614d186a5f,黑桦（臭桦、棘皮桦）,Betula dahurica,种,tol10m:240318863e16439f7922b007,东北,1,"{""未明确"": 1}",1,是,否,F18:29
+review:5c7cbb7155eb55fa66a6,瓜叶菊,Pericallis × hybrida,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2737
+review:5c81cb47db9d11e2f1c5,地涌金莲,Musella lasiocarpa,种,tol10m:e336450aba77fa45850231a6,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:487
+review:5cb68ecb43863f56e48d,胡椒木,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:71
+review:5cd4603728eb4926cf98,白花泡桐,Paulownia fortunei,种,tol10m:ab1504cec57ea29541c2a991,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:160 | F24:cultivated:2546
+review:5ce6d98deaf31e0e2980,蜜甘草,Phyllanthus ussuriensis,种,tol10m:c0a9923670968ffb4ed26433,华东,1,"{""多见"": 1}",0,是,否,F24:wild:670
+review:5ceb823679a05e9b8692,毛泡桐,Paulownia tomentosa,种,tol10m:50e027831558ff124bc8e6a0,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:161 | F24:cultivated:2547
+review:5d0ded70d6847c04fef6,油桐,Vernicia fordii,种,tol10m:a04844b3c08c717c4e0896ad,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:118 | F24:wild:663
+review:5d25438c883d12ba7726,小鱼仙草,Mosla dianthera,种,tol10m:7546a64696b056b66b867961,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1044
+review:5d5dff8d36cfac6cf8a0,蓝羊茅,Festuca glauca,种,tol10m:29d937db49523a730d913e5f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:557
+review:5d8011520c67a4b561f5,垂柳（垂丝柳、水柳、清明柳） / 垂柳,Salix babylonica,种,bioclip:plant-012,东北 / 华东 / 华中 / 华北,4,"{""未明确"": 3, ""极常见"": 1}",3,是,否,F18:21 | F19:18 | F20:14 | F24:wild:641
+review:5e16babd097236c34a7b,红花睡莲,Nymphaea rubra,种,tol10m:5848f75a03a5b14b06710983,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:171
+review:5e4072bf7032a0f5e463,桂圆菊,Acmella oleracea,种,tol10m:65859c84ac7ead9083b4cdce,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2618
+review:5ea18d744ae883536955,日本五针松,Pinus parviflora,种,tol10m:503652fb6d07372e27e409c1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:136
+review:5eb8e75596c640cf9210,小梾木,Cornus quinquenervis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1973
+review:5f23fb8d972bbd4b33c0,马兜铃,Aristolochia debilis,种,tol10m:84e0edd95b1a9c1823eb87ea,华东,1,"{""多见"": 1}",0,是,否,F24:wild:83
+review:5fd9524e014d56cdc088,长蒴母草,Torenia anagallis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:999
+review:60350b147d86895665cc,厚朴,Magnolia officinalis,种,tol10m:d1ca72fbc721dbc6313e9e73,华中,1,"{""未明确"": 1}",1,是,否,F19:63
+review:604f784a40488a5ca65a,肥皂荚,Gymnocladus chinensis,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:102 | F24:cultivated:913
+review:60975e37f742bd77738e,杠柳,Periploca sepium,种,tol10m:7fba690881fb2175e22a2510,东北 / 华东 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F18:109 | F20:127 | F24:cultivated:2187
+review:60ad599097389d689451,大地锦,Euphorbia nutans,种,tol10m:da8b0c76c4bad4f713f50a57,华东,1,"{""常见"": 1}",0,是,否,F24:wild:653
+review:60ee11b4e7e53c335c8b,碱蓬,Suaeda glauca,种,tol10m:a57ba7e26d0f77c4d5e1b298,华东,1,"{""多见"": 1}",0,是,否,F24:wild:854
+review:61057d41baf20dc406d8,球序韭,Allium thunbergii,种,tol10m:39aa355fba8aabcac21ae9d7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:391
+review:610a89bc92bdb42b01eb,射干,Iris domestica,种,tol10m:6245ed884249c88094bf1c7a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:346
+review:6168e4192268039d79bc,大麦,Hordeum vulgare,种,tol10m:13d69628eebb5f59e0b74f93,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:559
+review:617cabf48874a981d664,香椿,Toona sinensis,种,tol10m:40204e78f192a1eeae904419,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:114 | F24:cultivated:1764
+review:61936b6760ddcfceba85,加拿大杨,Populus × canadensis,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1509
+review:61a428cb23ea9a2debb8,贯众,Cyrtomium fortunei,种,tol10m:ed6524622e778d27efd9301d,华东,1,"{""多见"": 1}",0,是,否,F24:wild:52
+review:61e05e8a96d3b01fac97,烟管头草,Carpesium cernuum,种,tol10m:ea8e7529c978463c02aea53a,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1128
+review:627aef4eb8650d6342a5,宿根天人菊,Gaillardia aristata,种,tol10m:67dc0c5eede2287068d4155c,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2684
+review:63526bbe985a688014f1,五味子（山花椒） / 五味子,Schisandra chinensis,种,tol10m:8be5ef0b82ec8a43da3ac6a0,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:36 | F24:cultivated:178
+review:63742ad8cadbfb606440,凹叶景天,Sedum emarginatum,种,tol10m:894b5752bdcaf734c2562062,华东,1,"{""多见"": 1}",0,是,否,F24:wild:438
+review:637b0124e5c0d2371f40,千屈菜,Lythrum salicaria,种,tol10m:b200268732511e4cc85f931a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1571
+review:644b39671f65ec19228e,番薯,Ipomoea batatas,种,tol10m:1c00ef7bea7c0838c2aaa739,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2220
+review:6470f7f8e0b2f2992655,大薸,Pistia stratiotes,种,tol10m:38c4ee8162c53fd50f66487a,华东,1,"{""多见"": 1}",0,是,否,F24:wild:103
+review:6477b86d7a6d801796d4,多花木蓝,Indigofera amblyantha,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:108 | F24:cultivated:914
+review:649a2354af88703d59af,香附子,Cyperus rotundus,种,tol10m:d8dc75c253e46bed45a181aa,华东,1,"{""常见"": 1}",0,是,否,F24:wild:234
+review:6556cd8f6b490f41cd5b,葎草,Humulus scandens,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:580
+review:6588efed85137927b312,红瑞木,Cornus alba,种,tol10m:232ee3478adcccc648fd815b,东北 / 华东 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F18:94 | F20:115 | F24:cultivated:1961
+review:65d561cf581c5c79f223,小金雀花,Genista spachiana,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:904
+review:65e38ce2f095547d5fd5,百子莲,Agapanthus africanus,种,tol10m:f044830520acc21f98cc5bb8,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:380
+review:661f3ca545cf04e6a151,金叶含笑,Michelia foveolata,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:71 | F24:cultivated:198
+review:66292fd54cc354c94e54,乌药,Lindera aggregata,种,tol10m:1705e87005f268b4c8518557,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:257
+review:664306ee210572e6681e,瘿椒树,Tapiscia sinensis,种,tol10m:2a10a0082c0f4bd5921e310e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1611
+review:6678b5a8d4af3a832a79,圆锥绣球,Hydrangea paniculata,种,tol10m:9b1e281b33d1ec98d00f5653,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1952
+review:667f4853db84dfcc69c0,含笑花,Michelia figo,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:197
+review:66baf7764f71f95d5dd9,蒙桑,Morus mongolica,种,tol10m:33d77a3347006b114d793f4e,华北,1,"{""未明确"": 1}",1,是,否,F20:33
+review:66edadf5be0d6b4fd94a,北美车前,Plantago virginica,种,tol10m:17079c43eda8d00b665b12be,华东,1,"{""常见"": 1}",0,是,否,F24:wild:986
+review:66f3dea3bb56b5af411a,毛花绣线菊,Spiraea dasyantha,种,tol10m:8a716fcb069850edd9ac30f4,华北,1,"{""未明确"": 1}",1,是,否,F20:42
+review:673af2e865d3fae80f35,草莓,Fragaria × ananassa,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1014
+review:67441e4da426c2ee70cc,环翅马齿苋,Portulaca umbraticola,种,tol10m:a6d09d200aa8721791e4675d,华东,1,"{""多见"": 1}",0,是,否,F24:wild:867
+review:677777de94d1c6cff8c1,挪威槭,Acer platanoides,种,tol10m:09190fe4bef1c38747a98b3f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1709
+review:67824a30b9717a2abde0,云南樟,Cinnamomum glanduliferum,种,tol10m:7f756bcf971bd7319a80e58d,华中,1,"{""未明确"": 1}",1,是,否,F19:75
+review:67cdfe16837d59ad092b,黑壳楠,Lindera megaphylla,种,tol10m:aea3ec41eb6948af621ac796,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:81 | F24:cultivated:259
+review:67d64eba797a4e99d980,蚊母草,Veronica peregrina,种,tol10m:c3341047e2f1592dadc85906,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:991
+review:67e81f924d91307dc124,色木槭（色树、五角槭、五角枫）,Acer mono,种,tol10m:3e5b87918f3b50884b64d57f,东北,1,"{""未明确"": 1}",1,是,否,F18:74
+review:67fe7f8286b912a45d72,剑叶金鸡菊,Coreopsis lanceolata,种,tol10m:14a7053bcdf3990d1232ff8c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2656
+review:680593ad7cb34e05a490,厚叶栒子,Cotoneaster coriaceus,种,tol10m:3ea262b51b3f193fd90b753b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1003
+review:6824e0625a7a56667863,加拿利常春藤,Hedera canariensis,种,tol10m:cbaade19df368cbadaba0edd,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2860
+review:68696896fb6a1a4a11ac,黑果茶藨子（黑加仑、旱葡萄）,Ribes nigrum,种,tol10m:e2f80c2cb300c2013d248ee6,东北,1,"{""未明确"": 1}",1,是,否,F18:42
+review:6870e62a0bc4ae0b1817,孝顺竹,Bambusa multiplex,种,tol10m:65dd7690c1d2b6775e731075,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:532
+review:68978d3d016c5b05f38b,枳,Citrus trifoliata,种,tol10m:5fdcc504fdba685d67bf4657,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1740
+review:68bb5d145ce75174dcdd,天师栗,Aesculus wilsonii,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:130
+review:68c79c658b2ab2623a43,西北栒子,Cotoneaster zabelii,种,tol10m:ea367e07f3c2a8f7481466bb,华北,1,"{""未明确"": 1}",1,是,否,F20:49
+review:68d4c2f636ee4901c0f3,槲栎,Quercus aliena,种,tol10m:24897f241516b36549873253,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F19:38 | F20:23 | F24:cultivated:1359
+review:68d907bae686e0403867,细叶美女樱,Verbena tenera,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2406
+review:68e64d19b4f51753adc1,柳杉,Cryptomeria fortunei,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:10
+review:68f8a2793e63b8dded2a,狗牙花,Tabernaemontana divaricata,种,tol10m:2f2aeb63ddf740bb75b1b31e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2190
+review:690a411ec22805925374,芦苇,Phragmites australis,种,tol10m:3338a0c3ad08b6ac192cf7a8,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:357
+review:69481d28f828009b8099,杉木,Cunninghamia lanceolata,种,tol10m:9a3eeb17b671cde93061d6be,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:11 | F24:cultivated:44
+review:696848edb9b596b1b956,贵州石楠,Stranvaesia bodinieri,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1301
+review:69796a47a92d81715050,日本七叶树,Aesculus turbinata,种,tol10m:a31fc0d8c9e19c9825ccb3d0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1726
+review:698122d94cb9c90d929b,毛樱桃,Prunus tomentosa,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:61
+review:69e16c2603b56733e8b5,马齿苋,Portulaca oleracea,种,tol10m:1c12cb20047a68aca980faaf,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:866
+review:69e1ab21f705ca98193a,日本女贞,Ligustrum japonicum,种,tol10m:700c91c2e3bbc34dfae1a0f3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2305
+review:6a05d97b89e9ca5dbdea,梨果仙人掌,Opuntia ficus-indica,种,tol10m:9f8563258c10b47c5f8029ed,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1929
+review:6a7d92c7395115a58af7,野大豆,Glycine soja,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:475
+review:6b5fbb44675194ec3a37,鹅毛竹,Shibataea chinensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:613
+review:6bc230989d489751464b,甜瓜,Cucumis melo,种,tol10m:ded161cfd0aa1cf1521826e0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1415
+review:6bc96b7fb688f5809e15,铁筷子,Helleborus thibetanus,种,tol10m:9661c2649dbad5052f26b218,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:711
+review:6c5e3935d7204ae5ab49,薄皮木,Leptodermis oblonga,种,tol10m:74df03d41a6a799a569aab4f,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:131 | F24:cultivated:2174
+review:6c941bfcaf409c9b089a,井栏边草,Pteris multifida,种,tol10m:17245430420038353141c253,华东,1,"{""常见"": 1}",0,是,否,F24:wild:26
+review:6cc819532e29bf709415,黄金树,Catalpa speciosa,种,tol10m:341b96e90ada7ffc187ae863,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2388
+review:6ccd76d5925e70daa446,旱柳,Salix matsudana,种级候选待核验,,东北 / 华东 / 华中 / 华北,4,"{""未明确"": 3, ""极常见"": 1}",3,是,否,F18:20 | F19:19 | F20:11 | F24:wild:642
+review:6cce0795d537b98549cd,马瓟儿,Zehneria japonica,种,tol10m:05afaea03c91535bd89ac79e,华东,1,"{""常见"": 1}",0,是,否,F24:wild:616
+review:6cf9c671840b69cd2444,苦蘵,Physalis angulata,种,tol10m:500431763ab0f5df31868081,华东,1,"{""常见"": 1}",0,是,否,F24:wild:962
+review:6d24fac81d16f83f6726,少花桂,Cinnamomum pauciflorum,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:79
+review:6d79305c96407bb9adca,乌桕,Triadica sebifera,种,tol10m:318411ca9822dec26f045d4c,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:662
+review:6da970e6ca307617dc3d,木香花,Rosa banksiae,种,tol10m:189b50b7eb14a3496e21ccfd,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1259
+review:6db7bb4734c00f4f836a,何首乌,Pleuropterus multiflorus,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:787
+review:6e0ba229faf0914f8f0d,绿豆,Vigna radiata,种,tol10m:077fca3fc9b23c3b638a0997,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:964
+review:6e167b651bbddba2bf93,蒿子杆,Ismelia carinata,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2718
+review:6e19acf20c2aa21457fd,马铃薯,Solanum tuberosum,种,tol10m:52c98e2dd6868a507935f703,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2270
+review:6e2c42177fa900bd24a7,长鬃蓼,Persicaria longiseta,种,tol10m:f4eb4b1eccd4185cd4d00daf,华东,1,"{""多见"": 1}",0,是,否,F24:wild:771
+review:6e393b70f24818bbc53c,天胡荽,Hydrocotyle sibthorpioides,种,tol10m:916783606cd60ccd32799105,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1219
+review:6e3f98b3c99521c253cc,牛蒡,Arctium lappa,种,tol10m:404073eb4d38e09f5dcb5081,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2626
+review:6e6305f8b725b9cbab89,水塔花,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:23
+review:6e93beba3737800580f8,珙桐,Davidia involucrata,种,tol10m:e5c8c14f6a75681ced642c25,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1931
+review:6ea7ab73be6fd22dc648,无梗五加（五加皮）,Acanthopanax sessiliflorus,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:92
+review:6effa066102e20b349c6,紫苏,Perilla frutescens,种,tol10m:8566761e9314563945f77e42,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1049
+review:6f24c82474954d52600d,花毛茛,Ranunculus asiaticus,种,tol10m:24fc099190f83bf25aa7afda,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:714
+review:6f36479059da7a045927,探春花,Chrysojasminum floridum,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2273
+review:6fb1039348f7c25032bb,青檀,Pteroceltis tatarinowii,种,tol10m:75bbc8c91d3dcb755a17efeb,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F19:48 | F20:30 | F24:cultivated:1332
+review:6fc6ba577fc6e3b96822,夏枯草,Prunella vulgaris,种,tol10m:c704287564757d08ca4ad599,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2491
+review:6fd13084802239ff02d2,苦草,Vallisneria natans,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:117
+review:70076524d9fa91ed07be,大花金鸡菊,Coreopsis grandiflora,种,tol10m:a183852d0564e93f42a0a29f,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1134
+review:700a32ddcadfa971efc1,彩叶草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:50
+review:705df986e2a86b201bfc,向日葵,Helianthus annuus,种,tol10m:ef208cbbbcbbfad2e7d96de2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2713
+review:7066450139385375de91,厚皮香,Ternstroemia gymnanthera,种,tol10m:4095ac85ddcd3babd2044060,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1989
+review:706f09625140850eb4f5,山蜡梅,Chimonanthus nitens,种,tol10m:d5c56d128a097e0c1fb9803a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:248
+review:70963307c043bb96d494,柳叶栎,Quercus phellos,种,tol10m:c9bad94d3a9d9822dfea0703,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1367
+review:70a8a61f38eb2514bc76,碎米莎草,Cyperus iria,种,tol10m:800c106c5c947c2c5abe50ba,华东,1,"{""常见"": 1}",0,是,否,F24:wild:227
+review:71262b4cc3755e38978b,山东披碱草,Elymus shandongensis,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:300
+review:71b11d1abe6303054c92,东北溲疏（千层皮）,Deutzia amurensis,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:38
+review:71bafb5a3956550c0ddf,柳叶箬,Isachne globosa,种,tol10m:6170626897781c17cd860f58,华东,1,"{""多见"": 1}",0,是,否,F24:wild:320
+review:71d3e3183f2a12dc39b6,国槐,Sophora japonica,种,tol10m:f51182931086a8df2d56db9e,华北,1,"{""未明确"": 1}",1,是,否,F20:70
+review:71d5468fdf9f8f4d9b34,月光花,Ipomoea alba,种,tol10m:6bcb9700948eda6ca3e09b97,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2218
+review:71dc89bcdec9efd7273f,黄花酢浆草,Oxalis pes-caprae,种,tol10m:edd1c657d23ea7d542177282,华东,1,"{""常见"": 1}",0,是,否,F24:wild:626
+review:7208a05e351762f0588c,黄杨,Buxus sinica,种,tol10m:ff11767affd87ab5245842fe,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:743
+review:722e1880ff2984245d59,梭鱼草,Pontederia cordata,种,tol10m:bec5b11640f8a230c13c7e78,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:484
+review:723c554ccc824a85dfdd,苣荬菜,Sonchus wightianus,种,tol10m:91b9b853b977dae3d718ce4a,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1195
+review:723e5dfcb32337cd4296,光头稗,Echinochloa colonum,种,tol10m:1f5f2df0b2f06c20c391f0d0,华东,1,"{""常见"": 1}",0,是,否,F24:wild:293
+review:7269e417f76a7c338ecc,雀稗,Paspalum thunbergii,种,tol10m:59d4cbaa5ffd7c58e794d262,华东,1,"{""多见"": 1}",0,是,否,F24:wild:352
+review:728d9074bb7267a1b732,再力花,Thalia dealbata,种,tol10m:4f1269c42bb8fc342d65c88c,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:499
+review:7298ec02e4065d7217c6,荷兰菊,Symphyotrichum novi-belgii,种,tol10m:d53bc01ad44a99f4f35ec8cf,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2747
+review:72a6ea879db93966d2c7,石刁柏,Asparagus officinalis,种,tol10m:262061e32ccc17a9881923e0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:411
+review:72cee307fa0506e5354b,垂叶榕,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:16
+review:72d022d117d68ef801e9,稀脉浮萍,Lemna aequinoctialis,种,tol10m:d307fcb8932b74763cbf63ee,华东,1,"{""多见"": 1}",0,是,否,F24:wild:98
+review:731484fb5e84770401a8,凤仙花,Impatiens balsamina,种,tol10m:196df313166b20be92faefc6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:870
+review:7354569670179cf594e9,华北绣线菊,Spiraea fritschiana,种,tol10m:591844a59497cde4c41b60e5,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:44 | F24:cultivated:1285
+review:7392adc62715bdc478be,卫矛（鬼箭、山鸡条子） / 卫矛,Euonymus alatus,种,tol10m:79d4c0dd5512c6b68a553090,东北 / 华东 / 华北,3,"{""未明确"": 2, ""极少见"": 1}",2,是,否,F18:72 | F20:90 | F24:wild:618
+review:73a2079ef2d48084b4af,梓,Catalpa ovata,种,tol10m:e084835f23568ff7f65c16e0,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2387
+review:7438b591d8e2773847eb,木樨榄,Olea europaea,种,tol10m:246ceeb5a29a651c7513deb2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2319
+review:74b24e1bb172d1f81389,黄瓜,Cucumis sativus,种,tol10m:1692d16fdd4a447e8dec69b6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1421
+review:74ed5e33f7e4d7c22905,鼠李(兴安鼠李，老鸹眼),Rhamnus davurican,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:84
+review:75cbc87d7acd0487bb7e,复羽叶栾树,Koelreuteria bipinnata,种,tol10m:9446e91fb3509dd176de72d4,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:132 | F24:wild:692
+review:75d4ef870c526986d1a7,舞姜花,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:54
+review:766ded9b67aaba57793a,一品红,Euphorbia pulcherrima,种,tol10m:99bb9d5511226939da617da7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1537
+review:76753f4f90d6b2427f5f,平枝栒子,Cotoneaster horizontalis,种,tol10m:12ab39426653878ced32d022,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1005
+review:767cf97500ec915b08ae,剪秋罗,Silene banksia,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1892
+review:7694ee309c8c87ddbaa1,观叶花烛,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:12
+review:7699a962579998953d6b,迎春樱桃,Prunus discoidea,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:545
+review:76a069ba28edd0014049,蛇床,Cnidium monnieri,种,tol10m:61cb82e55169e664eea2c1e9,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1226
+review:76aacf679fe9f0541c17,花叶芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:24
+review:76eb53802b9346b75122,芋,Colocasia esculenta,种,tol10m:c236b2b8081005a1827a156e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:281
+review:77347f4bb21bce65614f,合欢,Albizia julibrissin,种,tol10m:c45c22299e01606b21fce956,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:100 | F24:wild:456
+review:77963b81de7784ebe7fa,仙客来,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:53
+review:77f172471d8663d08a93,角堇,Viola cornuta,种,tol10m:7735af93c8272b93e2e230dc,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1500
+review:78069efb6b51aa7a3c65,熊耳草,Ageratum houstonianum,种,tol10m:1523b01a73ef070f5ad657f4,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2619
+review:7858296c4f0f859cda29,绣球,Hydrangea macrophylla,种,bioclip:plant-020,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1950
+review:788809ae0fbef60d477e,乌柿,Diospyros cathayensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1992
+review:78f8cfb3b27a186df2ca,香花鸡血藤,Callerya dielsiana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:880
+review:79031e80ef3dc9612a76,蓝滨麦,Leymus condensatus,种,tol10m:278d9b596141f25a8eebe147,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:563
+review:7919a1391728b2e30ce1,板栗 / 栗,Castanea mollissima,种,tol10m:67de335a934cb301a842ebcf,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",1,是,否,F19:26 | F20:19 | F24:cultivated:1352
+review:792d44e340389b77cb62,稻,Oryza sativa,种,tol10m:dc88153bdc7403d9bc98a3c2,华东,1,"{""常见"": 1}",0,是,否,F24:wild:342
+review:7953c2b8227411489057,水苋菜,Ammannia baccifera,种,tol10m:aa52cda67c32e4bfb684c1a8,华东,1,"{""常见"": 1}",0,是,否,F24:wild:676
+review:796dbb3af10d79f7d40d,欧洲凤尾蕨,Pteris cretica,种,tol10m:d1177225a42fb993e13d3c9f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2
+review:797eb5d14b0a8ee23e91,梳黄菊,Euryops pectinatus,种,tol10m:a78168addb934dea173df200,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2675
+review:799dd86931107b4ee0c6,瓶子草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:46
+review:7a418719ee1c0d8b147c,播娘蒿,Descurainia sophia,种,tol10m:092d336370391375a708a5c0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:729
+review:7ac1e9fdfa569516ef50,羽裂美女樱,Verbena bipinnatifida,种,tol10m:16f70452c88eb15c0f0a5104,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2405
+review:7ac33905cbac54b59a38,假稻,Leersia japonica,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:324
+review:7ad7fa6e93cb4f9f3eee,银芽柳,Salix × leucopithecia,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1517
+review:7b1d20a99a03d1d4b571,加拿大紫荆,Cercis canadensis,种,tol10m:7cbcc53b73516d58822791fc,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:884
+review:7b1fbd3f58736880d1bd,细果野菱,Trapa incisa,种,tol10m:4bf614d7c8e9aa781bde09dd,华东,1,"{""多见"": 1}",0,是,否,F24:wild:680
+review:7b949aef8b646cc59f7a,红掌,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F26:indoor:4
+review:7b953be331f0409b4eb4,洋葱,Allium cepa,种,tol10m:78ed07b1912281804b60b4ee,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:384
+review:7bcecafd2bc55d7682a6,蜀葵,Alcea rosea,种,tol10m:e2e8cf47f8b1317f40619f1a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1770
+review:7c1e24e4b8760685d187,竹柏,Nageia nagi,种,tol10m:f2ecb70af6ade1c9e8caca25,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:20
+review:7ca021f741d9c6a72d71,萹蓄,Polygonum aviculare,种,tol10m:196b4dc8e90d6c4d9c1dfd6f,华东,1,"{""常见"": 1}",0,是,否,F24:wild:789
+review:7ca52a26e97fce4cc0a0,山核桃,Carya cathayensis,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:21 | F24:cultivated:1381
+review:7cc30af8758799b5df38,皱叶椒草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:6
+review:7ccdadbffb35e90bfb6f,复叶槭（糖槭、白蜡槭） / 糖槭,Acer saccharum,种,tol10m:6d546e4f9953999dda67ed90,东北 / 华东,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F18:80 | F24:cultivated:1714
+review:7d14859ac23c6f60cef7,附地菜,Trigonotis peduncularis,种,tol10m:d272ee5feacea479857ea500,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:937
+review:7d15f3023e72992bd978,胡椒木,Zanthoxylum beecheyanum,种,tol10m:9eb11a774fc2aee5723c7701,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1752
+review:7d246d5979609c0911dc,野芝麻,Lamium barbatum,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1034
+review:7de4bc9b5c9711f2732b,齿果酸模,Rumex dentatus,种,tol10m:3a7d2d41bc9896c103fdbde0,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:795
+review:7e2f83061403495d756a,打碗花,Calystegia hederacea,种,tol10m:b17cfbd4f12c32eeb32e0474,华东,1,"{""常见"": 1}",0,是,否,F24:wild:938
+review:7e537027f3dceeb23c1c,稠李（臭李子） / 稠李,Padus racemosa,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:63 | F20:67
+review:7e6375e7b7da00a39b97,葱,Allium fistulosum,种,tol10m:d869bfdf88e447469a3a7cca,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:385
+review:7e80e624f55e61f2663d,蒲葵,Livistona chinensis,种,tol10m:21c44e9ea0342fee25dce4cc,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:472
+review:7e8132ba1901e3c245ce,野茉莉,Styrax japonicus,种,tol10m:d80fb58ea49a1db6071841a7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2114
+review:7e923b743823138c7927,乌桕,Sapium sebiferum,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:117
+review:7ed075177bbd67eae1b9,芝麻,Sesamum indicum,种,tol10m:5f1b81fc6cd63dd860e03b01,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2370
+review:7f1283750419abc3cb99,多叶羽扇豆,Lupinus polyphyllus,种,tol10m:d085ff859f8c363af7357b05,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:928
+review:7f67973e1725271733bc,罗勒,Ocimum basilicum,种,tol10m:1c9aa9dfb925ecc111dc625f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2479
+review:7f9435d76d2e2dab1654,长刺酸模,Rumex trisetifer,种,tol10m:7f620d9fb239c8b7bb7e4fa0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:799
+review:7fbd61566698c6e6c3a9,枸骨,Ilex cornuta,种,tol10m:d903f7d3871c0e0a59673c71,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1078
+review:7fbe14225d33268a30a4,枸杞,Lycium chinense,种,tol10m:8b75d2595ae5e3ff068b7c66,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:960
+review:7fe121c75efe4b7fa518,满山红,Rhododendron mariesii,种,tol10m:3a0af4c12c03733aa15c6c72,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:152 | F24:cultivated:2142
+review:7ff19ae166843c237715,赤小豆,Vigna umbellata,种,tol10m:7b7458079fb7043dcba1b7c6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:526
+review:807d8932f402dddaa7d7,山楂(山里红) / 山楂,Crataegus pinnatifida,种,tol10m:db042186064092ed8fe387f5,东北 / 华东 / 华北,3,"{""未明确"": 2, ""多见"": 1}",1,是,否,F18:46 | F20:52 | F24:cultivated:1008
+review:80913734fc02ba4189a5,木茼蒿,Argyranthemum frutescens,种,tol10m:ad335dbc9ab167dfe82d6699,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2627
+review:80aac45c6570bb2efa43,柳叶马鞭草,Verbena bonariensis,种,tol10m:9eeaa10d61da390fd686788c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1010
+review:80eb76d1983f0d981075,枫杨,Pterocarya stenoptera,种,tol10m:0143a0c6dd533a6d6c2bc1fc,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:24 | F24:wild:608
+review:814b8d1351c18725ccc1,樟叶槭,Acer coriaceifolium,种,tol10m:1eccb296304e12b720867bc4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1632
+review:8151700c05810bbe0788,千手丝兰,Yucca aloifolia,种,tol10m:4fead7f0c85971879857a191,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:463
+review:8163d7661f338e94e5ab,菹草,Potamogeton crispus,种,tol10m:a893412507c6c64a52a41f56,华东,1,"{""常见"": 1}",0,是,否,F24:wild:119
+review:817125006b69e00153f5,茄,Solanum melongena,种,tol10m:aba7e578ef55a39b6e914813,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2267
+review:818b043057150faf7ac6,苏铁,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:17
+review:81fa48d46d3bb06c3e5e,石榴,Punica granatum,种,tol10m:f5f69fee4326248744d0ca1c,华东,1,"{""常见"": 1}",0,是,否,F24:wild:678
+review:822175bc8947dab1a33d,楸,Catalpa bungei,种,tol10m:bf95ddd3eb546b49828acb72,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2386
+review:82369981f266c5a5122c,野菊,Chrysanthemum indicum,种,tol10m:a67759b1c54937afdfd59c23,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1130
+review:8244db03c1548a70cd42,臭荠,Lepidium didymum,种,tol10m:41e04586ff023cb80cf1be29,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:736
+review:825fd8f427b13e14b505,天竺葵,Pelargonium × hortorum,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1555
+review:826fd41544363a6fa050,粉叶小檗,Berberis pruinosa,种,tol10m:430499a9e96679f8eca0d3e2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:647
+review:82842284bc1b4d678029,紫背金盘,Ajuga nipponensis,种,tol10m:a352042ff07e4adbe28ee8a2,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1014
+review:829350650ed0b26d8825,重阳木,Bischofia polycarpa,种,tol10m:9b485e539c13d4e2469e7419,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:116 | F24:cultivated:1552
+review:82b14cd849ac7c1a3a8f,流苏树,Chionanthus retusus,种,tol10m:d72f4e5a06daabf0d6816255,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:125 | F24:cultivated:2272
+review:82b42e599d67a2689bf0,柑橘,Citrus × reticulata,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:694
+review:8306cc91a5611fa2473b,互花米草,Sporobolus alterniflorus,种,tol10m:f9ba17db18eb14765dff21e0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:382
+review:8350d9624b417367a4f9,尖裂假还阳参,Crepidiastrum sonchifolium,种,tol10m:3910dba69c854076df7080b1,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1141
+review:839a0f4ea08a326dcc9a,龙骨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:66
+review:83f88981f9838da030be,松果菊,Echinacea purpurea,种,tol10m:9c984d0a32c3d82e6ec067b4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2667
+review:84046193ad76384fd4da,珍珠绣线菊,Spiraea thunbergii,种,tol10m:93daf5d5aef4daa190e4f9a4,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1300
+review:844970bcdead61123df8,荷包牡丹,Lamprocapnos spectabilis,种,tol10m:cb88374801f6e5c5e7fd96c8,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:633
+review:8526a96dfe4e0d74c9c2,枣,Ziziphus jujuba,种,tol10m:04792be1a8ba7e018ac97011,华东,1,"{""常见"": 1}",0,是,否,F24:wild:571
+review:855a7b6b6a6522bc8dd8,狗枣猕猴桃（狗枣子） / 狗枣猕猴桃,Actinidia kolomikta,种,tol10m:81d3d0f34cee54c784f7548b,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:90 | F24:cultivated:2120
+review:85b9f1b343e7e82779af,银中杨,P.alba × P.berolinensis,杂交待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:18
+review:85be86a7ddb0ced92c09,兴凯赤松（兴凯松、兴凯湖松）,Pinus takahasii,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:8
+review:85ce733fb85cada590a7,长春花,Catharanthus roseus,种,tol10m:f88babcaafa5bda9a796d7bd,华东,1,"{""多见"": 1}",0,是,否,F24:wild:912
+review:8601b11ab0a487c96892,百日菊,Zinnia elegans,种,tol10m:1fc46a14c82825c4c6868c88,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2766
+review:865e711667e44f6ef7b3,鹅掌楸,Liriodendron chinense,种,bioclip:plant-011,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:59 | F24:cultivated:189
+review:8680b0f79c81c1cf669e,欧防风,Pastinaca sativa,种,tol10m:5937c60a38024a5dd2cb8ca7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2883
+review:868d6bcec5a37f819957,扁穗雀麦,Bromus catharticus,种,tol10m:4957029fa3854e1610ea8a5e,华东,1,"{""常见"": 1}",0,是,否,F24:wild:272
+review:86faafa32bd5aaeebad5,芫荽,Coriandrum sativum,种,tol10m:34d5426d01a8c959b69fb890,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2876
+review:8702351706c111d477dc,银叶菊,Jacobaea maritima,种,tol10m:d263f9865f4d70e3329ae844,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2719
+review:8723c2232daeb2fae0dc,青杄 / 青扦,Picea wilsonii,种,tol10m:ae640f8f0a9ab8a2901ecd0e,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:4 | F24:cultivated:125
+review:8741c3c9bba17107d546,海桐,Pittosporum tobira,种,tol10m:1d0060731e75256a41eadf10,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1214
+review:87c7c48b428c57c416d7,天蓝鼠尾草,Salvia uliginosa,种,tol10m:417522b8fe607730624371c9,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2528
+review:87e5f6cc8f59156bde57,香荚蒾,Viburnum farreri,种,tol10m:fc26b391f26b9a8c9557b8bd,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2777
+review:88445394cab48d0c04a3,王莲,Victoria amazonica,种,tol10m:d7ebea2a2da9e0eff4515da6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:173
+review:888fa7e406fb9b115aba,欧耧斗菜,Aquilegia vulgaris,种,tol10m:dedf782dfe208b74c138ac41,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:674
+review:88a3696509ee3814b441,普通小麦,Triticum aestivum,种,tol10m:7f776d9fae1cca264a4d538a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:619
+review:88b2e27468d8afd09f42,蓝花丹,Plumbago auriculata,种,tol10m:86b4d27d45b632a666d54cbc,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1872
+review:88d83b8fe24b34ec7efb,漆姑草,Sagina japonica,种,tol10m:52d7da3f6e49fe8ddb3141a4,华东,1,"{""常见"": 1}",0,是,否,F24:wild:808
+review:88dbd110d77af227f9ab,红皮云杉（红皮臭） / 红皮云杉,Picea koraiensis,种,tol10m:85a574b3e1288249c16cc030,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:2 | F24:cultivated:120
+review:89520a088c9fd4d9de2c,拐枣 / 北枳椇,Hovenia dulcis,种,tol10m:609776aeee68c4b02fb4bc40,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:99 | F24:cultivated:1312
+review:896ccc4193650a953c28,日本珊瑚树,Viburnum awabuki,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1209
+review:89743ef116e95625ef55,荠,Capsella bursa-pastoris,种,tol10m:0939c47c74ec32571dae0385,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:721
+review:8a11933e79f00061405a,东北槭（白牛槭、关东槭）,Acer mandshurica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:79
+review:8a1fe03f67f67c5ea2f0,救荒野豌豆,Vicia sativa,种,tol10m:ca18e602f9760e3b5f38c602,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:521
+review:8a377abaf058891eeafc,龙牙楤木（刺老芽、刺嫩芽、刺老鸦） / 辽东楤木,Aralia elata,种,tol10m:821f20a83f0d41ea83789906,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:93 | F24:cultivated:2856
+review:8a6a7ba8f4710e65f3df,北京丁香,Syringa pekinensis,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:123
+review:8a879861407153aeafa8,六倍利,Lobelia erinus,种,tol10m:01a391379bf597d0b3b060f5,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2602
+review:8aa2c83739ab5d4a2263,北美苍耳,Xanthium chinense,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1203
+review:8aa73aac63f38a0a5baf,朝雾草,Artemisia schmidtiana,种,tol10m:866fc58407fc627f0feb246f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2630
+review:8aafa75770ffebe71547,艾,Artemisia argyi,种,tol10m:3d69b62877d110a2c5f7da9b,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1094
+review:8aba585ab1b31d618cc2,布迪椰子,Butia capitata,种,tol10m:edf11345bf225f7933caf6bb,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:471
+review:8ac2f4cc2e9739189118,绵毛荚蒾,Viburnum lantana,种,tol10m:a5705471b81d85b97d0e553f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2779
+review:8b2e8af487d67ee49fc2,杉松（沙松、辽东冷杉、白松）,Abies holophylla,种,tol10m:aabdb703cc6561386996e506,东北,1,"{""未明确"": 1}",1,是,否,F18:1
+review:8b680620f3759f4943bb,钩锥,Castanopsis tibetana,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:32
+review:8b896f4b8f0e40f2f6fd,佛肚竹,Bambusa ventricosa,种,tol10m:1c4df15774926b7d0548710e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:534
+review:8b8c31ca593914272d37,女贞,Ligustrum lucidum,种,tol10m:b3553acd8f3950c0998e0303,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:158 | F24:wild:973
+review:8bc81a13b1af4197efa6,雨久花,Pontederia korsakowii,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:160
+review:8bdcfbafed2dadbd81c2,玉兰,Magnolia denudata,种,tol10m:b8cabac5106e3f6bbbf58407,华中,1,"{""未明确"": 1}",1,是,否,F19:61
+review:8c017684d4150c1542e6,中国沙棘,Hippophae sinensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1307
+review:8c0e62156616f53c24af,木防己,Cocculus orbiculatus,种,tol10m:3291c7ee2b8825410c5ae174,华东,1,"{""常见"": 1}",0,是,否,F24:wild:402
+review:8c1322103aa305a0136b,丝瓜,Luffa aegyptiaca,种,tol10m:75813efbd4d0647174a5b05c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1430
+review:8c6e77c7d5995b8cdd9b,吴茱萸,Evodia rutaecarpa,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:110
+review:8c8f60b6195840eb32b6,垂序商陆,Phytolacca americana,种,tol10m:8e3d2995f044da350be79b24,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:859
+review:8c91ba363422cfd46310,灯台树,Cornus controversa,种,tol10m:d66e802619eb1245209a6a84,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1964
+review:8cadab2808bc96546ccd,日本小檗,Berberis thunbergii,种,tol10m:28d6261e2a9bae9e71cdeef4,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:649
+review:8cb02ef7e6430c0eeab9,喜旱莲子草,Alternanthera philoxeroides,种,tol10m:59183c7554d5f8d60c45c69c,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:820
+review:8cb88d7e9841628fda87,爵床,Rostellularia procumbens,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1007
+review:8d0a55d751b9e50e0a83,吊兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:19
+review:8d8acbf041fdb4faa7fb,中华杜英,Elaeocarpus chinensis,种,tol10m:02e94a377d65e7e3a158ae22,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1474
+review:8d90348b20f9d9e37967,山刺梅（刺玫蔷薇）,Rosa davurica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:57
+review:8da54958c2b63f4cc727,大青,Clerodendrum cyrtophyllum,种,tol10m:0b5e3893bbaf68e0d96b33bf,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1018
+review:8dbb1ec45560b38d5e69,苦荬菜,Ixeris polycephala,种,tol10m:b9790cb1bc3f77f8028dac0e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1169
+review:8e3d5af919f242f36edc,苍耳,Xanthium strumarium,种,tol10m:cf00ffab0f9f8b1e4911de7c,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1204
+review:8e96d1a7ebd53e7f0f5f,胡颓子,Elaeagnus pungens,种,tol10m:29615b66f96b2b397cf33581,华东,1,"{""常见"": 1}",0,是,否,F24:wild:565
+review:8eb0433a53648a9bb970,印度橡皮树,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:34
+review:8ec27713588de5900d4e,茉莉,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:3
+review:8f3846492cd5d4c1e19a,红花玉兰,Magnolia wufengensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:68
+review:8f4c7e629635bbb5a1ea,泽薹草,Caldesia parnassifolia,种,tol10m:c969f38b0751ba64f3296502,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:286
+review:8fadf7946bc6a62d62bc,榧树,Torreya grandis,种,tol10m:93a9c7f13b4d374625512404,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:5 | F24:cultivated:107
+review:8fb4cf42ee778ca54674,茴茴蒜,Ranunculus chinensis,种,tol10m:ab70d03b2600be66127633c6,华东,1,"{""常见"": 1}",0,是,否,F24:wild:417
+review:8fdfbaadadcc958a9247,苘麻,Abutilon theophrasti,种,tol10m:eaa31e3dddf014dd3c56a910,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:699
+review:8fe5251d0d574da74194,光叶决明,Senna septemtrionalis,种,tol10m:97644c3b12ab653d546f2bb9,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:949
+review:902520ab68a13c3ef1d5,天名精,Carpesium abrotanoides,种,tol10m:ea47e8c5dccb1817492e4c7a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1127
+review:905e5696ca54b99e9ec1,景天树,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:61
+review:907be8857c1fbe48c490,三色堇,Viola tricolor,种,tol10m:8a299212d227d427d11a5580,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1503
+review:907c232fc0ec31f6670a,小叶罗汉松,Podocarpus pilgeri,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:24
+review:909519b363f66fc38fc9,兴安杜鹃（满山红、达子香、达达香）,Rhododendron dauricum,种,tol10m:c90912a188d4e2dbe59c594f,东北,1,"{""未明确"": 1}",1,是,否,F18:97
+review:90a41f9ab9db27ba6827,酸模叶蓼,Persicaria lapathifolia,种,tol10m:d4fba3256a0fe59544f841e1,华东,1,"{""常见"": 1}",0,是,否,F24:wild:769
+review:90f3b34a2da39ce15e87,狗牙根,Cynodon dactylon,种,tol10m:5394b200ed67edc73ff8f731,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:285
+review:90fe62aff6d41ec79d09,豇豆,Vigna unguiculata,种,tol10m:d52677529d492a2c7da1ac8d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:965
+review:91566ed6325d54a65b51,山杏（西伯利亚杏） / 山杏,Armeniaca sibirica,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:59 | F20:62
+review:916502b45c44af538f18,毛竹,Phyllostachys edulis,种,tol10m:d0cafa52112a4033051a6044,华东,1,"{""多见"": 1}",0,是,否,F24:wild:358
+review:91a469b58ed83935bb2e,青冈,Cyclobalanopsis glauca,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:35
+review:91f5a03b0852416fec9c,红花锦鸡儿,Caragana rosea,种,tol10m:ba313f714ceee63d22099451,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:75 | F24:cultivated:882
+review:925e0cc8d40c39e16d44,马缨丹,Lantana camara,种,tol10m:ffeff463a22f6e87aaba7d32,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2398
+review:92cbf1fc18262b4ad1ab,狗尾草,Setaria viridis,种,tol10m:8a4140a37ce4ef13d54c6c79,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:378
+review:93a787c81f0c96fe604f,红花酢浆草,Oxalis debilis,种,tol10m:695bd27594bca3d2c6960ad7,华东,1,"{""常见"": 1}",0,是,否,F24:wild:625
+review:93c989c886ece8b6d337,紫茉莉,Mirabilis jalapa,种,tol10m:46ad8077c4721acd9e8827cd,华东,1,"{""常见"": 1}",0,是,否,F24:wild:860
+review:93f5e17fbae33484d1fa,高砂芙蓉,Pavonia hastata,种,tol10m:ef69c7c3a1f56d2e723963aa,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1805
+review:9438ffc50d640a6d8eab,高粱,Sorghum bicolor,种,tol10m:06c68dcce3aa8e01e021b3c8,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:614
+review:946df3c796aca24f00da,土庄绣线菊,Spiraea pubescens,种,tol10m:9257c7a3b279efebc1b2c5f8,华北,1,"{""未明确"": 1}",1,是,否,F20:43
+review:948463d26a374f1c7aa4,构树,Broussonetia papyifera,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:55
+review:94f20a2bac33e0abe13c,药用蒲公英,Taraxacum officinale,种,bioclip:plant-022,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1199
+review:9510d93b55d633990eeb,春云实,Caesalpinia vernalis,种,tol10m:032ab199e4df7513af2246cb,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:879
+review:951b97ab28b3006b18df,小叶蚊母树,Distylium buxifolium,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:91 | F24:cultivated:795
+review:95c8d447c3a26cea108b,山玉兰,Lirianthe delavayi,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:187
+review:95dd0757122b7fee67f3,软叶丝兰,Yucca flaccida,种,tol10m:5f276278f264809f9f4d70e5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:466
+review:96678983375cc61e1f6a,山桃,Amygdalus davidiana,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:61
+review:969b7ffd86a18dc80c4e,斑叶稠李（山桃稠李、山桃）,Prunus maackii,种,tol10m:58e4f1caa57966e64fa628fd,东北,1,"{""未明确"": 1}",1,是,否,F18:62
+review:96cbcfb3f6f4f64445dd,醉鱼草,Buddleja lindleyana,种,tol10m:a5c632ff1578e41b1be01020,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2362
+review:977ed8ad609e50497bdb,麦李,Prunus glandulosa,种,tol10m:d5b116de1fc51d716141acea,华东,1,"{""常见"": 1}",0,是,否,F24:wild:546
+review:97a5cd1ca812dfa9627d,荇菜,Nymphoides peltata,种,tol10m:a8423ddfc97f8ab098e3676c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2608
+review:97c2ec31f60f16796d54,猴樟,Cinnamomum bodinieri,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:77
+review:97ec96cd4d7607378dde,小盼草,Chasmanthium latifolium,种,tol10m:020a523f814e4b53433d1d45,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:545
+review:986bb6ecdf796f30b141,小花溲疏,Deutzia parviflora,种,tol10m:9b59979e4019ed5439efaff2,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:39 | F24:cultivated:1942
+review:989b628d0a4cce3ace37,马蹄莲,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:70
+review:98c2748aebbe121ea026,水麻,Debregeasia orientalis,种,tol10m:835a1ac07faa9671715ecd5c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1346
+review:98c537bc3e061da41346,莴苣,Lactuca sativa,种,tol10m:754510c155eb673f00645f1f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2720
+review:98d9279388b3ef4cbecb,细叶萼距花,Cuphea hyssopifolia,种,tol10m:61b806c4c337b70603cf6e80,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1560
+review:98f145f305a6a1307493,阿拉伯婆婆纳,Veronica persica,种,tol10m:e9589bdf3d24bc5ce682ee30,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:992
+review:98f8bbf4383ccab60ae2,鳢肠,Eclipta prostrata,种,tol10m:d63aa1c615e22d393d3f2303,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1143
+review:98fc1fe84a3726b500e2,拟漆姑,Spergularia marina,种,tol10m:30b85968c34bc8345917487e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:812
+review:9984445f98e32039a5f0,海三棱藨草,× Bolboschoenoplectus mariqueter,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:171
+review:9a174d6002103609d3fe,豌豆,Lathyrus oleraceus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:918
+review:9a704a8f4d80e2c9991e,梣叶槭,Acer negundo,种,tol10m:4b33e3ef45c8924a50be08b6,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1644
+review:9a9a4b2dee9aa6e92e26,蒌蒿,Artemisia selengensis,种,tol10m:2ac9165f5f60dab465d4a1ea,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1110
+review:9b135c305ebc96f1fdbb,酒瓶兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:45
+review:9b3eab173559c06bef1f,红豆杉,Taxus chinensis,种,tol10m:6fb0b291c80954e6b89b2102,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:102
+review:9b436193a5f8851272f1,铂金钻,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:13
+review:9b5a0704631eae5abf72,花叶木薯,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:56
+review:9b5c33251abb31feb0cd,金鱼草,Antirrhinum majus,种,tol10m:0792ef5c9b97e06825fd8501,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2339
+review:9bca8ee14f5efb8ff615,萱草,Hemerocallis fulva,种,tol10m:3c9e45bd0ce8eccb99b23667,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:372
+review:9c258e60180d00837282,陆地棉,Gossypium hirsutum,种,tol10m:e85dbcf62c30911a50c8fc4f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1780
+review:9c3bda5a4f75d0c8d508,鹿角蕨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:39
+review:9c7d329bf818e758f25d,非洲天门冬,Asparagus densiflorus,种,tol10m:9b7daea04d4f1b1805f9adea,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:409
+review:9c9587dd7ae93688169c,紫马唐,Digitaria violascens,种,tol10m:a6e38e80348338f8331fc67a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:290
+review:9cd231ba971d11c01ddb,红背竹芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:26
+review:9cdbcaeb13bb33634259,罗汉松,Podocarpus macrophyllus,种,tol10m:b3850af9f4e35538b2501bd9,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:21
+review:9ce15e1e4f0b7924198f,火炬花,Kniphofia uvaria,种,tol10m:af9ca593e753f1cd0d86c91c,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:378
+review:9d3ae1f1eba310a27671,鬼罂粟,Papaver orientale,种,tol10m:712a7a35dfae28a4fca8fcb6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:635
+review:9d4be7116e2b1f7f50e1,白顶早熟禾,Poa acroleuca,种,tol10m:2d5bc8ceeaecf0dee6253921,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:362
+review:9d852f02afcf86c30388,扁穗莎草,Cyperus compressus,种,tol10m:5756ff9d9bd4d4f70fd4905f,华东,1,"{""多见"": 1}",0,是,否,F24:wild:220
+review:9d96e9a188e40a2646b3,油茶,Camellia oleifera,种,tol10m:ca85b81281fc00a2b06b5008,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:137 | F24:cultivated:2097
+review:9d9ffe18c82e47af2ba9,刺五加（坎拐棒子） / 刺五加,Acanthopanax senticosus,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:91 | F20:111
+review:9e3b54783a3057ade3a1,风箱果,Physocarpus amurensis,种,tol10m:08b2922af32012c2fefdcb70,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:45 | F24:cultivated:1061
+review:9e9cd141b5558fe17ff2,藿香蓟,Ageratum conyzoides,种,tol10m:15ebdac21d2a5ea64a44f8ef,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1086
+review:9ec622086f6a31a21f2e,多花紫藤,Wisteria floribunda,种,tol10m:fc152a5bcb631a62932d3a62,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:968
+review:9ee5a1f86e80b2c2618e,邻近风轮菜,Clinopodium confine,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1020
+review:9ee5fc61363522a4ad48,皋月杜鹃,Rhododendron indicum,种,tol10m:6a0387a26fd3d268b7d4e384,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2141
+review:9f46837998e6cbb1e260,太平花,Philadelphus pekinensis,种,tol10m:06ca8e26184aaf239aa81ce8,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:36 | F24:cultivated:1956
+review:9f7e72fffbe7478429e8,野扇花,Sarcococca ruscifolia,种,tol10m:09533ea07e9360de35235410,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:750
+review:9f8015ec5fb481e57e6f,大花美人蕉,Canna × hybrida,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:491
+review:9f98eef5466cb25dee27,望春玉兰,Yulania biondii,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:234
+review:9faf6aa17991e7a4a723,万年青,Rohdea japonica,种,tol10m:f17951f5a49cf5fc77501ff6,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:152
+review:9fb4a213d544d3fcfdd0,无瓣繁缕,Stellaria apetala,种,tol10m:1f6ef01126a7d00d2defdcfb,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:814
+review:a0092eb6530bab50e54c,李叶绣线菊,Spiraea prunifolia,种,tol10m:57ed2bed8d7f236c162f122f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1297
+review:a069b4c4ee3eb224d2a4,山桃草,Oenothera lindheimeri,种,tol10m:ca32f19712bed712a7ccecd4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1586
+review:a0940b6629821e9f7431,紫藤,Wisteria sinensis,种,tol10m:66f8f9b88f5f95a95c59c6f5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:969
+review:a09b112d635f896919b6,侧柏,Platycladus orientalis,种,bioclip:plant-003,华东 / 华中 / 华北,3,"{""未明确"": 2, ""常见"": 1}",1,是,否,F19:14 | F20:5 | F24:cultivated:74
+review:a0ece4d450e48e8642c9,柞木,Xylosma racemosum,种,tol10m:0fe5e3b08043287341e93dc2,华中,1,"{""未明确"": 1}",1,是,否,F19:142
+review:a0fea3877ecd923d5f5f,君迁子（黑枣） / 君迁子,Diospyros lotus,种,tol10m:3964adae8584b27069e39436,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:117 | F24:cultivated:1995
+review:a1225b0bc047dc99989b,荻,Miscanthus sacchariflorus,种,tol10m:2798abc590ed3381fae6179f,华东,1,"{""多见"": 1}",0,是,否,F24:wild:337
+review:a1803de589b17a9ad3c4,黄槿,Hibiscus tiliaceus,种,tol10m:7e7f551815e5f3b546d611d9,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1800
+review:a190acc7b3aac5576dcd,矢车菊,Centaurea cyanus,种,tol10m:b91fa4a5effdcbc9d300f6a5,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2645
+review:a1c81035497a1cbbad2c,元宝枫 / 元宝槭,Acer truncatum,种,tol10m:ed1ced732a7bf29eb4d46b15,华东 / 华北,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F20:93 | F24:cultivated:1721
+review:a1e85d1732a944f2c13a,茶梅,Camellia sasanqua,种,tol10m:4c661e44b600b22ad2fe590d,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2098
+review:a1f39a610b132aadf1a9,铁线蕨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:38
+review:a2307ec275754eee6b51,黄心卫矛（翅卫矛、黄瓤子）,Euonymus macropterus,种,tol10m:8198944888461c99a1f6757b,东北,1,"{""未明确"": 1}",1,是,否,F18:73
+review:a2bdfbf4f43199ccf2e2,宝盖草,Lamium amplexicaule,种,tol10m:ca7f0f28c1e77e239df4c9b1,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1033
+review:a2d257794ecaecfe4523,芥菜,Brassica juncea,种,tol10m:635b59a0eddab3da981f40a6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1828
+review:a333e5d36a64d9a68738,染料木,Genista tinctoria,种,tol10m:3e7e195530de8e73a164c66b,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:905
+review:a3418f767e872838adb5,棒头草,Polypogon fugax,种,tol10m:99b1a5ac350b9a087c780c85,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:366
+review:a35910669d4590e6f7df,皱叶狗尾草,Setaria plicata,种,tol10m:2438002a1ac0324e8debbaad,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:612
+review:a3bf3e045f4e6fe6850f,红茴香,Illicium henryi,种,tol10m:b53f74b464e9e8cc33fef332,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:57 | F24:cultivated:175
+review:a3f5eb91c5c6ddd278c5,东北山梅花,Philadelphus schrenkii,种,tol10m:11476117b5822ba427f588e5,东北,1,"{""未明确"": 1}",1,是,否,F18:39
+review:a3fc840203c751353754,金光菊,Rudbeckia laciniata,种,tol10m:8dc27c0e11f8ee07ff0875ed,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2741
+review:a43a939e706b692e9c04,天蓝绣球,Phlox paniculata,种,tol10m:39e9f96239c3d375c02a26fe,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1983
+review:a465059825f103f755ed,小巢菜,Vicia hirsuta,种,tol10m:57fd1eaad6c769a915e78918,华东,1,"{""常见"": 1}",0,是,否,F24:wild:520
+review:a485d706f13fcfcf74fb,具芒碎米莎草,Cyperus microiria,种,tol10m:b72c7467b51a1743324effd3,华东,1,"{""多见"": 1}",0,是,否,F24:wild:230
+review:a4871702d4a58cfdc1e6,桃,Prunus persica,种,tol10m:88e1af87e0c0ac2587a594b7,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:547
+review:a4e43dcf8162f456643e,风箱树,Cephalanthus tetrandrus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2164
+review:a53eede86ed6ab90de2f,新几内亚凤仙花,Impatiens hawkeri,种,tol10m:ccd1ad67b2ba24da27ce542c,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1977
+review:a581fb5274cdbbac3dd6,山茱萸,Cornus officinalis,种,tol10m:0735a9ec39347fbd56215020,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:149 | F24:cultivated:1972
+review:a63c06354591118738aa,晚香玉,Agave amica,种,tol10m:3c4dd5a8a00b51848c2488bf,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:407
+review:a64bb8b1e518b89bd7e7,兴安胡枝子,Lespedeza davurica,种,tol10m:d351dce6a639489390846a06,东北,1,"{""未明确"": 1}",1,是,否,F18:67
+review:a662d7ed949ed669a1d0,无毛紫露草,Tradescantia virginiana,种,tol10m:da9aa5da43331fb0c06f9466,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:482
+review:a6bf9b132888c25a4e13,一点红,Emilia sonchifolia,种,tol10m:e1334b8c1d3d120948cefae0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1144
+review:a6c2d7618123cbd5d898,曼地亚红豆杉,Taxus × media,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:90
+review:a6e8615b24b909b84f10,无患子,Sapindus saponaria,种,tol10m:74f6c6df835610ea911bb40d,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:133 | F24:wild:693
+review:a6f306c6dbe421eebb39,紫玉兰,Yulania liliiflora,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:238
+review:a7752f32a4e022d28f22,青麸杨,Rhus potaninii,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:123 | F24:cultivated:1622
+review:a7b823c46bf710b599e2,小百日菊,Zinnia angustifolia,种,tol10m:052824befd1213067a063d16,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2765
+review:a7d1b945bc122410fe83,沙棘,Hippophae rhamnoides,种,tol10m:af1a0be888664194673319e5,华北,1,"{""未明确"": 1}",1,是,否,F20:109
+review:a7d973d62da4f829e4ef,茅栗,Castanea seguinii,种,tol10m:7d39b411fc63de0ccbc6b752,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:28 | F24:wild:601
+review:a7d9b625b06000288624,山梅花,Philadelphus incanus,种,tol10m:5f16d5d9a7b4cfcc8135c497,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1955
+review:a7f11bd35ea829e1c15f,火炬树,Rhus typhina,种,tol10m:7310114d854521c2cfbea81b,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1624
+review:a7ffe3bf71455f1daf92,北美香柏,Thuja occidentalis,种,tol10m:3418fcfc1c3f8b8a49b4226d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:83
+review:a849357e5b60b7626e19,三角槭 / 三角枫,Acer buergerianum,种,tol10m:9ac47efefc0814bc97d65f6a,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:127 | F24:wild:691
+review:a85f777cd0bf5e91f3d5,大叶醉鱼草,Buddleja davidii,种,tol10m:ea34afe57dc96e01cec7df83,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2360
+review:a8b7d41ba8eea8fa98e9,石楠,Photinia serratifolia,种,tol10m:76b3f37f6937d3e72de38382,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:535
+review:a8cd0d6b718e9a6c77dd,马兰,Aster indicus,种,tol10m:c9bdc9df406a9f0d2e3cdb96,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1117
+review:a8cd868523dc52393b56,米兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:51
+review:a96548946788e6755f39,荷包豆,Phaseolus coccineus,种,tol10m:2428099212a86d88c783a8f7,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:933
+review:a9ab9dfdd320a74a0b40,美国薄荷,Monarda didyma,种,tol10m:23e88601996f9fa7e8a852cb,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2474
+review:a9b0c6c1f821f8b57141,少花龙葵,Solanum americanum,种,tol10m:bb0c50746fd013cbd1f95866,华东,1,"{""常见"": 1}",0,是,否,F24:wild:965
+review:a9b5fabfba1640c8cbe1,加拿大一枝黄花,Solidago canadensis,种,tol10m:66e3ff091cb3325bce620883,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1189
+review:aa08244277ffdd5c41cf,龟背竹,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F26:indoor:1
+review:aa1383e454c19df9e9d2,柊树,Osmanthus heterophyllus,种,tol10m:ea2e87989e335f1df07be598,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2324
+review:aa67c34b6119c4280268,木芙蓉,Hibiscus mutabilis,种,tol10m:8b180f9a32d89298c5ccf815,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1784
+review:aa875f86194b758478e0,金丝桃,Hypericum monogynum,种,tol10m:997e759932bf548693041203,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1489
+review:aabb75c77911c35e552c,日本辛夷,Yulania kobus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:237
+review:aacf93dda11ff51c5f67,木莲,Manglietia fordiana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:193
+review:aaf9054e269099750d34,白鳞莎草,Cyperus nipponicus,种,tol10m:e7b253e8e5519a1c8ed5fb25,华东,1,"{""多见"": 1}",0,是,否,F24:wild:231
+review:ab5eff63d5572e563fb2,榔榆,Ulmus parvifolia,种,tol10m:e62552431a38ff8c6d9a308f,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:51 | F24:wild:572
+review:ab7c37de6eb3c6bc07e1,毛樱桃,Cerasus tomentosa,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:65
+review:ab903dffa9e98767c9b6,春飞蓬,Erigeron philadelphicus,种,tol10m:66c2bc5be0c761b9030173b0,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1148
+review:ac2db4612e965f942c37,针叶天蓝绣球,Phlox subulata,种,tol10m:59c9f5fc8fb1d7959af3a600,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1984
+review:ac77eaba723c41f5feb6,姬凤梨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:20
+review:acdeb40c68dbaabed6f2,欧菱,Trapa natans,种,tol10m:a4b29a5bfc3455993aaea1d6,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1579
+review:acfcb179832cb9e76aa7,齿叶薰衣草,Lavandula dentata,种,tol10m:fd203f832545ed3866c8a1c0,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2456
+review:ad6e72567209e32e3e7b,黄鹌菜,Youngia japonica,种,tol10m:1664284ab85446b87cfa0edd,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1205
+review:ad74d5abd4943b7bbf44,毛地黄,Digitalis purpurea,种,tol10m:a3ff19ae9e2684e08aaa8f55,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2343
+review:adea4f15d72ab3db83fe,鹅耳枥,Carpinus turczaninowii,种,tol10m:608fd8c681314eab4c7d51b7,华北,1,"{""未明确"": 1}",1,是,否,F20:18
+review:adfadd94af212e2ebbdf,金鱼花,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:69
+review:aebbcff7925c34ea338d,阿穆尔莎草,Cyperus amuricus,种,tol10m:1f59539b19ab1e0af2d19541,华东,1,"{""多见"": 1}",0,是,否,F24:wild:217
+review:aeffa6f9a90e82640ef4,杂种鹅掌楸,Liriodendron × sinoamericanum,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:188
+review:af007c85ee8cb96d8025,杨梅,Myrica rubra,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:20 | F24:cultivated:1380
+review:af06917907580a056ccf,旋鳞莎草,Cyperus michelianus,种,tol10m:8a15720a02dab5ebcd6f4b80,华东,1,"{""多见"": 1}",0,是,否,F24:wild:229
+review:af12fe4dfc2fc0cb390e,大狼杷草,Bidens frondosa,种,tol10m:9d522b99cd35378273eba310,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1122
+review:af2f47eaefe566f81373,光蜡树,Fraxinus griffithii,种,tol10m:399bbd5254bce91780ade332,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:155 | F24:cultivated:2291
+review:af402b51b48fbf167074,浙江楠,Phoebe chekiangensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:269
+review:afc3e7d7080d72cf90c0,梅,Prunus mume,种,tol10m:7b1e18192573658c6f0465ff,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1111
+review:afef57aa4d971fd13cbd,盐肤木 / 盐麸木,Rhus chinensis,种,tol10m:3d949ddad32d20adb4db0099,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",1,是,否,F19:122 | F20:86 | F24:wild:690
+review:b04abd5af2e8d14bf506,地中海荚蒾,Viburnum tinus,种,tol10m:5b41f6e0313d5cd72a7c4f2d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2789
+review:b04d6a0d3f785902aeb7,福建紫薇,Lagerstroemia limii,种,tol10m:61419e1d580e12df428f7117,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1568
+review:b0a2f6ea4a64f05c9e99,双刺茶藨子（楔叶茶藨子）,Ribes diacantha,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:43
+review:b0a685e00e66b3687da4,穗花,Veronica spicata,种,tol10m:8f3d1bb0210617df5cbef41b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2353
+review:b0bccdd3960d6a3fd13e,臭白花,Tetradenia riparia,种,tol10m:b32c3ef6d6a0d87d0637cba8,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2534
+review:b0bf8c693b02b4fe7377,响叶杨,Populus adenopoda,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:17 | F24:cultivated:1511
+review:b12895c86341cf98c805,海滨木槿,Hibiscus hamabo,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1782
+review:b1292a3db5abda85e0f6,野胡萝卜,Daucus carota,种,tol10m:16b4a747ffa91f834942e827,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1229
+review:b14fdb50370bb7e98876,糙叶薹草,Carex scabrifolia,种,tol10m:d61f56139a3ad3ab866148a8,华东,1,"{""多见"": 1}",0,是,否,F24:wild:209
+review:b1bf4497590890b8debb,江南桤木,Alnus trabeculosa,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1392
+review:b212fe233eee9f1e19fb,楠木,Phoebe zhennan,种,tol10m:3d18ca30b1b490986e5921e4,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:89 | F24:cultivated:271
+review:b253368491f3aa074439,樟,Camphora officinarum,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:88
+review:b2888ec2f2a1de1f25fd,堪察加费菜,Phedimus kamtschaticus,种,tol10m:b2f5a86753a94ce0752d9243,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:844
+review:b29f989e25a8cd287d05,光萼溲疏（千层皮）,Deutzia glabata,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:37
+review:b3505da8a138d9a17fbf,看麦娘,Alopecurus aequalis,种,tol10m:91d31dc19418a26084f753e2,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:260
+review:b37edb3dfa229a3f8fd4,洋常春藤,Hedera helix,种,tol10m:f4417ff6d958aac2f184284d,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2862
+review:b3e4ba8a06c0497ab9bf,石龙芮,Ranunculus sceleratus,种,tol10m:32e753f3b5596b83b90d006f,华东,1,"{""常见"": 1}",0,是,否,F24:wild:422
+review:b3fdf74ae1d0fe02c8a5,青蒿,Artemisia caruifolia,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1096
+review:b422fe538bd08f68de61,黄连木,Pistacia chinensis,种,tol10m:046314ec9f25471d4fe86162,华东 / 华中 / 华北,3,"{""未明确"": 2, ""常见"": 1}",2,是,否,F19:121 | F20:87 | F24:wild:689
+review:b4b329f801dc798e72c9,网纹草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:14
+review:b4e342a7895122b39766,绵枣儿,Barnardia japonica,种,tol10m:4c7026eadf23b37ebed5ffe2,华东,1,"{""多见"": 1}",0,是,否,F24:wild:148
+review:b4f423963507720a5c9e,野老鹳草,Geranium carolinianum,种,tol10m:455e0a96f3596a6da9818af3,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:673
+review:b56dc236fbe4d577dc23,糠椴,Tiliamadshu ricaRupr. et Maxim.,待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:105
+review:b59ceabe7b83135f6346,荔枝草,Salvia plebeia,种,tol10m:0a622a5b76c5796baa968e2e,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1054
+review:b5d33f755060d3d745c3,竹柏,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:63
+review:b60e32f6193e0086b9f6,芍药,Paeonia lactiflora,种,tol10m:b86ea749327f1f982ebc5e50,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:786
+review:b73898366874cc1728f1,东北红豆杉（紫杉） / 东北红豆杉,Taxus cuspidata,种,tol10m:32c7a5dafeb69ab605e7b375,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:12 | F24:cultivated:103
+review:b753f7909dc4bcc14633,欧李,Cerasus humilis,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:64
+review:b760ca82abf1fb855854,菲油果,Acca sellowiana,种,tol10m:33d9d783be2ae23f5a0a7d9d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1591
+review:b79bb44ed8c702f7db45,阔叶山麦冬,Liriope muscari,种,tol10m:d4b58a570a5026891fd857e1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:442
+review:b82c01fa7bb7e7b004ed,矾根,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:55
+review:b833e0a772af49e39946,青钱柳,Cyclocarya paliurus,种,tol10m:6ec462fabc72645fc96950d6,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:22 | F24:cultivated:1383
+review:b86eb627ce53eb00360d,熊掌木,× Fatshedera lizei,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2853
+review:b87fe61291b8fb19bef4,银露梅（银老梅） / 银露梅,Potentilla glabra,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:53 | F20:60
+review:b887c8e218c36d4be5e6,大花六道木,Abelia × grandiflora,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2791
+review:b89948d599cbecba0040,野艾蒿,Artemisia lavandulifolia,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1104
+review:b8a32824065596260baa,碎米荠,Cardamine hirsuta,种,tol10m:b454abffc764e4975521f203,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:723
+review:b96833768f6ac82f161d,星点秋海棠,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:62
+review:b9b08914ef965d07d41a,薄叶润楠,Machilus leptophyllus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:267
+review:b9ba5a2bf19cb8a79724,水团花,Adina pilulifera,种,tol10m:01ce25fa0b7adbe9ed41faef,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2161
+review:ba04ea43396839ea5093,紫椴（籽椴） / 紫椴,Tilia amurensis,种,tol10m:7347a11aecb16d52d7088e50,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:88 | F20:103
+review:ba1c32683ec5672156eb,小木槿,Anisodontea capensis,种,tol10m:74de85bff37d9dab2f631c7a,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1774
+review:ba7802f66d2636af5e65,中华苦荬菜,Ixeris chinensis,种,tol10m:da9b3b41cc9823454e07c444,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1166
+review:ba7fb46c933ab8efc1b1,蛇莓,Potentilla indica,种,tol10m:710e458059ee4ba98144a081,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:541
+review:bae9cbfc813451fb0a47,辣椒,Capsicum annuum,种,tol10m:f7589be4fdc15108ec541449,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2225
+review:bb0f84f702c6c135e2ce,蓝目菊,Dimorphotheca ecklonis,种,tol10m:2dd6904b5aec7be07b34f00e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2663
+review:bb98d027b0bfb5c53bfc,西葫芦,Cucurbita pepo,种,tol10m:363ede7cc53a9335c0862582,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1424
+review:bbadef421d9a5f4d2d04,漆树 / 漆,Toxicodendron vernicifluum,种,tol10m:00b1b4ce2603f8c12afaabbc,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:124 | F24:cultivated:1629
+review:bbc80916d42074ddeb9f,喜树,Camptotheca acuminata,种,tol10m:f3cc3b562bfd8a7166f358de,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:147 | F24:wild:868
+review:bbeb21dfcbc705fdc2ca,野甘蓝,Brassica oleracea,种,tol10m:01c98c076d7d85e76acc330e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1838
+review:bc27b92c99f722e917c3,山桐子,Idesia polycarpa,种,tol10m:f1aff0d7c4356e23004c9336,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:143 | F24:cultivated:1507
+review:bc8799227c7671b36ef2,鸢尾,Iris tectorum,种,tol10m:75b111e19e785e6a7a1e0d1e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:358
+review:bc99c3f0bf6339eeb4ae,鸡爪槭,Acer palmatum,种,bioclip:plant-006,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:128 | F24:cultivated:1650
+review:bca605d76f001cf34858,五色苋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:43
+review:bd14a0c072d9d2d23d29,黄蜀葵,Abelmoschus manihot,种,tol10m:71d8c26aeb86c8626bfab7b3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1768
+review:bd2ca7481af029bed9c5,马鞭草,Verbena officinalis,种,tol10m:79b75c0d83e196c492649c36,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1011
+review:bd5dcd5c29ef1ff40be5,锦熟黄杨,Buxus sempervirens,种,tol10m:acf52338e33c31fb3da6aa97,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:737
+review:bd843250c603dee90733,蚕豆,Vicia faba,种,tol10m:61564104752d687f4cf6e31a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:519
+review:be0287e607acdc717418,百里香,Thymus mongolicus,种,tol10m:68055a9d98d28c497287d4cb,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2539
+review:be28194ccf0735d5c6c9,欧洲七叶树,Aesculus hippocastanum,种,tol10m:04c86dc95e28ebfec021aca6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1725
+review:be3cbe633c69917e7ec9,巴西莲子草,Alternanthera brasiliana,种,tol10m:546a1ea1c1fa724e6da7c2a6,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1897
+review:be7f5649f73eb71a3b74,德州栎,Quercus texana,种,tol10m:5f312b8f312923375e255320,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1376
+review:bea249d05c7bc9380b64,小叶锦鸡儿（柠条儿）,Caragana microphylla,种,tol10m:674d0d076378eb099d57770d,东北,1,"{""未明确"": 1}",1,是,否,F18:69
+review:beb8fd8cb404d0001a07,假豪猪刺,Berberis soulieana,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:648
+review:beba01740e7ef031a175,什锦丁香,Syringa × chinensis Schmidt.,杂交待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:105
+review:bebd955010cc96173ba1,枇杷,Eriobotrya japonica,种,tol10m:60ef1702b3bced02d13b6646,华中,1,"{""未明确"": 1}",1,是,否,F19:95
+review:becb87c3b65a42ccac6d,东北接骨木（马尿骚）,Sambucus mandshurica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:110
+review:becf9c449d40baecf8cf,薄雪万年草,Sedum hispanicum,种,tol10m:feebdff873d326f91db2ab1d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:848
+review:bee3364cfad2faafde7d,软枣猕猴桃（软枣子） / 软枣猕猴桃,Actinidia arguta,种,tol10m:c2e4fb0050e2e1ce034340ef,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:89 | F20:107
+review:bf0f0602bd0e20e05d35,欧丁香,Syringa vulgaris,种,tol10m:e94260261bc2a5c962f5fa82,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2333
+review:bf6cc1cc9c2f098887da,苦木 / 苦树,Picrasma quassioides,种,tol10m:314d7540a9362e1d8af9df10,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:85 | F24:cultivated:1762
+review:bfb497f5d3ade8c380af,花菱草,Eschscholzia californica,种,tol10m:8f5ac9c6a989683aea0d3cc2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:631
+review:c01a4f92f9212089d966,青木,Aucuba japonica,种,tol10m:e98ca27be9bc45c64172251b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2159
+review:c02f257290478db68869,无花果,Ficus carica,种,tol10m:839e2722450db90a9f271d24,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1334
+review:c039195aac5032bf0695,肉桂,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:65
+review:c051daf94706711fde1b,臭檀吴萸,Tetradium daniellii,种,tol10m:141d6cd98420912317153b59,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1748
+review:c06bdeab0972fa573aad,小藜,Chenopodium ficifolium,种,tol10m:152e52fa328956a84034ea03,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:843
+review:c07f5f7e03fdcb78b654,落葵,Basella alba,种,tol10m:72adb842df537ab246207d3e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:863
+review:c0b43762934be1517645,桑,Morus alba,种,tol10m:38ee875404f46aeb039d988d,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:56 | F24:wild:587
+review:c0f53fac00a7b8c654a6,紫楠,Phoebe sheareri,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:88 | F24:cultivated:270
+review:c137d3e720b97d2e5b2c,糙叶树,Aphananthe aspera,种,tol10m:f06e4baf8239e4d060bbb0cc,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:43 | F24:wild:576
+review:c141a3fd8f258c3f4008,牛膝,Achyranthes bidentata,种,tol10m:9fc228eb7323f6cb61451d83,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:818
+review:c14ad93f2fca34716042,大叶白蜡,Fraxinus rhynchophyll,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:120
+review:c14da72fe88b49435084,臭牡丹,Clerodendrum bungei,种,tol10m:2a84a2e5c8e241e25bb6f94f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2427
+review:c1620e52f65095c42b13,海金子,Pittosporum illicioides,种,tol10m:bec86d356430a6b8c3019680,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2843
+review:c16a6bbbaa7c492e24df,黑麦草,Lolium perenne,种,tol10m:18333e5999c375239229bf5a,华东,1,"{""多见"": 1}",0,是,否,F24:wild:329
+review:c170def1bcbc3b74cfcf,薜荔,Ficus pumila,种,tol10m:4c931e43b55cd612084c2049,华东,1,"{""常见"": 1}",0,是,否,F24:wild:585
+review:c1de56752cc01124b0ee,糯米条,Abelia chinensis,种,tol10m:73fcb343955ba9f91e563f57,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2797
+review:c26e9c2df63d56f67ddf,肿柄菊,Tithonia diversifolia,种,tol10m:af7448a35f2540ba1e46bbf9,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2760
+review:c29822e2777a7f7f4e01,粉绿狐尾藻,Myriophyllum aquaticum,种,tol10m:2252bfb9ceb331f34a533a68,华东,1,"{""多见"": 1}",0,是,否,F24:wild:443
+review:c2bc3734837c5389bde8,白雪果,Symphoricarpos albus,种,tol10m:ed669a2462373904e854a26b,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2828
+review:c30993dd05e20071ee0f,东京樱花,Prunus × yedoensis,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1085
+review:c31736de8065476da82f,毛梾（车梁木） / 毛梾,Cornus walteri,种,tol10m:6ecd618db7a144b6a0d214cf,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:113 | F24:cultivated:1974
+review:c341bc721cd3d9ee8e35,长叶竹柏,Nageia fleuryi,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:19
+review:c3582423a79021263445,黑弹树 / 小叶朴,Celtis bungeana,种,tol10m:6e145679834bab447a3013c9,华东 / 华中 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F19:45 | F20:31 | F24:wild:578
+review:c365faff796456162587,猕猴桃 / 中华猕猴桃,Actinidia chinensis,种,tol10m:9eb78517ce5975fb2252057e,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:136 | F24:cultivated:2118
+review:c36bd80986ff3cab9b14,阿尔及利亚常春藤,Hedera algeriensis,种,tol10m:10250bbd148a9d823c4accee,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2859
+review:c38a118f9cdc52aedbdf,双线竹芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:25
+review:c3a718176bde0e397ee4,长芒棒头草,Polypogon monspeliensis,种,tol10m:4f8843c586130c3c54ec7e62,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:367
+review:c3b077a51a2efdf80a64,小苦荬,Ixeridium dentatum,种,tol10m:af959ddbca917868399dcf41,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1165
+review:c3e5ba2fe0cb47f2764d,宽叶沿阶草,Ophiopogon platyphyllus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:456
+review:c403036c89b427ab84ad,水杉,Metasequoia glyptostroboides,种,bioclip:plant-004,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:12 | F24:cultivated:73
+review:c40839973c83cc2904ca,黄槐决明,Senna surattensis,种,tol10m:c1af944a32bc0dec6f46b278,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:950
+review:c45bd40b218e4a028976,天蓝苜蓿,Medicago lupulina,种,tol10m:054292016f524c7510c33641,华东,1,"{""多见"": 1}",0,是,否,F24:wild:495
+review:c481f5460a33a0ddbc81,虎杖,Reynoutria japonica,种,tol10m:d42f1e7158efbe3463963eed,华东,1,"{""多见"": 1}",0,是,否,F24:wild:791
+review:c4b16cce13403c2c110c,脱皮榆,Ulmus lamellosa,种,tol10m:ca555a508212636be0ab8699,华北,1,"{""未明确"": 1}",1,是,否,F20:28
+review:c5792b1d99939a7d3694,迷迭香,Salvia rosmarinus,种,tol10m:707fb06c7f23c143ca9ea891,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2520
+review:c58b57197660dd17c950,构树,Broussonetia papyrifera,种,tol10m:7e923eccf6396ff26334fbcf,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:582
+review:c59751552e13eb4b53da,风信子,Hyacinthus orientalis,种,tol10m:1dba7b2ae96e198168933ba2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:440
+review:c6514f1a0b37113ab409,疏花水柏枝,Myricaria laxiflora,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:141 | F24:cultivated:1863
+review:c674023a544de03c9fab,花叶滇苦菜,Sonchus asper,种,tol10m:6f7ee67c648ca2a32de11160,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1193
+review:c683c36b669086455fd3,稗,Echinochloa crus-galli,种,tol10m:58db1d7b51c5e826e159c253,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:294
+review:c68ff17395da50b50ee5,皂荚,Gleditsia sinensis,种,tol10m:c91b854985f5e7ada754a650,华东 / 华中 / 华北,3,"{""未明确"": 2, ""多见"": 1}",2,是,否,F19:103 | F20:71 | F24:cultivated:908
+review:c6b4b42188d43b68563a,陌上菜,Lindernia procumbens,种,tol10m:c9d69cf399ca49f2a95caba4,华东,1,"{""多见"": 1}",0,是,否,F24:wild:998
+review:c6cc0f49de1c15079644,水盾草,Cabomba caroliniana,种,tol10m:eafe6c1ac79fb527d3428c16,华东,1,"{""常见"": 1}",0,是,否,F24:wild:78
+review:c6d3718084609f057d02,羽扇槭,Acer japonicum,种,tol10m:5ec1c4cfaace28685f9e04ee,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1639
+review:c7799483ab84a7c509eb,蒙古栎（柞树、蒙古柞、不落叶） / 蒙古栎,Quercus mongolica,种,tol10m:55423960d4a8632f8944f27b,东北 / 华东 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F18:30 | F20:25 | F24:cultivated:1363
+review:c7a0ed0da7b84e0b8cfd,旱芹,Apium graveolens,种,tol10m:c1886886934951bf3fd5b071,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2872
+review:c7c32e8d319120540606,修枝荚蒾（暖木条荚蒾、暖树条子）,Viburnum burejaeticum,种,tol10m:d4197e545c43ae7eca2e56b3,东北,1,"{""未明确"": 1}",1,是,否,F18:111
+review:c7e97d70d8838270dc8a,瓜木,Alangium platanifolium,种,tol10m:9f21412d1a80061b36da1ecf,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1960
+review:c824dce2c2612f7f3b26,虎尾兰,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:57
+review:c8657e11201503db2222,地榆,Sanguisorba officinalis,种,tol10m:9a54db7a2a8908722bcc0fcb,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1275
+review:c88801629c80aaf67a1a,栲,Castanopsis fargesii,种,tol10m:ec4895dfe3903071aed3c0e1,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:33 | F24:cultivated:1353
+review:c90041bf7cc73ff96bb0,白车轴草,Trifolium repens,种,bioclip:plant-023,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:516
+review:c9222dd08c7a797851bb,紫萍,Spirodela polyrhiza,种,tol10m:bad7f62160d6fa4d104bd9e0,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:104
+review:c9a5c032127a275cf54c,青榨槭,Acer davidii,种,tol10m:82ed2d372080e3dbb7406bd5,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",0,是,否,F20:95 | F24:cultivated:1633
+review:c9af408dcd9fed5bb902,红千层,Callistemon rigidus,种,tol10m:2c640c293d5042a16ab227b2,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1593
+review:c9d6e420f339c6ba805c,无心菜,Arenaria serpyllifolia,种,tol10m:9c2fbeeddfe870243fa50af3,华东,1,"{""常见"": 1}",0,是,否,F24:wild:802
+review:c9ec0bfd4d3281a5b0f2,白英,Solanum lyratum,种,tol10m:60800b1f1cf5f0fbc42f3c94,华东,1,"{""常见"": 1}",0,是,否,F24:wild:968
+review:ca333768fe61c3cb9e4f,湖北梣（对节白蜡）,Fraxinus hupehensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:157
+review:ca70da0a326cfff1bdf1,花红,Malus asiatica,种,tol10m:db72948f4ec43d20164266a7,东北,1,"{""未明确"": 1}",1,是,否,F18:51
+review:ca9eb63978ba6e06bb9c,鸡麻,Rhodotypos scandens,种,tol10m:e499b55390bc31dfc0f4f054,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1226
+review:cabd9a6d49f71c4b743c,柳叶绣线菊 / 绣线菊,Spiraea salicifolia,种,tol10m:3310c1607bb11780909db008,东北 / 华东,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F18:44 | F24:cultivated:1299
+review:cb1e021d0f382f18ed74,川黔紫薇,Lagerstroemia excelsa,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:146
+review:cb7fc090a79a54747123,小叶杨,Populus simonii,种,tol10m:a6ae57446b23680bc3d3b6ae,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:10 | F24:cultivated:1515
+review:cb9de4ee051166e9eaed,黄花落叶松（长白落叶松、海林落叶松）,Larix olgensis,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:5
+review:cba28972860450efcb58,诸葛菜,Orychophragmus violaceus,种,tol10m:200a34ec892f6b0dab336722,华东,1,"{""多见"": 1}",0,是,否,F24:wild:739
+review:cbc68f793b76a85076ae,海仙花,Weigela coraeensis,种,tol10m:9c91b16775718f99259c0325,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2832
+review:cbd411b60ff71acb9c53,泽泻,Alisma plantago-aquatica,种,tol10m:65f919618f75c31b0509e339,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:284
+review:cbe4569a8d7bf4770d2b,粗根鸢尾,Iris tigridia,种,tol10m:f9e780f5ba40ae9be951e1f1,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:359
+review:cbf6059fb24a74930778,柯,Lithocarpus glaber,种,tol10m:0039e9ff22002824fd88daee,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:34 | F24:cultivated:1356
+review:cc9a375124f3ba8935e0,齿叶溲疏,Deutzia crenata,种,tol10m:1de61167383d1209b98af0d5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1935
+review:ccc1c6cfb11bac3d715a,玻璃苣,Borago officinalis,种,tol10m:ff55430d0c8c1406b54dc26c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2207
+review:cced429c8e2da3a0b40e,鼠李,Rhamnus davurica,种,tol10m:b7308c8d77a7e9ab3545bfd8,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:98 | F24:cultivated:1317
+review:cd2f7a21f2335f14b625,月桂,Laurus nobilis,种,tol10m:eb328b2eaf29407f9f3d3bf7,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:256
+review:cd931c950ea815152fe6,秋英,Cosmos bipinnatus,种,tol10m:72ad4fcaf04df6099951b90e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1136
+review:ce25528b9e702a6d408e,海金沙,Lygodium japonicum,种,tol10m:fc6728c12b1c07246d46c2f1,华东,1,"{""常见"": 1}",0,是,否,F24:wild:19
+review:ceaec5fa18602adf49d0,大吴风草,Farfugium japonicum,种,tol10m:07b5f6bce4681fcfea7b1b7f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2678
+review:cec60ed41680688b5949,虞美人,Papaver rhoeas,种,tol10m:1f99cc1f96a5424f0ba03e6d,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:636
+review:cf149aaf10c6d2d6cd10,木油桐,Vernicia montana,种,tol10m:d9e37e0a351741e1cfd472d2,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:119 | F24:cultivated:1547
+review:cf2addc72c2a5330ca96,山葡萄（阿穆尔葡萄、木龙、烟黑）,V. amurensis Rupr.,待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:86
+review:cf5555f08925f1967c07,黄刺玫,Rosa xanthina,种,tol10m:349c15cf96af73acc631d462,东北,1,"{""未明确"": 1}",1,是,否,F18:56
+review:cf5e9d0fcaf7dba14660,苦槠,Castanopsis sclerophylla,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:31 | F24:wild:602
+review:cf64fdae44f9872b54ba,银石蚕,Teucrium fruticans,种,tol10m:4e393b9728d1dfbe9c887724,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2536
+review:cf7765f3326e2bbb722a,翅果菊,Lactuca indica,种,tol10m:719df1061b0cd57ac19a5fab,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1173
+review:cf93e55b900faadcb597,蚬壳花椒,Zanthoxylum dissitum,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1754
+review:d006daea45b4c126ff36,彩苞鼠尾草,Salvia viridis,种,tol10m:e95ae91be8b1cd64b59f1595,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2529
+review:d020f599d05a05ddd7e1,水青冈,Fagus longipetiolata,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:29
+review:d05674426d5347adfbbd,球序卷耳,Cerastium glomeratum,种,tol10m:668326a80eb6582180005d96,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:803
+review:d0ba3052eabb3ea0ab41,刺苋,Amaranthus spinosus,种,tol10m:125f4f2df221c6954ab19d27,华东,1,"{""多见"": 1}",0,是,否,F24:wild:829
+review:d0c2fd7a5c27ce5b4eb6,刺果毛茛,Ranunculus muricatus,种,tol10m:b794c3626c55c940ab714671,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:419
+review:d1229379a7b61cbb5d19,西瓜,Citrullus lanatus,种,tol10m:a6fa5261630dd5c234c0a133,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1414
+review:d152cdc51762ca373972,薄荷,Mentha canadensis,种,tol10m:450642e20ad662c0ef362b71,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1042
+review:d1660087764844de62b2,菜豆,Phaseolus vulgaris,种,tol10m:40aa6b3a1181e8be9f64134e,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:935
+review:d17c2ce21f43a737fffc,红毒茴,Illicium lanceolatum,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:58 | F24:cultivated:176
+review:d1888f8d74a3022acbe6,香果树,Emmenopterys henryi,种,tol10m:2cacc24d38528edb70df9c14,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:162 | F24:cultivated:2165
+review:d194d2d2593a1e404681,小蓬草,Erigeron canadensis,种,tol10m:d4459eb567bcc12298dc9790,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1147
+review:d1a1e1d65c1223e2b958,接骨草,Sambucus javanica,种,tol10m:bdfcacadacff7e1d916c3674,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1207
+review:d1d10214132bc794f605,郁香忍冬,Lonicera fragrantissima,种,tol10m:769cdbaa9b546681287f7ffd,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2813
+review:d2174538362f91ba6e82,爬山虎 / 地锦,Parthenocissus tricuspidata,种,tol10m:7523ae328a431040bf5a3da5,华东 / 华中 / 华北,3,"{""未明确"": 2, ""少见"": 1}",2,是,否,F19:134 | F20:100 | F24:wild:450
+review:d22346feaa2d2d10b377,枇杷,Rhaphiolepis bibas,种级候选待核验,,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:550
+review:d224299f29c50092964b,厚萼凌霄,Campsis radicans,种,tol10m:b135775d006620a1a0011bc2,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2382
+review:d2554f0d90634608a4fb,金钱树,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:1
+review:d26c80b63865a2050673,西府海棠,Malus × kaido,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1047
+review:d2f3e0f224e70170a40a,小苜蓿,Medicago minima,种,tol10m:4b2612ffebb681607037cde0,华东,1,"{""多见"": 1}",0,是,否,F24:wild:496
+review:d3156fa1ac80d2aa7711,竹叶眼子菜,Potamogeton wrightii,种,tol10m:6a1f8887b6e5cef764171ae8,华东,1,"{""多见"": 1}",0,是,否,F24:wild:124
+review:d32ca728dc96fdc1d43e,垂丝海棠,Malus halliana,种,tol10m:5d60c0ea26cd6ee2502fa440,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1050
+review:d34a778d3e7af18cdddc,南酸枣,Choerospondias axillaris,种,tol10m:8ef237e74dc8aad4d6e214d0,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:120 | F24:cultivated:1612
+review:d35691f4d3400de83a66,菲黄竹,Pleioblastus viridistriatus,种,tol10m:5364cb0df4404a2799cb7e47,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:603
+review:d37f787f27efa23f0552,榆叶梅,Amygdalus triloba,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:58 | F20:63
+review:d3940c3a4adaafd69e9e,剪刀股,Ixeris japonica,种,tol10m:f65c774e88a92dc04a7522dc,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1168
+review:d3acb03e58e16735caba,金鸡菊,Coreopsis basalis,种,tol10m:2c59521afe93fb428cae555d,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1133
+review:d3c0a6b201b20695b0b0,黄檀,Dalbergia hupeana,种,tol10m:6e3889248c33d4f048c5094b,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:109 | F24:wild:473
+review:d3e77850af79595553a5,桂花（木犀） / 木樨,Osmanthus fragrans,种,bioclip:plant-009,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:159 | F24:wild:976
+review:d454da90619009b7ff02,铁十字秋海棠,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:36
+review:d4617dee4566ba1009fb,天鹅绒竹芋,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:27
+review:d4fc38155a686a869e01,白及,Bletilla striata,种,tol10m:eee9cfb5fcd743bc68ede93d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:332
+review:d5b9acdbdf49347a7562,蜡梅,Chimonanthus praecox,种,tol10m:d2aa7fb26628f373c1c19d38,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:73 | F24:wild:87
+review:d5b9afc3433a771565d9,大叶朴,Celtis koraiensis,种,tol10m:21d00bf07f8986c096a0d073,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:32 | F24:cultivated:1330
+review:d5e7198487ae4f6b3387,马尾松,Pinus massoniana,种,bioclip:plant-005,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:133
+review:d5ee235fb25ee5ef6838,蓝猪耳,Torenia fournieri,种,tol10m:16663bd36fa60356f42d2af9,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2366
+review:d65fb442ec13455588bf,美人蕉,Canna indica,种,tol10m:a8dc80228176b77afd2bd0a2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:496
+review:d666bd54d70b6c7dc614,柚,Citrus maxima,种,tol10m:f124eebb9daa3387c35c1a9a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1737
+review:d75bbd9869e5ee244d5e,水松,Glyptostrobus pensilis,种,tol10m:13b2796c88a646a1d5a22ae3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:48
+review:d75c862eff58d51597c7,鹿角桧,Juniperus × pfitzeriana,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:54
+review:d763194b02b176d71d2d,柳叶红千层,Callistemon salignus,种,tol10m:ca340f1180c5a9f5426f1a8f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1594
+review:d765deff673887a155f2,鸡树条,Viburnum sargentii,种,tol10m:a5e8bd3df8e774d3ab5d3d9a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2787
+review:d7b99b9fea164bc7b3a2,巴山榧树,Torreya fargesii,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:4
+review:d82c3df3c7b59df29d4e,秤锤树,Sinojackia xylocarpa,种,tol10m:35ad64cbf00e19b3bef2b21e,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:154 | F24:cultivated:2111
+review:d835732531961e1b4361,南苜蓿,Medicago polymorpha,种,tol10m:9c2980321a8a76e590e379a3,华东,1,"{""常见"": 1}",0,是,否,F24:wild:497
+review:d8435583923f150f80ef,鸟雀蕨,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:40
+review:d853f580bd26ebe4a7dc,银海枣,Phoenix sylvestris,种,tol10m:853e5acc3ec3755b2228bc38,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:475
+review:d855b495244ac531e3ce,扬子毛茛,Ranunculus sieboldii,种,tol10m:ab49905e239bc2182d064361,华东,1,"{""常见"": 1}",0,是,否,F24:wild:423
+review:d917f21a03ae8a134778,金丝梅,Hypericum patulum,种,tol10m:c8555df9325db9b09788beb9,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1490
+review:d91f4ce89befb5e38482,朱槿,Hibiscus rosa-sinensis,种,bioclip:plant-018,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1785
+review:d93b49410162550af7c3,落花生,Arachis hypogaea,种,tol10m:8d38735a7e5380c138649afd,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:874
+review:d965085862dc08ef24d0,枸杞,Lycium chincnse,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:130
+review:d99e352d1dff99926abb,曼陀罗,Datura stramonium,种,tol10m:cf79e6a11c19ae475e688e5e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:959
+review:d99e4d1cf81bb8b525f5,白睡莲,Nymphaea alba,种,tol10m:d621c6fd10b3fb928e0ef310,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:169
+review:d9ad2ffde5459bcc2417,金雀儿,Cytisus scoparius,种,tol10m:34e63f8a2bcadff0a304d120,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:900
+review:d9b7c093ea49cb44651f,银荆,Acacia dealbata,种,tol10m:cf8c5f3422257d5cf03045ef,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:868
+review:d9fa8aab4e625ba1db3a,山茶花,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:72
+review:da606a3c926c9924a6b1,柳叶牛膝,Achyranthes longifolia,种,tol10m:e4ff95269fb89c7eed43cd31,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1896
+review:da90708c4f48a1cea792,红凤菜,Gynura bicolor,种,tol10m:b496d62203be9b84072e3af0,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2703
+review:daa4cbb380f711584f82,木荷,Schima superba,种,tol10m:349043bdec809c50bb1a1169,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:140 | F24:cultivated:2100
+review:dac0cd0ceaf1f5185e9c,牡丹,Paeonia × suffruticosa,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:751
+review:db067e368fc932c3656b,菰,Zizania latifolia,种,tol10m:09f90999cbf37b57cc7b0e00,华东,1,"{""常见"": 1}",0,是,否,F24:wild:388
+review:db31dfb9f62bebd7d6b5,郁李,Prunus japonica,种,tol10m:edd3bee7c8b3a001ef818556,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1105
+review:db36a047b174b31befd5,乌冈栎,Quercus phillyreoides,种,tol10m:45fc1d468c91bd488be126aa,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1368
+review:db400aef5f0d2d15c136,巴东木莲,Manglietia patungensis,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:69
+review:dbb727ef73c1e4705b58,树锦鸡儿(黄槐、柠条儿) / 树锦鸡儿,Caragana arborescens,种,tol10m:9eed744d7bd56b2f479767b1,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:68 | F20:76
+review:dbc92a1312c8ff6e2c39,芭蕉,Musa basjoo,种,tol10m:5df430c879c56b8ff53a7ff5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:486
+review:dbec16f6776d6e0d3b36,垂盆草,Sedum sarmentosum,种,tol10m:f91c21b47a458332665e7107,华东,1,"{""常见"": 1}",0,是,否,F24:wild:441
+review:dc0a67558bcfea4b8690,绣球荚蒾,Viburnum macrocephalum,种,tol10m:35de8d3930607b5b87c2c531,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2780
+review:dc24b7e3412d0e742dc6,花榈木,Ormosia henryi,种级候选待核验,,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:105 | F24:cultivated:930
+review:dc38536e5d4f6bbbb2b1,菠菜,Spinacia oleracea,种,tol10m:eb8daa5aab6686ce93e87806,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1914
+review:dc92c81416ebb1d298a3,菖蒲,Acorus calamus,种,tol10m:c43488f31e6513f141e534f8,华东,1,"{""常见"": 1}",0,是,否,F24:wild:95
+review:dca890b49f9fab0310e1,猪笼草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:48
+review:dcf94efbf145a4c4e592,欧洲慈姑,Sagittaria sagittifolia,种,tol10m:a345afb764981cf31cab2dc7,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:288
+review:dd4ec69bafc39e245d7f,大豆,Glycine max,种,tol10m:e1f33f0dc46c2205cf25a310,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:910
+review:ddade6a6765c15fe31a4,紫珠,Callicarpa bodinieri,种,tol10m:b2eb20d22805c3fce8e0e502,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2412
+review:de09c679865a2ea0e433,待宵草,Oenothera stricta,种,tol10m:64c35dd918e61382a1df615d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1589
+review:de561cee8ce852fdb102,紫苜蓿,Medicago sativa,种,tol10m:dcda925edd92fdd2ace8a8b3,华东,1,"{""常见"": 1}",0,是,否,F24:wild:498
+review:de9badcd630eb3b53ffb,顶花板凳果,Pachysandra terminalis,种,tol10m:07cf4ebccd26eafa2bacd54e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:748
+review:deecf44f756dbc618118,活血丹,Glechoma longituba,种,tol10m:952bdb468a8bb9b0981f2116,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1028
+review:df230e93126a0a5450a1,连香树,Cercidiphyllum japonicum,种,tol10m:49eb62706d01bff5fd6d71d4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:811
+review:df9cb0d7458043ad755b,蒿柳,Salix Viminalis L.,待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:23
+review:dfd626af596ffee3a656,交让木,Daphniphyllum macropodum,种,tol10m:97a95cb1f84ba192b9f31450,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:812
+review:dfe41bb07c29c8172fac,青楷槭（青楷子，辽东槭）,Acer tegmentosum,种,tol10m:2b8a62ae9aec8e6a778b18a0,东北,1,"{""未明确"": 1}",1,是,否,F18:77
+review:dfe44500ce11b6681453,薏苡,Coix lacryma-jobi,种,tol10m:365396875845525edd97439a,华东,1,"{""多见"": 1}",0,是,否,F24:wild:282
+review:e002bc17c0988d559572,竹蔗,Saccharum × sinense,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:608
+review:e0266d9b0d0702bf08b7,饭包草,Commelina benghalensis,种,tol10m:641efe2fd62a02e24fff9f17,华东,1,"{""多见"": 1}",0,是,否,F24:wild:154
+review:e070408bb4cb80afbe3a,酢浆草,Oxalis corniculata,种,bioclip:plant-024,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:624
+review:e0b7ca936f87ab8d7d37,大花耧斗菜,Aquilegia glandulosa,种,tol10m:c157ce12c28691644791445b,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:673
+review:e0c1140ddd4723bb9c9a,锦绣杜鹃,Rhododendron × pulchrum,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2139
+review:e117bcd42e73b83bfc82,珊瑚朴,Celtis julianae,种,tol10m:971d5f5d98f29e29446cabba,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:47 | F24:cultivated:1329
+review:e1b2aba3ec62ca328b1c,柏木,Cupressus pendula,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:45
+review:e1e999b12b91e35f0cb3,马利筋,Asclepias curassavica,种,tol10m:49f4b9be75d60a83feb01fa5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2183
+review:e25e5e8050bdbee571a7,东北连翘（连翘）,Forsythia mandshurica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:101
+review:e27b10f9d66ccf41c446,花曲柳（苦枥白蜡树、大叶白蜡树）,Fraxinus rhynchophylla,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:99
+review:e2a09b48f5bc0f3f9a89,建始槭,Acer henryi,种,tol10m:f92744a3395f0af3dc99545a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1638
+review:e330d7c0ba732885b8a3,东北桤木（东北赤杨）,Alnus mandshurica,种,tol10m:01546675a29e4ebb1ea98797,东北,1,"{""未明确"": 1}",1,是,否,F18:27
+review:e34007e4eb1bdf38fabe,灰栒子,Cotoneaster acutifolius,种,tol10m:d02a2e7e7e23ea76e552f65a,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:48 | F24:cultivated:1002
+review:e3659b36b0ca977beab7,红花七叶树,Aesculus × carnea,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1722
+review:e3999ddd01a08e627416,粱,Setaria italica,种,tol10m:4d2f7857204fc2ae0f2f317c,华东,1,"{""多见"": 1}",0,是,否,F24:wild:375
+review:e3c1ce7e942827ca5764,澳洲茶,Leptospermum scoparium,种,tol10m:289b4b339508a856f8eb6d36,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1600
+review:e3c580da3836c121f61f,丹参,Salvia miltiorrhiza,种,tol10m:00261358a735f3c426f29a62,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2516
+review:e4150d42fb98c5a5ed3a,黄榆（大果榆） / 大果榆,Ulmus macrocarpa,种,tol10m:4b51356e906612304e600421,东北 / 华中 / 华北,3,"{""未明确"": 3}",3,是,否,F18:32 | F19:49 | F20:27
+review:e48087552d44a00200d9,扁豆,Lablab purpureus,种,tol10m:8dd9ed02c3ee6e20c325cc88,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:921
+review:e4cbb82275339ec81213,蕺菜,Houttuynia cordata,种,tol10m:5b128b4cd0cfde067572d642,华东,1,"{""多见"": 1}",0,是,否,F24:wild:80
+review:e4f55522b69b69499adc,深蓝鼠尾草,Salvia guaranitica,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2511
+review:e50002a22875b80bc8a2,薰衣草,Lavandula angustifolia,种,tol10m:6fc4852f413cbc3d6fcaf770,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2453
+review:e551bee9f534f4e71789,一串红,Salvia splendens,种,tol10m:22302d5297cc61cfc20a4a37,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2525
+review:e56768f804822ab6bc5d,无根萍,Wolffia globosa,种,tol10m:b07a17212c820aa034fb838c,华东,1,"{""多见"": 1}",0,是,否,F24:wild:106
+review:e5740dc2392b55e8d268,圆叶景天,Sedum makinoi,种,tol10m:ca4bbf17076fd55f15d592f1,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:850
+review:e5c9483bb77159631b87,一年蓬,Erigeron annuus,种,tol10m:91c5e785c14952a23f2f934a,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1145
+review:e5ef0a3736b4e903ae56,日本冷杉,Abies firma,种,tol10m:14da28d1fbd6cb9905079b3d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:112
+review:e614d65ad7abda764975,土荆芥,Dysphania ambrosioides,种,tol10m:221b75836dcde6c998f14203,华东,1,"{""常见"": 1}",0,是,否,F24:wild:848
+review:e64e873139f9946ff3d5,短叶水蜈蚣,Cyperus brevifolius,种,tol10m:615631e70ac54e82ba082616,华东,1,"{""多见"": 1}",0,是,否,F24:wild:219
+review:e6bb30aa761bf2565b95,齿叶白鹃梅,Exochorda serratifolia,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:46
+review:e77f29ac67491bca2646,辽东栎,Quercus wutaishanica,种,tol10m:13cafe1862773d65890f49a7,东北 / 华北,2,"{""未明确"": 2}",2,是,否,F18:31 | F20:24
+review:e78ace1e08c431cb18b7,山合欢 / 山槐,Albizia kalkora,种,tol10m:2c00c95bb43555c65c6adb98,华东 / 华中,2,"{""未明确"": 1, ""极少见"": 1}",1,是,否,F19:101 | F24:wild:457
+review:e86243a02b5ffdd84fd5,西洋杜鹃,Rhododendron × hybridum,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2138
+review:e87a662ad571282d890b,南方红豆杉,Taxus mairei,种,tol10m:00b8fbb4ebabf59783384c44,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:105
+review:e8854501cc7d73971970,蕹菜,Ipomoea aquatica,种,tol10m:fe62685d3c5e54c04577aca1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2219
+review:e89529ad44a3baa35e1a,锥栗,Castanea henryi,种,tol10m:26561963663535d324e9cfe8,华中,1,"{""未明确"": 1}",1,是,否,F19:27
+review:e89ae24c12bf7e883875,蚕茧蓼,Persicaria japonica,种,tol10m:b6acc18c3dba75b75dcd1727,华东,1,"{""常见"": 1}",0,是,否,F24:wild:766
+review:e8a1baacac4703c1d365,胡桃（核桃） / 胡桃,Juglans regia,种,tol10m:5ac17168b020adffdc28e76b,华东 / 华北,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F20:15 | F24:cultivated:1386
+review:e8a619da85f52ca2302f,茶条槭（茶条子）,Acer ginnala,种,tol10m:04070ce0d6824f1a15819d9a,东北,1,"{""未明确"": 1}",1,是,否,F18:75
+review:e8f2b58b256896e32a63,香杨,Populus koreana,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:15
+review:e947bbc6017942417c9e,木瓜,Pseudocydonia sinensis,种,tol10m:579347b53706ce171e8817b4,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1214
+review:e9621b35d961b4dc75ed,大果冬青,Ilex macrocarpa,种,tol10m:862440d3e4ea66f084e0b856,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2582
+review:e988714ab58f986d8e58,珠芽景天,Sedum bulbiferum,种,tol10m:7f7b8a67d7d5cef95245e928,华东,1,"{""常见"": 1}",0,是,否,F24:wild:437
+review:e98cc850829e2bf3a50c,毛白杨,Populus tomentosa,种,tol10m:ae40e57c76799e05213a7ba8,华北,1,"{""未明确"": 1}",1,是,否,F20:6
+review:e98d4ee1f8a401aa54bd,金脉爵床,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:33
+review:ea91e54a97e7c4a63b10,石胡荽,Centipeda minima,种,tol10m:79023d28868c7fe9fdcd78b4,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1129
+review:eaae50c1e359ac00238c,忽地笑,Lycoris aurea,种,tol10m:551768f35103766d3c5675fc,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:395
+review:eac78d5211eb6a1a0cf6,木槿,Hibiscus syriacus,种,tol10m:f3374d167c525e2853872c32,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1796
+review:eb52de814b2d24ba9447,五色苋,Alternanthera ficoidea,种,tol10m:ecf411b114834392ff4059ae,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1899
+review:eb8df989d480c48ddf02,聚合草,Symphytum officinale,种,tol10m:bab0538ef1b4d9e37f42a4f5,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2217
+review:ec1e38821413894a3754,地锦草,Euphorbia humifusa,种,tol10m:35103ad15843ce7865df2b90,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:649
+review:ec54af1dc8e1f285432d,朱蕉,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:52
+review:ec9556bdc2aaf7922878,臭椿,Ailanthus altissima,种,tol10m:e51d70e14ccd6987065e4d46,华东 / 华中 / 华北,3,"{""未明确"": 2, ""常见"": 1}",2,是,否,F19:112 | F20:84 | F24:cultivated:1759
+review:eca0c37244a60d8328e4,小叶金露梅,Potentilla tenuifolia,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:54
+review:ecce4b12a3dfe59caa8c,天目木姜子,Litsea auriculata,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:263
+review:ecf6211d3c7a89356f1c,薤白,Allium macrostemon,种,tol10m:28bb270daa0e3b79df913f82,华东,1,"{""常见"": 1}",0,是,否,F24:wild:141
+review:ecfb483f0e4f211d97f0,婆婆纳,Veronica polita,种,tol10m:469f315d4abaa25058aba4f1,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:993
+review:ed40ec205c2bffba6315,水芹,Oenanthe javanica,种,tol10m:da412065c476e31873c6b1fc,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1231
+review:ed593472a8d52f7b6571,香石竹,Dianthus caryophyllus,种,tol10m:89d82453ab4b0a3d50cfd5dc,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1886
+review:ed795fb4d5ff1710570b,白楠,Phoebe neurantha,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:87
+review:ee3483266344836d0561,倒提壶,Cynoglossum amabile,种,tol10m:7a2df75c00eb0645d755c174,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2209
+review:ee616f5d77428cb785b6,黄山玉兰,Yulania cylindrica,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:235
+review:ee80635392923e9fd19d,黄花蒿,Artemisia annua,种,tol10m:30fc2e37b7931d573506190c,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1092
+review:ee8b9f86482232bd1295,臭檀,Evodia daniellii,种级候选待核验,,华北,1,"{""未明确"": 1}",1,是,否,F20:80
+review:eed0b5ccb033e289aeeb,茅莓,Rubus parvifolius,种,tol10m:2ca55256b12f925a656852d2,华东,1,"{""常见"": 1}",0,是,否,F24:wild:560
+review:eed5d196b0a7feaaa636,大果榉,Zelkova sinica,种,tol10m:38106bf5ab767a2f0fabd3ab,华中,1,"{""未明确"": 1}",1,是,否,F19:54
+review:ef0b6e142fd348a03f7a,香根菊,Baccharis halimifolia,种,tol10m:9c7e3c82cf6960ced25d0973,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2637
+review:efa0b1ac1f1218fec84c,千叶兰,Muehlenbeckia complexa,种,tol10m:47ce68d71ce138b7084f6118,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1874
+review:efb23a83c41041309a71,蓝莸,Caryopteris × clandonensis,杂交待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2421
+review:efca287e41c2042a21ee,老鸦糊,Callicarpa giraldii,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2416
+review:eff43ce9cb44b16a8533,黄檗（黄菠萝、黄柏） / 黄檗,Phellodendron amurense,种,tol10m:d7c23054e5081a401aad2346,东北 / 华东 / 华中 / 华北,4,"{""未明确"": 3, ""少见"": 1}",2,是,否,F18:70 | F19:111 | F20:81 | F24:cultivated:1745
+review:f058e3c861cab532eecb,水蓼,Persicaria hydropiper,种,tol10m:aa64fd243ee2ec2ffc9f4117,华东,1,"{""多见"": 1}",0,是,否,F24:wild:765
+review:f08a72ffff324dbc79fa,杂种飞燕草,Delphinium elatum,种,tol10m:807e7fb3bb13e2ab76cb8ed7,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:701
+review:f09a22ef35333987939b,日本柳杉,Cryptomeria japonica,种,tol10m:e8def157414750c11dca95c3,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:41
+review:f0cf385832496b19944b,田菁,Sesbania cannabina,种,tol10m:f85f9d45f9849b3fe35f8cbb,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:511
+review:f0ecf210305221e44f4a,蒜,Allium sativum,种,tol10m:32a3831262d514a2b02b56a5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:389
+review:f0eecfe3224ada249875,紫荆,Cercis chinensis,种,tol10m:85244f69d528cb5d52248986,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:888
+review:f18d1538dbfeffd16768,山杜英,Elaeocarpus sylvestris,种,tol10m:ce6d745bcb32411d7f94ae09,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1478
+review:f19db93ce85332cbf050,南茼蒿,Glebionis segetum,种,tol10m:3ea44895d88c4ba4566c6954,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2701
+review:f1d3091e9bdd0f07b2b5,一品红,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:2
+review:f1d5a6ad67a57e56ba86,蒲公英,Taraxacum mongolicum,种,tol10m:e4088b9f9dc0e126d5f381b1,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:1198
+review:f244023a85793bb1bef8,紫丁香,Syringa oblata,种,tol10m:2790570a66666ae32ea92b77,东北 / 华东,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F18:104 | F24:cultivated:2327
+review:f25bc08773e47b0add1e,毛茛,Ranunculus japonicus,种,tol10m:7e2cd66dc4e924575a3c8e31,华东,1,"{""常见"": 1}",0,是,否,F24:wild:418
+review:f311cd2e71520b0ce5ff,金线草,Persicaria filiformis,种,tol10m:e54187f920962f71f502d4d2,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1878
+review:f3a25a68ecb82576f7ba,芒,Miscanthus sinensis,种,tol10m:e8729cd6c3f23fba55a31b7e,华东,1,"{""多见"": 1}",0,是,否,F24:wild:338
+review:f3a4187c08f281823393,刀豆,Canavalia gladiata,种,tol10m:75b08fef82bfb494cafbb935,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:881
+review:f3c188a56d5e71416c77,美国山核桃,Carya illinoinensis,种,tol10m:9bbb6c043bed81f85ab60a57,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1382
+review:f3e006848db084b53ef5,薯蓣,Dioscorea polystachya,种,tol10m:6adbae4c361498811c75fdda,华东,1,"{""常见"": 1}",0,是,否,F24:wild:128
+review:f3e8774f46ad723dc6cc,日本晚樱,Prunus × lannesiana,杂交待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1070
+review:f3ee299121fd2f3900e5,绿穗苋,Amaranthus hybridus,种,tol10m:3100f340b2129e8ea3670948,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:826
+review:f40f4784cefc44da8385,山葛,Pueraria montana,种,tol10m:b95e7bf5d0e173682874104a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:938
+review:f440fb946f3921a6b297,甘菊,Chrysanthemum lavandulifolium,种,tol10m:8c4838dfd3ccbf8b94674cd5,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2650
+review:f49ff7c19c34f77270aa,菲白竹,Pleioblastus variegatus,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:602
+review:f4bbddd9c55c0af731fa,盒子草,Actinostemma tenerum,种,tol10m:e457cc96fd7e40eae72c65e3,华东,1,"{""常见"": 1}",0,是,否,F24:wild:609
+review:f4d39fe622f4bbf9441f,水金英,Hydrocleys nymphoides,种,tol10m:4a4506d3ea5e4f79602515b1,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:287
+review:f4ef0afda5b2500933e3,美叶光萼荷,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:21
+review:f52e97e441a9c3180483,关节酢浆草,Oxalis articulata,种,tol10m:9faa33239d95f42c747001e0,华东,1,"{""常见"": 1}",0,是,否,F24:wild:622
+review:f54db6f589e75e849d04,月见草,Oenothera biennis,种,tol10m:fc1acfc652acf6b7c28d6759,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1584
+review:f56cf6c273569a146f29,白皮松,Pinus bungeana,种,tol10m:60245d17b2fe44d2d3996f13,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:127
+review:f5a38fb37b6241c455a9,槐,Styphnolobium japonicum,种,tol10m:06fee7eceb1a88b4977ee3ab,华东 / 华中,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F19:107 | F24:wild:512
+review:f60c93965e14633c970a,水榆花楸（苗榆） / 水榆花楸,Sorbus alnifolia,种级候选待核验,,东北 / 华北,2,"{""未明确"": 2}",1,是,否,F18:47 | F20:56
+review:f61924736b18867aa223,兴安圆柏（兴安松）,Juniperus davurica,种级候选待核验,,东北,1,"{""未明确"": 1}",1,是,否,F18:10
+review:f637cb25b7d916542b1b,高粱藨,Rubus lambertianus,种,tol10m:5e950f8c84050ed75c79d159,华东,1,"{""多见"": 1}",0,是,否,F24:wild:559
+review:f63cc3bab20d32fcdc94,刺玫蔷薇 / 山刺玫,Rosa davurica,种,tol10m:cc41ec676bed8708d183e99e,华东 / 华北,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F20:51 | F24:cultivated:1263
+review:f69a4cb3d2f75e80cacc,化香树,Platycarya strobilacea,种,tol10m:b6c12f032609d4df35665cae,华东 / 华中,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F19:23 | F24:wild:607
+review:f6e47082fc04363ef2d1,粗肋草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:11
+review:f71fa85e598ceb377304,榉树,Zelkova serrata,种,tol10m:f1fd5519077816f26de50e74,华东 / 华中,2,"{""未明确"": 1, ""极常见"": 1}",1,是,否,F19:53 | F24:wild:575
+review:f765f92bfb395dd32d79,纤毛马唐,Digitaria ciliaris,种,tol10m:0cb04a81c7b18d92780f5d30,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:287
+review:f7671b00e7ac66ff07e1,金球菊,Ajania pacifica,种,tol10m:1dbf20911621797c18e6e266,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2624
+review:f79ab2e8de8427efe990,萝藦,Cynanchum rostellatum,种,tol10m:e8fbd68663beea2a776da006,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:915
+review:f7b309b5e0eb4c8baced,杭子梢 / 笐子梢,Campylotropis macrocarpa,种,tol10m:5ed98179d8ba30b2ee70e186,华东 / 华北,2,"{""未明确"": 1, ""极少见"": 1}",1,是,否,F20:79 | F24:wild:465
+review:f7b62183e0d9c81e234e,野黄桂,Cinnamomum jensenianum,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:78
+review:f7d5656eee1195e544a5,白花紫露草,Tradescantia fluminensis,种,tol10m:c0d18e81538dbeefdd3cf201,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:477
+review:f838e1cca092c2666f58,香桃木,Myrtus communis,种,tol10m:48f6c0a5dbff778759c7b99f,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1603
+review:f881e2303e9a19dd06df,罗田玉兰,Magnolia pilocarpa,种级候选待核验,,华中,1,"{""未明确"": 1}",1,是,否,F19:65
+review:f89c4dbe0ba906e96d31,溲疏,Deutzia scabra,种,tol10m:1f2b8aa988018040b366c08c,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1943
+review:f8bb25dab012117c9de9,光皮梾木,Cornus wilsoniana,种,tol10m:d4134ecfb10315d10350e53f,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1975
+review:f911591e9e637ec08d27,天目玉兰,Yulania amoena,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:233
+review:f935b488641a153cf381,玫瑰,Rosa rugosa,种,tol10m:b0875ea14851f69443ac8677,华东 / 华北,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F20:50 | F24:cultivated:1269
+review:f99affed340a370fed5c,菵草,Beckmannia syzigachne,种,tol10m:411aa83f98e8c057dfca6d35,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:269
+review:f9af3a6120cdbad44f71,香彩雀,Angelonia angustifolia,种,tol10m:092baedf472bd81bbb42dafb,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2336
+review:fa256aba4c3a0d3b4c9f,扶芳藤,Euonymus fortunei,种,tol10m:7fde6b5394366e5c794514b7,华东,1,"{""常见"": 1}",0,是,否,F24:wild:620
+review:faabf6b2dfc2ce88ceb9,石荠苎,Mosla scabra,种,tol10m:5c01e8049a4f0c913bb7e5db,华东,1,"{""多见"": 1}",0,是,否,F24:wild:1046
+review:fac648ddb3aac6462d80,花蘑芋,Amorphophallus konjac,种,tol10m:36ab55faf2aedafa893fd3d2,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:279
+review:faf2615bee1752bbc9e7,紫萼,Hosta ventricosa,种,tol10m:67d308912842ced4c520f74d,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:439
+review:fb4df0d3ac3fd61317c3,檫木,Sassafras tzumu,种,tol10m:d106f5b003a5fa05cd6463bb,华东 / 华中,2,"{""未明确"": 1, ""多见"": 1}",1,是,否,F19:90 | F24:cultivated:272
+review:fb79c1ae0fb59e7773ed,茶,Camellia sinensis,种,tol10m:f423b618dcdffbe8dbd1ff5a,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2099
+review:fb8199a08191e6d501b1,小叶栎,Quercus chenii,种,tol10m:b08e950ed566e1c0a30fd658,华中,1,"{""未明确"": 1}",1,是,否,F19:41
+review:fbb6049a3dac2cf208e3,蔓长春花,Vinca major,种,tol10m:fd390c50536e071ced4b6b42,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2197
+review:fbbef03c80ee5090cfea,野生风车草,Cyperus alternifolius,种,tol10m:feb82cbaf0bdd56e3383c447,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:518
+review:fbe52700bcde3f76f230,湿地松,Pinus elliottii,种,tol10m:e636b1eee6d904370a949ea1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:131
+review:fc1398826cd4fff20870,捕蝇草,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:47
+review:fc239ea387c3dbadea37,野鸦椿,Staphylea japonica,种,tol10m:a0eef05646d2f90b587e6a92,华东,1,"{""常见"": 1}",0,是,否,F24:wild:688
+review:fc2ebaf876f13a6c3ca4,珍珠梅（山高粱） / 珍珠梅,Sorbaria sorbifolia,种,tol10m:640cc7452ba00ff883d6377e,东北 / 华东,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F18:45 | F24:cultivated:1278
+review:fc354951baa96ab1207e,长瓣短柱茶,Camellia grijsii,种,tol10m:4adfa096f4889368e98abf8d,华中,1,"{""未明确"": 1}",1,是,否,F19:138
+review:fc45fbb71d7f20bf4efe,稻槎菜,Lapsanastrum apogonoides,种,tol10m:54ed3b98e374185ded7857cd,华东,1,"{""常见"": 1}",0,是,否,F24:wild:1175
+review:fc48a7e7688ac6e49ff9,秋子梨（山梨） / 秋子梨,Pyrus ussuriensis,种,tol10m:f21a8aec9983fb27626dab53,东北 / 华东,2,"{""未明确"": 1, ""少见"": 1}",1,是,否,F18:49 | F24:cultivated:1224
+review:fc8ff5fc3b367e491379,柳叶栒子,Cotoneaster salicifolius,种,tol10m:627dbf1fe35da68a35c6bd78,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1007
+review:fcf8859b76e8f2c66379,琴叶榕,,待核验,,未核验,1,"{""未明确"": 1}",0,是,否,F06:proposed:35
+review:fd337f590c3cd34a2e02,马银花,Rhododendron ovatum,种,tol10m:de88c5d9b60db4fa9d72c645,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2145
+review:fdc121429c85e08ec517,杜仲,Eucommia ulmoides,种,tol10m:dc3ee673f964594a0b5814a1,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:2157
+review:fe9d2c14968c0c0fbc99,柘,Maclura tricuspidata,种级候选待核验,,华东,1,"{""常见"": 1}",0,是,否,F24:wild:586
+review:fead86c4224825460245,鹅肠菜,Stellaria aquatica,种,tol10m:43a351291c8e8d72020a5b84,华东,1,"{""极常见"": 1}",0,是,否,F24:wild:815
+review:ff0db25cda28e391ba23,吴茱萸,Tetradium ruticarpum,种,tol10m:1f3bf789286f84ace42a3fa7,华东,1,"{""常见"": 1}",0,是,否,F24:cultivated:1750
+review:ff1652e67e35281c78c3,花木蓝,Indigofera kirilowii,种,tol10m:2c09be83c92ba27652ec1850,华北,1,"{""未明确"": 1}",1,是,否,F20:74
+review:ff1f976d55cf5cc526af,法国蔷薇,Rosa gallica,种,tol10m:d40c43ab5aa48a3168de090e,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:1264
+review:ff3cb823eb8f79241a9e,大花酢浆草,Oxalis bowiei,种,tol10m:60d9a8bd95316ff49ddede23,华东,1,"{""多见"": 1}",0,是,否,F24:wild:623
+review:ff509f4f8d4cf307db4a,雀麦,Bromus japonicus,种,tol10m:30ad6c55654dc93146e512ef,华东,1,"{""多见"": 1}",0,是,否,F24:wild:273
+review:ff9bbbaf5964f3ea90bc,鸡骨常山,Alstonia yunnanensis,种级候选待核验,,华东,1,"{""多见"": 1}",0,是,否,F24:cultivated:2182
+review:ffe3e63832aa83b5d934,柽柳,Tamarix chinensis,种,tol10m:18b0d0ccd7e0a2cbc7355ca0,华东 / 华北,2,"{""未明确"": 1, ""常见"": 1}",1,是,否,F20:108 | F24:wild:753

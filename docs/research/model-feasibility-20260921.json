@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-21",
+  "purpose": "CPU resource feasibility using synthetic vectors only; not plant training or accuracy evaluation",
+  "torchVersion": "2.14.0+cpu",
+  "torchCudaBuild": null,
+  "cudaAvailableToTorch": false,
+  "cpuThreads": 1,
+  "syntheticHeadBenchmarks": [
+    {
+      "classes": 50,
+      "samples": 5000,
+      "dimensions": 768,
+      "epochs": 10,
+      "batchSize": 256,
+      "steps": 200,
+      "seconds": 0.7954,
+      "headParameters": 38450,
+      "headFloat32Bytes": 153800,
+      "peakProcessRssMiB": 323.43,
+      "accuracyMeasured": false
+    },
+    {
+      "classes": 200,
+      "samples": 5000,
+      "dimensions": 768,
+      "epochs": 10,
+      "batchSize": 256,
+      "steps": 200,
+      "seconds": 1.9606,
+      "headParameters": 153800,
+      "headFloat32Bytes": 615200,
+      "peakProcessRssMiB": 325.55,
+      "accuracyMeasured": false
+    }
+  ],
+  "bioclip2HeaderEstimate": {
+    "allStateTensorElements": 427616513,
+    "visualStateTensorElements": 303966208,
+    "fp32AdamAllWeightsGradTwoMomentsGiB": 6.372,
+    "fp32AdamVisualOnlyKeepingOtherWeightsGiB": 4.99,
+    "includesActivationsOrWorkspace": false,
+    "estimateNotMeasuredTrainingMemory": true
+  },
+  "privatePhotosUsed": false,
+  "savedTrainedWeights": false,
+  "adapterParameterEstimate": {
+    "rank": 8,
+    "fusedQkvLayers": 24,
+    "outputProjectionLayers": 24,
+    "parametersIfBothAdapted": 1179648,
+    "fp32WeightsGradTwoMomentsMiB": 18.0,
+    "implementationValidated": false,
+    "excludesFrozenModelAndActivations": true
+  },
+  "benchmarkSetup": {
+    "optimizer": "torch.optim.AdamW",
+    "learningRate": 0.001,
+    "seed": 20260921,
+    "features": "torch.randn(5000, 768), synthetic only",
+    "labels": "torch.arange(5000) % class_count",
+    "shuffle": "torch.randperm per epoch",
+    "dtype": "float32",
+    "imageEncodingIncluded": false,
+    "checkpointIOIncluded": false,
+    "repetitionsPerConfiguration": 1
+  },
+  "hardwareObserved": {
+    "cpu": "Intel Xeon E3-1225 V2 @ 3.20GHz",
+    "logicalCpus": 4,
+    "memoryGiBApprox": 7.6,
+    "displayAdapterObserved": "Intel Xeon E3-1200 v2/3rd Gen integrated graphics"
+  },
+  "minimalAdapterExperiment": {
+    "module": "torch.nn.MultiheadAttention(embed_dim=16,num_heads=4,batch_first=True)",
+    "rank": 2,
+    "targets": [
+      "in_proj_weight",
+      "out_proj.weight"
+    ],
+    "zeroDeltaPreservesOutput": true,
+    "adapterGradientsObserved": true,
+    "updateChangesForwardOutput": true,
+    "baseWeightsUnchanged": true,
+    "fullBioClipIntegrationTested": false,
+    "plantDataUsed": false,
+    "savedWeights": false
+  }
+}

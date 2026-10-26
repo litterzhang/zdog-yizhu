@@ -1,0 +1,166 @@
+@use './styles/tokens' as *;
+
+page, body {
+  background: $paper;
+  color: $ink;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+view, text, button, input, textarea,
+taro-view-core, taro-text-core, taro-button-core, taro-image-core { box-sizing: border-box; }
+button { margin: 0; font-family: inherit; }
+button::after { border: 0; }
+// Taro H5's custom buttons otherwise add automatic margins and borders.
+.page taro-button-core { margin-left: 0; margin-right: 0; font-family: inherit; }
+.page taro-button-core + taro-button-core { margin-top: 0; }
+.page taro-button-core::after { border: 0; }
+
+.page {
+  width: 100%;
+  max-width: 560PX;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 18px $space-6 32px;
+  padding-bottom: calc(32px + env(safe-area-inset-bottom));
+  overflow-wrap: anywhere;
+}
+.row { display: flex; align-items: center; gap: $space-3; }
+.between { justify-content: space-between; }
+.stack { display: flex; flex-direction: column; gap: $space-3; }
+.grow { flex: 1; min-width: 0; }
+.eyebrow { color: $green; font-size: 11px; letter-spacing: 2px; }
+.title { display: block; font-size: 25px; font-weight: 600; line-height: 1.4; letter-spacing: 0.5px; }
+.section-title { font-size: 17px; font-weight: 600; }
+.muted { color: $muted; }
+.small { font-size: 12px; }
+.block { display: block; }
+.section { margin-top: $space-8; }
+.divider { height: 1px; background: $line; margin: $space-6 0; }
+.badge {
+  display: inline-block;
+  color: $green;
+  background: $soft-green;
+  border-radius: 5px;
+  font-size: 11px;
+  padding: 3px 7px;
+}
+.demo-note {
+  border-left: 2px solid #c7d4bd;
+  padding-left: 10px;
+  color: $muted;
+  font-size: 11px;
+  margin: 12px 0 20px;
+}
+.button {
+  min-height: 48px;
+  padding: 11px 18px;
+  border-radius: $radius;
+  border: 1px solid transparent;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+  width: 100%;
+  color: $paper;
+  background: $green;
+}
+.button--secondary { background: $paper; color: $green; border-color: $line; }
+.button--quiet { background: $surface; color: $ink; }
+.button--disabled { opacity: 0.55; }
+.button--pressed { opacity: 0.8; }
+.text-button {
+  display: block;
+  background: transparent;
+  border: 0;
+  padding: 10px 0;
+  min-height: 44px;
+  line-height: 24px;
+  font-size: 13px;
+  color: $green;
+  text-align: left;
+  white-space: normal;
+}
+// Taro H5's default disabled color is translucent white; retain readable text.
+.text-button[disabled] { color: $muted; }
+.icon { width: 21px; height: 21px; flex-shrink: 0; vertical-align: middle; }
+.button .icon { margin-right: 8px; }
+.photo {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: $radius;
+  background: $surface;
+}
+.photo__image { display: block; width: 100%; height: 100%; }
+.photo__hint {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  color: $ink;
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 10px;
+  pointer-events: none;
+}
+.photo__placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  color: $muted;
+  font-size: 12px;
+}
+.state { background: $surface; border-radius: $radius; padding: 24px; text-align: center; }
+.state__art { width: 76px; height: 76px; margin-bottom: 8px; }
+.state__title { display: block; font-size: 17px; font-weight: 500; margin-bottom: 6px; }
+.state__body { display: block; font-size: 13px; color: $muted; margin-bottom: 12px; }
+.notice { padding: 12px 14px; border-radius: 10px; background: $surface; font-size: 12px; color: $muted; }
+.notice--warning { color: $warning; background: #fbf8ef; }
+.field { margin: 18px 0; }
+.field__label { display: block; font-size: 13px; font-weight: 500; margin-bottom: 8px; }
+.field__input, .field__textarea {
+  width: 100%;
+  border: 1px solid $line;
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 14px;
+  background: $paper;
+  color: $ink;
+}
+.field__input { height: 48px; }
+.field__textarea { height: 96px; }
+.form { border-top: 1px solid $line; padding-top: 24px; margin-top: 24px; }
+.footer-note { margin-top: 28px; text-align: center; color: $muted; font-size: 11px; }
+.toolbar { margin-top: 24px; border-top: 1px solid $line; padding-top: 10px; }
+.selection { border: 1px solid $line; border-radius: 12px; padding: 12px; margin-top: 10px; }
+.selection--active { border-color: $green; background: $surface; }
+
+.page-heading { padding: 10px 0 24px; }
+.page-heading__title { margin: 14px 0 8px; font-size: 28px; }
+.page-heading__subtitle { font-size: 13px; }
+.tab-page { min-height: 100%; }
+.section-meta { display: flex; justify-content: space-between; align-items: center; margin: 4px 0 18px; font-size: 12px; color: $muted; }
+.section-meta__count { color: $green; }
+.photo-thumb { position: relative; overflow: hidden; background: $surface; border-radius: 12px; flex-shrink: 0; }
+.photo-thumb__image { display: block; width: 100%; height: 100%; }
+.photo-thumb__placeholder { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; background: $surface; padding: 8px; }
+.photo-thumb__fallback { display: block; width: 36px; height: 36px; }
+.photo-thumb__status { color: $muted; font-size: 11px; line-height: 1.5; text-align: center; white-space: pre-line; }
+.text-button--center { text-align: center; width: 100%; }
+.subtle-footer { margin: 28px 0 4px; color: $muted; font-size: 11px; text-align: center; }
+.catalog-search { display: flex; align-items: center; gap: 12px; margin: 16px 0; }
+.catalog-search .field__input { flex: 1; width: 0; min-width: 0; }
+.catalog-search .text-button { flex: 0 0 64px; width: 64px; text-align: center; }
+.catalog-entry { width: 100%; border-bottom: 1px solid $line; padding: 14px 0; }
+.species-search { margin-top: 12px; }
+.species-knowledge { margin: 20px 0; }
+.species-knowledge__summary { white-space: pre-wrap; margin: 10px 0; }
+.filter-row { display: flex; gap: 16px; margin: 12px 0 20px; border-bottom: 1px solid $line; }
+.filter-button { flex: none; width: auto; margin: 0; background: transparent; border-radius: 0; min-height: 44px; padding: 8px 4px; color: $muted; font-size: 13px; line-height: 26px; border-bottom: 2px solid transparent; }
+.filter-button--active { color: $green; border-bottom-color: $green; font-weight: 600; }
+.page-intro { padding: 14px 0; border-top: 1px solid $line; font-size: 12px; color: $muted; }

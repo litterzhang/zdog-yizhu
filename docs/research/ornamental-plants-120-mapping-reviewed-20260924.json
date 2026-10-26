@@ -1,0 +1,1545 @@
+{
+  "scope": "Only this user-provided list; not global aliases, database edits or image labels.",
+  "reviewedAt": "2026-09-24T11:39:23.439873+00:00",
+  "scientificNameLinks": {
+    "绣球花": {
+      "scientificName": "Hydrangea macrophylla",
+      "note": "按原文园艺花球语境关联绣球，不采用库中同名 Scadoxus pole-evansii。",
+      "sources": [
+        "https://www.iplant.cn/info/绣球"
+      ]
+    },
+    "栀子花": {
+      "scientificName": "Gardenia jasminoides",
+      "note": "关联栀子的物种记录。",
+      "sources": [
+        "https://www.iplant.cn/info/栀子"
+      ]
+    },
+    "香樟树": {
+      "scientificName": "Cinnamomum camphora",
+      "note": "关联原名单香樟对应的樟，不新增树字后缀类别；沿用数据库稳定ID与学名，不改写分类。",
+      "sources": [
+        "https://www.iplant.cn/info/樟"
+      ]
+    },
+    "银杏树": {
+      "scientificName": "Ginkgo biloba",
+      "note": "关联银杏，不新增树字后缀类别。",
+      "sources": [
+        "https://www.iplant.cn/info/银杏"
+      ]
+    },
+    "柿子": {
+      "scientificName": "Diospyros kaki",
+      "note": "按观果植物语境关联柿。",
+      "sources": [
+        "https://www.iplant.cn/info/柿"
+      ]
+    },
+    "碗莲": {
+      "scientificName": "Nelumbo nucifera",
+      "note": "仅归入莲的物种级目标，不增加碗莲品种类别。",
+      "sources": [
+        "https://www.iplant.cn/info/Nelumbo%20nucifera?id=84EE4C927EA209CA"
+      ]
+    },
+    "波斯菊": {
+      "scientificName": "Cosmos bipinnatus",
+      "note": "关联秋英。",
+      "sources": [
+        "https://www.iplant.cn/info/Cosmos%20bipinnatus"
+      ]
+    }
+  },
+  "needsReview": {
+    "羽扇豆": "库中同名指 Lupinus micranthus；原文鲁冰花/观赏花序不足以唯一确定该种，暂不按同名直接关联。",
+    "彩叶芋": "库中同名指 Cyrtosperma johnstonii；需要核实原文是否意指园艺花叶芋类群，不直接采用同名条目。",
+    "豆瓣绿": "先核实原文盆栽语境与库中 Peperomia tetraphylla 是否相符，不直接把园艺同名当作精确物种证据。",
+    "鼠尾草": "原文蓝紫色观花语境未明确具体物种，暂不直接采用库中同名 Salvia japonica。",
+    "蓝雪花": "植物智同时列出蓝花丹 Plumbago auriculata 的俗名蓝雪花，以及蓝雪花 Ceratostigma plumbaginoides；原文未足以区分，保留候选，不按字面自动关联。"
+  },
+  "notes": [
+    "未命中不等于植物不存在；可能是别名、类群或目录缺口。",
+    "这里只记录名称关联依据，不复制原文养护、药食或毒性描述。",
+    "目前没有依据的别名不做模糊匹配；所有未解决名称保留。"
+  ],
+  "reviewSources": {
+    "蓝雪花": [
+      "https://www.iplant.cn/info/蓝花丹"
+    ]
+  },
+  "sourceVerification": "43 pending names reviewed against captured Baidu plant entries and GBIF taxonomy responses; earlier 7 scoped links retain their original verification limitations. Genus/group names and missing core records are not silently resolved.",
+  "reviewedMappings": {
+    "三角梅": {
+      "status": "linked",
+      "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+      "scientificName": "Bougainvillea spectabilis",
+      "chineseName": "叶子花",
+      "note": "已选择植物义项，来源指叶子花；仅采用该物种，不把光叶子花等同属物种合并。",
+      "catalogRecord": {
+        "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+        "scientificName": "Bougainvillea spectabilis",
+        "chineseName": "叶子花",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/d3b7f556b256f383.json",
+          "sha256": "864638bfa4e199258f947fe51e309de4fb952db57bc104cccfff06e2d8418d5e",
+          "url": "https://baike.baidu.com/item/%E4%B8%89%E8%A7%92%E6%A2%85",
+          "observedAt": "2026-09-24T10:23:35.251Z",
+          "title": "三角梅（三角梅）_百度百科",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a9551702bf4970c1.json",
+          "sha256": "8f81bcfe36629b5b9c8c1fc3f5342b02df67083e92441b60182f503362c42da7",
+          "url": "https://baike.baidu.com/item/%E5%8F%B6%E5%AD%90%E8%8A%B1/1788779",
+          "observedAt": "2026-09-24T10:36:44.712Z",
+          "title": "叶子花（紫茉莉科叶子花属植物）_百度百科",
+          "scientificNameFields": [
+            "Bougainvillea spectabilis Willd. [10]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%B8%89%E8%A7%92%E6%A2%85",
+        "https://baike.baidu.com/item/%E5%8F%B6%E5%AD%90%E8%8A%B1/1788779"
+      ]
+    },
+    "牡丹": {
+      "status": "linked",
+      "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "note": "来源 Paeonia × suffruticosa 与库中省略杂交符号的记录关联；不选任何亲本，不创建品种类别。",
+      "catalogRecord": {
+        "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+        "scientificName": "Paeonia suffruticosa",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/fb12a56a76bd77db.json",
+          "sha256": "f95832a43b07e27b55ffefe001179d98c8428758bdd1950cc59eca2af50255a5",
+          "url": "https://baike.baidu.com/item/%E7%89%A1%E4%B8%B9/6080",
+          "observedAt": "2026-09-24T10:23:43.473Z",
+          "title": "牡丹（芍药科芍药属植物）_百度百科",
+          "scientificNameFields": [
+            "Paeonia × suffruticosa Andrews [15]",
+            "牡丹"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%89%A1%E4%B8%B9/6080"
+      ]
+    },
+    "杜鹃花": {
+      "status": "linked",
+      "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "杜鹃",
+      "note": "来源明确将杜鹃花列作杜鹃别名，关联到杜鹃的物种ID，不概括全部杜鹃花属。",
+      "catalogRecord": {
+        "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+        "scientificName": "Rhododendron simsii",
+        "chineseName": "杜鹃",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/0bf95e7b6c371c5e.json",
+          "sha256": "26c6069cdf9305b9bd0763164e02fe1493ec8b744b3b283244cd31c7151c003a",
+          "url": "https://baike.baidu.com/item/%E6%9D%9C%E9%B9%83/18876",
+          "observedAt": "2026-09-24T10:23:51.689Z",
+          "title": "杜鹃（杜鹃花科杜鹃花属植物）_百度百科",
+          "scientificNameFields": [
+            "Rhododendron simsii Planch. [16]",
+            "杜鹃"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%9D%9C%E9%B9%83/18876"
+      ]
+    },
+    "蓝雪花": {
+      "status": "linked",
+      "speciesId": "tol10m:86b4d27d45b632a666d54cbc",
+      "scientificName": "Plumbago auriculata",
+      "chineseName": "蓝花丹",
+      "note": "按本次观赏园艺语境与来源学名关联蓝花丹，不采用中文同名的 Ceratostigma plumbaginoides。",
+      "catalogRecord": {
+        "speciesId": "tol10m:86b4d27d45b632a666d54cbc",
+        "scientificName": "Plumbago auriculata",
+        "chineseName": "蓝花丹",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/9932a048b1650a68.json",
+          "sha256": "da589e5afe9d5bf5b5fbd86d11e162200f0b9358f9d954fd75300c5168cabe4c",
+          "url": "https://baike.baidu.com/item/%E8%93%9D%E9%9B%AA%E8%8A%B1/59947977",
+          "observedAt": "2026-09-24T10:24:00.132Z",
+          "title": "蓝雪花（蓝花丹的别名）_百度百科",
+          "scientificNameFields": [
+            "Plumbago auriculata Lam.",
+            "蓝花丹 [1]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%93%9D%E9%9B%AA%E8%8A%B1/59947977"
+      ]
+    },
+    "樱花": {
+      "status": "needs-selection",
+      "scientificName": null,
+      "note": "来源学名是 Prunus subg. Cerasus sp.，属于多物种统称。原文未指定具体种，候选只是库中例子，不能随意选择一条。",
+      "candidateSpeciesIds": [
+        "tol10m:4388fa40600530f1d4cb4d89",
+        "tol10m:450c33c4039f4e478c4eb58b",
+        "tol10m:10eff2f4132a35c1be168236"
+      ],
+      "missingScientificNames": [],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a4bc0bb9b7da608c.json",
+          "sha256": "fe6af1e602dae443ec0cee267626e7cbb9b8a003af5b14d68ba19979c07c773c",
+          "url": "https://baike.baidu.com/item/%E6%A8%B1%E8%8A%B1/70387",
+          "observedAt": "2026-09-24T10:24:08.529Z",
+          "title": "樱花（蔷薇科樱亚属植物）_百度百科",
+          "scientificNameFields": [
+            "Prunus subg. Cerasus sp.",
+            "樱花"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A8%B1%E8%8A%B1/70387"
+      ]
+    },
+    "百合": {
+      "status": "linked",
+      "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+      "scientificName": "Lilium brownii",
+      "chineseName": "野百合",
+      "note": "按来源狭义百合 Lilium brownii var. viridulum 归入野百合种级；不表示覆盖全部百合属或所有园艺杂交百合。",
+      "catalogRecord": {
+        "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+        "scientificName": "Lilium brownii",
+        "chineseName": "野百合",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/241496bfc2c49ca7.json",
+          "sha256": "6c8ff9a64d1a537283a07a7114d05f9bb408aaeb890ce202d147d7b1ec56e9ae",
+          "url": "https://baike.baidu.com/item/%E7%99%BE%E5%90%88/7886",
+          "observedAt": "2026-09-24T10:24:16.670Z",
+          "title": "百合（百合科百合属植物）_百度百科",
+          "scientificNameFields": [
+            "Lilium brownii var. viridulum Baker",
+            "野百合 [14]",
+            "百合 [14]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%99%BE%E5%90%88/7886"
+      ]
+    },
+    "康乃馨": {
+      "status": "linked",
+      "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+      "scientificName": "Dianthus caryophyllus",
+      "chineseName": "香石竹",
+      "note": "本名单以来源正文所述香石竹作为种级目标。康乃馨主页使用园艺类群名称，不能把所有杂交康乃馨自动标成该种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+        "scientificName": "Dianthus caryophyllus",
+        "chineseName": "香石竹",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/20392cf8f9c24723.json",
+          "sha256": "f97ea6f0db5032eea0852317ced69a5b5852a609c6232943129150060676c269",
+          "url": "https://baike.baidu.com/item/%E5%BA%B7%E4%B9%83%E9%A6%A8/34029",
+          "observedAt": "2026-09-24T10:24:24.832Z",
+          "title": "康乃馨（石竹科石竹属植物）_百度百科",
+          "scientificNameFields": [
+            "Dianthus 'Carnation'",
+            "600种"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/e74fd157d3118d31.json",
+          "sha256": "ab01d73cbce01fb1850757192e07ba35bae44e7e818f6b83b479b62ecd13c7b3",
+          "url": "https://baike.baidu.com/item/%E9%A6%99%E7%9F%B3%E7%AB%B9/505521",
+          "observedAt": "2026-09-24T10:37:04.898Z",
+          "title": "香石竹（石竹科石竹属植物）_百度百科",
+          "scientificNameFields": [
+            "Dianthus caryophyllus L. [5]",
+            "香石竹"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%BA%B7%E4%B9%83%E9%A6%A8/34029",
+        "https://baike.baidu.com/item/%E9%A6%99%E7%9F%B3%E7%AB%B9/505521"
+      ]
+    },
+    "白掌": {
+      "status": "linked",
+      "speciesId": "tol10m:5bb689a6962669f3631bf421",
+      "scientificName": "Spathiphyllum floribundum",
+      "chineseName": "多花白鹤芋",
+      "note": "来源为多花白鹤芋 Clevelandii 栽培品种；仅上卷至同一物种，不单列品种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:5bb689a6962669f3631bf421",
+        "scientificName": "Spathiphyllum floribundum",
+        "chineseName": "多花白鹤芋",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/d611131248bb01a9.json",
+          "sha256": "18ee8cd67de4dc90edc32c563f10c3c68dc724a76fe324e099d7d7468c121d3b",
+          "url": "https://baike.baidu.com/item/%E7%99%BD%E6%8E%8C",
+          "observedAt": "2026-09-24T10:24:32.914Z",
+          "title": "白掌_百度百科",
+          "scientificNameFields": [
+            "Spathiphyllum floribundum 'Clevelandii' [1]",
+            "多花白鹤芋"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%99%BD%E6%8E%8C"
+      ]
+    },
+    "水仙": {
+      "status": "linked",
+      "speciesId": "tol10m:797e410a1293203e37b1cac9",
+      "scientificName": "Narcissus tazetta",
+      "chineseName": "欧洲水仙",
+      "note": "来源是 Narcissus tazetta subsp. chinensis；按种级范围归并，保留数据库中文名，不新增亚种类别。",
+      "catalogRecord": {
+        "speciesId": "tol10m:797e410a1293203e37b1cac9",
+        "scientificName": "Narcissus tazetta",
+        "chineseName": "欧洲水仙",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/035ab2e2d760faf9.json",
+          "sha256": "24fefd4e41c701275538a7025fc3f5f293c9de928c5722fd491ecb7ef96c77aa",
+          "url": "https://baike.baidu.com/item/%E6%B0%B4%E4%BB%99/6410",
+          "observedAt": "2026-09-24T10:24:41.066Z",
+          "title": "水仙（石蒜科水仙属植物）_百度百科",
+          "scientificNameFields": [
+            "Narcissus tazetta subsp. chinensis (M.Roem.) Masamura & Yanagih. [5]",
+            "欧洲水仙 [16]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%B0%B4%E4%BB%99/6410"
+      ]
+    },
+    "沙漠玫瑰": {
+      "status": "linked",
+      "speciesId": "tol10m:f2ef49f981d85776371adc01",
+      "scientificName": "Adenium obesum",
+      "chineseName": "天宝花",
+      "note": "来源学名与库中天宝花一致。",
+      "catalogRecord": {
+        "speciesId": "tol10m:f2ef49f981d85776371adc01",
+        "scientificName": "Adenium obesum",
+        "chineseName": "天宝花",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/bad17b68546ac09b.json",
+          "sha256": "b6b9d213b47d1036119c4902f6a93aed691292a1ac7507030afd3685ed9c7df5",
+          "url": "https://baike.baidu.com/item/%E6%B2%99%E6%BC%A0%E7%8E%AB%E7%91%B0/522310",
+          "observedAt": "2026-09-24T10:24:49.214Z",
+          "title": "沙漠玫瑰（夹竹桃科沙漠玫瑰属的一种植物）_百度百科",
+          "scientificNameFields": [
+            "Adenium obesum (Forssk.) Roem. & Schult. [1]",
+            "沙漠玫瑰 Adenium obesum [2]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%B2%99%E6%BC%A0%E7%8E%AB%E7%91%B0/522310"
+      ]
+    },
+    "丽格海棠": {
+      "status": "linked",
+      "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+      "scientificName": "Begonia hiemalis",
+      "chineseName": "丽格秋海棠",
+      "note": "保留来源杂交分类实体 Begonia × hiemalis，对应库中省略 × 的记录；不替代为亲本。",
+      "catalogRecord": {
+        "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+        "scientificName": "Begonia hiemalis",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/749a75b5cff50bee.json",
+          "sha256": "edfe7ff2be72d96bd7b0003dc24535d9c15cda66266af79bcdae96e1348b0cdd",
+          "url": "https://baike.baidu.com/item/%E4%B8%BD%E6%A0%BC%E7%A7%8B%E6%B5%B7%E6%A3%A0/5554272",
+          "observedAt": "2026-09-24T10:24:57.346Z",
+          "title": "丽格秋海棠_百度百科",
+          "scientificNameFields": [
+            "Begonia × hiemalisFotsch",
+            "丽格秋海棠"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%B8%BD%E6%A0%BC%E7%A7%8B%E6%B5%B7%E6%A3%A0/5554272"
+      ]
+    },
+    "四季海棠": {
+      "status": "linked",
+      "speciesId": "tol10m:f8d18bfd41b0d34a31519c9f",
+      "scientificName": "Begonia cucullata",
+      "chineseName": "四季秋海棠",
+      "note": "来源直接给出 Begonia cucullata，关联该现有记录；不额外添加旧名称记录。",
+      "catalogRecord": {
+        "speciesId": "tol10m:f8d18bfd41b0d34a31519c9f",
+        "scientificName": "Begonia cucullata",
+        "chineseName": "四季秋海棠",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/8a86a8583572adc2.json",
+          "sha256": "ed9a41ae3f674a075c25f373e847798c29cdf7b51c47f11da7296f9fa22be9a1",
+          "url": "https://baike.baidu.com/item/%E5%9B%9B%E5%AD%A3%E7%A7%8B%E6%B5%B7%E6%A3%A0/500008",
+          "observedAt": "2026-09-24T10:25:05.539Z",
+          "title": "四季秋海棠_百度百科",
+          "scientificNameFields": [
+            "Begonia cucullata [6]",
+            "四季秋海棠"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%9B%9B%E5%AD%A3%E7%A7%8B%E6%B5%B7%E6%A3%A0/500008"
+      ]
+    },
+    "球根海棠": {
+      "status": "linked",
+      "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+      "scientificName": "Begonia tuberhybrida",
+      "chineseName": "球根秋海棠",
+      "note": "对应来源 Begonia × tuberhybrida 的杂交分类实体；不拆成园艺品种，不改用亲本。",
+      "catalogRecord": {
+        "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+        "scientificName": "Begonia tuberhybrida",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/f29c2a8b6b39371e.json",
+          "sha256": "3fa9f5a8369f7bf6a75e3e202fdc1e19614827d906d60d5c3eb7baf84ad5b2c5",
+          "url": "https://baike.baidu.com/item/%E7%90%83%E6%A0%B9%E6%B5%B7%E6%A3%A0",
+          "observedAt": "2026-09-24T10:25:13.674Z",
+          "title": "球根海棠_百度百科",
+          "scientificNameFields": [
+            "Begonia × tuberhybrida Voss",
+            "球根秋海棠"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%90%83%E6%A0%B9%E6%B5%B7%E6%A3%A0"
+      ]
+    },
+    "羽扇豆": {
+      "status": "linked",
+      "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+      "scientificName": "Lupinus micranthus",
+      "chineseName": "羽扇豆",
+      "note": "采用来源规范名对应的物种。俗称鲁冰花也用于其他羽扇豆属植物，不能据俗名给图片自动贴标签。",
+      "catalogRecord": {
+        "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+        "scientificName": "Lupinus micranthus",
+        "chineseName": "羽扇豆",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a249e72e84698dfa.json",
+          "sha256": "6fe6d779018b4e3c551eb7ab45173b672f9b85b26528b3f62cd6066fa7d0bf63",
+          "url": "https://baike.baidu.com/item/%E7%BE%BD%E6%89%87%E8%B1%86",
+          "observedAt": "2026-09-24T10:25:22.049Z",
+          "title": "羽扇豆_百度百科",
+          "scientificNameFields": [
+            "Lupinus micranthus Guss. [1]",
+            "羽扇豆 Lupinus micranthus [2]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%BE%BD%E6%89%87%E8%B1%86"
+      ]
+    },
+    "倒挂金钟": {
+      "status": "catalog-gap",
+      "scientificName": "Fuchsia hybrida",
+      "note": "来源及 GBIF 确认 Fuchsia × hybrida；数据库没有该分类实体，不能用短筒倒挂金钟 F. magellanica 代替。",
+      "candidateSpeciesIds": [],
+      "missingScientificNames": [
+        "Fuchsia hybrida"
+      ],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/9298f35ca4e7b8cf.json",
+          "sha256": "046435bc02f70186c7795c95c31d70a39722296f75694509810d32e069d2e855",
+          "url": "https://baike.baidu.com/item/%E5%80%92%E6%8C%82%E9%87%91%E9%92%9F/948219",
+          "observedAt": "2026-09-24T10:25:30.195Z",
+          "title": "倒挂金钟（柳叶菜科倒挂金钟属植物）_百度百科",
+          "scientificNameFields": [
+            "Fuchsia hybrida Hort. ex Sieber & Voss. [7]",
+            "倒挂金钟"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/e6039a3588df1efe.json",
+          "sha256": "86d5b0a71abb3127c35706f88f35ec70ff255abd190d6fd167d96873f1474106",
+          "url": "https://api.gbif.org/v1/species/match?name=Fuchsia+hybrida&strict=true",
+          "observedAt": "2026-09-24T10:29:24.601062+00:00",
+          "title": "Fuchsia hybrida",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%80%92%E6%8C%82%E9%87%91%E9%92%9F/948219",
+        "https://api.gbif.org/v1/species/match?name=Fuchsia+hybrida&strict=true"
+      ]
+    },
+    "鼠尾草": {
+      "status": "linked",
+      "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+      "scientificName": "Salvia japonica",
+      "chineseName": "鼠尾草",
+      "note": "采用来源规范中文名对应的物种及其种下类型；不泛指蓝花鼠尾草等其他种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+        "scientificName": "Salvia japonica",
+        "chineseName": "鼠尾草",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/50cbb376ac478ab1.json",
+          "sha256": "6dfd14369b5ccfd004feeb1a580f31b2a6c1276fbff111d8473ff43981b2ae04",
+          "url": "https://baike.baidu.com/item/%E9%BC%A0%E5%B0%BE%E8%8D%89/1187863",
+          "observedAt": "2026-09-24T10:25:38.342Z",
+          "title": "鼠尾草（唇形科鼠尾草属的一年生草本植物）_百度百科",
+          "scientificNameFields": [
+            "Salvia japonica Thunb.",
+            "鼠尾草",
+            "鼠尾草-多小叶变种"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%BC%A0%E5%B0%BE%E8%8D%89/1187863"
+      ]
+    },
+    "矮雪轮": {
+      "status": "linked",
+      "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+      "scientificName": "Silene pendula",
+      "chineseName": "大蔓樱草",
+      "note": "来源学名与库中大蔓樱草一致。",
+      "catalogRecord": {
+        "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+        "scientificName": "Silene pendula",
+        "chineseName": "大蔓樱草",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/498eda000da9d4b3.json",
+          "sha256": "6164b4f7452116d772bf149ff85189efb8f9ec85620cdfea1eb948d5f344effe",
+          "url": "https://baike.baidu.com/item/%E5%A4%A7%E8%94%93%E6%A8%B1%E8%8D%89/1495987",
+          "observedAt": "2026-09-24T10:25:46.523Z",
+          "title": "大蔓樱草_百度百科",
+          "scientificNameFields": [
+            "Silene pendula L. [3]",
+            "大蔓樱草"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%A4%A7%E8%94%93%E6%A8%B1%E8%8D%89/1495987"
+      ]
+    },
+    "金钱树": {
+      "status": "linked",
+      "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+      "scientificName": "Zamioculcas zamiifolia",
+      "chineseName": "雪铁芋",
+      "note": "来源明确归为雪铁芋，原漏匹配是中文别名差异。",
+      "catalogRecord": {
+        "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+        "scientificName": "Zamioculcas zamiifolia",
+        "chineseName": "雪铁芋",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/1434687b22fa1494.json",
+          "sha256": "58a820b282a8491721291fb703a16a62b0d14abd6ad64f2d71bd58a09ae3b71e",
+          "url": "https://baike.baidu.com/item/%E9%9B%AA%E9%93%81%E8%8A%8B/10367875",
+          "observedAt": "2026-09-24T10:25:54.665Z",
+          "title": "雪铁芋_百度百科",
+          "scientificNameFields": [
+            "Zamioculcas zamiifolia Engl. [1]",
+            "雪铁芋（Zamioculcas zamiifolia） [1]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%9B%AA%E9%93%81%E8%8A%8B/10367875"
+      ]
+    },
+    "虎皮兰": {
+      "status": "linked",
+      "speciesId": "tol10m:047b008567ef5b5f525ed413",
+      "scientificName": "Sansevieria trifasciata",
+      "chineseName": "虎尾兰",
+      "note": "来源学名直接匹配现有核心记录；暂不改写数据库学名。",
+      "catalogRecord": {
+        "speciesId": "tol10m:047b008567ef5b5f525ed413",
+        "scientificName": "Sansevieria trifasciata",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/3239a3e69c86b9b7.json",
+          "sha256": "ba3ca89f3ccd13c70a6bf562c14b3468ef7cf92c627e2678668b57c8d041cedd",
+          "url": "https://baike.baidu.com/item/%E8%99%8E%E5%B0%BE%E5%85%B0/790426",
+          "observedAt": "2026-09-24T10:26:02.811Z",
+          "title": "虎尾兰（天门冬科虎尾兰属植物）_百度百科",
+          "scientificNameFields": [
+            "Sansevieria trifasciata Prain",
+            "虎尾兰"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%99%8E%E5%B0%BE%E5%85%B0/790426"
+      ]
+    },
+    "滴水观音": {
+      "status": "linked",
+      "speciesId": "tol10m:77320dd4d792de9f9004e843",
+      "scientificName": "Alocasia odora",
+      "chineseName": "海芋",
+      "note": "默认入口为小说，已排除。海芋植物词条明确列滴水观音为商品名，采用该物种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:77320dd4d792de9f9004e843",
+        "scientificName": "Alocasia odora",
+        "chineseName": "海芋",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/db63b5f1b16dc634.json",
+          "sha256": "38baed3098c24a246afbb1445445ab16c0b270c2bd02807cb922f73eb06bc498",
+          "url": "https://baike.baidu.com/item/%E6%BB%B4%E6%B0%B4%E8%A7%82%E9%9F%B3/5299416",
+          "observedAt": "2026-09-24T10:26:10.999Z",
+          "title": "滴水观音（2013年百花洲文艺出版社出版的图书）_百度百科",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/ae608c2ba759fecf.json",
+          "sha256": "fdbd86ed3970159109b0c4f2a2164d15b8d80d10132fe5c5167d3bb426fb2e93",
+          "url": "https://baike.baidu.com/item/%E6%B5%B7%E8%8A%8B/1101879",
+          "observedAt": "2026-09-24T10:37:13.056Z",
+          "title": "海芋（天南星科海芋属植物）_百度百科",
+          "scientificNameFields": [
+            "Alocasia odora (Roxburgh) K. Koch",
+            "海芋"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%BB%B4%E6%B0%B4%E8%A7%82%E9%9F%B3/5299416",
+        "https://baike.baidu.com/item/%E6%B5%B7%E8%8A%8B/1101879"
+      ]
+    },
+    "橡皮树": {
+      "status": "linked",
+      "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+      "scientificName": "Ficus elastica",
+      "chineseName": "印度榕",
+      "note": "默认入口错误跳转橡胶树 Hevea brasiliensis；按原文室内观叶语境与印度榕明确别名关联。",
+      "catalogRecord": {
+        "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+        "scientificName": "Ficus elastica",
+        "chineseName": "印度榕",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/b3bc7fe08aaf01ec.json",
+          "sha256": "491e22c294c78bf732ada562d7cd4f9e8285c872314b2a58ccfbcc0ee2c94664",
+          "url": "https://baike.baidu.com/item/%E6%A9%A1%E8%83%B6%E6%A0%91/742959",
+          "observedAt": "2026-09-24T10:26:19.155Z",
+          "title": "橡胶树_百度百科",
+          "scientificNameFields": [
+            "Hevea brasiliensis (Willd. ex A. Juss.) Müll. Arg. [8]",
+            "橡胶树"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/21c12ea7b35dcc14.json",
+          "sha256": "6062ea058f07008dc951ebc04513d6d6fd2e1e5b81b8abf025f5025c905bca09",
+          "url": "https://baike.baidu.com/item/%E5%8D%B0%E5%BA%A6%E6%A6%95",
+          "observedAt": "2026-09-24T10:36:56.735Z",
+          "title": "印度榕_百度百科",
+          "scientificNameFields": [
+            "Ficus elastica Roxb. ex Hornem. [6]",
+            "印度榕"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A9%A1%E8%83%B6%E6%A0%91/742959",
+        "https://baike.baidu.com/item/%E5%8D%B0%E5%BA%A6%E6%A6%95"
+      ]
+    },
+    "彩叶芋": {
+      "status": "linked",
+      "speciesId": "tol10m:fb72e9ad41553417e83bcf9c",
+      "scientificName": "Caladium bicolor",
+      "chineseName": "五彩芋",
+      "note": "原词条重定向五彩芋且给出对应学名；不误连库中同名 Cyrtosperma johnstonii。",
+      "catalogRecord": {
+        "speciesId": "tol10m:fb72e9ad41553417e83bcf9c",
+        "scientificName": "Caladium bicolor",
+        "chineseName": "五彩芋",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/50bd6b2de0d66de0.json",
+          "sha256": "0ca00b28b5c5083a2b882898a806c690cb800b325e9397085ddf78775d32ae0e",
+          "url": "https://baike.baidu.com/item/%E4%BA%94%E5%BD%A9%E8%8A%8B/3508680",
+          "observedAt": "2026-09-24T10:26:27.314Z",
+          "title": "五彩芋_百度百科",
+          "scientificNameFields": [
+            "Caladium bicolor (Ait.) Vent.",
+            "五彩芋"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BA%94%E5%BD%A9%E8%8A%8B/3508680"
+      ]
+    },
+    "铜钱草": {
+      "status": "linked",
+      "speciesId": "tol10m:825b72102effc22545beeda1",
+      "scientificName": "Hydrocotyle vulgaris",
+      "chineseName": "少脉香菇草",
+      "note": "来源给出 Hydrocotyle vulgaris；保留库中中文名，不与 H. verticillata 合并。",
+      "catalogRecord": {
+        "speciesId": "tol10m:825b72102effc22545beeda1",
+        "scientificName": "Hydrocotyle vulgaris",
+        "chineseName": "少脉香菇草",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/dcd83ae0308a1d2b.json",
+          "sha256": "c073122a0c95a40966a574b67a5ec6956470c033387cf857881fca575fd90ac7",
+          "url": "https://baike.baidu.com/item/%E9%87%8E%E5%A4%A9%E8%83%A1%E8%8D%BD/60443754",
+          "observedAt": "2026-09-24T10:26:35.631Z",
+          "title": "野天胡荽_百度百科",
+          "scientificNameFields": [
+            "Hydrocotyle vulgaris L. [1]",
+            "野天胡荽（Hydrocotyle vulgaris L.） [1]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%8E%E5%A4%A9%E8%83%A1%E8%8D%BD/60443754"
+      ]
+    },
+    "鹅掌柴": {
+      "status": "linked",
+      "speciesId": "tol10m:05802ab369437a380133bbad",
+      "scientificName": "Schefflera heptaphylla",
+      "chineseName": "鹅掌柴",
+      "note": "来源新组合 Heptapleurum heptaphyllum 与库中旧组合经 GBIF 确认为同一接受种，沿用现有ID。",
+      "catalogRecord": {
+        "speciesId": "tol10m:05802ab369437a380133bbad",
+        "scientificName": "Schefflera heptaphylla",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/7bd0fad667eb25df.json",
+          "sha256": "8037e69897fac8bdaac5ba326b2d8be4323ac44a5dbfd448b6af3606f0d92af6",
+          "url": "https://baike.baidu.com/item/%E9%B9%85%E6%8E%8C%E6%9F%B4",
+          "observedAt": "2026-09-24T10:26:43.789Z",
+          "title": "鹅掌柴_百度百科",
+          "scientificNameFields": [
+            "Heptapleurum heptaphyllum (L.) Y. F. Deng [12]",
+            "鹅掌柴"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/05802ab369437a38.json",
+          "sha256": "29852699e75ce9feba74d902db048b093aea39218c6c7f0ea4d111e9625df0ce",
+          "url": "https://api.gbif.org/v1/species/match?name=Schefflera+heptaphylla&strict=true",
+          "observedAt": "2026-09-24T10:27:38.901973+00:00",
+          "title": "Schefflera heptaphylla",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/01bc7da3ca943dde.json",
+          "sha256": "40b3c96f0206a8eb56d42f7f027b24344b3fe8d89b6dffb3307405eba6233003",
+          "url": "https://api.gbif.org/v1/species/match?name=Heptapleurum+heptaphyllum&strict=true",
+          "observedAt": "2026-09-24T10:27:40.783869+00:00",
+          "title": "Heptapleurum heptaphyllum",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%B9%85%E6%8E%8C%E6%9F%B4",
+        "https://api.gbif.org/v1/species/match?name=Schefflera+heptaphylla&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Heptapleurum+heptaphyllum&strict=true"
+      ]
+    },
+    "豆瓣绿": {
+      "status": "linked",
+      "speciesId": "tol10m:d6432a5d803886a6e3a35da1",
+      "scientificName": "Peperomia tetraphylla",
+      "chineseName": "豆瓣绿",
+      "note": "采用规范中文名对应的来源物种；不把商家同名圆叶椒草 Peperomia obtusifolia 并入。",
+      "catalogRecord": {
+        "speciesId": "tol10m:d6432a5d803886a6e3a35da1",
+        "scientificName": "Peperomia tetraphylla",
+        "chineseName": "豆瓣绿",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/ab1e9b12913a887c.json",
+          "sha256": "eec9168d327c925e86798ac6477e94febc01323050d329a2927addfffffd4cfb",
+          "url": "https://baike.baidu.com/item/%E8%B1%86%E7%93%A3%E7%BB%BF/528814",
+          "observedAt": "2026-09-24T10:26:51.932Z",
+          "title": "豆瓣绿（胡椒科草胡椒属植物）_百度百科",
+          "scientificNameFields": [
+            "Peperomia tetraphylla (G. Forst.) Hook. & Arn.",
+            "豆瓣绿"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%B1%86%E7%93%A3%E7%BB%BF/528814"
+      ]
+    },
+    "孔雀竹芋": {
+      "status": "linked",
+      "speciesId": "tol10m:927699252b5d9e824084c017",
+      "scientificName": "Goeppertia makoyana",
+      "chineseName": "孔雀肖竹芋",
+      "note": "来源接受名直接匹配库中孔雀肖竹芋；旧组合 Calathea makoyana 的异名关系也已核对。",
+      "catalogRecord": {
+        "speciesId": "tol10m:927699252b5d9e824084c017",
+        "scientificName": "Goeppertia makoyana",
+        "chineseName": "孔雀肖竹芋",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/0866efbcde652dee.json",
+          "sha256": "a700bfc3eb69609355f7af26a84e8a489c6566d2ed632b0520532a0b2dd7a951",
+          "url": "https://baike.baidu.com/item/%E5%AD%94%E9%9B%80%E7%AB%B9%E8%8A%8B",
+          "observedAt": "2026-09-24T10:27:00.036Z",
+          "title": "孔雀竹芋_百度百科",
+          "scientificNameFields": [
+            "Goeppertia makoyana [5]",
+            "孔雀竹芋"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/9e1b8349d8d1b837.json",
+          "sha256": "b4e6012b8b31ac1e4a657b0e086c3bfe186607b9fd41bcdd816d7f44102b3f8e",
+          "url": "https://api.gbif.org/v1/species/match?name=Calathea+makoyana&strict=true",
+          "observedAt": "2026-09-24T10:27:42.621410+00:00",
+          "title": "Calathea makoyana",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/927699252b5d9e82.json",
+          "sha256": "6dd77c773b5465883a0a26bff61de171f42d07ec740427571ddd2f25c5c35c94",
+          "url": "https://api.gbif.org/v1/species/match?name=Goeppertia+makoyana&strict=true",
+          "observedAt": "2026-09-24T10:27:44.485699+00:00",
+          "title": "Goeppertia makoyana",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%AD%94%E9%9B%80%E7%AB%B9%E8%8A%8B",
+        "https://api.gbif.org/v1/species/match?name=Calathea+makoyana&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Goeppertia+makoyana&strict=true"
+      ]
+    },
+    "常春藤": {
+      "status": "catalog-gap",
+      "scientificName": "Hedera sinensis",
+      "note": "原来源种下名经此前研究及当前 GBIF 接受种记录定位到 Hedera sinensis；数据库缺该种，不用洋常春藤替代。",
+      "candidateSpeciesIds": [],
+      "missingScientificNames": [
+        "Hedera sinensis"
+      ],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/landscape-baidu-20260924/497a204a96b349c9.json",
+          "sha256": "5a3e5fb7e85edb65b3895ecee70b96630c4f8beba5c2bf89520816062dc60a5a",
+          "url": "https://baike.baidu.com/item/%E5%B8%B8%E6%98%A5%E8%97%A4/70130",
+          "observedAt": "2026-09-24T06:01:59.732Z",
+          "title": "常春藤（五加科常春藤属植物）_百度百科",
+          "scientificNameFields": [
+            "Hedera nepalensis var. sinensis (Tobler) Rehder [1] [12]"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/da586da0a01f0758.json",
+          "sha256": "3151998103b08097a632a4371b1afcf793cdb1c5e5759db7057df9201eae256d",
+          "url": "https://api.gbif.org/v1/species/match?name=Hedera+sinensis&strict=true",
+          "observedAt": "2026-09-24T10:29:20.945534+00:00",
+          "title": "Hedera sinensis",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%B8%B8%E6%98%A5%E8%97%A4/70130",
+        "https://api.gbif.org/v1/species/match?name=Hedera+sinensis&strict=true"
+      ]
+    },
+    "冷水花": {
+      "status": "catalog-gap",
+      "scientificName": "Pilea notata",
+      "note": "来源及 GBIF 对应 Pilea notata，数据库缺该种；不混为透茎冷水花 P. pumila 或花叶冷水花 P. cadierei。",
+      "candidateSpeciesIds": [],
+      "missingScientificNames": [
+        "Pilea notata"
+      ],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a99a1853565f04f2.json",
+          "sha256": "6fa66fcd9ef41aef96477100a8f7630a73262e9fe2cde788210428e32130599c",
+          "url": "https://baike.baidu.com/item/%E5%86%B7%E6%B0%B4%E8%8A%B1/323106",
+          "observedAt": "2026-09-24T10:27:08.185Z",
+          "title": "冷水花（荨麻科冷水花属植物）_百度百科",
+          "scientificNameFields": [
+            "Pilea notata C. H. Wright [6]",
+            "冷水花"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/28a05d6ac5be38e6.json",
+          "sha256": "8b0693afaeef332ae817d2c081dbdc3c5168ca36c3e5f83d7581bacb50230ab0",
+          "url": "https://api.gbif.org/v1/species/match?name=Pilea+notata&strict=true",
+          "observedAt": "2026-09-24T10:29:19.102706+00:00",
+          "title": "Pilea notata",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%86%B7%E6%B0%B4%E8%8A%B1/323106",
+        "https://api.gbif.org/v1/species/match?name=Pilea+notata&strict=true"
+      ]
+    },
+    "爬山虎": {
+      "status": "linked",
+      "speciesId": "tol10m:7523ae328a431040bf5a3da5",
+      "scientificName": "Parthenocissus tricuspidata",
+      "chineseName": "地锦",
+      "note": "来源重定向地锦且学名一致。",
+      "catalogRecord": {
+        "speciesId": "tol10m:7523ae328a431040bf5a3da5",
+        "scientificName": "Parthenocissus tricuspidata",
+        "chineseName": "地锦",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/610451fb327987e4.json",
+          "sha256": "367a44b718983b0383372c1129cf3a74e6aeac976413544e5c3168faea547abe",
+          "url": "https://baike.baidu.com/item/%E5%9C%B0%E9%94%A6/1166842",
+          "observedAt": "2026-09-24T10:27:16.627Z",
+          "title": "地锦（葡萄科地锦属的一种植物）_百度百科",
+          "scientificNameFields": [
+            "Parthenocissus tricuspidata (Siebold & Zucc.) Planch. [1]",
+            "地锦（Parthenocissus tricuspidata (Siebold & Zucc.) Planch.） [2]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%9C%B0%E9%94%A6/1166842"
+      ]
+    },
+    "袖珍椰子": {
+      "status": "linked",
+      "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+      "scientificName": "Chamaedorea elegans",
+      "chineseName": "袖珍竹节椰",
+      "note": "来源学名与库中袖珍竹节椰一致。",
+      "catalogRecord": {
+        "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+        "scientificName": "Chamaedorea elegans",
+        "chineseName": "袖珍竹节椰",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/f19e96b1c600bdab.json",
+          "sha256": "73872bb0920dbf8c6ead2d90ea07597426a9996b7719e71bd4791f27fd28292b",
+          "url": "https://baike.baidu.com/item/%E8%A2%96%E7%8F%8D%E6%A4%B0%E5%AD%90",
+          "observedAt": "2026-09-24T10:27:24.738Z",
+          "title": "袖珍椰子_百度百科",
+          "scientificNameFields": [
+            "Chamaedorea elegans Mart.",
+            "袖珍椰子"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%A2%96%E7%8F%8D%E6%A4%B0%E5%AD%90"
+      ]
+    },
+    "福禄桐": {
+      "status": "linked",
+      "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+      "scientificName": "Polyscias guilfoylei",
+      "chineseName": "银边南洋参",
+      "note": "来源为 Polyscias guilfoylei var. laciniata，按种级归并，不把整个南洋参属或 P. fruticosa 当作同种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+        "scientificName": "Polyscias guilfoylei",
+        "chineseName": "银边南洋参",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/2a7987bb05b28a11.json",
+          "sha256": "30b665036c227f5f4f8b2c26651b75e158a93175f95411607f51f5b61079ff94",
+          "url": "https://baike.baidu.com/item/%E9%93%B6%E8%BE%B9%E5%8D%97%E6%B4%8B%E5%8F%82/4763247",
+          "observedAt": "2026-09-24T10:27:32.858Z",
+          "title": "银边南洋参_百度百科",
+          "scientificNameFields": [
+            "Polyscias guilfoylei var. laciniata",
+            "南洋参",
+            "银边南洋参"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%93%B6%E8%BE%B9%E5%8D%97%E6%B4%8B%E5%8F%82/4763247"
+      ]
+    },
+    "金钻": {
+      "status": "catalog-gap",
+      "scientificName": "Philodendron tatei",
+      "note": "来源为 Philodendron tatei 的 Congo 栽培类型，种级已明确但数据库缺该种；不能改用春羽。",
+      "candidateSpeciesIds": [],
+      "missingScientificNames": [
+        "Philodendron tatei"
+      ],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/3702d849f582f8c3.json",
+          "sha256": "1a4866c0cdf1a434d946b601f88be4f271690e3a4a9ff6ed5ee363907d3ae8a5",
+          "url": "https://baike.baidu.com/item/%E9%87%91%E9%92%BB%E8%94%93%E7%BB%BF%E7%BB%92/3583247",
+          "observedAt": "2026-09-24T10:27:41.109Z",
+          "title": "金钻蔓绿绒_百度百科",
+          "scientificNameFields": [
+            "Philodendron tatei 'Congo' [1]",
+            "钻叶蔓绿绒"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/eb5a2a6379fe7c5d.json",
+          "sha256": "b87da11d2168c819a80b0359a6261964a68bd779b6c6b8b945c5bed8a6943137",
+          "url": "https://api.gbif.org/v1/species/match?name=Philodendron+tatei&strict=true",
+          "observedAt": "2026-09-24T10:29:22.772897+00:00",
+          "title": "Philodendron tatei",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%91%E9%92%BB%E8%94%93%E7%BB%BF%E7%BB%92/3583247",
+        "https://api.gbif.org/v1/species/match?name=Philodendron+tatei&strict=true"
+      ]
+    },
+    "珍珠吊兰": {
+      "status": "linked",
+      "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+      "scientificName": "Curio rowleyanus",
+      "chineseName": "翡翠珠",
+      "note": "来源旧名 Senecio rowleyanus 经 GBIF 接受种异名列表核对为 Curio rowleyanus；未使用同名但作者不同的误匹配。",
+      "catalogRecord": {
+        "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+        "scientificName": "Curio rowleyanus",
+        "chineseName": "翡翠珠",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/3e62b2beeac1cb8e.json",
+          "sha256": "7759e9bf31b8cfa41c0a8fe1096cf75a1d40dfd7130ae298df873699a9da04cd",
+          "url": "https://baike.baidu.com/item/%E7%BF%A1%E7%BF%A0%E7%8F%A0/6046691",
+          "observedAt": "2026-09-24T10:27:49.293Z",
+          "title": "翡翠珠_百度百科",
+          "scientificNameFields": [
+            "Senecio rowleyanus",
+            "翡翠珠"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/2b0a5edd90743216.json",
+          "sha256": "20811a0af4b8f4d63723049ce5844f705836ce09e22d36bd822401cca79f8edb",
+          "url": "https://api.gbif.org/v1/species/3149649/synonyms",
+          "observedAt": "2026-09-24T10:29:26.503241+00:00",
+          "title": "Curio rowleyanus synonyms",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%BF%A1%E7%BF%A0%E7%8F%A0/6046691",
+        "https://api.gbif.org/v1/species/3149649/synonyms"
+      ]
+    },
+    "千叶吊兰": {
+      "status": "linked",
+      "speciesId": "tol10m:47ce68d71ce138b7084f6118",
+      "scientificName": "Muehlenbeckia complexa",
+      "chineseName": "千叶兰",
+      "note": "来源学名与库中千叶兰一致，不与锦竹草混淆。",
+      "catalogRecord": {
+        "speciesId": "tol10m:47ce68d71ce138b7084f6118",
+        "scientificName": "Muehlenbeckia complexa",
+        "chineseName": "千叶兰",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/66fa62722901cb23.json",
+          "sha256": "4fffd4cbea5bb8f46a1303a347e98281477467e28fa650e2db8904a36d95aafa",
+          "url": "https://baike.baidu.com/item/%E5%8D%83%E5%8F%B6%E5%90%8A%E5%85%B0",
+          "observedAt": "2026-09-24T10:27:57.417Z",
+          "title": "千叶吊兰_百度百科",
+          "scientificNameFields": [
+            "Muehlenbeckia complexa Meisn.",
+            "千叶吊兰"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%8D%83%E5%8F%B6%E5%90%8A%E5%85%B0"
+      ]
+    },
+    "金桔": {
+      "status": "linked",
+      "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+      "scientificName": "Citrus japonica",
+      "chineseName": "金柑",
+      "note": "来源金橘/金柑的学名一致。",
+      "catalogRecord": {
+        "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+        "scientificName": "Citrus japonica",
+        "chineseName": "金柑",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/e384d050845bad4f.json",
+          "sha256": "b8fb9fb67fe5995c3c5d2bfe079ec981e516dec9bfa57dc348a84407ca0fe164",
+          "url": "https://baike.baidu.com/item/%E9%87%91%E6%A9%98/1013700",
+          "observedAt": "2026-09-24T10:28:05.593Z",
+          "title": "金橘（芸香科柑橘属植物）_百度百科",
+          "scientificNameFields": [
+            "Citrus japonica Thunb. [2]",
+            "金橘 Citrus japonica Thunb."
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%91%E6%A9%98/1013700"
+      ]
+    },
+    "草莓": {
+      "status": "linked",
+      "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+      "scientificName": "Fragaria ananassa",
+      "chineseName": "草莓",
+      "note": "库中 Fragaria ananassa 与 Fragaria x ananassa 经 GBIF 匹配到同一 usageKey 3029912；本计划仅选规范二名写法的一条现有ID，未删除或合并数据库记录。",
+      "catalogRecord": {
+        "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+        "scientificName": "Fragaria ananassa",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/c76f6a79f6dbcf63.json",
+          "sha256": "24a79d1afec8992f7ab6330bbe636dfbe0a22fb2fa77e5ea346431e6c4a2295a",
+          "url": "https://baike.baidu.com/item/%E8%8D%89%E8%8E%93/32702",
+          "observedAt": "2026-09-24T10:28:13.823Z",
+          "title": "草莓（蔷薇科草莓属植物）_百度百科",
+          "scientificNameFields": [
+            "Fragaria × ananassa (Weston) Duchesne ex Rozier [1]",
+            "草莓（Fragaria × ananassa (Weston) Duchesne ex Rozier） [2]"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/449512c66944e2bf.json",
+          "sha256": "29c19b0bea245e9e753a151664a1f66d5c0ae8da9d98ae206c016f5e6e0f84e8",
+          "url": "https://api.gbif.org/v1/species/match?name=Fragaria+x+ananassa&strict=true",
+          "observedAt": "2026-09-24T10:27:53.720089+00:00",
+          "title": "Fragaria x ananassa",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/8bb387ed215c42d9.json",
+          "sha256": "dcfb575d654750a769ed3adb35f44f2a290a777e4754f443008eb3ae3e7d15ae",
+          "url": "https://api.gbif.org/v1/species/match?name=Fragaria+ananassa&strict=true",
+          "observedAt": "2026-09-24T10:27:55.582781+00:00",
+          "title": "Fragaria ananassa",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%8D%89%E8%8E%93/32702",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+x+ananassa&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+ananassa&strict=true"
+      ]
+    },
+    "蓝莓": {
+      "status": "needs-selection",
+      "scientificName": null,
+      "note": "来源为 Vaccinium spp.，包含多个物种；不能将所有蓝莓都视作高丛越橘。",
+      "candidateSpeciesIds": [
+        "tol10m:0dee351f30c4eb55de18873b",
+        "tol10m:8a5fd3178e1c026a3871fb24",
+        "tol10m:7be8346c498df75d54b50b77"
+      ],
+      "missingScientificNames": [],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/d23250b7c80a03ce.json",
+          "sha256": "d18acf62f72fe6d5f8197b61cc0b50cc361a2f6171f057b060e4abfad739c70e",
+          "url": "https://baike.baidu.com/item/%E8%93%9D%E8%8E%93/6401",
+          "observedAt": "2026-09-24T10:28:22.000Z",
+          "title": "蓝莓（杜鹃花科越橘属蓝果类型植物的俗称）_百度百科",
+          "scientificNameFields": [
+            "Vaccinium spp. [12]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%93%9D%E8%8E%93/6401"
+      ]
+    },
+    "佛手": {
+      "status": "linked",
+      "speciesId": "tol10m:7103098fabbac77885499506",
+      "scientificName": "Citrus medica",
+      "chineseName": "香橼",
+      "note": "来源为香橼的种下栽培类型，按用户要求归入香橼，不单设品种。",
+      "catalogRecord": {
+        "speciesId": "tol10m:7103098fabbac77885499506",
+        "scientificName": "Citrus medica",
+        "chineseName": "香橼",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/bf467ac18ec02d72.json",
+          "sha256": "13cad346b08d92403603d4f2bcc1b6019864d7e956d7d09dbf4a3201022c3647",
+          "url": "https://baike.baidu.com/item/%E4%BD%9B%E6%89%8B/467548",
+          "observedAt": "2026-09-24T10:28:30.156Z",
+          "title": "佛手（芸香科柑橘属植物）_百度百科",
+          "scientificNameFields": [
+            "Citrus medica 'Fingered' [5]",
+            "香橼"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BD%9B%E6%89%8B/467548"
+      ]
+    },
+    "桉树": {
+      "status": "needs-selection",
+      "scientificName": null,
+      "note": "来源 Eucalyptus spp. 是多个物种的统称，不是单一物种；候选为库中例子，不自动纳入。",
+      "candidateSpeciesIds": [
+        "tol10m:b238d2eb5694eec2f8e4c4c9",
+        "tol10m:ee7a619fea152a53c19577e5",
+        "tol10m:ab98be70eeffdd8011e46e33"
+      ],
+      "missingScientificNames": [],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a71dc516d832777b.json",
+          "sha256": "d0892c407535ffe93fadcc5282e22dea867de901837b9211cfb270deacdd95d7",
+          "url": "https://baike.baidu.com/item/%E6%A1%89%E6%A0%91/60831639",
+          "observedAt": "2026-09-24T10:28:38.317Z",
+          "title": "桉树（桃金娘科下桉属、伞房桉属和杯果木属植物的统称）_百度百科",
+          "scientificNameFields": [
+            "Eucalyptus spp.",
+            "约800余种 [3-5]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A1%89%E6%A0%91/60831639"
+      ]
+    },
+    "橄榄树": {
+      "status": "linked",
+      "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+      "scientificName": "Canarium album",
+      "chineseName": "橄榄",
+      "note": "来源明确指橄榄科橄榄，不与油橄榄 Olea europaea 合并。",
+      "catalogRecord": {
+        "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+        "scientificName": "Canarium album",
+        "chineseName": "橄榄",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/de1ceb161257041c.json",
+          "sha256": "2b9b83ce204c55fae5d61dc94b9b6727d77c8138cd29df6fcfe0f9d804e32fb7",
+          "url": "https://baike.baidu.com/item/%E6%A9%84%E6%A6%84%E6%A0%91/834",
+          "observedAt": "2026-09-24T10:28:46.481Z",
+          "title": "橄榄树（橄榄科橄榄属植物）_百度百科",
+          "scientificNameFields": [
+            "Canarium album (Lour.) Rauesch.",
+            "橄榄"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A9%84%E6%A6%84%E6%A0%91/834"
+      ]
+    },
+    "发财树": {
+      "status": "linked",
+      "speciesId": "tol10m:daeb35038d50651d52b911eb",
+      "scientificName": "Pachira glabra",
+      "chineseName": "马拉巴栗",
+      "note": "已选择植物义项，来源为光瓜栗 Pachira glabra；不直接套用另一物种 P. aquatica。",
+      "catalogRecord": {
+        "speciesId": "tol10m:daeb35038d50651d52b911eb",
+        "scientificName": "Pachira glabra",
+        "chineseName": "马拉巴栗",
+        "isVisible": true
+      },
+      "catalogLocalizationRequired": false,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/db982654711e3a60.json",
+          "sha256": "b208cabc84ed037d2b0920393eee0f9e3efedb696793e640d8e1123f5c067b91",
+          "url": "https://baike.baidu.com/item/%E5%8F%91%E8%B4%A2%E6%A0%91",
+          "observedAt": "2026-09-24T10:28:54.557Z",
+          "title": "发财树（发财树）_百度百科",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/a6bd9b3000116e30.json",
+          "sha256": "1c72b00b4a0bad7499478d96861e8eec42e4b8ff9b89b30ecda04bc32561ca8a",
+          "url": "https://baike.baidu.com/item/%E5%85%89%E7%93%9C%E6%A0%97/23637271",
+          "observedAt": "2026-09-24T10:36:50.981Z",
+          "title": "光瓜栗_百度百科",
+          "scientificNameFields": [
+            "Pachira glabra Pasq. [2]",
+            "马拉巴栗（Pachira glabra） [1]"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%8F%91%E8%B4%A2%E6%A0%91",
+        "https://baike.baidu.com/item/%E5%85%89%E7%93%9C%E6%A0%97/23637271"
+      ]
+    },
+    "车前草": {
+      "status": "needs-selection",
+      "scientificName": null,
+      "note": "默认词条指平车前 Plantago depressa；名称也可能用于车前 Plantago asiatica，原文仅说路边常见，不能排除任一物种。",
+      "candidateSpeciesIds": [
+        "tol10m:0b2d5c2729d5e5a6f60e9c64",
+        "tol10m:63bfe89953ede69af8c06708"
+      ],
+      "missingScientificNames": [],
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/7f85855b9666da1a.json",
+          "sha256": "ec2bd1ada136b0f8ee2d91cf12700327bc3023198d520d46c0914f4e152b4dc7",
+          "url": "https://baike.baidu.com/item/%E5%B9%B3%E8%BD%A6%E5%89%8D/9222790",
+          "observedAt": "2026-09-24T10:29:02.732Z",
+          "title": "平车前_百度百科",
+          "scientificNameFields": [
+            "Plantago depressa Willd. [5]",
+            "平车前"
+          ]
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%B9%B3%E8%BD%A6%E5%89%8D/9222790"
+      ]
+    },
+    "蛇莓": {
+      "status": "linked",
+      "speciesId": "tol10m:710e458059ee4ba98144a081",
+      "scientificName": "Potentilla indica",
+      "chineseName": "蛇莓",
+      "note": "来源 Duchesnea indica 为 GBIF 确认的 Potentilla indica 异名，关联现有核心ID。",
+      "catalogRecord": {
+        "speciesId": "tol10m:710e458059ee4ba98144a081",
+        "scientificName": "Potentilla indica",
+        "chineseName": null,
+        "isVisible": false
+      },
+      "catalogLocalizationRequired": true,
+      "sourceRecords": [
+        {
+          "path": "server/.cache/research/ornamental-baidu-20260924/9e01048324fd11e0.json",
+          "sha256": "5f403394edbc79f78e525a5a1da25c099b8a6912c8d45bac1ffbe78dc2beea96",
+          "url": "https://baike.baidu.com/item/%E8%9B%87%E8%8E%93/602803",
+          "observedAt": "2026-09-24T10:29:10.884Z",
+          "title": "蛇莓（蔷薇科蛇莓属的一种植物）_百度百科",
+          "scientificNameFields": [
+            "Duchesnea indica (Andrews) Teschem. [1]",
+            "蛇莓 Duchesnea indica [2]"
+          ]
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/828a4749e68e49d5.json",
+          "sha256": "8f61e7b3eb0faa4fd722a234000401eea728839f5569a6df561c52e327d511ec",
+          "url": "https://api.gbif.org/v1/species/match?name=Duchesnea+indica&strict=true",
+          "observedAt": "2026-09-24T10:27:50.027795+00:00",
+          "title": "Duchesnea indica",
+          "scientificNameFields": []
+        },
+        {
+          "path": "server/.cache/research/ornamental-taxonomy-20260924/710e458059ee4ba9.json",
+          "sha256": "4aab810efdaf7f1b7bf2a9b3d5012a45a3e64583437b6251d690f311c6be37ca",
+          "url": "https://api.gbif.org/v1/species/match?name=Potentilla+indica&strict=true",
+          "observedAt": "2026-09-24T10:27:51.870748+00:00",
+          "title": "Potentilla indica",
+          "scientificNameFields": []
+        }
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%9B%87%E8%8E%93/602803",
+        "https://api.gbif.org/v1/species/match?name=Duchesnea+indica&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Potentilla+indica&strict=true"
+      ]
+    }
+  },
+  "initialPendingNames": [
+    "三角梅",
+    "牡丹",
+    "杜鹃花",
+    "蓝雪花",
+    "樱花",
+    "百合",
+    "康乃馨",
+    "白掌",
+    "水仙",
+    "沙漠玫瑰",
+    "丽格海棠",
+    "四季海棠",
+    "球根海棠",
+    "羽扇豆",
+    "倒挂金钟",
+    "鼠尾草",
+    "矮雪轮",
+    "金钱树",
+    "虎皮兰",
+    "滴水观音",
+    "橡皮树",
+    "彩叶芋",
+    "铜钱草",
+    "鹅掌柴",
+    "豆瓣绿",
+    "孔雀竹芋",
+    "常春藤",
+    "冷水花",
+    "爬山虎",
+    "袖珍椰子",
+    "福禄桐",
+    "金钻",
+    "珍珠吊兰",
+    "千叶吊兰",
+    "金桔",
+    "草莓",
+    "蓝莓",
+    "佛手",
+    "桉树",
+    "橄榄树",
+    "发财树",
+    "车前草",
+    "蛇莓"
+  ]
+}

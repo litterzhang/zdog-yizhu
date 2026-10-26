@@ -1,0 +1,166 @@
+{
+  "version": "plant-single-image-top5-v3-pretrained-first",
+  "updatedAt": "2026-09-22",
+  "status": "two-official-pretrained-small-local-trials-completed",
+  "task": {
+    "normalInput": "One photograph of the plant the user wants to identify",
+    "primaryGoal": "Species identification for common plants encountered in China",
+    "notInScope": [
+      "General street-scene plant detection",
+      "Multi-object segmentation"
+    ],
+    "output": "At most five distinct species candidates, or an explicit uncertain/unrecognized result"
+  },
+  "metrics": {
+    "primary": [
+      "top1",
+      "top5"
+    ],
+    "topK": 5,
+    "macro": [
+      "macro_top5",
+      "per_species_top5"
+    ],
+    "diagnostics": [
+      "retrieval_recall_at_50_for_current_cascade",
+      "target_species_coverage",
+      "taxonomy_mapping_coverage",
+      "technical_success_rate",
+      "nonplant_false_acceptance_rate",
+      "unknown_plant_false_acceptance_rate",
+      "latency_median_seconds",
+      "latency_p95_seconds",
+      "cold_start_seconds",
+      "peak_process_memory"
+    ],
+    "normalization": "Map predictions to the frozen reviewed species identities and retain the first five distinct identities",
+    "denominator": "Every labeled known-target plant test photograph; no model-specific filtering",
+    "unsupportedSpecies": "Count as a miss, not a removed sample",
+    "timeoutOrFailure": "Count as a miss in end-to-end Top-5; report technical success separately",
+    "unknownAndNonplantInputs": "Separate rejection test sets, not known-target species accuracy denominator",
+    "minimumMeaningfulClassCount": 6,
+    "threeClassSmokeIsNotTop5Validation": true
+  },
+  "firstComparison": [
+    {
+      "id": "existing-bioclip-cascade",
+      "role": "unchanged project baseline",
+      "training": "none in this research"
+    },
+    {
+      "id": "bioclip2-new-head",
+      "role": "local transfer-learning candidate A",
+      "training": "frozen encoder first; trained on the same authorized target data as B"
+    },
+    {
+      "id": "plantclef-dinov2-new-head",
+      "role": "local transfer-learning candidate B",
+      "initialization": "official onlyclassifier_then_all checkpoint after complete-file verification",
+      "training": "replace European classifier; frozen plant-adapted encoder first"
+    },
+    {
+      "id": "plantnet-300k-pretrained",
+      "role": "user-selected local Pl@ntNet solution; start with official pretrained weights",
+      "backbone": "Read architecture from the selected official checkpoint and load its matching class map",
+      "training": "Do not train initially. Evaluate pretrained Top-1/Top-5 first; consider fine-tuning only after measured coverage/accuracy gaps and explicit approval",
+      "requires": [
+        "Obtain and verify an actual official pretrained checkpoint and its matching original class-index/species maps",
+        "Confirm checkpoint architecture, output dimension, dataset version and applicable license",
+        "Do not infer all available checkpoints are legacy solely from the README example",
+        "Do not label a checkpoint V2 until its weights and output mapping are verified as V2",
+        "If only legacy weights are verified, record their real version and evaluate as a separate pretrained baseline; never attach V2 labels to them",
+        "Report target-species coverage and Top-1/Top-5 on the same target test set"
+      ],
+      "readiness": "Official SqueezeNet1_0 and ResNet50 checkpoints downloaded, safely loaded and locally tested on identical public test photos; no runtime integration or production switch",
+      "requestedDataset": {
+        "name": "Pl@ntNet-300K",
+        "version": "V2",
+        "record": "10.5281/zenodo.10419064",
+        "classCount": 1000,
+        "speciesMetadataSha256": "3255cf5738046a620c47ed0336e8226147018c05939beb412f5c75d4221f31a9"
+      },
+      "checkpointDatasetVersion": "official-1081-class-pretrained-not-V2",
+      "initialization": "Official pretrained checkpoint first; new training is not a prerequisite for the initial local benchmark",
+      "testedArchitecture": "squeezenet1_0",
+      "localTrialReport": "docs/research/plantnet-pretrained-trial.json",
+      "testedArchitectures": [
+        "squeezenet1_0",
+        "resnet50"
+      ],
+      "localTrialReports": [
+        "docs/research/plantnet-pretrained-trial.json",
+        "docs/research/plantnet-resnet50-trial.json"
+      ]
+    }
+  ],
+  "optionalComparators": [
+    {
+      "id": "bioclip25",
+      "requires": [
+        "Local resource assessment",
+        "Pinned model revision and weights",
+        "No assumption that public benchmark gains transfer"
+      ]
+    },
+    {
+      "id": "dinov3",
+      "requires": [
+        "Custom model-license review",
+        "Resource assessment",
+        "Same target data and test protocol"
+      ]
+    }
+  ],
+  "datasetRules": [
+    "Do not use private observation photos without specific permission",
+    "Image license and label evidence are separate requirements",
+    "Include cultivated/indoor plants, not only wild research-grade observations",
+    "Do not train or tune thresholds on the test set",
+    "Group observations/photographers and near duplicates before splitting",
+    "Document unresolved overlap with foundation-model pretraining",
+    "Do not use API/model predictions as their own evaluation ground truth",
+    "Do not substitute an easier dataset to force a 1000-class headline",
+    "Do not use online recognition APIs for inference, benchmarking or generating training labels"
+  ],
+  "execution": {
+    "trainingPaused": true,
+    "weightsDownloadedThisResearch": true,
+    "measuredModelScores": {
+      "scope": "small-public-test-subset-strict-name-matching-not-China-wide",
+      "architecture": "squeezenet1_0",
+      "images": 52,
+      "targetSpecies": 11,
+      "directlyCoveredSpecies": 1,
+      "top1": 0.09615384615384616,
+      "top5": 0.09615384615384616,
+      "artifact": "server/.artifacts/plantnet-pretrained/official-squeezenet-1081-test.json"
+    },
+    "productionChanged": false,
+    "externalRecognitionRequestsSent": 0,
+    "localInferencePerformed": true,
+    "additionalMeasuredModelScores": [
+      {
+        "scope": "small-public-test-subset-strict-name-matching-not-China-wide",
+        "architecture": "resnet50",
+        "images": 52,
+        "targetSpecies": 11,
+        "directlyCoveredSpecies": 1,
+        "top1": 0.09615384615384616,
+        "top5": 0.09615384615384616,
+        "artifact": "server/.artifacts/plantnet-pretrained/official-resnet50-1081-test.json"
+      }
+    ]
+  },
+  "userDecision": {
+    "externalRecognitionApis": "excluded",
+    "trainingResumeAuthorized": false,
+    "selectedLocalModelFamily": "plantnet-300k-pretrained",
+    "requestedDatasetVersion": "V2",
+    "pretrainedFirst": true
+  },
+  "networkPolicy": {
+    "externalRecognitionAllowed": false,
+    "sendPhotosToExternalInference": false,
+    "publicDatasetPreparation": "Separate licensed-data preparation; not recognition API use"
+  }
+}

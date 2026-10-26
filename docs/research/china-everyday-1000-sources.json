@@ -1,0 +1,471 @@
+{
+  "checkedAt": "2026-09-22",
+  "scope": "Source discovery and selection methodology; not an approved species list",
+  "trainingRemainsPaused": true,
+  "notes": [
+    "Counts below are publisher-reported and have not been merged or taxonomically deduplicated.",
+    "Publicly readable does not establish permission to redistribute documents or train on their photographs.",
+    "Source presence, planting recommendation, actual application and measured commonness are distinct evidence types.",
+    "Browser reading and direct-download access differ. Direct HTTP/TLS results and hashes recorded; failed links never treated as parsed tables."
+  ],
+  "sources": [
+    {
+      "id": "F01",
+      "title": "国家林业和草原局：乡土树种专题",
+      "url": "https://www.forestry.gov.cn/c/www/xtsz.jhtml",
+      "access": "Index body and provincial links read",
+      "evidenceType": "discovery-index",
+      "use": "Discover provincial sources for regional coverage rather than rank by observation totals",
+      "limitations": "Index has repeated entries; entry count is not province count. Native/recommended does not mean common in cities.",
+      "directFetchCheck": {
+        "id": "F01",
+        "url": "https://www.forestry.gov.cn/c/www/xtsz.jhtml",
+        "status": 200,
+        "finalUrl": "https://www.forestry.gov.cn/c/www/xtsz.jhtml",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 38964,
+        "sha256": "bcebf163200d3fee045bb546150d15f47b9329b5889969e578736d03bd83155b"
+      }
+    },
+    {
+      "id": "F02",
+      "title": "北京市主要乡土树种名录（2021版）",
+      "url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202406/P020240625641264006842.pdf",
+      "access": "Original host returned 403; equivalent attachment linked by national forestry notice obtained and read as F20. Page 3 rendered locally and visually checked.",
+      "sourceVersion": "2021",
+      "evidenceType": "regional-recommendation-with-application-consideration",
+      "reportedEntries": 140,
+      "fieldsObserved": [
+        "中文名",
+        "拉丁学名",
+        "北京主要分布区域",
+        "适宜绿化类型",
+        "适宜区域"
+      ],
+      "use": "North China woody-plant candidates and habitat/application tags",
+      "limitations": "Not an abundance ranking; alpine/forest-only plants need everyday-scene filtering. URL year is not the document version.",
+      "directFetchCheck": {
+        "id": "F02",
+        "url": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202406/P020240625641264006842.pdf",
+        "status": 403,
+        "finalUrl": "https://yllhj.beijing.gov.cn/zwgk/2024nzcwj/2024nqtwj/202406/P020240625641264006842.pdf",
+        "contentType": null,
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F03",
+      "title": "深圳市绿色校园设计标准 SJG 97—2021：附录常见植物列表",
+      "url": "https://zjj.sz.gov.cn/attachment/1/1600/1600216/8694825.pdf",
+      "access": "Browser indexed PDF table read; direct file fetch returned 403; screenshot tool could not retrieve the PDF.",
+      "evidenceType": "regional-common-use-list",
+      "reportedEntries": 127,
+      "use": "South China campus/landscape candidates",
+      "limitations": "127 is the table caption, not our verified distinct-species count. Entries include broad groups; PDF/OCR spelling and taxonomic scope need checking.",
+      "directFetchCheck": {
+        "id": "F03",
+        "url": "https://zjj.sz.gov.cn/attachment/1/1600/1600216/8694825.pdf",
+        "status": 403,
+        "finalUrl": "https://zjj.sz.gov.cn/attachment/1/1600/1600216/8694825.pdf",
+        "contentType": "text/html",
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F04",
+      "title": "辰山植物园发布最新版《上海维管植物名录》",
+      "url": "https://lhsr.sh.gov.cn/ywdt/20230803/725699b4-18cd-4b5a-8303-3541c7ee8dd1.html",
+      "access": "Official article body read through browser; local direct fetch returned 403. Counts remain publisher-reported, not extracted from workbook.",
+      "publishedAt": "2023-08-03",
+      "datasetVersion": "2022, published in 2023",
+      "evidenceType": "regional-survey-summary",
+      "reportedCounts": {
+        "commonWildPlants": 264,
+        "veryRareWildPlants": 367,
+        "cultivatedEntriesIncludingInfraspecificAndCultivarUnits": 2888,
+        "cultivatedSpecies": 1814
+      },
+      "use": "Prioritize explicit local commonness; separate cultivated/wild records and filter historical/rare occurrences",
+      "limitations": "Only Shanghai. Workbook availability is stated by publisher but workbook not obtained or parsed in this research pass. Cultivated presence alone does not imply commonness.",
+      "directFetchCheck": {
+        "id": "F04",
+        "url": "https://lhsr.sh.gov.cn/ywdt/20230803/725699b4-18cd-4b5a-8303-3541c7ee8dd1.html",
+        "status": 403,
+        "finalUrl": "https://lhsr.sh.gov.cn/ywdt/20230803/725699b4-18cd-4b5a-8303-3541c7ee8dd1.html",
+        "contentType": "text/html",
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F05",
+      "title": "上海市植物物种多样性组成和历史变化暨上海维管植物名录更新（2022版）",
+      "url": "https://www.biodiversity-science.net/CN/10.17520/biods.2023093",
+      "doi": "10.17520/biods.2023093",
+      "pdfUrl": "https://www.biodiversity-science.net/attached/file/20230829/20230829143455_983.pdf",
+      "access": "Direct article returned 403; title/DOI/authors/version confirmed by publisher-deposited Crossref metadata F15. Workbook and article PDF not acquired.",
+      "evidenceType": "primary-dataset-acquisition-lead",
+      "use": "Acquire original workbook via permitted publisher channel, then inspect commonness codes and exact record-level data",
+      "limitations": "No access bypass; no invented workbook URL, license, schema codebook or download count.",
+      "directFetchCheck": {
+        "id": "F05",
+        "url": "https://www.biodiversity-science.net/CN/10.17520/biods.2023093",
+        "status": 403,
+        "finalUrl": "https://www.biodiversity-science.net/CN/10.17520/biods.2023093",
+        "contentType": "text/html",
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F06",
+      "title": "主要花卉产品等级 第3部分：盆栽观叶植物（修订项目）",
+      "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=E45FCE0FF3A56949E05397BE0A0A7EDF",
+      "projectId": "20242424-T-432",
+      "access": "Official project scope and proposed additions read",
+      "evidenceType": "horticultural-product-scope",
+      "use": "Find indoor foliage/ornamental candidates omitted by wild-only sampling",
+      "limitations": "Project proposal is not final standard text, market-share data or a species-level checklist. Proposed additions must be checked against the released text.",
+      "directFetchCheck": {
+        "id": "F06",
+        "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=E45FCE0FF3A56949E05397BE0A0A7EDF",
+        "status": 200,
+        "finalUrl": "https://std.samr.gov.cn/gb/search/gbDetailed?id=E45FCE0FF3A56949E05397BE0A0A7EDF",
+        "contentType": "text/html;charset=UTF-8",
+        "bytes": 65017,
+        "sha256": "d400dd98e713eb16cf5407f521e8e2ca41e974ecc4e16ec254f289114281f8ed"
+      }
+    },
+    {
+      "id": "F07",
+      "title": "国家标准公告：GB/T 18247.3-2026",
+      "url": "https://std.sacinfo.org.cn/gnoc/queryInfo?id=AB5E5786881DB406904D74AE5C7D7469",
+      "access": "Official announcement body read, entry 77",
+      "publishedAt": "2026-07-30",
+      "effectiveAt": "2027-02-01",
+      "statusOnCheckDate": "Published, not yet effective",
+      "evidenceType": "standard-version-verification",
+      "use": "Use released version for future candidate extraction instead of silently treating 2000 text/project proposal as current",
+      "limitations": "Final standard plant tables have not been obtained/read. Version metadata alone supplies no species candidates.",
+      "directFetchCheck": {
+        "id": "F07",
+        "url": "https://std.sacinfo.org.cn/gnoc/queryInfo?id=AB5E5786881DB406904D74AE5C7D7469",
+        "status": 200,
+        "finalUrl": "https://std.sacinfo.org.cn/gnoc/queryInfo?id=AB5E5786881DB406904D74AE5C7D7469",
+        "contentType": "text/html;charset=UTF-8",
+        "bytes": 541963,
+        "sha256": "c22b2dd004a1f142577c760237f508f6bc01a299d6ac1ea69ab86b671034b034"
+      }
+    },
+    {
+      "id": "F08",
+      "title": "上海数字植物志",
+      "url": "https://shflora.ibiodiversity.cn/index.html",
+      "access": "Project introduction and coverage description read",
+      "evidenceType": "regional-flora-and-taxonomic-scope",
+      "use": "Resolve garden species/cultivars and distinguish indoor from outdoor coverage",
+      "limitations": "Collection and flora presence are not commonness. Website photographs are not presumed licensed for training.",
+      "directFetchCheck": {
+        "id": "F08",
+        "url": "https://shflora.ibiodiversity.cn/index.html",
+        "status": 200,
+        "finalUrl": "https://shflora.ibiodiversity.cn/index.html",
+        "contentType": "text/html",
+        "bytes": 8976,
+        "sha256": "7e5c2ce983bd9df735f2e23d74e546fba25a42eb2a188112b9bf67cfd766cb4d"
+      }
+    },
+    {
+      "id": "F09",
+      "title": "深圳植物志",
+      "url": "https://www.iplant.cn/fsz/",
+      "access": "Direct fetch returned 403; source lead only, do not count as extracted evidence.",
+      "evidenceType": "regional-flora",
+      "use": "South China scientific-name and wild/naturalized/cultivated scope validation",
+      "limitations": "Not a frequency ranking; individual entries and photo permissions require separate checks.",
+      "directFetchCheck": {
+        "id": "F09",
+        "url": "https://www.iplant.cn/fsz/",
+        "status": 403,
+        "finalUrl": "https://www.iplant.cn/fsz/",
+        "contentType": "text/html",
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F10",
+      "title": "华东植物在线：植物数据",
+      "url": "https://www.ibiodiversity.cn/App/FOECO/plantdata.html",
+      "access": "Resource description and links read",
+      "evidenceType": "taxonomy-and-regional-resource-index",
+      "use": "Find CPNI accepted-name/synonym resources, regional floras and horticultural resources",
+      "limitations": "Index checked, not bulk dataset/API or permission verification.",
+      "directFetchCheck": {
+        "id": "F10",
+        "url": "https://www.ibiodiversity.cn/App/FOECO/plantdata.html",
+        "status": 200,
+        "finalUrl": "https://www.ibiodiversity.cn/App/FOECO/plantdata.html",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 17309,
+        "sha256": "aafed45e5a4226f9503a780886ea217846fb5c6f8edd5345cc9e46a9d269e82f"
+      }
+    },
+    {
+      "id": "F11",
+      "title": "黑龙江省林业和草原局关于印发《黑龙江省主要乡土树种名录》的通知",
+      "url": "https://www.forestry.gov.cn/c/www/xtsz/365144.jhtml",
+      "access": "Notice and linked public attachment obtained; see F18 for actual PDF.",
+      "documentDate": "2021-01-25",
+      "indexPublishedAt": "2023-04-11",
+      "evidenceType": "northeast-regional-source-lead",
+      "use": "Correct northeast coverage gaps",
+      "limitations": "No extracted species count or commonness claim from notice alone.",
+      "directFetchCheck": {
+        "id": "F11",
+        "url": "https://www.forestry.gov.cn/c/www/xtsz/365144.jhtml",
+        "status": 200,
+        "finalUrl": "https://www.forestry.gov.cn/c/www/xtsz/365144.jhtml",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 43096,
+        "sha256": "345c4f7eed876875a8eb9a7d1b261242b8eeeaaac3f033f4330fa2f2a86de831"
+      }
+    },
+    {
+      "id": "F12",
+      "title": "湖北省林业局关于印发《湖北省主要乡土树种名录》的通知",
+      "url": "https://www.forestry.gov.cn/c/www/xtsz/366424.jhtml",
+      "access": "Notice and linked public attachment obtained; see F19 for actual PDF.",
+      "documentDate": "2020-12-28",
+      "indexPublishedAt": "2023-04-13",
+      "evidenceType": "central-China-regional-source-lead",
+      "use": "Correct central China coverage gaps",
+      "limitations": "Not itself a city planting-frequency survey.",
+      "directFetchCheck": {
+        "id": "F12",
+        "url": "https://www.forestry.gov.cn/c/www/xtsz/366424.jhtml",
+        "status": 200,
+        "finalUrl": "https://www.forestry.gov.cn/c/www/xtsz/366424.jhtml",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 42620,
+        "sha256": "26cc019357d90fc90f185318377cce0ff2c6faa053f8fb037aebd582b3713bb6"
+      }
+    },
+    {
+      "id": "F13",
+      "title": "中国科学院地理科学与资源研究所：蔬菜作物有哪些种类？",
+      "url": "https://www.igsnrr.cas.cn/cbkx/kpyd/zybk/zwzy/202009/t20200910_5693156.html",
+      "access": "Direct fetch failed TLS verification; body not verified; source lead only.",
+      "evidenceType": "crop-category-lead",
+      "use": "Guide crop-category coverage alongside agricultural cultivation statistics",
+      "limitations": "Not a verified 100-species crop list; planting-area statistics and fruit/grain sources still needed.",
+      "directFetchCheck": {
+        "id": "F13",
+        "url": "https://www.igsnrr.cas.cn/cbkx/kpyd/zybk/zwzy/202009/t20200910_5693156.html",
+        "error": "SSLError"
+      }
+    },
+    {
+      "id": "F14",
+      "title": "陕西省主要乡土树种名录（全省）",
+      "url": "https://lyj.baoji.gov.cn/col11952/col11953/col11968/col12155/202209/P020241228344122397464.pdf",
+      "access": "Direct PDF URL returned 404; unusable source lead, replace before extraction.",
+      "evidenceType": "northwest-regional-source-lead",
+      "use": "Resolve northwest gap using regional/application fields rather than southern-city lists",
+      "limitations": "Do not use this dead link as evidence of northwest species coverage.",
+      "directFetchCheck": {
+        "id": "F14",
+        "url": "https://lyj.baoji.gov.cn/col11952/col11953/col11968/col12155/202209/P020241228344122397464.pdf",
+        "status": 404,
+        "finalUrl": "https://lyj.baoji.gov.cn/col11952/col11953/col11968/col12155/202209/P020241228344122397464.pdf",
+        "contentType": "text/html",
+        "error": "HTTPError"
+      }
+    },
+    {
+      "id": "F15",
+      "title": "Publisher-deposited Crossref metadata for DOI 10.17520/biods.2023093",
+      "url": "https://api.crossref.org/works/10.17520/biods.2023093",
+      "access": "JSON read; article title, author list, publisher and 2022 checklist version confirmed",
+      "evidenceType": "bibliographic-verification",
+      "use": "Verify source identity while publisher article/workbook access is unavailable",
+      "limitations": "Metadata contains no abstract, workbook or common-species counts.",
+      "directFetchCheck": {
+        "id": "F15",
+        "url": "https://api.crossref.org/works/10.17520/biods.2023093",
+        "status": 200,
+        "bytes": 2609,
+        "sha256": "4819c34400d05300abe9930669d255cf8d21c7dd81efbd626915a584c23b9084"
+      }
+    },
+    {
+      "id": "F16",
+      "title": "国家林草局转载：北京市园林绿化局关于印发《北京市主要乡土树种名录（2021版）》的通知",
+      "url": "https://www.forestry.gov.cn/lyj/1/xtsz/20230411/367437.html",
+      "access": "Official notice body and actual PDF attachment link read",
+      "evidenceType": "official-document-discovery",
+      "use": "Locate publisher-provided copy of the Beijing list",
+      "limitations": "Same underlying Beijing document as F02/F20, not an independent second piece of evidence.",
+      "directFetchCheck": {
+        "id": "F16",
+        "url": "https://www.forestry.gov.cn/lyj/1/xtsz/20230411/367437.html",
+        "status": 200,
+        "bytes": 43166,
+        "sha256": "1e76100c38832943babbb55dc65cebe14e38999784e171ebf42997cc4da400ff"
+      }
+    },
+    {
+      "id": "F17",
+      "title": "上海花卉种质资源平台",
+      "url": "https://shflower.ibiodiversity.cn/FlowerFilter/",
+      "access": "Page and filter configuration read: plant category, flower colour, flowering period, application form, introduction country",
+      "evidenceType": "horticulture-resource-lead",
+      "use": "Discover scene/use tags and cultivated candidates",
+      "limitations": "No species records bulk-extracted; no implicit image reuse permission.",
+      "directFetchCheck": {
+        "id": "F17",
+        "url": "https://shflower.ibiodiversity.cn/FlowerFilter/",
+        "status": 200,
+        "bytes": 6058,
+        "sha256": "91c47c846172ee281e80584bc5dbea000a4d2d99adc99fa63cf7d33925dbe0ee"
+      }
+    },
+    {
+      "id": "F18",
+      "title": "黑龙江省主要乡土树种名录（官方通知附件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411105747551359533/file/20230411105848134502640.pdf",
+      "access": "Full PDF downloaded; structured text inspected",
+      "evidenceType": "regional-native-plant-recommendations",
+      "use": "Northeast candidates with scientific name, family/genus, suitable habitat/application and regional fields",
+      "limitations": "No deduplicated species count asserted; excludes neither all rare nor all forest-only entries.",
+      "directFetchCheck": {
+        "id": "F18",
+        "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411105747551359533/file/20230411105848134502640.pdf",
+        "status": 200,
+        "bytes": 798407,
+        "sha256": "81e996aeed005b22e0b42520bf7666f951b5a0156fa003a04ef9f5f307697b98"
+      }
+    },
+    {
+      "id": "F19",
+      "title": "湖北省乡土树种名录（官方通知附件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230220103901525478297/file/20230413171956108731449.pdf",
+      "access": "Full PDF downloaded; structured text inspected; numbered table reaches 163",
+      "evidenceType": "regional-native-plant-recommendations",
+      "use": "Central China candidates with scientific name and six land-use suitability columns",
+      "limitations": "Table row count is not accepted-species count or commonness; includes infraspecific names.",
+      "directFetchCheck": {
+        "id": "F19",
+        "url": "https://www.forestry.gov.cn/html/main/main_6249/20230220103901525478297/file/20230413171956108731449.pdf",
+        "status": 200,
+        "bytes": 175965,
+        "sha256": "6e18688f3f2336dd198a45abc2b14913f06de7ec64071f248559d55b19f42966"
+      }
+    },
+    {
+      "id": "F20",
+      "title": "北京市主要乡土树种名录（2021版，国家林草局通知所附文件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411171022995325568/file/20230411171447250254593.pdf",
+      "access": "Full PDF downloaded, introductory criteria and table inspected; page 3 rendered and viewed",
+      "sourceVersion": "2021",
+      "evidenceType": "regional-recommendation-with-application-consideration",
+      "reportedEntries": 140,
+      "use": "Region/land-use filtering instead of treating all native trees as everyday urban plants",
+      "limitations": "Same source as F02/F16. Publisher says actual applications considered, but it remains a recommendation list, not a population ranking.",
+      "directFetchCheck": {
+        "id": "F20",
+        "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411171022995325568/file/20230411171447250254593.pdf",
+        "status": 200,
+        "bytes": 342489,
+        "sha256": "db309dadebdbfe53bf383f116717db7098bf77d8d17413bc263411620f0e0e31"
+      }
+    },
+    {
+      "id": "F21",
+      "title": "iNaturalist DQA / Research Grade help article",
+      "url": "https://help.inaturalist.org/en/support/solutions/articles/151000169936-what-is-the-data-quality-assessment-dqa-and-how-do-observations-qualify-to-become-research-grade-",
+      "access": "Article URL and legacy Freshdesk equivalent could not be opened by browser; do not claim full body read",
+      "evidenceType": "documentation-lead",
+      "use": "Verify detailed quality-grade rules before implementation",
+      "limitations": "Use accessible official announcement F22 for the non-wild/Casual distinction; no unverified API parameters inferred."
+    },
+    {
+      "id": "F22",
+      "title": "New Collection Project Filter: Exclude All Casual Except Captive",
+      "url": "https://www.inaturalist.org/posts/133423-new-collection-project-filter-exclude-all-casual-except-captive",
+      "publishedAt": "2026-07-14",
+      "access": "Official staff announcement body read",
+      "evidenceType": "platform-quality-filter-definition",
+      "use": "Shows non-wild-only Casual records can be distinguished from other Casual records; motivates separate cultivated-photo selection",
+      "limitations": "Collection-project UI feature, not verified ingestion API contract, expert label audit or photo license clearance."
+    },
+    {
+      "id": "F23",
+      "title": "国家标本资源共享平台：省级植物名录下载专区",
+      "url": "https://www.nsii.org.cn/2017/pvhdataDownload.php",
+      "access": "Public HTML fetched; actual Shanghai workbook and paper hrefs read, no login needed",
+      "evidenceType": "publisher-dataset-discovery",
+      "use": "Obtain public record-level provincial checklists from declared download links",
+      "limitations": "No blanket photo-training or dataset-redistribution license inferred.",
+      "directFetchCheck": {
+        "status": 200,
+        "bytes": 28370,
+        "sha256": "b2b84a6318578313a7d389f35bde7261f80f9c55f4eaed0eb538d10797093a5a"
+      }
+    },
+    {
+      "id": "F24",
+      "title": "上海维管植物名录（2022版），NSII公开工作簿",
+      "url": "https://www.nsii.org.cn/2017/PVHfile/上海维管植物名录(2022版).xlsx",
+      "access": "Downloaded from actual public link on F23; workbook schema / paper text inspected",
+      "sourceWork": "doi:10.17520/biods.2023093",
+      "evidenceType": "regional-survey-checklist",
+      "sourceVersion": "2022; published 2023",
+      "localFile": "shanghai-2022.xlsx",
+      "use": "Record-level frequency, rank and cultivated/wild distinction; not a national ranking",
+      "limitations": "Same research as F04/F05, not independent evidence. No permission to train on photos implied.",
+      "directFetchCheck": {
+        "status": 200,
+        "bytes": 688793,
+        "sha256": "e1286de08f62159bc4c37faa569c77d93ce656a04bfaf1e9c7b5a4959cfc3344"
+      }
+    },
+    {
+      "id": "F25",
+      "title": "上海市植物物种多样性组成和历史变化暨上海维管植物名录更新（2022版），NSII论文附件",
+      "url": "https://www.nsii.org.cn/2017/PVHfile/上海市植物物种多样性组成和历史变化暨上海维管植物名录更新(2022版).pdf",
+      "access": "Downloaded from actual public link on F23; workbook schema / paper text inspected",
+      "sourceWork": "doi:10.17520/biods.2023093",
+      "evidenceType": "regional-survey-methodology",
+      "sourceVersion": "2022; published 2023",
+      "localFile": "shanghai-2022-paper.pdf",
+      "use": "Record-level frequency, rank and cultivated/wild distinction; not a national ranking",
+      "limitations": "Same research as F04/F05, not independent evidence. No permission to train on photos implied.",
+      "directFetchCheck": {
+        "status": 200,
+        "bytes": 639554,
+        "sha256": "f2ab1dc28943b7f679575c8e5255bc31132b32665ba3f84ca21925bf7238fae3"
+      }
+    },
+    {
+      "id": "F26",
+      "title": "中国科学院沈阳应用生态研究所树木园：天南星科（Araceae）",
+      "url": "https://iae.cas.cn/smy/ylyy/ws/202301/t20230118_6601574.html",
+      "access": "Official HTML downloaded and paragraph explicitly naming four common indoor ornamentals inspected",
+      "sourceWork": "cas-iae-araceae-indoor-2023",
+      "evidenceType": "institutional-common-indoor-use-name-list",
+      "use": "Add indoor scene evidence for 龟背竹、绿萝、海芋、红掌 without claiming a nationwide abundance ranking",
+      "limitations": "Names are not automatically species assignments; no image reused or photo-training license assumed. Not regional occurrence statistics.",
+      "directFetchCheck": {
+        "status": 200,
+        "bytes": 25818,
+        "sha256": "4e626cadf4bad002ecef5ec3ccb6073cdf19b700271f402b4619bc043ca814c6"
+      }
+    }
+  ],
+  "proposedPrimarySceneTargets": {
+    "street-park-campus": 300,
+    "garden-outdoor-ornamentals": 250,
+    "indoor-balcony": 150,
+    "roadside-wild": 200,
+    "crops-vegetables-fruit": 100
+  },
+  "targetPolicy": "Planning targets, not measured species counts. Count each resolved taxon only once; do not fill deficits with unverified names."
+}

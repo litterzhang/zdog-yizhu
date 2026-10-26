@@ -1,0 +1,44 @@
+{
+  "Helianthus annuus": {
+    "summary": "一年生植物，茎直立，花序常见黄色外围与较深色的中央花盘。园艺品种的花色和株形会有差异，不能只凭颜色确认物种。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "NC State Extension Plant Toolbox · Helianthus annuus", "url": "https://plants.ces.ncsu.edu/plants/helianthus-annuus/"}]
+  },
+  "Ginkgo biloba": {
+    "summary": "落叶乔木，叶片呈扇形，常可见浅裂。叶片在秋季可转为金黄色。外形与季节变化可作为观察线索，但不能由照片推断确切树龄。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "NC State Extension Plant Toolbox · Ginkgo biloba", "url": "https://plants.ces.ncsu.edu/plants/ginkgo-biloba/"}]
+  },
+  "Hydrangea macrophylla": {
+    "summary": "落叶灌木，常形成多枝、较圆的株形。不同品种的花序可以呈球状，也可以是较平的花序，外围有更显眼的花。花色会受到品种与生长条件影响。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "NC State Extension Plant Toolbox · Hydrangea macrophylla", "url": "https://plants.ces.ncsu.edu/plants/hydrangea-macrophylla/"}]
+  },
+  "Monstera deliciosa": {
+    "summary": "常绿攀援植物，叶片较大，可呈卵形至心形，成熟叶常具有裂口和孔洞。观察时可同时记录叶片形状、裂口和攀附方式，不应只依据单一特征作鉴定。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "NC State Extension Plant Toolbox · Monstera deliciosa", "url": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/"}]
+  },
+  "Oxalis corniculata": {
+    "summary": "常见的匍匐生长植物，叶通常由三枚心形小叶组成，花为黄色，果实呈细长的圆柱状。可记录小叶、花与果实等多个部位，避免仅凭三片小叶作判断。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "NC State Extension Plant Toolbox · Oxalis corniculata", "url": "https://plants.ces.ncsu.edu/plants/oxalis-corniculata/"}]
+  },
+  "Trifolium repens": {
+    "summary": "多年生豆科植物，茎可匍匐伸展，并在茎节处生根。叶通常由三枚小叶组成，许多小花聚成花头，花色多为白色，也可略带粉红。",
+    "isAiGenerated": true,
+    "reviewStatus": "unreviewed",
+    "updatedAt": "2026-09-21",
+    "sources": [{"title": "USDA NRCS · White Clover Plant Guide", "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_trre3.pdf"}]
+  }
+}

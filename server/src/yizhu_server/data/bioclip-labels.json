@@ -1,0 +1,151 @@
+{
+  "version": "baseline-labels-v2",
+  "description": "Historical scientific labels for ID compatibility and offline comparisons only; no Chinese display names or aliases.",
+  "labels": [
+    {
+      "id": "plant-001",
+      "kind": "plant",
+      "name": "Ginkgo biloba"
+    },
+    {
+      "id": "plant-002",
+      "kind": "plant",
+      "name": "Jasminum sambac"
+    },
+    {
+      "id": "plant-003",
+      "kind": "plant",
+      "name": "Platycladus orientalis"
+    },
+    {
+      "id": "plant-004",
+      "kind": "plant",
+      "name": "Metasequoia glyptostroboides"
+    },
+    {
+      "id": "plant-005",
+      "kind": "plant",
+      "name": "Pinus massoniana"
+    },
+    {
+      "id": "plant-006",
+      "kind": "plant",
+      "name": "Acer palmatum"
+    },
+    {
+      "id": "plant-007",
+      "kind": "plant",
+      "name": "Liquidambar formosana"
+    },
+    {
+      "id": "plant-008",
+      "kind": "plant",
+      "name": "Cinnamomum camphora"
+    },
+    {
+      "id": "plant-009",
+      "kind": "plant",
+      "name": "Osmanthus fragrans"
+    },
+    {
+      "id": "plant-010",
+      "kind": "plant",
+      "name": "Magnolia grandiflora"
+    },
+    {
+      "id": "plant-011",
+      "kind": "plant",
+      "name": "Liriodendron chinense"
+    },
+    {
+      "id": "plant-012",
+      "kind": "plant",
+      "name": "Salix babylonica"
+    },
+    {
+      "id": "plant-013",
+      "kind": "plant",
+      "name": "Ficus benjamina"
+    },
+    {
+      "id": "plant-014",
+      "kind": "plant",
+      "name": "Monstera deliciosa"
+    },
+    {
+      "id": "plant-015",
+      "kind": "plant",
+      "name": "Epipremnum aureum"
+    },
+    {
+      "id": "plant-016",
+      "kind": "plant",
+      "name": "Camellia japonica"
+    },
+    {
+      "id": "plant-017",
+      "kind": "plant",
+      "name": "Gardenia jasminoides"
+    },
+    {
+      "id": "plant-018",
+      "kind": "plant",
+      "name": "Hibiscus rosa-sinensis"
+    },
+    {
+      "id": "plant-019",
+      "kind": "plant",
+      "name": "Rosa chinensis"
+    },
+    {
+      "id": "plant-020",
+      "kind": "plant",
+      "name": "Hydrangea macrophylla"
+    },
+    {
+      "id": "plant-021",
+      "kind": "plant",
+      "name": "Nelumbo nucifera"
+    },
+    {
+      "id": "plant-022",
+      "kind": "plant",
+      "name": "Taraxacum officinale"
+    },
+    {
+      "id": "plant-023",
+      "kind": "plant",
+      "name": "Trifolium repens"
+    },
+    {
+      "id": "plant-024",
+      "kind": "plant",
+      "name": "Oxalis corniculata"
+    },
+    {
+      "id": "control-001",
+      "kind": "nonplant",
+      "name": "a person"
+    },
+    {
+      "id": "control-002",
+      "kind": "nonplant",
+      "name": "a car"
+    },
+    {
+      "id": "control-003",
+      "kind": "nonplant",
+      "name": "a building"
+    },
+    {
+      "id": "control-004",
+      "kind": "nonplant",
+      "name": "a blank white image"
+    },
+    {
+      "id": "control-005",
+      "kind": "nonplant",
+      "name": "random image noise"
+    }
+  ]
+}

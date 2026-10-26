@@ -1,0 +1,15 @@
+@use '../../styles/tokens' as *;
+
+.result__progress { margin-top: $space-4; }
+.result__species { margin-top: 20px; }
+.result__species .title { margin-top: 6px; font-size: 29px; }
+.result__latin { display: block; font-size: 14px; color: $muted; font-style: italic; margin: 4px 0; }
+.result__confirmation { margin: 18px 0; }
+.result__confirmation-actions { display: flex; justify-content: space-between; gap: 16px; }
+.result__confirmation-actions .text-button { flex: none; width: auto; white-space: nowrap; }
+.result__candidate { width: 100%; min-height: 48px; background: $paper; color: $ink; text-align: left; font-size: 14px; line-height: 1.6; white-space: normal; }
+.result__candidate.selection--active { background: $surface; }
+.result__candidate[disabled] { color: $muted; }
+.result__knowledge { border-top: 1px solid $line; margin-top: 8px; padding-top: 20px; }
+.result__knowledge .small { margin-top: 8px; }
+.result__safety { margin-bottom: 12px; }

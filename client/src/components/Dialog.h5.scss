@@ -1,0 +1,14 @@
+@use '../styles/tokens' as *;
+
+// Only bundled for H5; no browser selectors are emitted into the mini-program.
+body:has(.yizhu-dialog),
+.taro_page:has(.yizhu-dialog) {
+  overflow: hidden !important;
+  overscroll-behavior: none;
+}
+.yizhu-dialog__panel { outline: none; }
+.yizhu-dialog__button:focus-visible {
+  outline: 2px solid $green;
+  outline-offset: 3px;
+}
+.yizhu-dialog--danger .yizhu-dialog__button:focus-visible { outline-color: $warning; }

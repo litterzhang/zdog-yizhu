@@ -1,0 +1,15 @@
+{
+  "asset": "home-concept",
+  "provider": "antigravity",
+  "model": "gemini-3.1-flash-image",
+  "method": "xdog-ai image; text-to-image; no uploaded references",
+  "prompt": "client/design/generated/tabs-login-v1/home-concept.prompt.txt",
+  "aspect_ratio_requested": "9:16",
+  "image_size_requested": "1K",
+  "started_at": "2026-09-20T05:41:51.675993+00:00",
+  "finished_at": "2026-09-20T05:42:22.084274+00:00",
+  "returncode": 1,
+  "status": "failed / no confirmed generated image",
+  "photography": "AI concept imagery, not real observations",
+  "paths": []
+}

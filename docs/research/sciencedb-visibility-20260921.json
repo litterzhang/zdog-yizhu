@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-21",
+  "exactTargetCount": 8438,
+  "visiblePlantCount": 19716,
+  "hiddenPlantCount": 88656,
+  "source": {
+    "policy": "missing-primary-sciencedb-exact-v1",
+    "source": {
+      "id": "sciencedb-01711-v1",
+      "title": "中国外来植物名录数据集",
+      "version": "V1",
+      "url": "https://doi.org/10.57760/sciencedb.01711",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "林秦文、崔晓、马金双，2022，Science Data Bank",
+      "snapshotSha256": "f01d5f9f915cee8343a90321e122f8fedbadcd54b746bf21852937c714594341",
+      "modifications": "Extracted name fields; aliases split on list separators; not a full copy."
+    },
+    "baseCatalogSha256": "6d26e55bdcd7c7266d56afc80d55ee8c5d8904b74134204046353645c3b2fe08",
+    "revealedSpecies": 8438,
+    "taxonomyDifferenceCount": 31
+  },
+  "outputSha256": "38faa0c3f0da61d74bbfde82a97a203a9553fbd93606fe47e1d173de3067f910",
+  "validation": {
+    "integrity": "ok",
+    "identitiesAndClassificationUnchanged": true,
+    "allPreviousVisibleSpeciesUnchanged": true
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "retrievedDate": "2026-09-21",
+  "purpose": "Research only; no production imports. Exact-name intersections are not rank-validated coverage.",
+  "catalogBaseline": {
+    "total": 108372,
+    "visible": 11278,
+    "hidden": 97094
+  },
+  "alienDataset": {
+    "doi": "10.57760/sciencedb.01711",
+    "journalArchiveOverlap": {
+      "rows": 14710,
+      "columns": 15,
+      "rows_with_aliases": 2910,
+      "duplicate_scientific_names": 0,
+      "exact_unique_matches": 10327,
+      "matched_visible": 1291,
+      "matched_hidden": 9036,
+      "matched_with_alias": 2335,
+      "visible_matched_with_alias": 244
+    },
+    "sampleColumns": {
+      "F": "Chinese name",
+      "G": "alias",
+      "H": "scientific name"
+    },
+    "samples": [
+      {
+        "row": 581,
+        "F": "荷花木兰",
+        "G": "荷花玉兰",
+        "H": "Magnolia grandiflora"
+      },
+      {
+        "row": 722,
+        "F": "绿萝",
+        "H": "Epipremnum aureum"
+      }
+    ],
+    "licenseMetadata": "CC BY 4.0 in DataCite and ScienceDB JSON-LD; journal file version equivalence unresolved",
+    "scienceDbExpectedFile": {
+      "bytes": 1408491,
+      "md5": "2119022b9aea4f0d014ff98fec0c2518",
+      "downloadStatus": "timeout"
+    }
+  },
+  "wikidata": {
+    "requestedScientificNames": [
+      "Osmanthus fragrans",
+      "Magnolia grandiflora",
+      "Hydrangea macrophylla",
+      "Hibiscus rosa-sinensis",
+      "Epipremnum aureum",
+      "Ginkgo biloba"
+    ],
+    "query": "SELECT ?item ?name WHERE { VALUES ?name { \"Osmanthus fragrans\" \"Magnolia grandiflora\" \"Hydrangea macrophylla\" \"Hibiscus rosa-sinensis\" \"Epipremnum aureum\" \"Ginkgo biloba\" } ?item wdt:P225 ?name; wdt:P105 wd:Q7432. }",
+    "samples": [
+      {
+        "id": "Q1209922",
+        "revision": 2547139348,
+        "modified": "2026-09-17T20:06:37Z",
+        "scientificNames": [
+          "Osmanthus fragrans"
+        ],
+        "ranks": [
+          {
+            "entity-type": "item",
+            "numeric-id": 7432,
+            "id": "Q7432"
+          }
+        ],
+        "labels": {
+          "zh-hans": "桂花",
+          "zh": "桂花"
+        },
+        "aliases": {
+          "zh": [
+            "樨",
+            "香樨",
+            "桂树",
+            "木樨",
+            "木犀",
+            "丹桂",
+            "九里香"
+          ],
+          "zh-hans": [
+            "木樨"
+          ]
+        },
+        "acceptedForProduction": false
+      },
+      {
+        "id": "Q161116",
+        "revision": 2547599712,
+        "modified": "2026-09-18T23:38:00Z",
+        "scientificNames": [
+          "Magnolia grandiflora"
+        ],
+        "ranks": [
+          {
+            "entity-type": "item",
+            "numeric-id": 7432,
+            "id": "Q7432"
+          }
+        ],
+        "labels": {
+          "zh-hans": "荷花玉兰",
+          "zh": "荷花玉兰"
+        },
+        "aliases": {
+          "zh": [
+            "荷花木兰",
+            "洋玉兰",
+            "广玉兰"
+          ]
+        },
+        "acceptedForProduction": false
+      },
+      {
+        "id": "Q159219",
+        "revision": 2547650021,
+        "modified": "2026-09-19T03:56:23Z",
+        "scientificNames": [
+          "Hydrangea macrophylla"
+        ],
+        "ranks": [
+          {
+            "entity-type": "item",
+            "numeric-id": 7432,
+            "id": "Q7432"
+          }
+        ],
+        "labels": {
+          "zh": "繡球花",
+          "zh-hans": "绣球"
+        },
+        "aliases": {
+          "zh": [
+            "繡毬",
+            "八仙绣球",
+            "八仙花",
+            "绣球",
+            "粉团花",
+            "紫绣球",
+            "绣球花"
+          ]
+        },
+        "acceptedForProduction": false
+      },
+      {
+        "id": "Q161809",
+        "revision": 2537029711,
+        "modified": "2026-08-27T10:34:00Z",
+        "scientificNames": [
+          "Epipremnum aureum"
+        ],
+        "ranks": [
+          {
+            "entity-type": "item",
+            "numeric-id": 7432,
+            "id": "Q7432"
+          }
+        ],
+        "labels": {
+          "zh-hans": "绿萝",
+          "zh": "绿萝"
+        },
+        "aliases": {
+          "zh": [
+            "魔鬼藤",
+            "黄金藤",
+            "黄金葛"
+          ]
+        },
+        "acceptedForProduction": false
+      },
+      {
+        "id": "Q43284",
+        "revision": 2547640556,
+        "modified": "2026-09-19T03:06:54Z",
+        "scientificNames": [
+          "Ginkgo biloba"
+        ],
+        "ranks": [
+          {
+            "entity-type": "item",
+            "numeric-id": 7432,
+            "id": "Q7432"
+          }
+        ],
+        "labels": {
+          "zh": "銀杏",
+          "zh-hans": "银杏"
+        },
+        "aliases": {
+          "zh": [
+            "白果",
+            "白果樹",
+            "公槂",
+            "公孫樹",
+            "鴨腳",
+            "鴨腳子",
+            "鴨掌樹",
+            "玉棐",
+            "文杏",
+            "平仲",
+            "枰仲",
+            "檘",
+            "火橐木",
+            "玉精",
+            "银杏叶提取物",
+            "银杏"
+          ]
+        },
+        "acceptedForProduction": false
+      }
+    ]
+  },
+  "cachedSources": [
+    {
+      "cacheFile": "alien-2022127.zip",
+      "bytes": 1454153,
+      "sha256": "e0dcc2460dea6995ff4b1b9ab78e9fbc6166e7c3da1ee3d7ee424158a2900457"
+    },
+    {
+      "cacheFile": "alien-datacite.json",
+      "bytes": 24804,
+      "sha256": "1fb73dbb0482abb9a700024b629ce015b5900d83af252ba5eb81e4ccb12474aa"
+    },
+    {
+      "cacheFile": "alien-scidb.html",
+      "bytes": 802091,
+      "sha256": "510e59f484f26d8875d8390fe61ce725359a961a388da7b1e271061522bab92c"
+    },
+    {
+      "cacheFile": "wikidata-sample-query.json",
+      "bytes": 1142,
+      "sha256": "26fafc1bf626c2b6c22e79848e2633863d247054be0bdd26efc2a84c557423ad"
+    },
+    {
+      "cacheFile": "Q1209922.json",
+      "bytes": 84692,
+      "sha256": "2c8991188458f696eeb0a767386e265af2b9cf755a16e39d7e9500e272f3b8af"
+    },
+    {
+      "cacheFile": "Q112869463.json",
+      "bytes": 2776,
+      "sha256": "fa202109850dbfcdf1c8fb8fcb024f7ea171ffbafee174bc714a71439f67cc45"
+    },
+    {
+      "cacheFile": "iplant-osmanthus.html",
+      "bytes": 23499,
+      "sha256": "32cad4ff698f954831b535d00cbc0ada272a10a11ff701dff9487c5652afdefd"
+    },
+    {
+      "cacheFile": "inaturalist-taxonomy.json",
+      "bytes": 2949,
+      "sha256": "2a9768777792248a56954415fc9e32ef3bec1e8b89035dc7f9c9a35b476e704e"
+    }
+  ]
+}

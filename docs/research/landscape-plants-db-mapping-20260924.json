@@ -1,0 +1,4786 @@
+{
+  "summary": {
+    "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+    "namesReviewed": 103,
+    "scope": "All 103 names not originally matched by exact Chinese name",
+    "counts": {
+      "linked-in-file": 87,
+      "needs-selection": 10,
+      "catalog-gap": 6
+    },
+    "linkedDistinctSpeciesIds": 68,
+    "catalogLevel": "species",
+    "recognitionLevel": "species",
+    "cultivarManagement": false,
+    "cultivarTrainingClasses": false,
+    "originalNamesPurpose": "source-provenance-only",
+    "databaseWritten": false,
+    "modelSupportChanged": false,
+    "policy": "Catalog and recognition operate at species level only. No cultivar entities, product fields, UI, or training classes. Original names survive only as source provenance. Use existing stable species IDs; do not merge distinct species or replace a hybrid with an arbitrary parent. Links are not universal synonyms or automatic image-training labels; hidden/missing Chinese rows remain unchanged."
+  },
+  "mappings": [
+    {
+      "inputName": "四季桂",
+      "speciesId": "bioclip:plant-009",
+      "record": {
+        "speciesId": "bioclip:plant-009",
+        "scientificName": "Osmanthus fragrans",
+        "chineseName": "木犀",
+        "displayName": "木犀",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "木犀属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E5%9B%9B%E5%AD%A3%E6%A1%82",
+          "title": "四季桂_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:56:07.957Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "保留四季桂品种名，关联现有木犀记录。"
+    },
+    {
+      "inputName": "紫玉兰",
+      "speciesId": "tol10m:d17e31b16f3831469cfed1b2",
+      "record": {
+        "speciesId": "tol10m:d17e31b16f3831469cfed1b2",
+        "scientificName": "Magnolia liliiflora",
+        "chineseName": null,
+        "displayName": "Magnolia liliiflora",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "紫玉兰",
+          "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E7%8E%89%E5%85%B0",
+          "revisionId": 88908627,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=88908627",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "含笑",
+      "speciesId": "tol10m:41d78565de08a45f1a0c5b48",
+      "record": {
+        "speciesId": "tol10m:41d78565de08a45f1a0c5b48",
+        "scientificName": "Magnolia figo",
+        "chineseName": null,
+        "displayName": "Magnolia figo",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "含笑花",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%AB%E7%AC%91%E8%8A%B1",
+          "revisionId": 91831266,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91831266",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554747-1",
+          "title": "Kew POWO: Michelia figo",
+          "fact": "Michelia figo 是 Magnolia figo 的异名。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "通过 Michelia figo 的异名关系引用现有 Magnolia figo 记录。"
+    },
+    {
+      "inputName": "苦楮",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:92fdf50a6be584b009830bd1",
+          "scientificName": "Volkameria inermis",
+          "chineseName": "苦郎树",
+          "displayName": "苦郎树",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "唇形目",
+            "family": "唇形科",
+            "genus": "苦郎树属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [
+        "Castanopsis sclerophylla"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E8%8B%A6%E9%83%8E%E6%A0%91/1683512",
+          "title": "苦郎树_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:56:16.136Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E8%8B%A6%E6%A7%A0",
+          "title": "苦槠_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:08:52.951Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "百度精确输入指苦郎树，园林语境的近字候选苦槠却不在库中；不能因为只有苦郎树有记录就直接选择它。"
+    },
+    {
+      "inputName": "山麻杆",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [
+        "Alchornea davidii"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "山麻杆",
+          "url": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E9%BA%BB%E6%9D%86",
+          "revisionId": 79985286,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=79985286",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "catalog-gap",
+      "level": "unresolved-species",
+      "note": "当前来源学名未找到数据库记录；不以其他含 davidii 的近名物种替代。"
+    },
+    {
+      "inputName": "毛鹃",
+      "speciesId": "tol10m:5564d457c579400c33c12410",
+      "record": {
+        "speciesId": "tol10m:5564d457c579400c33c12410",
+        "scientificName": "Rhododendron pulchrum",
+        "chineseName": null,
+        "displayName": "Rhododendron pulchrum",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "杜鹃花目",
+          "family": "杜鹃花科",
+          "genus": "杜鹃花属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "锦绣杜鹃_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%94%A6%E7%BB%A3%E6%9D%9C%E9%B9%83/807899",
+          "observedAt": "2026-09-24T06:06:50.586Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/98733c511614db98.json",
+          "sha256": "5c5247f13ec8bcd07d9797be5558015619eda89a8c8ec7ef2f1f6252d9f95d95"
+        },
+        {
+          "title": "毛鹃（贵州省黔东南州雷山县毛克翕茶业有限公司董事长）_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%AF%9B%E9%B9%83/56766967",
+          "observedAt": "2026-09-24T05:56:24.261Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/9644d80f925b8c59.json",
+          "sha256": "2d9613e7b3e32380db6671bbb45e974112ba81c27d28e2c077f03bc0fc6c39d6"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "春鹃",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+          "scientificName": "Rhododendron simsii",
+          "chineseName": "杜鹃",
+          "displayName": "杜鹃",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "杜鹃花目",
+            "family": "杜鹃花科",
+            "genus": "杜鹃花属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E6%98%A5%E9%B9%83",
+          "title": "春鹃_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:56:32.341Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "有来源物种候选杜鹃，但“春鹃”还被来源按花期用作园艺类群；现有一个候选不证明所有春鹃都属于该种。"
+    },
+    {
+      "inputName": "夏鹃",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:5564d457c579400c33c12410",
+          "scientificName": "Rhododendron pulchrum",
+          "chineseName": null,
+          "displayName": "Rhododendron pulchrum",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "杜鹃花目",
+            "family": "杜鹃花科",
+            "genus": "杜鹃花属"
+          }
+        },
+        {
+          "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+          "scientificName": "Rhododendron simsii",
+          "chineseName": "杜鹃",
+          "displayName": "杜鹃",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "杜鹃花目",
+            "family": "杜鹃花科",
+            "genus": "杜鹃花属"
+          }
+        },
+        {
+          "speciesId": "tol10m:6a0387a26fd3d268b7d4e384",
+          "scientificName": "Rhododendron indicum",
+          "chineseName": "皋月杜鹃",
+          "displayName": "皋月杜鹃",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "杜鹃花目",
+            "family": "杜鹃花科",
+            "genus": "杜鹃花属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E5%A4%8F%E9%B9%83",
+          "title": "夏鹃_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:56:40.422Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "来源同时涉及锦绣杜鹃、杜鹃及皋月杜鹃；先保留已有候选，不按中文名或可见性任意挑一个。"
+    },
+    {
+      "inputName": "紫鹃",
+      "speciesId": "tol10m:5564d457c579400c33c12410",
+      "record": {
+        "speciesId": "tol10m:5564d457c579400c33c12410",
+        "scientificName": "Rhododendron pulchrum",
+        "chineseName": null,
+        "displayName": "Rhododendron pulchrum",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "杜鹃花目",
+          "family": "杜鹃花科",
+          "genus": "杜鹃花属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "锦绣杜鹃_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%94%A6%E7%BB%A3%E6%9D%9C%E9%B9%83/807899",
+          "observedAt": "2026-09-24T06:08:23.251Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/6e435c28b882dd16.json",
+          "sha256": "9781c081b78438de83c43de51b493554ad30e61fcf4c03cfc0c5f789a73cacce"
+        },
+        {
+          "title": "紫鹃（中国古典小说《红楼梦》中的人物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E7%B4%AB%E9%B9%83/1408600",
+          "observedAt": "2026-09-24T06:03:21.591Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/4c3b7f8db1eac9a7.json",
+          "sha256": "5a7190ebe484c4f08f8796ef5f3db58e511a7fdc41bb2957737cf7565eaeea92"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "云南黄素馨",
+      "speciesId": "tol10m:0c1631d5e623bd439108d02e",
+      "record": {
+        "speciesId": "tol10m:0c1631d5e623bd439108d02e",
+        "scientificName": "Jasminum mesnyi",
+        "chineseName": "野迎春",
+        "displayName": "野迎春",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "素馨属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "野迎春",
+          "url": "https://zh.wikipedia.org/wiki/%E9%87%8E%E8%BF%8E%E6%98%A5",
+          "revisionId": 93621612,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93621612",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "金叶女贞",
+      "speciesId": "tol10m:3254df6482aa60f08d900bca",
+      "record": {
+        "speciesId": "tol10m:3254df6482aa60f08d900bca",
+        "scientificName": "Ligustrum vicaryi",
+        "chineseName": null,
+        "displayName": "Ligustrum vicaryi",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "女贞属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "金叶女贞_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%87%91%E5%8F%B6%E5%A5%B3%E8%B4%9E",
+          "observedAt": "2026-09-24T05:56:48.513Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/c26596a2058b525c.json",
+          "sha256": "cea38c9c57a509a604662aa8efa14876ece23b6c7328467ce2704d55949656b0"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "hybrid-name-spelling",
+      "note": "库中已有同名杂交植物记录但省略 ×；保留来源杂交属性，不改连其他女贞种。"
+    },
+    {
+      "inputName": "法国冬青",
+      "speciesId": "tol10m:36de97396d68a2d0f7d2ed6a",
+      "record": {
+        "speciesId": "tol10m:36de97396d68a2d0f7d2ed6a",
+        "scientificName": "Viburnum odoratissimum",
+        "chineseName": "珊瑚树",
+        "displayName": "珊瑚树",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "川续断目",
+          "genus": "荚蒾属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "珊瑚树",
+          "url": "https://zh.wikipedia.org/wiki/%E7%8F%8A%E7%91%9A%E6%A0%91",
+          "revisionId": 89022045,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=89022045",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "常春藤",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [
+        {
+          "speciesId": "tol10m:b2d03d890d2b1172bb4764e1",
+          "scientificName": "Hedera nepalensis",
+          "chineseName": "尼泊尔常春藤",
+          "displayName": "尼泊尔常春藤",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "伞形目",
+            "family": "五加科",
+            "genus": "常春藤属"
+          }
+        },
+        {
+          "speciesId": "tol10m:f4417ff6d958aac2f184284d",
+          "scientificName": "Hedera helix",
+          "chineseName": "洋常春藤",
+          "displayName": "洋常春藤",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "伞形目",
+            "family": "五加科",
+            "genus": "常春藤属"
+          }
+        }
+      ],
+      "missingScientificNames": [
+        "Hedera sinensis",
+        "Hedera nepalensis var. sinensis"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E5%B8%B8%E6%98%A5%E8%97%A4/70130",
+          "title": "常春藤（五加科常春藤属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:01:59.732Z"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:927849-1",
+          "title": "Hedera sinensis — Plants of the World Online, Kew",
+          "accessMethod": "public-search-index",
+          "fact": "Hedera sinensis is accepted; Hedera nepalensis var. sinensis is listed as its homotypic synonym."
+        }
+      ],
+      "status": "catalog-gap",
+      "level": "unrepresented-name-or-rank",
+      "note": "Kew 将本次百度来源的 var. sinensis 归为独立接受种 Hedera sinensis；两种写法库中均没有。不能删掉变种名后误连尼泊尔常春藤，也不能仅因有洋常春藤就替代。"
+    },
+    {
+      "inputName": "花叶蔓长春",
+      "speciesId": "tol10m:fd390c50536e071ced4b6b42",
+      "record": {
+        "speciesId": "tol10m:fd390c50536e071ced4b6b42",
+        "scientificName": "Vinca major",
+        "chineseName": "蔓长春花",
+        "displayName": "蔓长春花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "龙胆目",
+          "family": "夹竹桃科",
+          "genus": "蔓长春花属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E8%8A%B1%E5%8F%B6%E8%94%93%E9%95%BF%E6%98%A5",
+          "title": "花叶蔓长春_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:56:56.594Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按来源 cv. Variegata 关联蔓长春花母种。"
+    },
+    {
+      "inputName": "草本绣球",
+      "speciesId": "bioclip:plant-020",
+      "record": {
+        "speciesId": "bioclip:plant-020",
+        "scientificName": "Hydrangea macrophylla",
+        "chineseName": "绣球",
+        "displayName": "绣球",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "山茱萸目",
+          "family": "绣球科",
+          "genus": "绣球属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%BB%A3%E7%90%83/4639080",
+          "title": "绣球（绣球科绣球属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:57:04.984Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "source-reference",
+      "note": "按该清单的百度跳转关联绣球；原名含“草本”不改变数据库灌木描述，也不注册全局同义词。"
+    },
+    {
+      "inputName": "狭叶十大功劳",
+      "speciesId": "tol10m:dbb13acd5c4c600e8d0ea952",
+      "record": {
+        "speciesId": "tol10m:dbb13acd5c4c600e8d0ea952",
+        "scientificName": "Berberis fortunei",
+        "chineseName": null,
+        "displayName": "Berberis fortunei",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "毛茛目",
+          "family": "小檗科",
+          "genus": "小檗属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "十大功劳",
+          "url": "https://zh.wikipedia.org/wiki/%E5%8D%81%E5%A4%A7%E5%8A%9F%E5%8A%B3",
+          "revisionId": 80074448,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=80074448",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:107009-1",
+          "title": "Kew POWO: Berberis fortunei",
+          "fact": "Berberis fortunei 的异名包含 Mahonia fortunei。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "通过 Mahonia fortunei 的异名关系连接已有 Berberis fortunei。"
+    },
+    {
+      "inputName": "阔叶十大功劳",
+      "speciesId": "tol10m:2570b4f412e8c6489669c3bb",
+      "record": {
+        "speciesId": "tol10m:2570b4f412e8c6489669c3bb",
+        "scientificName": "Berberis bealei",
+        "chineseName": null,
+        "displayName": "Berberis bealei",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "毛茛目",
+          "family": "小檗科",
+          "genus": "小檗属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "阔叶十大功劳",
+          "url": "https://zh.wikipedia.org/wiki/%E9%98%94%E5%8F%B6%E5%8D%81%E5%A4%A7%E5%8A%9F%E5%8A%B3",
+          "revisionId": 79982346,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=79982346",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:107045-3",
+          "title": "Kew POWO: Mahonia bealei",
+          "fact": "Mahonia bealei 是 Berberis bealei 的异名。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "通过 Mahonia bealei 的异名关系连接已有 Berberis bealei。"
+    },
+    {
+      "inputName": "熊掌木",
+      "speciesId": "tol10m:31a467166f33aae110bb78f8",
+      "record": {
+        "speciesId": "tol10m:31a467166f33aae110bb78f8",
+        "scientificName": "Fatshedera lizei",
+        "chineseName": null,
+        "displayName": "Fatshedera lizei",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "伞形目",
+          "family": "五加科"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "熊掌木_百度百科",
+          "url": "https://baike.baidu.com/item/%E7%86%8A%E6%8E%8C%E6%9C%A8",
+          "observedAt": "2026-09-24T05:57:13.084Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/e5349a66643a21a9.json",
+          "sha256": "e166e6771313b7851075e1d9ca6ab63795c4a7b40c7b61a9ac94c484c1218823"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "大叶栀子花",
+      "speciesId": "bioclip:plant-017",
+      "record": {
+        "speciesId": "bioclip:plant-017",
+        "scientificName": "Gardenia jasminoides",
+        "chineseName": "栀子",
+        "displayName": "栀子",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "龙胆目",
+          "family": "茜草科",
+          "genus": "栀子属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%89%A1%E4%B8%B9%E6%A0%80%E5%AD%90/12604037",
+          "title": "牡丹栀子_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:57:21.252Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E6%A0%80%E5%AD%90/82358",
+          "title": "栀子（茜草科栀子属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:33.803Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "关联栀子；不虚构牡丹栀子的独立拉丁名。"
+    },
+    {
+      "inputName": "小叶栀子花",
+      "speciesId": "bioclip:plant-017",
+      "record": {
+        "speciesId": "bioclip:plant-017",
+        "scientificName": "Gardenia jasminoides",
+        "chineseName": "栀子",
+        "displayName": "栀子",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "龙胆目",
+          "family": "茜草科",
+          "genus": "栀子属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E6%A0%80%E5%AD%90/82358",
+          "title": "栀子（茜草科栀子属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:01.248Z"
+        },
+        {
+          "url": "https://baike.baidu.com/",
+          "title": "百度百科_全球领先的中文百科全书",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:57:29.367Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "species-reference",
+      "note": "来源栀子条目明确列小叶栀子为别名；可关联种级记录，具体小叶／矮生品种不另作判断。"
+    },
+    {
+      "inputName": "金边黄杨",
+      "speciesId": "tol10m:9997f0283393b220e6627e88",
+      "record": {
+        "speciesId": "tol10m:9997f0283393b220e6627e88",
+        "scientificName": "Euonymus japonicus",
+        "chineseName": "冬青卫矛",
+        "displayName": "冬青卫矛",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "卫矛目",
+          "family": "卫矛科",
+          "genus": "卫矛属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%87%91%E8%BE%B9%E9%BB%84%E6%9D%A8",
+          "title": "金边黄杨_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:58:27.878Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "关联冬青卫矛，保留金边栽培型，不关联黄杨属。"
+    },
+    {
+      "inputName": "大叶黄杨",
+      "speciesId": "tol10m:9997f0283393b220e6627e88",
+      "record": {
+        "speciesId": "tol10m:9997f0283393b220e6627e88",
+        "scientificName": "Euonymus japonicus",
+        "chineseName": "冬青卫矛",
+        "displayName": "冬青卫矛",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "卫矛目",
+          "family": "卫矛科",
+          "genus": "卫矛属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "大叶黄杨",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8F%B6%E9%BB%84%E6%9D%A8",
+          "revisionId": 86701093,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=86701093",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://www.iplant.cn/frps/Euonymus%20japonicus",
+          "title": "植物智《中国植物志》：冬青卫矛",
+          "fact": "明确列大叶黄杨为冬青卫矛的别名。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "contextual-name",
+      "note": "植物志明确支持本次园林用名；采用冬青卫矛，未按原维基跳转误连 Buxus megistophylla。"
+    },
+    {
+      "inputName": "瓜子黄杨",
+      "speciesId": "tol10m:ff11767affd87ab5245842fe",
+      "record": {
+        "speciesId": "tol10m:ff11767affd87ab5245842fe",
+        "scientificName": "Buxus sinica",
+        "chineseName": "黄杨",
+        "displayName": "黄杨",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "黄杨目",
+          "family": "黄杨科",
+          "genus": "黄杨属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "黄杨（黄杨科黄杨属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%BB%84%E6%9D%A8/3657",
+          "observedAt": "2026-09-24T05:58:36.037Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/68077065ee9999b5.json",
+          "sha256": "8194755867c230e47fd56fbf8c0eb463eb8720c451f106993baea3f04d102035"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "豆瓣黄杨",
+      "speciesId": "tol10m:ff11767affd87ab5245842fe",
+      "record": {
+        "speciesId": "tol10m:ff11767affd87ab5245842fe",
+        "scientificName": "Buxus sinica",
+        "chineseName": "黄杨",
+        "displayName": "黄杨",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "黄杨目",
+          "family": "黄杨科",
+          "genus": "黄杨属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%BB%84%E6%9D%A8/3657",
+          "title": "黄杨（黄杨科黄杨属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:58:44.305Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "source-reference",
+      "note": "按本次百度跳转关联黄杨；只是清单目录引用，别名关系仍待更强证据，不用于自动贴训练标签。"
+    },
+    {
+      "inputName": "雀舌黄杨",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [
+        "Buxus bodinieri"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "雀舌黄杨",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9B%80%E8%88%8C%E9%BB%84%E6%9D%A8",
+          "revisionId": 80007658,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=80007658",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:445274-1",
+          "title": "Kew POWO: Buxus bodinieri",
+          "fact": "Buxus bodinieri 是接受种，不因同属且名称相近改连 Buxus sinica。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "catalog-gap",
+      "level": "unresolved-species",
+      "note": "来源及 Kew 的接受种在库中缺失；不能因为不区分品种而把不同物种强并成黄杨。"
+    },
+    {
+      "inputName": "丝兰",
+      "speciesId": "tol10m:5f276278f264809f9f4d70e5",
+      "record": {
+        "speciesId": "tol10m:5f276278f264809f9f4d70e5",
+        "scientificName": "Yucca flaccida",
+        "chineseName": "软叶丝兰",
+        "displayName": "软叶丝兰",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "天门冬目",
+          "family": "天门冬科"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "丝兰",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%9D%E5%85%B0",
+          "revisionId": 71885513,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=71885513",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:543550-1",
+          "title": "Kew POWO: Yucca smalliana",
+          "fact": "Yucca smalliana 是 Yucca flaccida 的异名，不改连 Yucca filamentosa。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "按来源 Yucca smalliana 的异名关系连接软叶丝兰；不推广到所有丝兰属植物。"
+    },
+    {
+      "inputName": "滨海木槿",
+      "speciesId": "tol10m:b93d1f3535f8c98e269aba0a",
+      "record": {
+        "speciesId": "tol10m:b93d1f3535f8c98e269aba0a",
+        "scientificName": "Talipariti hamabo",
+        "chineseName": null,
+        "displayName": "Talipariti hamabo",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "锦葵目",
+          "family": "锦葵科",
+          "genus": "黄槿属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "海滨木槿_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%B5%B7%E6%BB%A8%E6%9C%A8%E6%A7%BF/4417251",
+          "observedAt": "2026-09-24T05:58:52.499Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/99b7b6d97c6e81d0.json",
+          "sha256": "0a84a689a6e6cae30ce647bf460b27d1d0d38c78766d1ae9ee57847c6c7ad7ca"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:559957-1",
+          "title": "Kew POWO: Hibiscus hamabo",
+          "fact": "Hibiscus hamabo 是 Talipariti hamabo 的异名。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "通过 Hibiscus hamabo 的新属组合连接已有记录。"
+    },
+    {
+      "inputName": "构骨",
+      "speciesId": "tol10m:d903f7d3871c0e0a59673c71",
+      "record": {
+        "speciesId": "tol10m:d903f7d3871c0e0a59673c71",
+        "scientificName": "Ilex cornuta",
+        "chineseName": "枸骨",
+        "displayName": "枸骨",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "冬青目",
+          "family": "冬青科",
+          "genus": "冬青属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "枸骨_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%9E%B8%E9%AA%A8/2776280",
+          "observedAt": "2026-09-24T05:59:00.730Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/c3b2bd365048be77.json",
+          "sha256": "c2644353e3b7c3b5850124133ee532fa26afef797b01973f2cec8410ee69cb49"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "龟甲冬青",
+      "speciesId": "tol10m:1dbee3aeb0f11f1bbf1853f2",
+      "record": {
+        "speciesId": "tol10m:1dbee3aeb0f11f1bbf1853f2",
+        "scientificName": "Ilex crenata",
+        "chineseName": "齿叶冬青",
+        "displayName": "齿叶冬青",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "冬青目",
+          "family": "冬青科",
+          "genus": "冬青属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%BE%9F%E7%94%B2%E5%86%AC%E9%9D%92",
+          "title": "龟甲冬青_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:08.805Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "关联来源列出的齿叶冬青；园艺型仍单独保留。"
+    },
+    {
+      "inputName": "红花檵木",
+      "speciesId": "tol10m:c7f2fb40dd0b580cb7558824",
+      "record": {
+        "speciesId": "tol10m:c7f2fb40dd0b580cb7558824",
+        "scientificName": "Loropetalum chinense",
+        "chineseName": "檵木",
+        "displayName": "檵木",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "虎耳草目",
+          "family": "金缕梅科",
+          "genus": "檵木属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "紅花檵木",
+          "url": "https://zh.wikipedia.org/wiki/%E7%B4%85%E8%8A%B1%E6%AA%B5%E6%9C%A8",
+          "revisionId": 89406381,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=89406381",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 var. rubrum 关联檵木，目录和训练只保留物种级。"
+    },
+    {
+      "inputName": "黄金条",
+      "speciesId": "tol10m:5f75c63c2f6bc80d4d65aa1e",
+      "record": {
+        "speciesId": "tol10m:5f75c63c2f6bc80d4d65aa1e",
+        "scientificName": "Forsythia viridissima",
+        "chineseName": "金钟花",
+        "displayName": "金钟花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "连翘属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "黄金条（木犀科连翘属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%BB%84%E9%87%91%E6%9D%A1/4433404",
+          "observedAt": "2026-09-24T05:59:16.947Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/ab7557571e2ae357.json",
+          "sha256": "d8bafa7e5a236fd246d089bbfba3bc2f6ef5801268b4d22abc8c5d1672f011cb"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "红叶小檗",
+      "speciesId": "tol10m:28d6261e2a9bae9e71cdeef4",
+      "record": {
+        "speciesId": "tol10m:28d6261e2a9bae9e71cdeef4",
+        "scientificName": "Berberis thunbergii",
+        "chineseName": "日本小檗",
+        "displayName": "日本小檗",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "毛茛目",
+          "family": "小檗科",
+          "genus": "小檗属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "日本小檗",
+          "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%B0%8F%E6%AA%97",
+          "revisionId": 87508032,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=87508032",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "木香",
+      "speciesId": "tol10m:189b50b7eb14a3496e21ccfd",
+      "record": {
+        "speciesId": "tol10m:189b50b7eb14a3496e21ccfd",
+        "scientificName": "Rosa banksiae",
+        "chineseName": "木香花",
+        "displayName": "木香花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "蔷薇属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E6%9C%A8%E9%A6%99%E8%8A%B1/7114637",
+          "title": "木香花（蔷薇科蔷薇属的一种植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:41.948Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E6%9C%A8%E9%A6%99/394080",
+          "title": "木香（多种植物的别称）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:02:07.873Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "contextual-name",
+      "note": "按园林清单语境及木香花条目的明确别名关联；不将药材等其他同名用法合并。"
+    },
+    {
+      "inputName": "洒金桃叶珊瑚",
+      "speciesId": "tol10m:e98ca27be9bc45c64172251b",
+      "record": {
+        "speciesId": "tol10m:e98ca27be9bc45c64172251b",
+        "scientificName": "Aucuba japonica",
+        "chineseName": "青木",
+        "displayName": "青木",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "丝缨花目",
+          "family": "丝缨花科",
+          "genus": "桃叶珊瑚属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E8%8A%B1%E5%8F%B6%E9%9D%92%E6%9C%A8/9376317",
+          "title": "花叶青木_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:25.078Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "将来源 var. variegata 关联青木母种。"
+    },
+    {
+      "inputName": "红花绣线菊",
+      "speciesId": "tol10m:36cad5de85d23152fc8189aa",
+      "record": {
+        "speciesId": "tol10m:36cad5de85d23152fc8189aa",
+        "scientificName": "Spiraea japonica",
+        "chineseName": "粉花绣线菊",
+        "displayName": "粉花绣线菊",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "绣线菊属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E7%BB%A3%E7%BA%BF%E8%8F%8A",
+          "title": "红花绣线菊_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:33.221Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 'Dart’s Red' 关联粉花绣线菊母种。"
+    },
+    {
+      "inputName": "金焰绣线菊",
+      "speciesId": "tol10m:36cad5de85d23152fc8189aa",
+      "record": {
+        "speciesId": "tol10m:36cad5de85d23152fc8189aa",
+        "scientificName": "Spiraea japonica",
+        "chineseName": "粉花绣线菊",
+        "displayName": "粉花绣线菊",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "绣线菊属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%87%91%E7%84%B0%E7%BB%A3%E7%BA%BF%E8%8F%8A",
+          "title": "金焰绣线菊_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:41.311Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 'Goldflame' 关联粉花绣线菊母种。"
+    },
+    {
+      "inputName": "羽毛枫",
+      "speciesId": "bioclip:plant-006",
+      "record": {
+        "speciesId": "bioclip:plant-006",
+        "scientificName": "Acer palmatum",
+        "chineseName": "鸡爪槭",
+        "displayName": "鸡爪槭",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "无患子科",
+          "genus": "槭属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%BE%BD%E6%AF%9B%E6%A7%AD/10330447",
+          "title": "羽毛槭_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:49.433Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按来源 var. dissectum 关联鸡爪槭，原名不改。"
+    },
+    {
+      "inputName": "素心腊梅",
+      "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+      "record": {
+        "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+        "scientificName": "Chimonanthus praecox",
+        "chineseName": "蜡梅",
+        "displayName": "蜡梅",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "樟目",
+          "family": "蜡梅科",
+          "genus": "蜡梅属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%B4%A0%E5%BF%83%E8%9C%A1%E6%A2%85",
+          "title": "素心蜡梅_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:25.601Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E8%9C%A1%E6%A2%85/839586",
+          "title": "蜡梅（蜡梅科蜡梅属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:59:57.751Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源两种品种／变种写法均可在此关联蜡梅，暂不选定更细层级。"
+    },
+    {
+      "inputName": "月季",
+      "speciesId": "bioclip:plant-019",
+      "record": {
+        "speciesId": "bioclip:plant-019",
+        "scientificName": "Rosa chinensis",
+        "chineseName": "月季花",
+        "displayName": "月季花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "蔷薇属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "月季花（蔷薇科蔷薇属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%9C%88%E5%AD%A3%E8%8A%B1/14505544",
+          "observedAt": "2026-09-24T06:03:05.247Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/2bdefb7f9b6347e6.json",
+          "sha256": "54180004db5955b182196fa98ec4d306b4c8901415eee2743e202ba2cd8ad1bb"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "红帽子月季",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-019",
+          "scientificName": "Rosa chinensis",
+          "chineseName": "月季花",
+          "displayName": "月季花",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "蔷薇属"
+          }
+        },
+        {
+          "speciesId": "tol10m:8232c8c42d9e8d80bed635db",
+          "scientificName": "Rosa hybrid",
+          "chineseName": null,
+          "displayName": "Rosa hybrid",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "蔷薇属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%BA%A2%E5%B8%BD%E5%AD%90%E6%9C%88%E5%AD%A3",
+          "title": "红帽子月季_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:05.838Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "可定位现有月季相关记录，但来源把特定园艺名称和月季花混写；Rosa hybrid 也是未核准的旧标签，不直接当母种。"
+    },
+    {
+      "inputName": "丰花月季",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [
+        {
+          "speciesId": "tol10m:8232c8c42d9e8d80bed635db",
+          "scientificName": "Rosa hybrid",
+          "chineseName": null,
+          "displayName": "Rosa hybrid",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "蔷薇属"
+          }
+        },
+        {
+          "speciesId": "bioclip:plant-019",
+          "scientificName": "Rosa chinensis",
+          "chineseName": "月季花",
+          "displayName": "月季花",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "蔷薇属"
+          }
+        }
+      ],
+      "missingScientificNames": [
+        "Rosa hybrida"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E4%B8%B0%E8%8A%B1%E6%9C%88%E5%AD%A3",
+          "title": "丰花月季_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:13.907Z"
+        }
+      ],
+      "status": "catalog-gap",
+      "level": "unrepresented-name-or-rank",
+      "note": "缺少核准的丰花月季园艺类群对应；已有 Rosa hybrid 或月季花只可作相关记录，不冒充确定的品种母种。"
+    },
+    {
+      "inputName": "八仙花",
+      "speciesId": "bioclip:plant-020",
+      "record": {
+        "speciesId": "bioclip:plant-020",
+        "scientificName": "Hydrangea macrophylla",
+        "chineseName": "绣球",
+        "displayName": "绣球",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "山茱萸目",
+          "family": "绣球科",
+          "genus": "绣球属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "绣球花",
+          "url": "https://zh.wikipedia.org/wiki/%E7%BB%A3%E7%90%83%E8%8A%B1",
+          "revisionId": 91519540,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91519540",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "金银花",
+      "speciesId": "tol10m:023667d959ac4722f55c0c82",
+      "record": {
+        "speciesId": "tol10m:023667d959ac4722f55c0c82",
+        "scientificName": "Lonicera japonica",
+        "chineseName": "忍冬",
+        "displayName": "忍冬",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "川续断目",
+          "family": "忍冬科",
+          "genus": "忍冬属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "忍冬（忍冬科忍冬属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E5%BF%8D%E5%86%AC/758885",
+          "observedAt": "2026-09-24T06:02:16.086Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/971f89415cb8ea00.json",
+          "sha256": "078e27743af5fd8df6d6f169ce2cc2352337da4325f2444539946f80944bf3d9"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "迎春",
+      "speciesId": "tol10m:e7c54c19134516b10c35608b",
+      "record": {
+        "speciesId": "tol10m:e7c54c19134516b10c35608b",
+        "scientificName": "Jasminum nudiflorum",
+        "chineseName": "迎春花",
+        "displayName": "迎春花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "素馨属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "迎春花",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BF%8E%E6%98%A5%E8%8A%B1",
+          "revisionId": 92091378,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=92091378",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "丁香",
+      "speciesId": "tol10m:2790570a66666ae32ea92b77",
+      "record": {
+        "speciesId": "tol10m:2790570a66666ae32ea92b77",
+        "scientificName": "Syringa oblata",
+        "chineseName": "紫丁香",
+        "displayName": "紫丁香",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "丁香属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "紫丁香（木犀科丁香属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E7%B4%AB%E4%B8%81%E9%A6%99/1076778",
+          "observedAt": "2026-09-24T06:02:24.307Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/73c484b4ebc7fb1c.json",
+          "sha256": "e778d40ec2d28caa82e3a96ef33bed87fa25a693c17c0635b9606de28d310b71"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "银边黄杨",
+      "speciesId": "tol10m:9997f0283393b220e6627e88",
+      "record": {
+        "speciesId": "tol10m:9997f0283393b220e6627e88",
+        "scientificName": "Euonymus japonicus",
+        "chineseName": "冬青卫矛",
+        "displayName": "冬青卫矛",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "卫矛目",
+          "family": "卫矛科",
+          "genus": "卫矛属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%93%B6%E8%BE%B9%E9%BB%84%E6%9D%A8",
+          "title": "银边黄杨_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:22.040Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按来源栽培变种关联冬青卫矛，不与金边品种相互替换名称。"
+    },
+    {
+      "inputName": "石菖蒲",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:ca2fc466e83a89c87a68ff6e",
+          "scientificName": "Acorus gramineus",
+          "chineseName": "金钱蒲",
+          "displayName": "金钱蒲",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "菖蒲目",
+            "family": "菖蒲科",
+            "genus": "菖蒲属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [
+        "Acorus tatarinowii",
+        "Acorus verus"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "石菖蒲",
+          "url": "https://zh.wikipedia.org/wiki/%E7%9F%B3%E8%8F%96%E8%92%B2",
+          "revisionId": 91235195,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91235195",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://www.iplant.cn/info/Acorus%20tatarinowii?t=focn",
+          "title": "植物智《中国植物志》：石菖蒲",
+          "fact": "中国植物志将石菖蒲列作 Acorus tatarinowii，而不是仅按旧维基候选认作金钱蒲。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1170-1",
+          "title": "Kew POWO: Acorus tatarinowii",
+          "fact": "Kew 将 Acorus tatarinowii 归入 Acorus verus；这两个名称均未在本库命中。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "needs-selection",
+      "level": "unresolved-species",
+      "note": "原维基候选是库中的金钱蒲；植物志/Kew 支持另一分类实体，而相关名称库中均缺，暂不误合并。"
+    },
+    {
+      "inputName": "葱兰",
+      "speciesId": "tol10m:a6abcc6334bf96caa9bce605",
+      "record": {
+        "speciesId": "tol10m:a6abcc6334bf96caa9bce605",
+        "scientificName": "Zephyranthes candida",
+        "chineseName": "葱莲",
+        "displayName": "葱莲",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "天门冬目",
+          "family": "石蒜科",
+          "genus": "葱莲属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "葱莲",
+          "url": "https://zh.wikipedia.org/wiki/%E8%91%B1%E8%8E%B2",
+          "revisionId": 91794225,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91794225",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "彩叶草",
+      "speciesId": "tol10m:fda099434a06756daf1f4d1e",
+      "record": {
+        "speciesId": "tol10m:fda099434a06756daf1f4d1e",
+        "scientificName": "Coleus scutellarioides",
+        "chineseName": "五彩苏",
+        "displayName": "五彩苏",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "唇形科",
+          "genus": "鞘蕊花属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "彩葉草",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%91%89%E8%8D%89",
+          "revisionId": 87281187,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=87281187",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "紫叶酢浆草",
+      "speciesId": "tol10m:3a07f42b3ce1f91b9d493d4d",
+      "record": {
+        "speciesId": "tol10m:3a07f42b3ce1f91b9d493d4d",
+        "scientificName": "Oxalis triangularis",
+        "chineseName": "三角叶酢浆草",
+        "displayName": "三角叶酢浆草",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "酢浆草目",
+          "family": "酢浆草科",
+          "genus": "酢浆草属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%B4%AB%E5%8F%B6%E9%85%A2%E6%B5%86%E8%8D%89",
+          "title": "紫叶酢浆草_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:02:32.394Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "本次 'Mijke' 参考关联三角叶酢浆草，不保证所有同名园艺材料均为该品种。"
+    },
+    {
+      "inputName": "银纹沿阶草",
+      "speciesId": "tol10m:2360206f343a5bac9cf1aa01",
+      "record": {
+        "speciesId": "tol10m:2360206f343a5bac9cf1aa01",
+        "scientificName": "Ophiopogon jaburan",
+        "chineseName": "剑叶沿阶草",
+        "displayName": "剑叶沿阶草",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "天门冬目",
+          "family": "天门冬科",
+          "genus": "沿阶草属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%93%B6%E8%BE%B9%E9%BA%A6%E5%86%AC/11030244",
+          "title": "银边麦冬_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:30.176Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源品种关联剑叶沿阶草；不按中文“麦冬”误连其他种。"
+    },
+    {
+      "inputName": "荷花",
+      "speciesId": "bioclip:plant-021",
+      "record": {
+        "speciesId": "bioclip:plant-021",
+        "scientificName": "Nelumbo nucifera",
+        "chineseName": "莲",
+        "displayName": "莲",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "山龙眼目",
+          "family": "莲科",
+          "genus": "莲属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "莲",
+          "url": "https://zh.wikipedia.org/wiki/%E8%8E%B2",
+          "revisionId": 94499967,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=94499967",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "梭鱼草",
+      "speciesId": "tol10m:bec5b11640f8a230c13c7e78",
+      "record": {
+        "speciesId": "tol10m:bec5b11640f8a230c13c7e78",
+        "scientificName": "Pontederia cordata",
+        "chineseName": "海寿花",
+        "displayName": "海寿花",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "鸭跖草目",
+          "family": "雨久花科",
+          "genus": "梭鱼草属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "梭鱼草",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A2%AD%E9%B1%BC%E8%8D%89",
+          "revisionId": 84770312,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=84770312",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "梭鱼草属",
+          "url": "https://zh.wikipedia.org/wiki/梭鱼草属",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "花叶芦竹",
+      "speciesId": "tol10m:72fca1a0d9cd83dd2b8e85bf",
+      "record": {
+        "speciesId": "tol10m:72fca1a0d9cd83dd2b8e85bf",
+        "scientificName": "Arundo donax",
+        "chineseName": "芦竹",
+        "displayName": "芦竹",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "禾本目",
+          "family": "禾本科",
+          "genus": "芦竹属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E8%8A%B1%E5%8F%B6%E8%8A%A6%E7%AB%B9",
+          "title": "花叶芦竹_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:38.249Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 'Versicolor' 关联芦竹母种。"
+    },
+    {
+      "inputName": "香樟",
+      "speciesId": "bioclip:plant-008",
+      "record": {
+        "speciesId": "bioclip:plant-008",
+        "scientificName": "Cinnamomum camphora",
+        "chineseName": null,
+        "displayName": "Cinnamomum camphora",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "樟目",
+          "family": "樟科",
+          "genus": "桂属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "樟树",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A8%9F%E6%A0%91",
+          "revisionId": 93417800,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93417800",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:695876-1",
+          "title": "Kew POWO: Cinnamomum camphora",
+          "fact": "Cinnamomum camphora 与接受名 Camphora officinarum 为同物异名关系。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "连接已有旧学名记录；中文为空、隐藏状态保持不变，不重复建立物种。"
+    },
+    {
+      "inputName": "金桂",
+      "speciesId": "bioclip:plant-009",
+      "record": {
+        "speciesId": "bioclip:plant-009",
+        "scientificName": "Osmanthus fragrans",
+        "chineseName": "木犀",
+        "displayName": "木犀",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "木犀属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%87%91%E6%A1%82/4230383",
+          "title": "金桂（木犀科木犀属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T05:55:51.064Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 var. thunbergii 关联木犀；不把金桂与四季桂当成相同品种。"
+    },
+    {
+      "inputName": "银桂",
+      "speciesId": "bioclip:plant-009",
+      "record": {
+        "speciesId": "bioclip:plant-009",
+        "scientificName": "Osmanthus fragrans",
+        "chineseName": "木犀",
+        "displayName": "木犀",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "木犀属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "桂花",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A1%82%E8%8A%B1",
+          "revisionId": 91090781,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91090781",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "木樨属",
+          "url": "https://zh.wikipedia.org/wiki/木樨属",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "丹桂",
+      "speciesId": "bioclip:plant-009",
+      "record": {
+        "speciesId": "bioclip:plant-009",
+        "scientificName": "Osmanthus fragrans",
+        "chineseName": "木犀",
+        "displayName": "木犀",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "木犀科",
+          "genus": "木犀属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "丹桂",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%B9%E6%A1%82",
+          "revisionId": 93535909,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93535909",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "仅到物种级，var. aurantiacus 关联木犀。"
+    },
+    {
+      "inputName": "中山杉",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [
+        {
+          "speciesId": "tol10m:9a76dbb90d2eb77162c0a88e",
+          "scientificName": "Taxodium distichum",
+          "chineseName": "落羽杉",
+          "displayName": "落羽杉",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "松纲",
+            "order": "松目",
+            "family": "柏科",
+            "genus": "落羽杉属"
+          }
+        },
+        {
+          "speciesId": "tol10m:f0a4ddf1fc6276616fc26746",
+          "scientificName": "Taxodium ascendens",
+          "chineseName": null,
+          "displayName": "Taxodium ascendens",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "松纲",
+            "order": "松目",
+            "family": "柏科",
+            "genus": "落羽杉属"
+          }
+        },
+        {
+          "speciesId": "tol10m:2725bf327e87a54371517917",
+          "scientificName": "Taxodium mucronatum",
+          "chineseName": "墨西哥落羽杉",
+          "displayName": "墨西哥落羽杉",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "松纲",
+            "order": "松目",
+            "family": "柏科",
+            "genus": "落羽杉属"
+          }
+        }
+      ],
+      "missingScientificNames": [
+        "Taxodium 'Zhongshanshan'"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%B1%B1%E6%9D%89",
+          "title": "中山杉_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:00:46.420Z"
+        }
+      ],
+      "status": "catalog-gap",
+      "level": "unrepresented-name-or-rank",
+      "note": "库中有落羽杉属的物种，但没有该园艺系列记录。属内物种仅供定位，不把系列任意绑定为其中一种，也不推断每个编号的亲本。"
+    },
+    {
+      "inputName": "五针松",
+      "speciesId": "tol10m:503652fb6d07372e27e409c1",
+      "record": {
+        "speciesId": "tol10m:503652fb6d07372e27e409c1",
+        "scientificName": "Pinus parviflora",
+        "chineseName": "日本五针松",
+        "displayName": "日本五针松",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "松纲",
+          "order": "松目",
+          "family": "松科",
+          "genus": "松属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "五针松_百度百科",
+          "url": "https://baike.baidu.com/item/%E4%BA%94%E9%92%88%E6%9D%BE",
+          "observedAt": "2026-09-24T06:00:54.515Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/251918346ce0837b.json",
+          "sha256": "0ad2305e49a1a4cfdbbcca3c11e0232322fc416aeb908ae07ec4fe31902fd72d"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "广玉兰",
+      "speciesId": "bioclip:plant-010",
+      "record": {
+        "speciesId": "bioclip:plant-010",
+        "scientificName": "Magnolia grandiflora",
+        "chineseName": "荷花木兰",
+        "displayName": "荷花木兰",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "荷花玉兰",
+          "url": "https://zh.wikipedia.org/wiki/%E8%8D%B7%E8%8A%B1%E7%8E%89%E5%85%B0",
+          "revisionId": 79999240,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=79999240",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "白玉兰",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b8cabac5106e3f6bbbf58407",
+          "scientificName": "Magnolia denudata",
+          "chineseName": null,
+          "displayName": "Magnolia denudata",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "木兰目",
+            "family": "木兰科",
+            "genus": "北美木兰属"
+          }
+        },
+        {
+          "speciesId": "tol10m:f23d4f0b6d1f391962cce56d",
+          "scientificName": "Magnolia alba",
+          "chineseName": null,
+          "displayName": "Magnolia alba",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "木兰目",
+            "family": "木兰科",
+            "genus": "北美木兰属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%99%BD%E7%8E%89%E5%85%B0/867",
+          "title": "白玉兰（木兰目木兰科植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:02:40.524Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "库中已有玉兰与白兰相关学名候选，两条均缺中文名且隐藏；需要选具体植物，不把两者并成一个别名。"
+    },
+    {
+      "inputName": "深山含笑",
+      "speciesId": "tol10m:190327b95eeb7adefb295559",
+      "record": {
+        "speciesId": "tol10m:190327b95eeb7adefb295559",
+        "scientificName": "Magnolia maudiae",
+        "chineseName": null,
+        "displayName": "Magnolia maudiae",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "深山含笑",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%B1%B1%E5%90%AB%E7%AC%91",
+          "revisionId": 71891230,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=71891230",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554847-1",
+          "title": "Kew POWO: Michelia maudiae",
+          "fact": "Michelia maudiae 是 Magnolia maudiae 的异名。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "通过有来源的属名组合变化连接现有记录。"
+    },
+    {
+      "inputName": "乐昌含笑",
+      "speciesId": "tol10m:f0d6862175734b78820dae65",
+      "record": {
+        "speciesId": "tol10m:f0d6862175734b78820dae65",
+        "scientificName": "Magnolia chapensis",
+        "chineseName": null,
+        "displayName": "Magnolia chapensis",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "乐昌含笑",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B9%90%E6%98%8C%E5%90%AB%E7%AC%91",
+          "revisionId": 90710073,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=90710073",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "红橘",
+      "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+      "record": {
+        "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+        "scientificName": "Citrus reticulata",
+        "chineseName": "柑橘",
+        "displayName": "柑橘",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "芸香科",
+          "genus": "柑橘属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "红橘（芸香科柑橘属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E7%BA%A2%E6%A9%98/5252312",
+          "observedAt": "2026-09-24T06:08:47.246Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/2fd7528c82f97866.json",
+          "sha256": "2446448cb220bb582f7d4a3e673f8e40c784ab022a3ed64a649b5c4db832dc55"
+        },
+        {
+          "title": "红橘（红橘）_百度百科",
+          "url": "https://baike.baidu.com/item/%E7%BA%A2%E6%A9%98",
+          "observedAt": "2026-09-24T06:01:02.631Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/d21a279a2b838843.json",
+          "sha256": "9bfa2715a4a122ea8f98664121ad278a23583d7a400ea863f121bb538813e8eb"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "青冈栎",
+      "speciesId": "tol10m:5ad491e825c3eecae9f7d38c",
+      "record": {
+        "speciesId": "tol10m:5ad491e825c3eecae9f7d38c",
+        "scientificName": "Quercus glauca",
+        "chineseName": "青冈",
+        "displayName": "青冈",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "壳斗目",
+          "family": "壳斗科",
+          "genus": "栎属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "青冈（壳斗科栎属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E9%9D%92%E5%86%88/71159",
+          "observedAt": "2026-09-24T06:01:10.796Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/fdd1d682288d9a47.json",
+          "sha256": "5493e6b579df1d2c782956ab3751bf47043ec4a4063c44d8cd3c422b87e799c6"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "桔子树",
+      "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+      "record": {
+        "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+        "scientificName": "Citrus reticulata",
+        "chineseName": "柑橘",
+        "displayName": "柑橘",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "芸香科",
+          "genus": "柑橘属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "柑橘（芸香科柑橘属一种植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%9F%91%E6%A9%98/55204",
+          "observedAt": "2026-09-24T06:01:18.981Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/0ca5fa40a534a9ad.json",
+          "sha256": "a873eb19a6513d84d91cf1bbd4d56be5545e7616eb0a10722012bd3082e1d507"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "椤木石楠",
+      "speciesId": "tol10m:5b651ce88a2634922bb33f7a",
+      "record": {
+        "speciesId": "tol10m:5b651ce88a2634922bb33f7a",
+        "scientificName": "Photinia bodinieri",
+        "chineseName": null,
+        "displayName": "Photinia bodinieri",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "石楠属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "椤木石楠",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A4%A4%E6%9C%A8%E7%9F%B3%E6%A5%A0",
+          "revisionId": 79988638,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=79988638",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726160-1",
+          "title": "Kew POWO: Photinia davidsoniae",
+          "fact": "Photinia davidsoniae 归入 Weniomeles bodinieri。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:725937-1",
+          "title": "Kew POWO: Photinia bodinieri",
+          "fact": "Photinia bodinieri 同样归入 Weniomeles bodinieri，可连接现有旧学名记录。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "两个旧名均归入 Weniomeles bodinieri；引用库中已有 Photinia bodinieri ID。"
+    },
+    {
+      "inputName": "茶梅",
+      "speciesId": "tol10m:4c661e44b600b22ad2fe590d",
+      "record": {
+        "speciesId": "tol10m:4c661e44b600b22ad2fe590d",
+        "scientificName": "Camellia sasanqua",
+        "chineseName": null,
+        "displayName": "Camellia sasanqua",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "杜鹃花目",
+          "family": "山茶科",
+          "genus": "山茶属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "茶梅",
+          "url": "https://zh.wikipedia.org/wiki/%E8%8C%B6%E6%A2%85",
+          "revisionId": 93527116,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93527116",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "山茶属",
+          "url": "https://zh.wikipedia.org/wiki/山茶属",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "龙柏",
+      "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+      "record": {
+        "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+        "scientificName": "Juniperus chinensis",
+        "chineseName": "圆柏",
+        "displayName": "圆柏",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "松纲",
+          "order": "松目",
+          "family": "柏科",
+          "genus": "刺柏属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "龍柏",
+          "url": "https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%9F%8F",
+          "revisionId": 90621307,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=90621307",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "圆柏",
+          "url": "https://zh.wikipedia.org/wiki/圓柏",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按来源 var. kaizuka 归到圆柏，不建立品种类别。"
+    },
+    {
+      "inputName": "桧柏",
+      "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+      "record": {
+        "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+        "scientificName": "Juniperus chinensis",
+        "chineseName": "圆柏",
+        "displayName": "圆柏",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "松纲",
+          "order": "松目",
+          "family": "柏科",
+          "genus": "刺柏属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "圓柏",
+          "url": "https://zh.wikipedia.org/wiki/%E5%9C%93%E6%9F%8F",
+          "revisionId": 92112915,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=92112915",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "铅笔柏",
+      "speciesId": "tol10m:b72307d67bfb5a5713eaf319",
+      "record": {
+        "speciesId": "tol10m:b72307d67bfb5a5713eaf319",
+        "scientificName": "Juniperus virginiana",
+        "chineseName": "北美圆柏",
+        "displayName": "北美圆柏",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "松纲",
+          "order": "松目",
+          "family": "柏科",
+          "genus": "刺柏属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "地中海柏木",
+          "url": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E6%9F%8F%E6%9C%A8",
+          "revisionId": 79998505,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=79998505",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://www.csf.org.cn/news/personalcolumn/20200330/933458.html",
+          "title": "中国林学会：北美圆柏",
+          "fact": "列铅笔柏为北美圆柏 Juniperus virginiana 的名称；采用本次中国园林语境参考。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "contextual-name",
+      "note": "按中国林学会的中文园林名称采用北美圆柏；原维基地中海柏木参考保留，但不采用为本次映射。"
+    },
+    {
+      "inputName": "柚子",
+      "speciesId": "tol10m:f124eebb9daa3387c35c1a9a",
+      "record": {
+        "speciesId": "tol10m:f124eebb9daa3387c35c1a9a",
+        "scientificName": "Citrus maxima",
+        "chineseName": "柚",
+        "displayName": "柚",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "芸香科",
+          "genus": "柑橘属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "柚子",
+          "url": "https://zh.wikipedia.org/wiki/%E6%9F%9A%E5%AD%90",
+          "revisionId": 94306599,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=94306599",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "二乔玉兰",
+      "speciesId": "tol10m:27fb32d1651dc67c0863c2f9",
+      "record": {
+        "speciesId": "tol10m:27fb32d1651dc67c0863c2f9",
+        "scientificName": "Magnolia x soulangeana",
+        "chineseName": null,
+        "displayName": "Magnolia x soulangeana",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "北美木兰属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "二乔木兰",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%B9%94%E6%9C%A8%E5%85%B0",
+          "revisionId": 84770879,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=84770879",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "hybrid-name-spelling",
+      "note": "将来源 × 与数据库 x 的杂交标记写法对齐；不关联单个亲本。"
+    },
+    {
+      "inputName": "马褂木",
+      "speciesId": "bioclip:plant-011",
+      "record": {
+        "speciesId": "bioclip:plant-011",
+        "scientificName": "Liriodendron chinense",
+        "chineseName": "鹅掌楸",
+        "displayName": "鹅掌楸",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "木兰目",
+          "family": "木兰科",
+          "genus": "鹅掌楸属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "鹅掌楸",
+          "url": "https://zh.wikipedia.org/wiki/%E9%B9%85%E6%8E%8C%E6%A5%B8",
+          "revisionId": 94086594,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=94086594",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "杏树",
+      "speciesId": "tol10m:31997b247f04561ed860929f",
+      "record": {
+        "speciesId": "tol10m:31997b247f04561ed860929f",
+        "scientificName": "Prunus armeniaca",
+        "chineseName": "杏",
+        "displayName": "杏",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "杏",
+          "url": "https://zh.wikipedia.org/wiki/%E6%9D%8F",
+          "revisionId": 93309996,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93309996",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "李属",
+          "url": "https://zh.wikipedia.org/wiki/李属",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "梅花",
+      "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+      "record": {
+        "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+        "scientificName": "Prunus mume",
+        "chineseName": "梅",
+        "displayName": "梅",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "梅",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A2%85",
+          "revisionId": 93592402,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93592402",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "碧桃",
+      "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+      "record": {
+        "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+        "scientificName": "Prunus persica",
+        "chineseName": "桃",
+        "displayName": "桃",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%A2%A7%E6%A1%83/502277",
+          "title": "碧桃（蔷薇科李属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:07:39.945Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E7%A2%A7%E6%A1%83/24216216",
+          "title": "碧桃（景天科石莲花属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:01:27.120Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "已选桃树义项，'Duplex' 关联桃，不关联景天科多肉。"
+    },
+    {
+      "inputName": "花桃",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:7b9cf7111d612aa41a5826c6",
+          "scientificName": "Prunus davidiana",
+          "chineseName": "山桃",
+          "displayName": "山桃",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "李属"
+          }
+        },
+        {
+          "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+          "scientificName": "Prunus persica",
+          "chineseName": "桃",
+          "displayName": "桃",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "蔷薇目",
+            "family": "蔷薇科",
+            "genus": "李属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E5%B1%B1%E6%A1%83/2065274",
+          "title": "山桃（蔷薇科李属的一种植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:01:35.336Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "百度指向山桃，园林用语也可能意指观赏桃；两种均在库中，原文不足以唯一选择。"
+    },
+    {
+      "inputName": "寿星桃",
+      "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+      "record": {
+        "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+        "scientificName": "Prunus persica",
+        "chineseName": "桃",
+        "displayName": "桃",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E7%9B%86%E6%A0%BD%E5%AF%BF%E6%98%9F%E6%A1%83/132830",
+          "title": "盆栽寿星桃_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:01:43.485Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按 f. densa 关联桃，保留矮生园艺名称。"
+    },
+    {
+      "inputName": "红叶李",
+      "speciesId": "tol10m:a6fad05f27897893415b63a4",
+      "record": {
+        "speciesId": "tol10m:a6fad05f27897893415b63a4",
+        "scientificName": "Prunus cerasifera",
+        "chineseName": "樱桃李",
+        "displayName": "樱桃李",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "樱桃李",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A8%B1%E6%A1%83%E6%9D%8E",
+          "revisionId": 86981079,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=86981079",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "日本晚樱",
+      "speciesId": "tol10m:10eff2f4132a35c1be168236",
+      "record": {
+        "speciesId": "tol10m:10eff2f4132a35c1be168236",
+        "scientificName": "Prunus lannesiana",
+        "chineseName": null,
+        "displayName": "Prunus lannesiana",
+        "isVisible": false,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "日本晚樱",
+          "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%99%9A%E6%A8%B1",
+          "revisionId": 71888352,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=71888352",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77177351-1",
+          "title": "Kew POWO: Cerasus serrulata var. lannesiana",
+          "fact": "此来源名归入 Prunus × lannesiana，不机械删除种下名称后改作 Prunus serrulata。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "根据种下旧名的异名处理连接晚樱记录；记录数据库省略 × 的旧写法，不改变其原值。"
+    },
+    {
+      "inputName": "腊梅",
+      "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+      "record": {
+        "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+        "scientificName": "Chimonanthus praecox",
+        "chineseName": "蜡梅",
+        "displayName": "蜡梅",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "樟目",
+          "family": "蜡梅科",
+          "genus": "蜡梅属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "蜡梅",
+          "url": "https://zh.wikipedia.org/wiki/%E8%9C%A1%E6%A2%85",
+          "revisionId": 82479067,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=82479067",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "枫香",
+      "speciesId": "bioclip:plant-007",
+      "record": {
+        "speciesId": "bioclip:plant-007",
+        "scientificName": "Liquidambar formosana",
+        "chineseName": "枫香树",
+        "displayName": "枫香树",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "虎耳草目",
+          "family": "蕈树科",
+          "genus": "枫香树属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "枫香树",
+          "url": "https://zh.wikipedia.org/wiki/%E6%9E%AB%E9%A6%99%E6%A0%91",
+          "revisionId": 91290391,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91290391",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "金枝垂柳",
+      "speciesId": null,
+      "record": null,
+      "candidates": [],
+      "relatedRecords": [
+        {
+          "speciesId": "bioclip:plant-012",
+          "scientificName": "Salix babylonica",
+          "chineseName": "垂柳",
+          "displayName": "垂柳",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "金虎尾目",
+            "family": "杨柳科",
+            "genus": "柳属"
+          }
+        },
+        {
+          "speciesId": "tol10m:a88da615acf379a8c5be98f5",
+          "scientificName": "Salix alba",
+          "chineseName": "白柳",
+          "displayName": "白柳",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "金虎尾目",
+            "family": "杨柳科",
+            "genus": "柳属"
+          }
+        }
+      ],
+      "missingScientificNames": [
+        "Salix × aureo-pendula",
+        "Salix x aureo-pendula"
+      ],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E9%87%91%E4%B8%9D%E5%9E%82%E6%9F%B3",
+          "title": "金丝垂柳_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:09.381Z"
+        },
+        {
+          "url": "https://baike.baidu.com/",
+          "title": "百度百科_全球领先的中文百科全书",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:01:51.592Z"
+        },
+        {
+          "url": "https://baike.baidu.com/item/%E9%87%91%E6%9E%9D%E6%9F%B3",
+          "title": "金枝柳_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:11:06.801Z"
+        }
+      ],
+      "status": "catalog-gap",
+      "level": "unrepresented-name-or-rank",
+      "note": "金丝垂柳补查页给出的杂交名库中未命中；垂柳、白柳只是相关亲本记录，不能拿其中一个替代杂交植物。原名与金丝垂柳的同义关系也仍需核实。"
+    },
+    {
+      "inputName": "旱柳",
+      "speciesId": "bioclip:plant-012",
+      "record": {
+        "speciesId": "bioclip:plant-012",
+        "scientificName": "Salix babylonica",
+        "chineseName": "垂柳",
+        "displayName": "垂柳",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "金虎尾目",
+          "family": "杨柳科",
+          "genus": "柳属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "旱柳",
+          "url": "https://zh.wikipedia.org/wiki/%E6%97%B1%E6%9F%B3",
+          "revisionId": 87556251,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=87556251",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:778140-1",
+          "title": "Kew POWO: Salix matsudana",
+          "fact": "Kew 将 Salix matsudana 作为 Salix babylonica 的异名处理。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "scientific-synonym",
+      "note": "采用 Kew 的种级归并关系，原来源 Salix matsudana 保留作溯源。"
+    },
+    {
+      "inputName": "红枫",
+      "speciesId": "bioclip:plant-006",
+      "record": {
+        "speciesId": "bioclip:plant-006",
+        "scientificName": "Acer palmatum",
+        "chineseName": "鸡爪槭",
+        "displayName": "鸡爪槭",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "无患子科",
+          "genus": "槭属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "鸡爪槭",
+          "url": "https://zh.wikipedia.org/wiki/%E9%B8%A1%E7%88%AA%E6%A7%AD",
+          "revisionId": 91644164,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=91644164",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "枫属",
+          "url": "https://zh.wikipedia.org/wiki/枫属",
+          "purpose": "科属通过该属或明确关联母种的维基条目补证；不是原始摘要的直接摘录。",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "青枫",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-006",
+          "scientificName": "Acer palmatum",
+          "chineseName": "鸡爪槭",
+          "displayName": "鸡爪槭",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "无患子目",
+            "family": "无患子科",
+            "genus": "槭属"
+          }
+        },
+        {
+          "speciesId": "tol10m:2d4592361336a73f26b8f483",
+          "scientificName": "Acer serrulatum",
+          "chineseName": "台湾五裂槭",
+          "displayName": "台湾五裂槭",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "无患子目",
+            "family": "无患子科",
+            "genus": "槭属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "青楓",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9D%92%E6%A5%93",
+          "revisionId": 74409697,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=74409697",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "url": "http://lhsr.sh.gov.cn/gxzysd/20211201/07eb9ce8e02d4638ade477559ce097b0.html",
+          "title": "上海市绿化和市容管理局：当庭一树彩云生——鸡爪槭",
+          "fact": "鸡爪槭也使用青枫名称；与既有维基青枫所指物种不同，不能唯一选择。",
+          "accessMethod": "public-search-index",
+          "observedAt": "2026-09-24T06:58:41.553554+00:00"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "needs-selection",
+      "level": "unresolved-species",
+      "note": "中国园林资料与原维基来源指向不同物种，两个记录均在库中；原名单不足以排除其中一种。"
+    },
+    {
+      "inputName": "青桐",
+      "speciesId": "tol10m:cca9e9aec73d6fd8ddfc736c",
+      "record": {
+        "speciesId": "tol10m:cca9e9aec73d6fd8ddfc736c",
+        "scientificName": "Firmiana simplex",
+        "chineseName": "梧桐",
+        "displayName": "梧桐",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "锦葵目",
+          "family": "锦葵科",
+          "genus": "梧桐属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "梧桐（锦葵科梧桐属植物）_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%A2%A7%E6%A1%90/6199",
+          "observedAt": "2026-09-24T06:02:48.748Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/fd63f8a53700c04d.json",
+          "sha256": "e189a59aea47c2acac598ff9f55860d69390d4ca16ca34f3c992d828adb7ab4f"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "苦楝",
+      "speciesId": "tol10m:b522609ca980ac77dcf4c1d4",
+      "record": {
+        "speciesId": "tol10m:b522609ca980ac77dcf4c1d4",
+        "scientificName": "Melia azedarach",
+        "chineseName": "楝",
+        "displayName": "楝",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "楝科",
+          "genus": "楝属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "苦楝",
+          "url": "https://zh.wikipedia.org/wiki/%E8%8B%A6%E6%A5%9D",
+          "revisionId": 93081077,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=93081077",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "栾树",
+      "speciesId": "tol10m:693a1385d8846f3a00998ed8",
+      "record": {
+        "speciesId": "tol10m:693a1385d8846f3a00998ed8",
+        "scientificName": "Koelreuteria paniculata",
+        "chineseName": "栾",
+        "displayName": "栾",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "无患子目",
+          "family": "无患子科",
+          "genus": "栾属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "栾树",
+          "url": "https://zh.wikipedia.org/wiki/栾树",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "栾树属",
+          "url": "https://zh.wikipedia.org/wiki/栾树属",
+          "purpose": "无患子科归属",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "悬铃木",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:ff47f4f43644db2b52e1c09a",
+          "scientificName": "Platanus x acerifolia",
+          "chineseName": null,
+          "displayName": "Platanus x acerifolia",
+          "isVisible": false,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "山龙眼目",
+            "family": "悬铃木科",
+            "genus": "悬铃木属"
+          }
+        },
+        {
+          "speciesId": "tol10m:794950c23e35f22356b3e3a6",
+          "scientificName": "Platanus occidentalis",
+          "chineseName": "一球悬铃木",
+          "displayName": "一球悬铃木",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "山龙眼目",
+            "family": "悬铃木科",
+            "genus": "悬铃木属"
+          }
+        },
+        {
+          "speciesId": "tol10m:ba919b92da307b78d8731dab",
+          "scientificName": "Platanus orientalis",
+          "chineseName": "三球悬铃木",
+          "displayName": "三球悬铃木",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "山龙眼目",
+            "family": "悬铃木科",
+            "genus": "悬铃木属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E4%BA%8C%E7%90%83%E6%82%AC%E9%93%83%E6%9C%A8/1414455",
+          "title": "二球悬铃木_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:03:13.445Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "找到了 ×/x 写法对应的二球悬铃木候选，但该记录缺中文名且隐藏；原词还可能指整个属，保留一球、三球候选。"
+    },
+    {
+      "inputName": "国槐",
+      "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+      "record": {
+        "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+        "scientificName": "Styphnolobium japonicum",
+        "chineseName": "槐",
+        "displayName": "槐",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "豆目",
+          "family": "豆科",
+          "genus": "槐属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "槐",
+          "url": "https://zh.wikipedia.org/wiki/槐",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "龙爪槐",
+      "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+      "record": {
+        "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+        "scientificName": "Styphnolobium japonicum",
+        "chineseName": "槐",
+        "displayName": "槐",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "豆目",
+          "family": "豆科",
+          "genus": "槐属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "槐",
+          "url": "https://zh.wikipedia.org/wiki/槐",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "已有参考明确给出母种；按物种级规则关联槐。"
+    },
+    {
+      "inputName": "花石榴",
+      "speciesId": "tol10m:f5f69fee4326248744d0ca1c",
+      "record": {
+        "speciesId": "tol10m:f5f69fee4326248744d0ca1c",
+        "scientificName": "Punica granatum",
+        "chineseName": "石榴",
+        "displayName": "石榴",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "桃金娘目",
+          "family": "千屈菜科",
+          "genus": "石榴属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E6%9C%88%E5%AD%A3%E7%9F%B3%E6%A6%B4/1714912",
+          "title": "月季石榴_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:03:29.721Z"
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "先关联石榴种级记录，不强行把所有花石榴都定成 'Nana'。"
+    },
+    {
+      "inputName": "楸树",
+      "speciesId": "tol10m:bf95ddd3eb546b49828acb72",
+      "record": {
+        "speciesId": "tol10m:bf95ddd3eb546b49828acb72",
+        "scientificName": "Catalpa bungei",
+        "chineseName": "楸",
+        "displayName": "楸",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "唇形目",
+          "family": "紫葳科",
+          "genus": "梓属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "楸树",
+          "url": "https://zh.wikipedia.org/wiki/楸树",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "檫树",
+      "speciesId": "tol10m:d106f5b003a5fa05cd6463bb",
+      "record": {
+        "speciesId": "tol10m:d106f5b003a5fa05cd6463bb",
+        "scientificName": "Sassafras tzumu",
+        "chineseName": "檫木",
+        "displayName": "檫木",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "樟目",
+          "family": "樟科",
+          "genus": "檫木属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "檫木_百度百科",
+          "url": "https://baike.baidu.com/item/%E6%AA%AB%E6%9C%A8/2039142",
+          "observedAt": "2026-09-24T06:02:56.997Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/b482de0a24e5bc28.json",
+          "sha256": "695c04c1f2810c0fb031de60878db0576a27e696c4d9aabf708b6b2de93fa418"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "花梅",
+      "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+      "record": {
+        "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+        "scientificName": "Prunus mume",
+        "chineseName": "梅",
+        "displayName": "梅",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/item/%E8%8A%B1%E6%A2%85/4056462",
+          "title": "花梅（蔷薇科杏属植物）_百度百科",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:03:37.944Z"
+        },
+        {
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724069-1",
+          "title": "Armeniaca mume — Plants of the World Online, Kew",
+          "accessMethod": "public-search-index",
+          "fact": "Armeniaca mume (Siebold) de Vriese is a synonym of Prunus mume."
+        }
+      ],
+      "status": "linked-in-file",
+      "level": "species-reference",
+      "note": "来源 Armeniaca mume 是 Prunus mume 的异名；关联梅作为目录参考，不把全部杂交观赏梅当成该物种的训练标签。"
+    },
+    {
+      "inputName": "紫叶李",
+      "speciesId": "tol10m:a6fad05f27897893415b63a4",
+      "record": {
+        "speciesId": "tol10m:a6fad05f27897893415b63a4",
+        "scientificName": "Prunus cerasifera",
+        "chineseName": "樱桃李",
+        "displayName": "樱桃李",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "蔷薇目",
+          "family": "蔷薇科",
+          "genus": "李属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "樱桃李",
+          "url": "https://zh.wikipedia.org/wiki/樱桃李",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "按物种级规则关联来源已列出的樱桃李。"
+    },
+    {
+      "inputName": "刚竹",
+      "speciesId": "tol10m:c5a8754cc89b59f2e1cfd45c",
+      "record": {
+        "speciesId": "tol10m:c5a8754cc89b59f2e1cfd45c",
+        "scientificName": "Phyllostachys reticulata",
+        "chineseName": "桂竹",
+        "displayName": "桂竹",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "禾本目",
+          "family": "禾本科",
+          "genus": "刚竹属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "桂竹",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A1%82%E7%AB%B9",
+          "revisionId": 70733825,
+          "revisionUrl": "https://zh.wikipedia.org/w/index.php?oldid=70733825",
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "慈孝竹",
+      "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+      "record": {
+        "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+        "scientificName": "Bambusa multiplex",
+        "chineseName": "孝顺竹",
+        "displayName": "孝顺竹",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "禾本目",
+          "family": "禾本科",
+          "genus": "簕竹属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "孝顺竹_百度百科",
+          "url": "https://baike.baidu.com/item/%E5%AD%9D%E9%A1%BA%E7%AB%B9/7784080",
+          "observedAt": "2026-09-24T06:03:46.090Z",
+          "accessMethod": "headed-chromium-visible-dom",
+          "evidenceFile": "server/.cache/research/landscape-baidu-20260924/dfb278fb80947af1.json",
+          "sha256": "c3cdcf627e88526fdfb68346901b8cbea69ec3a08f0af00da6350a5a6dc4ad27"
+        }
+      ],
+      "sourceField": "baidu",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "source-taxon-reference",
+      "note": "原资料已给出唯一学名候选；重新只读核对现有物种记录，补齐稳定ID。"
+    },
+    {
+      "inputName": "哺鸡竹",
+      "speciesId": null,
+      "record": null,
+      "candidates": [
+        {
+          "speciesId": "tol10m:1daac5ce16beb4bda0f683f5",
+          "scientificName": "Phyllostachys vivax",
+          "chineseName": "乌哺鸡竹",
+          "displayName": "乌哺鸡竹",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "禾本目",
+            "family": "禾本科",
+            "genus": "刚竹属"
+          }
+        },
+        {
+          "speciesId": "tol10m:fe533d9c90807ba26a352736",
+          "scientificName": "Phyllostachys iridescens",
+          "chineseName": "红哺鸡竹",
+          "displayName": "红哺鸡竹",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "禾本目",
+            "family": "禾本科",
+            "genus": "刚竹属"
+          }
+        },
+        {
+          "speciesId": "tol10m:e67925077c58400702755c8a",
+          "scientificName": "Phyllostachys dulcis",
+          "chineseName": "白哺鸡竹",
+          "displayName": "白哺鸡竹",
+          "isVisible": true,
+          "taxonomyChinese": {
+            "kingdom": "植物界",
+            "phylum": "维管植物门",
+            "class": "木兰纲",
+            "order": "禾本目",
+            "family": "禾本科",
+            "genus": "刚竹属"
+          }
+        }
+      ],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "url": "https://baike.baidu.com/",
+          "title": "百度百科_全球领先的中文百科全书",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:03:54.188Z"
+        },
+        {
+          "url": "https://baike.baidu.com/",
+          "title": "百度百科_全球领先的中文百科全书",
+          "accessMethod": "headed-chromium-visible-dom",
+          "observedAt": "2026-09-24T06:09:17.478Z"
+        }
+      ],
+      "status": "needs-selection",
+      "level": "candidate-records",
+      "note": "数据库有乌哺鸡竹、红哺鸡竹、白哺鸡竹；这只是中文名称相关候选，不能省略修饰词后认作同一物种，候选列表也非穷尽。"
+    },
+    {
+      "inputName": "凤尾竹",
+      "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+      "record": {
+        "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+        "scientificName": "Bambusa multiplex",
+        "chineseName": "孝顺竹",
+        "displayName": "孝顺竹",
+        "isVisible": true,
+        "taxonomyChinese": {
+          "kingdom": "植物界",
+          "phylum": "维管植物门",
+          "class": "木兰纲",
+          "order": "禾本目",
+          "family": "禾本科",
+          "genus": "簕竹属"
+        }
+      },
+      "candidates": [],
+      "relatedRecords": [],
+      "missingScientificNames": [],
+      "originalNamePreserved": true,
+      "globalSynonymAccepted": false,
+      "automaticTrainingLabelAllowed": false,
+      "databaseWritten": false,
+      "sources": [
+        {
+          "title": "凤尾竹",
+          "url": "https://zh.wikipedia.org/wiki/凤尾竹",
+          "revisionId": null,
+          "revisionUrl": null,
+          "attribution": "中文维基百科贡献者",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          }
+        },
+        {
+          "title": "蓬莱竹",
+          "url": "https://zh.wikipedia.org/wiki/蓬萊竹",
+          "purpose": "母种和禾本科归属；同时提示俗名使用范围不同",
+          "license": {
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh",
+            "text": "Creative Commons Attribution-Share Alike 4.0"
+          },
+          "attribution": "中文维基百科贡献者"
+        }
+      ],
+      "sourceField": "wikipedia",
+      "checkedAt": "2026-09-24T06:58:41.553554+00:00",
+      "status": "linked-in-file",
+      "level": "parent-species",
+      "note": "来源 cv. Fernleaf 关联孝顺竹，不增加品种训练类别。"
+    }
+  ]
+}

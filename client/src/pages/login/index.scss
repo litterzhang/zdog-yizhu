@@ -1,0 +1,17 @@
+@use '../../styles/tokens' as *;
+
+.login { padding-top: 22px; }
+.login__art { display: block; width: 156px; height: 128px; margin: 30px auto 18px; }
+.login__title { text-align: center; font-size: 25px; }
+.login__subtitle { display: block; text-align: center; color: $muted; font-size: 13px; margin-top: 10px; }
+.login__benefits { margin: 28px 8px; }
+.login__benefit { display: flex; align-items: center; gap: 16px; margin: 18px 0; }
+.login__benefit .icon { width: 25px; height: 25px; }
+.login__benefit-title { display: block; color: $ink; font-size: 14px; margin-bottom: 3px; }
+.login__consent { display: flex; align-items: center; gap: 6px; min-height: 44px; font-size: 12px; color: $muted; }
+.login__policy-links { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0 0 16px; }
+.login__policy-links .text-button { width: auto; flex: none; font-size: 12px; }
+.login__guest { margin-top: 12px; }
+.login__credentials { margin-bottom: 20px; }
+.login__field { display: block; margin-top: 16px; font-size: 14px; }
+.login__input { height: 48px; margin-top: 8px; padding: 0 12px; background: $surface; border: 1px solid $line; border-radius: 12px; font-size: 15px; }

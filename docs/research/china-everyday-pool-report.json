@@ -1,0 +1,158 @@
+{
+  "createdAt": "2026-09-22T03:52:26.458614+00:00",
+  "policy": "source-review-pool-v1-not-training-selection",
+  "rawRecordCount": 4619,
+  "candidateLabelCount": 3026,
+  "priorityReviewLabelCount": 1260,
+  "approvedTrainingClasses": 0,
+  "excludedInfraspecificCultivarRecords": 1370,
+  "bySource": {
+    "F18": 114,
+    "F19": 163,
+    "F20": 140,
+    "F24": 4126,
+    "F06": 72,
+    "F26": 4
+  },
+  "bySourceType": {
+    "native-recommendation": 417,
+    "survey-wild": 1238,
+    "survey-cultivated": 2888,
+    "horticulture-standard-proposal": 72,
+    "institutional-indoor-common-name-list": 4
+  },
+  "rankStatuses": {
+    "种": 2341,
+    "种级候选待核验": 534,
+    "杂交待核验": 72,
+    "待核验": 79
+  },
+  "catalogMatchedCandidates": 2341,
+  "hiddenCatalogMatchesRetained": 124,
+  "sourceRegionRecordCounts": {
+    "东北": 114,
+    "华中": 163,
+    "华北": 140,
+    "华东": 4126,
+    "未核验": 76
+  },
+  "sourceTypeFrequencyCounts": {
+    "horticulture-standard-proposal": {
+      "未明确": 72
+    },
+    "institutional-indoor-common-name-list": {
+      "未明确": 4
+    },
+    "native-recommendation": {
+      "未明确": 417
+    },
+    "survey-cultivated": {
+      "少见": 2107,
+      "多见": 510,
+      "常见": 270,
+      "极常见": 1
+    },
+    "survey-wild": {
+      "标本未见": 7,
+      "近年未采到": 47,
+      "极少见": 367,
+      "多见": 134,
+      "少见": 300,
+      "常见": 142,
+      "极常见": 122,
+      "近年未见": 118,
+      "未明确": 1
+    }
+  },
+  "priorityRanks": {
+    "种": 972,
+    "种级候选待核验": 171,
+    "杂交待核验": 38,
+    "待核验": 79
+  },
+  "priorityOnlyShanghai": 871,
+  "seedCoverage": {
+    "taxon-label-found": 29,
+    "gap": 11,
+    "source-name-only": 10
+  },
+  "seedGaps": [
+    "香樟",
+    "悬铃木",
+    "白蜡",
+    "木棉",
+    "月季",
+    "三角梅",
+    "发财树",
+    "橡皮树",
+    "蝴蝶兰",
+    "花生",
+    "梨"
+  ],
+  "seedSnapshotSha256": "422de0f5507e19616d6324f75742190a1b1c0fdbc79d3808e9877cb2c79cf28f",
+  "catalogSha256": "38faa0c3f0da61d74bbfde82a97a203a9553fbd93606fe47e1d173de3067f910",
+  "sources": [
+    {
+      "id": "F18",
+      "title": "黑龙江省主要乡土树种名录（官方通知附件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411105747551359533/file/20230411105848134502640.pdf",
+      "sha256": "81e996aeed005b22e0b42520bf7666f951b5a0156fa003a04ef9f5f307697b98"
+    },
+    {
+      "id": "F19",
+      "title": "湖北省乡土树种名录（官方通知附件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230220103901525478297/file/20230413171956108731449.pdf",
+      "sha256": "6e18688f3f2336dd198a45abc2b14913f06de7ec64071f248559d55b19f42966"
+    },
+    {
+      "id": "F20",
+      "title": "北京市主要乡土树种名录（2021版，国家林草局通知所附文件）",
+      "url": "https://www.forestry.gov.cn/html/main/main_6249/20230411171022995325568/file/20230411171447250254593.pdf",
+      "sha256": "db309dadebdbfe53bf383f116717db7098bf77d8d17413bc263411620f0e0e31"
+    },
+    {
+      "id": "F24",
+      "title": "上海维管植物名录（2022版），NSII公开工作簿",
+      "url": "https://www.nsii.org.cn/2017/PVHfile/上海维管植物名录(2022版).xlsx",
+      "sha256": "e1286de08f62159bc4c37faa569c77d93ce656a04bfaf1e9c7b5a4959cfc3344"
+    },
+    {
+      "id": "F06",
+      "title": "主要花卉产品等级 第3部分：盆栽观叶植物（修订项目）",
+      "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=E45FCE0FF3A56949E05397BE0A0A7EDF",
+      "sha256": "d400dd98e713eb16cf5407f521e8e2ca41e974ecc4e16ec254f289114281f8ed"
+    },
+    {
+      "id": "F26",
+      "title": "中国科学院沈阳应用生态研究所树木园：天南星科（Araceae）",
+      "url": "https://iae.cas.cn/smy/ylyy/ws/202301/t20230118_6601574.html",
+      "sha256": "4e626cadf4bad002ecef5ec3ccb6073cdf19b700271f402b4619bc043ca814c6"
+    }
+  ],
+  "limitations": [
+    "Candidate labels, not verified accepted species or a national commonness ranking.",
+    "Shanghai survey dominates this batch. 华南/西南/西北 source coverage still missing.",
+    "Native suitability is not actual planting abundance.",
+    "Product proposal labels are not a final standard or resolved species.",
+    "No fuzzy synonyms, manual alias database writes, private records, or training.",
+    "Cultivars/infraspecific ranks kept in raw records, not collapsed into parent species.",
+    "Readable source metadata does not establish redistribution or photo-training rights.",
+    "Priority review includes 多见 separately; it does not mean all are 常见."
+  ],
+  "localAuditArtifacts": "server/.cache/research/everyday-candidate-pool-20260922-v3",
+  "extractorSha256": "d03865dced8fec9498fc2729a105e766469c1bda61573ddfad2331b244aa7e44",
+  "exports": {
+    "china-everyday-candidate-pool.csv": {
+      "sha256": "c5e2c5bac7693ea0fa506ada4d74b40c00cdf152f275be3bc291291c2bd04fb7",
+      "bytes": 450969
+    },
+    "china-everyday-priority-review.csv": {
+      "sha256": "c6ded656740eca4c283b92805893c0fa73c7f48bd335415ec686020067d4cae8",
+      "bytes": 189475
+    },
+    "china-everyday-seed-coverage.csv": {
+      "sha256": "e6e2d68434066cd678cf928d29f828a3ececb6655de4fc2ac6edacfd72e2730d",
+      "bytes": 4269
+    }
+  }
+}

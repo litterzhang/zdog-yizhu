@@ -1,0 +1,6527 @@
+{
+  "createdAt": "2026-09-24T11:39:25.348387+00:00",
+  "level": "species",
+  "status": "planned-merged-targets-not-trained-support",
+  "inputRecordCount": 320,
+  "linkedInputCount": 296,
+  "resolvedUniqueSpeciesCount": 249,
+  "unresolvedInputCount": 24,
+  "summary": {
+    "originalSpecies": 162,
+    "additionalInputNames": 120,
+    "linkedAdditionalNames": 112,
+    "overlappingAdditionalNames": 25,
+    "newDistinctSpecies": 87,
+    "mergedDistinctSpecies": 249,
+    "pendingAdditionalNames": 8,
+    "pendingOriginalNames": 16,
+    "pendingDistinctNames": 23,
+    "catalogLocalizationRequiredSpecies": 7
+  },
+  "classes": [
+    {
+      "speciesId": "bioclip:plant-001",
+      "scientificName": "Ginkgo biloba",
+      "chineseName": "银杏",
+      "sourceInputs": [
+        {
+          "articleNumber": 37,
+          "inputName": "银杏",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 102,
+          "inputName": "银杏树"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-003",
+      "scientificName": "Platycladus orientalis",
+      "chineseName": "侧柏",
+      "sourceInputs": [
+        {
+          "articleNumber": 34,
+          "inputName": "侧柏",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-004",
+      "scientificName": "Metasequoia glyptostroboides",
+      "chineseName": "水杉",
+      "sourceInputs": [
+        {
+          "articleNumber": 36,
+          "inputName": "水杉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-006",
+      "scientificName": "Acer palmatum",
+      "chineseName": "鸡爪槭",
+      "sourceInputs": [
+        {
+          "articleNumber": 160,
+          "inputName": "羽毛枫",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 56,
+          "inputName": "鸡爪槭",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 57,
+          "inputName": "红枫",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-007",
+      "scientificName": "Liquidambar formosana",
+      "chineseName": "枫香树",
+      "sourceInputs": [
+        {
+          "articleNumber": 49,
+          "inputName": "枫香",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-008",
+      "scientificName": "Cinnamomum camphora",
+      "chineseName": "樟",
+      "sourceInputs": [
+        {
+          "articleNumber": 1,
+          "inputName": "香樟",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 101,
+          "inputName": "香樟树"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-009",
+      "scientificName": "Osmanthus fragrans",
+      "chineseName": "木犀",
+      "sourceInputs": [
+        {
+          "articleNumber": 97,
+          "inputName": "四季桂",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 2,
+          "inputName": "金桂",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 3,
+          "inputName": "银桂",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 4,
+          "inputName": "丹桂",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 1,
+          "inputName": "桂花"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-010",
+      "scientificName": "Magnolia grandiflora",
+      "chineseName": "荷花木兰",
+      "sourceInputs": [
+        {
+          "articleNumber": 13,
+          "inputName": "广玉兰",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-011",
+      "scientificName": "Liriodendron chinense",
+      "chineseName": "鹅掌楸",
+      "sourceInputs": [
+        {
+          "articleNumber": 39,
+          "inputName": "马褂木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-012",
+      "scientificName": "Salix babylonica",
+      "chineseName": "垂柳",
+      "sourceInputs": [
+        {
+          "articleNumber": 51,
+          "inputName": "垂柳",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 53,
+          "inputName": "旱柳",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-016",
+      "scientificName": "Camellia japonica",
+      "chineseName": "山茶",
+      "sourceInputs": [
+        {
+          "articleNumber": 111,
+          "inputName": "山茶",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-017",
+      "scientificName": "Gardenia jasminoides",
+      "chineseName": "栀子",
+      "sourceInputs": [
+        {
+          "articleNumber": 134,
+          "inputName": "大叶栀子花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 135,
+          "inputName": "小叶栀子花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 29,
+          "inputName": "栀子花"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-019",
+      "scientificName": "Rosa chinensis",
+      "chineseName": "月季花",
+      "sourceInputs": [
+        {
+          "articleNumber": 162,
+          "inputName": "月季",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 2,
+          "inputName": "月季"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-020",
+      "scientificName": "Hydrangea macrophylla",
+      "chineseName": "绣球",
+      "sourceInputs": [
+        {
+          "articleNumber": 129,
+          "inputName": "草本绣球",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 166,
+          "inputName": "八仙花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 12,
+          "inputName": "绣球花"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-021",
+      "scientificName": "Nelumbo nucifera",
+      "chineseName": "莲",
+      "sourceInputs": [
+        {
+          "articleNumber": 193,
+          "inputName": "荷花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 14,
+          "inputName": "荷花"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 52,
+          "inputName": "碗莲"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0143a0c6dd533a6d6c2bc1fc",
+      "scientificName": "Pterocarya stenoptera",
+      "chineseName": "枫杨",
+      "sourceInputs": [
+        {
+          "articleNumber": 55,
+          "inputName": "枫杨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:023667d959ac4722f55c0c82",
+      "scientificName": "Lonicera japonica",
+      "chineseName": "忍冬",
+      "sourceInputs": [
+        {
+          "articleNumber": 168,
+          "inputName": "金银花",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:046314ec9f25471d4fe86162",
+      "scientificName": "Pistacia chinensis",
+      "chineseName": "黄连木",
+      "sourceInputs": [
+        {
+          "articleNumber": 86,
+          "inputName": "黄连木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:04792be1a8ba7e018ac97011",
+      "scientificName": "Ziziphus jujuba",
+      "chineseName": "枣",
+      "sourceInputs": [
+        {
+          "articleNumber": 77,
+          "inputName": "枣",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:051044b2f3b491ebe3ad6375",
+      "scientificName": "Phyllostachys glauca",
+      "chineseName": "淡竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 94,
+          "inputName": "淡竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:06fee7eceb1a88b4977ee3ab",
+      "scientificName": "Styphnolobium japonicum",
+      "chineseName": "槐",
+      "sourceInputs": [
+        {
+          "articleNumber": 71,
+          "inputName": "国槐",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 72,
+          "inputName": "龙爪槐",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:093a966920494cc044e005ac",
+      "scientificName": "Pinus thunbergii",
+      "chineseName": "黑松",
+      "sourceInputs": [
+        {
+          "articleNumber": 33,
+          "inputName": "黑松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0c1631d5e623bd439108d02e",
+      "scientificName": "Jasminum mesnyi",
+      "chineseName": "野迎春",
+      "sourceInputs": [
+        {
+          "articleNumber": 121,
+          "inputName": "云南黄素馨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0c7e9e94234c18e6c5befe8d",
+      "scientificName": "Juniperus procumbens",
+      "chineseName": "铺地柏",
+      "sourceInputs": [
+        {
+          "articleNumber": 141,
+          "inputName": "铺地柏",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0cb693d11093594fd855ca29",
+      "scientificName": "Senna corymbosa",
+      "chineseName": "伞房决明",
+      "sourceInputs": [
+        {
+          "articleNumber": 132,
+          "inputName": "伞房决明",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:10eff2f4132a35c1be168236",
+      "scientificName": "Prunus lannesiana",
+      "chineseName": "日本晚樱",
+      "sourceInputs": [
+        {
+          "articleNumber": 47,
+          "inputName": "日本晚樱",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:169789741d642728ea20a136",
+      "scientificName": "Indocalamus tessellatus",
+      "chineseName": "箬竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 96,
+          "inputName": "箬竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:189b50b7eb14a3496e21ccfd",
+      "scientificName": "Rosa banksiae",
+      "chineseName": "木香花",
+      "sourceInputs": [
+        {
+          "articleNumber": 153,
+          "inputName": "木香",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:190327b95eeb7adefb295559",
+      "scientificName": "Magnolia maudiae",
+      "chineseName": "深山含笑",
+      "sourceInputs": [
+        {
+          "articleNumber": 15,
+          "inputName": "深山含笑",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:196df313166b20be92faefc6",
+      "scientificName": "Impatiens balsamina",
+      "chineseName": "凤仙花",
+      "sourceInputs": [
+        {
+          "articleNumber": 199,
+          "inputName": "凤仙花",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:1d0060731e75256a41eadf10",
+      "scientificName": "Pittosporum tobira",
+      "chineseName": "海桐",
+      "sourceInputs": [
+        {
+          "articleNumber": 125,
+          "inputName": "海桐",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:1dba7b2ae96e198168933ba2",
+      "scientificName": "Hyacinthus orientalis",
+      "chineseName": "风信子",
+      "sourceInputs": [
+        {
+          "articleNumber": 198,
+          "inputName": "风信子",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 20,
+          "inputName": "风信子"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:1dbee3aeb0f11f1bbf1853f2",
+      "scientificName": "Ilex crenata",
+      "chineseName": "齿叶冬青",
+      "sourceInputs": [
+        {
+          "articleNumber": 146,
+          "inputName": "龟甲冬青",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:220f94bc77b4aae4270ecae7",
+      "scientificName": "Malva cathayensis",
+      "chineseName": "锦葵",
+      "sourceInputs": [
+        {
+          "articleNumber": 186,
+          "inputName": "锦葵",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:232ee3478adcccc648fd815b",
+      "scientificName": "Cornus alba",
+      "chineseName": "红瑞木",
+      "sourceInputs": [
+        {
+          "articleNumber": 114,
+          "inputName": "红瑞木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2360206f343a5bac9cf1aa01",
+      "scientificName": "Ophiopogon jaburan",
+      "chineseName": "剑叶沿阶草",
+      "sourceInputs": [
+        {
+          "articleNumber": 192,
+          "inputName": "银纹沿阶草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2570b4f412e8c6489669c3bb",
+      "scientificName": "Berberis bealei",
+      "chineseName": "阔叶十大功劳",
+      "sourceInputs": [
+        {
+          "articleNumber": 131,
+          "inputName": "阔叶十大功劳",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2790570a66666ae32ea92b77",
+      "scientificName": "Syringa oblata",
+      "chineseName": "紫丁香",
+      "sourceInputs": [
+        {
+          "articleNumber": 170,
+          "inputName": "丁香",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:27fb32d1651dc67c0863c2f9",
+      "scientificName": "Magnolia x soulangeana",
+      "chineseName": "二乔玉兰",
+      "sourceInputs": [
+        {
+          "articleNumber": 38,
+          "inputName": "二乔玉兰",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:281487c1062c0facab7c8f60",
+      "scientificName": "Nerium oleander",
+      "chineseName": "夹竹桃",
+      "sourceInputs": [
+        {
+          "articleNumber": 124,
+          "inputName": "夹竹桃",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 111,
+          "inputName": "夹竹桃"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:28d6261e2a9bae9e71cdeef4",
+      "scientificName": "Berberis thunbergii",
+      "chineseName": "日本小檗",
+      "sourceInputs": [
+        {
+          "articleNumber": 152,
+          "inputName": "红叶小檗",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:294311e4b8cd11fed6b55c0e",
+      "scientificName": "Lagerstroemia indica",
+      "chineseName": "紫薇",
+      "sourceInputs": [
+        {
+          "articleNumber": 108,
+          "inputName": "紫薇",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 110,
+          "inputName": "紫薇"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:29615b66f96b2b397cf33581",
+      "scientificName": "Elaeagnus pungens",
+      "chineseName": "胡颓子",
+      "sourceInputs": [
+        {
+          "articleNumber": 104,
+          "inputName": "胡颓子",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2c027f541440b002c1e3cbe0",
+      "scientificName": "Edgeworthia chrysantha",
+      "chineseName": "结香",
+      "sourceInputs": [
+        {
+          "articleNumber": 112,
+          "inputName": "结香",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2d6ad06d0d54e9cf252778f8",
+      "scientificName": "Nymphaea tetragona",
+      "chineseName": "睡莲",
+      "sourceInputs": [
+        {
+          "articleNumber": 194,
+          "inputName": "睡莲",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 15,
+          "inputName": "睡莲"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2f0b440b042372535020314c",
+      "scientificName": "Kerria japonica",
+      "chineseName": "棣棠",
+      "sourceInputs": [
+        {
+          "articleNumber": 144,
+          "inputName": "棣棠",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:318411ca9822dec26f045d4c",
+      "scientificName": "Triadica sebifera",
+      "chineseName": "乌桕",
+      "sourceInputs": [
+        {
+          "articleNumber": 67,
+          "inputName": "乌桕",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:31997b247f04561ed860929f",
+      "scientificName": "Prunus armeniaca",
+      "chineseName": "杏",
+      "sourceInputs": [
+        {
+          "articleNumber": 40,
+          "inputName": "杏树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:31a467166f33aae110bb78f8",
+      "scientificName": "Fatshedera lizei",
+      "chineseName": "熊掌木",
+      "sourceInputs": [
+        {
+          "articleNumber": 133,
+          "inputName": "熊掌木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:3254df6482aa60f08d900bca",
+      "scientificName": "Ligustrum vicaryi",
+      "chineseName": "金叶女贞",
+      "sourceInputs": [
+        {
+          "articleNumber": 123,
+          "inputName": "金叶女贞",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:349043bdec809c50bb1a1169",
+      "scientificName": "Schima superba",
+      "chineseName": "木荷",
+      "sourceInputs": [
+        {
+          "articleNumber": 23,
+          "inputName": "木荷",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:36cad5de85d23152fc8189aa",
+      "scientificName": "Spiraea japonica",
+      "chineseName": "粉花绣线菊",
+      "sourceInputs": [
+        {
+          "articleNumber": 157,
+          "inputName": "红花绣线菊",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 158,
+          "inputName": "金焰绣线菊",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:36de97396d68a2d0f7d2ed6a",
+      "scientificName": "Viburnum odoratissimum",
+      "chineseName": "珊瑚树",
+      "sourceInputs": [
+        {
+          "articleNumber": 126,
+          "inputName": "法国冬青",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:38fdbf97be9ad878323cef67",
+      "scientificName": "Ophiopogon japonicus",
+      "chineseName": "麦冬",
+      "sourceInputs": [
+        {
+          "articleNumber": 184,
+          "inputName": "麦冬",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:3a07f42b3ce1f91b9d493d4d",
+      "scientificName": "Oxalis triangularis",
+      "chineseName": "三角叶酢浆草",
+      "sourceInputs": [
+        {
+          "articleNumber": 182,
+          "inputName": "紫叶酢浆草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:3fa61fa9a36c98dd9928eb7b",
+      "scientificName": "Phyllostachys nigra",
+      "chineseName": "紫竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 91,
+          "inputName": "紫竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:401dceac758d42eada7de8e0",
+      "scientificName": "Pyracantha fortuneana",
+      "chineseName": "火棘",
+      "sourceInputs": [
+        {
+          "articleNumber": 107,
+          "inputName": "火棘",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 97,
+          "inputName": "火棘"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:40204e78f192a1eeae904419",
+      "scientificName": "Toona sinensis",
+      "chineseName": "香椿",
+      "sourceInputs": [
+        {
+          "articleNumber": 75,
+          "inputName": "香椿",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:4095ac85ddcd3babd2044060",
+      "scientificName": "Ternstroemia gymnanthera",
+      "chineseName": "厚皮香",
+      "sourceInputs": [
+        {
+          "articleNumber": 101,
+          "inputName": "厚皮香",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:41d78565de08a45f1a0c5b48",
+      "scientificName": "Magnolia figo",
+      "chineseName": "含笑花",
+      "sourceInputs": [
+        {
+          "articleNumber": 100,
+          "inputName": "含笑",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:450c33c4039f4e478c4eb58b",
+      "scientificName": "Prunus yedoensis",
+      "chineseName": "东京樱花",
+      "sourceInputs": [
+        {
+          "articleNumber": 46,
+          "inputName": "东京樱花",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:47180927bf775a07481e33b2",
+      "scientificName": "Iris pseudacorus",
+      "chineseName": "黄菖蒲",
+      "sourceInputs": [
+        {
+          "articleNumber": 176,
+          "inputName": "黄菖蒲",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:4c661e44b600b22ad2fe590d",
+      "scientificName": "Camellia sasanqua",
+      "chineseName": "茶梅",
+      "sourceInputs": [
+        {
+          "articleNumber": 25,
+          "inputName": "茶梅",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:4edeeb2d649c9cf494d38a40",
+      "scientificName": "Fatsia japonica",
+      "chineseName": "八角金盘",
+      "sourceInputs": [
+        {
+          "articleNumber": 115,
+          "inputName": "八角金盘",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:502258803819c9e4018f51bf",
+      "scientificName": "Elaeocarpus decipiens",
+      "chineseName": "杜英",
+      "sourceInputs": [
+        {
+          "articleNumber": 5,
+          "inputName": "杜英",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:503652fb6d07372e27e409c1",
+      "scientificName": "Pinus parviflora",
+      "chineseName": "日本五针松",
+      "sourceInputs": [
+        {
+          "articleNumber": 10,
+          "inputName": "五针松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5564d457c579400c33c12410",
+      "scientificName": "Rhododendron pulchrum",
+      "chineseName": "锦绣杜鹃",
+      "sourceInputs": [
+        {
+          "articleNumber": 116,
+          "inputName": "毛鹃",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 119,
+          "inputName": "紫鹃",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5748130197678ca44609df38",
+      "scientificName": "Sapindus mukorossi",
+      "chineseName": "无患子",
+      "sourceInputs": [
+        {
+          "articleNumber": 61,
+          "inputName": "无患子",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:579347b53706ce171e8817b4",
+      "scientificName": "Pseudocydonia sinensis",
+      "chineseName": "木瓜",
+      "sourceInputs": [
+        {
+          "articleNumber": 18,
+          "inputName": "木瓜",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5a288d2aaa533f04e649ade8",
+      "scientificName": "Salix argyracea",
+      "chineseName": "银柳",
+      "sourceInputs": [
+        {
+          "articleNumber": 159,
+          "inputName": "银柳",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5ad491e825c3eecae9f7d38c",
+      "scientificName": "Quercus glauca",
+      "chineseName": "青冈",
+      "sourceInputs": [
+        {
+          "articleNumber": 21,
+          "inputName": "青冈栎",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5b111efef64aec93afeb5657",
+      "scientificName": "Celtis sinensis",
+      "chineseName": "朴树",
+      "sourceInputs": [
+        {
+          "articleNumber": 62,
+          "inputName": "朴树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5b651ce88a2634922bb33f7a",
+      "scientificName": "Photinia bodinieri",
+      "chineseName": "椤木",
+      "sourceInputs": [
+        {
+          "articleNumber": 24,
+          "inputName": "椤木石楠",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5d60c0ea26cd6ee2502fa440",
+      "scientificName": "Malus halliana",
+      "chineseName": "垂丝海棠",
+      "sourceInputs": [
+        {
+          "articleNumber": 69,
+          "inputName": "垂丝海棠",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5f276278f264809f9f4d70e5",
+      "scientificName": "Yucca flaccida",
+      "chineseName": "软叶丝兰",
+      "sourceInputs": [
+        {
+          "articleNumber": 142,
+          "inputName": "丝兰",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5f75c63c2f6bc80d4d65aa1e",
+      "scientificName": "Forsythia viridissima",
+      "chineseName": "金钟花",
+      "sourceInputs": [
+        {
+          "articleNumber": 149,
+          "inputName": "黄金条",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:60245d17b2fe44d2d3996f13",
+      "scientificName": "Pinus bungeana",
+      "chineseName": "白皮松",
+      "sourceInputs": [
+        {
+          "articleNumber": 30,
+          "inputName": "白皮松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:60ef1702b3bced02d13b6646",
+      "scientificName": "Eriobotrya japonica",
+      "chineseName": "枇杷",
+      "sourceInputs": [
+        {
+          "articleNumber": 17,
+          "inputName": "枇杷",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 99,
+          "inputName": "枇杷"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:63f4a45c81c568f4ae0780cd",
+      "scientificName": "Typha orientalis",
+      "chineseName": "香蒲",
+      "sourceInputs": [
+        {
+          "articleNumber": 197,
+          "inputName": "香蒲",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:65dd7690c1d2b6775e731075",
+      "scientificName": "Bambusa multiplex",
+      "chineseName": "孝顺竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 90,
+          "inputName": "慈孝竹",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 95,
+          "inputName": "凤尾竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:66f8f9b88f5f95a95c59c6f5",
+      "scientificName": "Wisteria sinensis",
+      "chineseName": "紫藤",
+      "sourceInputs": [
+        {
+          "articleNumber": 156,
+          "inputName": "紫藤",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 21,
+          "inputName": "紫藤"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6842e08709d522a16d1c7f21",
+      "scientificName": "Nandina domestica",
+      "chineseName": "南天竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 103,
+          "inputName": "南天竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:693a1385d8846f3a00998ed8",
+      "scientificName": "Koelreuteria paniculata",
+      "chineseName": "栾",
+      "sourceInputs": [
+        {
+          "articleNumber": 65,
+          "inputName": "栾树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:695bd27594bca3d2c6960ad7",
+      "scientificName": "Oxalis debilis",
+      "chineseName": "红花酢浆草",
+      "sourceInputs": [
+        {
+          "articleNumber": 180,
+          "inputName": "红花酢浆草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6b3dc9a6d7b254c9155ac174",
+      "scientificName": "Trachycarpus fortunei",
+      "chineseName": "棕榈",
+      "sourceInputs": [
+        {
+          "articleNumber": 7,
+          "inputName": "棕榈",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6badf97a86b56d64cfee0ba0",
+      "scientificName": "Aucuba chinensis",
+      "chineseName": "桃叶珊瑚",
+      "sourceInputs": [
+        {
+          "articleNumber": 154,
+          "inputName": "桃叶珊瑚",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7103098fabbac77885499506",
+      "scientificName": "Citrus medica",
+      "chineseName": "香橼",
+      "sourceInputs": [
+        {
+          "articleNumber": 19,
+          "inputName": "香橼",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 96,
+          "inputName": "佛手"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:72fca1a0d9cd83dd2b8e85bf",
+      "scientificName": "Arundo donax",
+      "chineseName": "芦竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 196,
+          "inputName": "花叶芦竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:75b111e19e785e6a7a1e0d1e",
+      "scientificName": "Iris tectorum",
+      "chineseName": "鸢尾",
+      "sourceInputs": [
+        {
+          "articleNumber": 174,
+          "inputName": "鸢尾",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 22,
+          "inputName": "鸢尾"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:76082481412cbe7e8b590fb3",
+      "scientificName": "Juniperus chinensis",
+      "chineseName": "圆柏",
+      "sourceInputs": [
+        {
+          "articleNumber": 26,
+          "inputName": "龙柏",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 27,
+          "inputName": "桧柏",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:76b3f37f6937d3e72de38382",
+      "scientificName": "Photinia serratifolia",
+      "chineseName": "石楠",
+      "sourceInputs": [
+        {
+          "articleNumber": 106,
+          "inputName": "石楠",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:79d6ca01356d8c1a06b86f85",
+      "scientificName": "Forsythia suspensa",
+      "chineseName": "连翘",
+      "sourceInputs": [
+        {
+          "articleNumber": 171,
+          "inputName": "连翘",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7b1e18192573658c6f0465ff",
+      "scientificName": "Prunus mume",
+      "chineseName": "梅",
+      "sourceInputs": [
+        {
+          "articleNumber": 41,
+          "inputName": "梅花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 83,
+          "inputName": "花梅",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7f987f09b6d5b590b7706701",
+      "scientificName": "Weigela florida",
+      "chineseName": "锦带花",
+      "sourceInputs": [
+        {
+          "articleNumber": 167,
+          "inputName": "锦带花",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7fde6b5394366e5c794514b7",
+      "scientificName": "Euonymus fortunei",
+      "chineseName": "扶芳藤",
+      "sourceInputs": [
+        {
+          "articleNumber": 165,
+          "inputName": "扶芳藤",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:839e2722450db90a9f271d24",
+      "scientificName": "Ficus carica",
+      "chineseName": "无花果",
+      "sourceInputs": [
+        {
+          "articleNumber": 80,
+          "inputName": "无花果",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 98,
+          "inputName": "无花果"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:85244f69d528cb5d52248986",
+      "scientificName": "Cercis chinensis",
+      "chineseName": "紫荆",
+      "sourceInputs": [
+        {
+          "articleNumber": 70,
+          "inputName": "紫荆",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:86f648382a0b1431a5bcd88a",
+      "scientificName": "Lycoris radiata",
+      "chineseName": "石蒜",
+      "sourceInputs": [
+        {
+          "articleNumber": 178,
+          "inputName": "石蒜",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:873aa36302fbd8a7ba90e9d9",
+      "scientificName": "Allamanda schottii",
+      "chineseName": "黄蝉",
+      "sourceInputs": [
+        {
+          "articleNumber": 148,
+          "inputName": "黄蝉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:88e1af87e0c0ac2587a594b7",
+      "scientificName": "Prunus persica",
+      "chineseName": "桃",
+      "sourceInputs": [
+        {
+          "articleNumber": 42,
+          "inputName": "碧桃",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 44,
+          "inputName": "寿星桃",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8a299212d227d427d11a5580",
+      "scientificName": "Viola tricolor",
+      "chineseName": "三色堇",
+      "sourceInputs": [
+        {
+          "articleNumber": 187,
+          "inputName": "三色堇",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8b180f9a32d89298c5ccf815",
+      "scientificName": "Hibiscus mutabilis",
+      "chineseName": "木芙蓉",
+      "sourceInputs": [
+        {
+          "articleNumber": 150,
+          "inputName": "木芙蓉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:91f7f2e9ecce03a913a679cd",
+      "scientificName": "Distylium racemosum",
+      "chineseName": "蚊母树",
+      "sourceInputs": [
+        {
+          "articleNumber": 105,
+          "inputName": "蚊母树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:997e759932bf548693041203",
+      "scientificName": "Hypericum monogynum",
+      "chineseName": "金丝桃",
+      "sourceInputs": [
+        {
+          "articleNumber": 120,
+          "inputName": "金丝桃",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:9997f0283393b220e6627e88",
+      "scientificName": "Euonymus japonicus",
+      "chineseName": "冬青卫矛",
+      "sourceInputs": [
+        {
+          "articleNumber": 136,
+          "inputName": "金边黄杨",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 137,
+          "inputName": "大叶黄杨",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 173,
+          "inputName": "银边黄杨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:9a76dbb90d2eb77162c0a88e",
+      "scientificName": "Taxodium distichum",
+      "chineseName": "落羽杉",
+      "sourceInputs": [
+        {
+          "articleNumber": 12,
+          "inputName": "落羽杉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:9b485e539c13d4e2469e7419",
+      "scientificName": "Bischofia polycarpa",
+      "chineseName": "重阳木",
+      "sourceInputs": [
+        {
+          "articleNumber": 74,
+          "inputName": "重阳木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:9dbcbe427e42e9c2d61ad91b",
+      "scientificName": "Ligustrum quihoui",
+      "chineseName": "小叶女贞",
+      "sourceInputs": [
+        {
+          "articleNumber": 122,
+          "inputName": "小叶女贞",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a475507f39154d2bd556f2d1",
+      "scientificName": "Campsis grandiflora",
+      "chineseName": "凌霄",
+      "sourceInputs": [
+        {
+          "articleNumber": 172,
+          "inputName": "凌霄",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a5c632ff1578e41b1be01020",
+      "scientificName": "Buddleja lindleyana",
+      "chineseName": "醉鱼草",
+      "sourceInputs": [
+        {
+          "articleNumber": 151,
+          "inputName": "醉鱼草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a6abcc6334bf96caa9bce605",
+      "scientificName": "Zephyranthes candida",
+      "chineseName": "葱莲",
+      "sourceInputs": [
+        {
+          "articleNumber": 179,
+          "inputName": "葱兰",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a6fad05f27897893415b63a4",
+      "scientificName": "Prunus cerasifera",
+      "chineseName": "樱桃李",
+      "sourceInputs": [
+        {
+          "articleNumber": 45,
+          "inputName": "红叶李",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 85,
+          "inputName": "紫叶李",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a8dc80228176b77afd2bd0a2",
+      "scientificName": "Canna indica",
+      "chineseName": "美人蕉",
+      "sourceInputs": [
+        {
+          "articleNumber": 185,
+          "inputName": "美人蕉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ab8c05538c51422b4934cc80",
+      "scientificName": "Citrus reticulata",
+      "chineseName": "柑橘",
+      "sourceInputs": [
+        {
+          "articleNumber": 20,
+          "inputName": "红橘",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 22,
+          "inputName": "桔子树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ad4424cb2dd858859c3ed4d3",
+      "scientificName": "Prunus pseudocerasus",
+      "chineseName": "樱桃",
+      "sourceInputs": [
+        {
+          "articleNumber": 68,
+          "inputName": "樱桃",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ae40e57c76799e05213a7ba8",
+      "scientificName": "Populus tomentosa",
+      "chineseName": "毛白杨",
+      "sourceInputs": [
+        {
+          "articleNumber": 63,
+          "inputName": "毛白杨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ae6f1cdc62727bdd9e63356d",
+      "scientificName": "Cycas revoluta",
+      "chineseName": "苏铁",
+      "sourceInputs": [
+        {
+          "articleNumber": 29,
+          "inputName": "苏铁",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b0dcd751a16c874c3e3e7072",
+      "scientificName": "Dianthus chinensis",
+      "chineseName": "石竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 188,
+          "inputName": "石竹",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 44,
+          "inputName": "石竹"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b200268732511e4cc85f931a",
+      "scientificName": "Lythrum salicaria",
+      "chineseName": "千屈菜",
+      "sourceInputs": [
+        {
+          "articleNumber": 183,
+          "inputName": "千屈菜",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b3553acd8f3950c0998e0303",
+      "scientificName": "Ligustrum lucidum",
+      "chineseName": "女贞",
+      "sourceInputs": [
+        {
+          "articleNumber": 98,
+          "inputName": "女贞",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b3850af9f4e35538b2501bd9",
+      "scientificName": "Podocarpus macrophyllus",
+      "chineseName": "罗汉松",
+      "sourceInputs": [
+        {
+          "articleNumber": 9,
+          "inputName": "罗汉松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b522609ca980ac77dcf4c1d4",
+      "scientificName": "Melia azedarach",
+      "chineseName": "楝",
+      "sourceInputs": [
+        {
+          "articleNumber": 60,
+          "inputName": "苦楝",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b72307d67bfb5a5713eaf319",
+      "scientificName": "Juniperus virginiana",
+      "chineseName": "北美圆柏",
+      "sourceInputs": [
+        {
+          "articleNumber": 28,
+          "inputName": "铅笔柏",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b86ea749327f1f982ebc5e50",
+      "scientificName": "Paeonia lactiflora",
+      "chineseName": "芍药",
+      "sourceInputs": [
+        {
+          "articleNumber": 190,
+          "inputName": "芍药",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 5,
+          "inputName": "芍药"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b93d1f3535f8c98e269aba0a",
+      "scientificName": "Talipariti hamabo",
+      "chineseName": "海滨木槿",
+      "sourceInputs": [
+        {
+          "articleNumber": 143,
+          "inputName": "滨海木槿",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ba919b92da307b78d8731dab",
+      "scientificName": "Platanus orientalis",
+      "chineseName": "三球悬铃木",
+      "sourceInputs": [
+        {
+          "articleNumber": 50,
+          "inputName": "法国梧桐",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 109,
+          "inputName": "法国梧桐"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:bec5b11640f8a230c13c7e78",
+      "scientificName": "Pontederia cordata",
+      "chineseName": "海寿花",
+      "sourceInputs": [
+        {
+          "articleNumber": 195,
+          "inputName": "梭鱼草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:bf95ddd3eb546b49828acb72",
+      "scientificName": "Catalpa bungei",
+      "chineseName": "楸",
+      "sourceInputs": [
+        {
+          "articleNumber": 81,
+          "inputName": "楸树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c45c22299e01606b21fce956",
+      "scientificName": "Albizia julibrissin",
+      "chineseName": "合欢",
+      "sourceInputs": [
+        {
+          "articleNumber": 35,
+          "inputName": "合欢",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c5a8754cc89b59f2e1cfd45c",
+      "scientificName": "Phyllostachys reticulata",
+      "chineseName": "桂竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 88,
+          "inputName": "刚竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c7f2fb40dd0b580cb7558824",
+      "scientificName": "Loropetalum chinense",
+      "chineseName": "檵木",
+      "sourceInputs": [
+        {
+          "articleNumber": 147,
+          "inputName": "红花檵木",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:cca9e9aec73d6fd8ddfc736c",
+      "scientificName": "Firmiana simplex",
+      "chineseName": "梧桐",
+      "sourceInputs": [
+        {
+          "articleNumber": 59,
+          "inputName": "青桐",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d0cafa52112a4033051a6044",
+      "scientificName": "Phyllostachys edulis",
+      "chineseName": "毛竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 92,
+          "inputName": "毛竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d106f5b003a5fa05cd6463bb",
+      "scientificName": "Sassafras tzumu",
+      "chineseName": "檫木",
+      "sourceInputs": [
+        {
+          "articleNumber": 82,
+          "inputName": "檫树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d17714eb2cce580e6ea46f75",
+      "scientificName": "Sphagneticola calendulacea",
+      "chineseName": "蟛蜞菊",
+      "sourceInputs": [
+        {
+          "articleNumber": 191,
+          "inputName": "蟛蜞菊",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d17e31b16f3831469cfed1b2",
+      "scientificName": "Magnolia liliiflora",
+      "chineseName": "紫玉兰",
+      "sourceInputs": [
+        {
+          "articleNumber": 99,
+          "inputName": "紫玉兰",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d2aa7fb26628f373c1c19d38",
+      "scientificName": "Chimonanthus praecox",
+      "chineseName": "蜡梅",
+      "sourceInputs": [
+        {
+          "articleNumber": 161,
+          "inputName": "素心腊梅",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 48,
+          "inputName": "腊梅",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d745f1be8e41defe4c17b5f7",
+      "scientificName": "Diospyros kaki",
+      "chineseName": "柿",
+      "sourceInputs": [
+        {
+          "articleNumber": 78,
+          "inputName": "柿",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 100,
+          "inputName": "柿子"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d81a1acfbc6dcdfde20f3573",
+      "scientificName": "Hosta plantaginea",
+      "chineseName": "玉簪",
+      "sourceInputs": [
+        {
+          "articleNumber": 175,
+          "inputName": "玉簪",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 88,
+          "inputName": "玉簪"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d903f7d3871c0e0a59673c71",
+      "scientificName": "Ilex cornuta",
+      "chineseName": "枸骨",
+      "sourceInputs": [
+        {
+          "articleNumber": 145,
+          "inputName": "构骨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:db042186064092ed8fe387f5",
+      "scientificName": "Crataegus pinnatifida",
+      "chineseName": "山楂",
+      "sourceInputs": [
+        {
+          "articleNumber": 84,
+          "inputName": "山楂",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:dbb13acd5c4c600e8d0ea952",
+      "scientificName": "Berberis fortunei",
+      "chineseName": "十大功劳",
+      "sourceInputs": [
+        {
+          "articleNumber": 130,
+          "inputName": "狭叶十大功劳",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e3be6b02ba7259038b6c05c4",
+      "scientificName": "Cedrus deodara",
+      "chineseName": "雪松",
+      "sourceInputs": [
+        {
+          "articleNumber": 8,
+          "inputName": "雪松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e51d70e14ccd6987065e4d46",
+      "scientificName": "Ailanthus altissima",
+      "chineseName": "臭椿",
+      "sourceInputs": [
+        {
+          "articleNumber": 76,
+          "inputName": "臭椿",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e62552431a38ff8c6d9a308f",
+      "scientificName": "Ulmus parvifolia",
+      "chineseName": "榔榆",
+      "sourceInputs": [
+        {
+          "articleNumber": 54,
+          "inputName": "榔榆",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e636b1eee6d904370a949ea1",
+      "scientificName": "Pinus elliottii",
+      "chineseName": "湿地松",
+      "sourceInputs": [
+        {
+          "articleNumber": 31,
+          "inputName": "湿地松",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e6b960c3a595eea7282b066e",
+      "scientificName": "Robinia pseudoacacia",
+      "chineseName": "刺槐",
+      "sourceInputs": [
+        {
+          "articleNumber": 73,
+          "inputName": "刺槐",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e7c54c19134516b10c35608b",
+      "scientificName": "Jasminum nudiflorum",
+      "chineseName": "迎春花",
+      "sourceInputs": [
+        {
+          "articleNumber": 169,
+          "inputName": "迎春",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e8def157414750c11dca95c3",
+      "scientificName": "Cryptomeria japonica",
+      "chineseName": "日本柳杉",
+      "sourceInputs": [
+        {
+          "articleNumber": 11,
+          "inputName": "日本柳杉",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e98ca27be9bc45c64172251b",
+      "scientificName": "Aucuba japonica",
+      "chineseName": "青木",
+      "sourceInputs": [
+        {
+          "articleNumber": 155,
+          "inputName": "洒金桃叶珊瑚",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ef557e44c87d8e5d2a767093",
+      "scientificName": "Phyllostachys propinqua",
+      "chineseName": "早园竹",
+      "sourceInputs": [
+        {
+          "articleNumber": 89,
+          "inputName": "早园竹",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f0d6862175734b78820dae65",
+      "scientificName": "Magnolia chapensis",
+      "chineseName": "乐昌含笑",
+      "sourceInputs": [
+        {
+          "articleNumber": 16,
+          "inputName": "乐昌含笑",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f124eebb9daa3387c35c1a9a",
+      "scientificName": "Citrus maxima",
+      "chineseName": "柚",
+      "sourceInputs": [
+        {
+          "articleNumber": 32,
+          "inputName": "柚子",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f1fd5519077816f26de50e74",
+      "scientificName": "Zelkova serrata",
+      "chineseName": "榉树",
+      "sourceInputs": [
+        {
+          "articleNumber": 87,
+          "inputName": "榉树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f3374d167c525e2853872c32",
+      "scientificName": "Hibiscus syriacus",
+      "chineseName": "木槿",
+      "sourceInputs": [
+        {
+          "articleNumber": 109,
+          "inputName": "木槿",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f3cc3b562bfd8a7166f358de",
+      "scientificName": "Camptotheca acuminata",
+      "chineseName": "喜树",
+      "sourceInputs": [
+        {
+          "articleNumber": 64,
+          "inputName": "喜树",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f5f69fee4326248744d0ca1c",
+      "scientificName": "Punica granatum",
+      "chineseName": "石榴",
+      "sourceInputs": [
+        {
+          "articleNumber": 113,
+          "inputName": "石榴",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 79,
+          "inputName": "花石榴",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 93,
+          "inputName": "石榴"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f88babcaafa5bda9a796d7bd",
+      "scientificName": "Catharanthus roseus",
+      "chineseName": "长春花",
+      "sourceInputs": [
+        {
+          "articleNumber": 189,
+          "inputName": "长春花",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 53,
+          "inputName": "长春花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f9a1f3e4e1055aa7c2c1e77e",
+      "scientificName": "Reineckea carnea",
+      "chineseName": "吉祥草",
+      "sourceInputs": [
+        {
+          "articleNumber": 200,
+          "inputName": "吉祥草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:fd390c50536e071ced4b6b42",
+      "scientificName": "Vinca major",
+      "chineseName": "蔓长春花",
+      "sourceInputs": [
+        {
+          "articleNumber": 128,
+          "inputName": "花叶蔓长春",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:fda099434a06756daf1f4d1e",
+      "scientificName": "Coleus scutellarioides",
+      "chineseName": "五彩苏",
+      "sourceInputs": [
+        {
+          "articleNumber": 181,
+          "inputName": "彩叶草",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ff11767affd87ab5245842fe",
+      "scientificName": "Buxus sinica",
+      "chineseName": "黄杨",
+      "sourceInputs": [
+        {
+          "articleNumber": 138,
+          "inputName": "瓜子黄杨",
+          "inputList": "landscape-plants-200"
+        },
+        {
+          "articleNumber": 139,
+          "inputName": "豆瓣黄杨",
+          "inputList": "landscape-plants-200"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+      "scientificName": "Bougainvillea spectabilis",
+      "chineseName": "叶子花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 3,
+          "inputName": "三角梅"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 4,
+          "inputName": "牡丹"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E7%89%A1%E4%B8%B9/6080"
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-002",
+      "scientificName": "Jasminum sambac",
+      "chineseName": "茉莉花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 6,
+          "inputName": "茉莉花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "杜鹃",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 7,
+          "inputName": "杜鹃花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:86b4d27d45b632a666d54cbc",
+      "scientificName": "Plumbago auriculata",
+      "chineseName": "蓝花丹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 8,
+          "inputName": "蓝雪花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:012964d1ecf672eacc0c6040",
+      "scientificName": "Petunia hybrida",
+      "chineseName": "矮牵牛",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 9,
+          "inputName": "矮牵牛"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:ef208cbbbcbbfad2e7d96de2",
+      "scientificName": "Helianthus annuus",
+      "chineseName": "向日葵",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 10,
+          "inputName": "向日葵"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:07d83d85c6a532d5547b2a67",
+      "scientificName": "Clematis florida",
+      "chineseName": "铁线莲",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 13,
+          "inputName": "铁线莲"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+      "scientificName": "Lilium brownii",
+      "chineseName": "野百合",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 16,
+          "inputName": "百合"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+      "scientificName": "Dianthus caryophyllus",
+      "chineseName": "香石竹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 17,
+          "inputName": "康乃馨"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:681d4d1530b17dace52e0565",
+      "scientificName": "Dahlia pinnata",
+      "chineseName": "大丽花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 18,
+          "inputName": "大丽花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:414c7845208037a868c7155f",
+      "scientificName": "Chrysanthemum morifolium",
+      "chineseName": "菊花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 19,
+          "inputName": "菊花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:3c9e45bd0ce8eccb99b23667",
+      "scientificName": "Hemerocallis fulva",
+      "chineseName": "萱草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 23,
+          "inputName": "萱草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5bb689a6962669f3631bf421",
+      "scientificName": "Spathiphyllum floribundum",
+      "chineseName": "多花白鹤芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 24,
+          "inputName": "白掌"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:36e410b3aec1cb5755887bba",
+      "scientificName": "Celosia cristata",
+      "chineseName": "鸡冠花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 25,
+          "inputName": "鸡冠花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b0875ea14851f69443ac8677",
+      "scientificName": "Rosa rugosa",
+      "chineseName": "玫瑰",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 26,
+          "inputName": "玫瑰"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2a8fcd57bca7e3ffb6440098",
+      "scientificName": "Tulipa gesneriana",
+      "chineseName": "郁金香",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 27,
+          "inputName": "郁金香"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:72c38aed84b492db5fe1098b",
+      "scientificName": "Epiphyllum oxypetalum",
+      "chineseName": "昙花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 28,
+          "inputName": "昙花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:797e410a1293203e37b1cac9",
+      "scientificName": "Narcissus tazetta",
+      "chineseName": "欧洲水仙",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 30,
+          "inputName": "水仙"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:3dd966ad79e3de5d968d2cc7",
+      "scientificName": "Kalanchoe blossfeldiana",
+      "chineseName": "长寿花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 31,
+          "inputName": "长寿花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c0aa99a688c4fa4f1bf59f5a",
+      "scientificName": "Tagetes erecta",
+      "chineseName": "万寿菊",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 32,
+          "inputName": "万寿菊"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d5225ad4a352038e430cbda4",
+      "scientificName": "Gazania rigens",
+      "chineseName": "勋章菊",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 33,
+          "inputName": "勋章菊"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e2e8cf47f8b1317f40619f1a",
+      "scientificName": "Alcea rosea",
+      "chineseName": "蜀葵",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 34,
+          "inputName": "蜀葵"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:cb88374801f6e5c5e7fd96c8",
+      "scientificName": "Lamprocapnos spectabilis",
+      "chineseName": "荷包牡丹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 35,
+          "inputName": "荷包牡丹"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f2ef49f981d85776371adc01",
+      "scientificName": "Adenium obesum",
+      "chineseName": "天宝花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 36,
+          "inputName": "沙漠玫瑰"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+      "scientificName": "Begonia hiemalis",
+      "chineseName": "丽格秋海棠",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 37,
+          "inputName": "丽格海棠"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E4%B8%BD%E6%A0%BC%E7%A7%8B%E6%B5%B7%E6%A3%A0/5554272"
+      ]
+    },
+    {
+      "speciesId": "tol10m:f8d18bfd41b0d34a31519c9f",
+      "scientificName": "Begonia cucullata",
+      "chineseName": "四季秋海棠",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 38,
+          "inputName": "四季海棠"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+      "scientificName": "Begonia tuberhybrida",
+      "chineseName": "球根秋海棠",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 39,
+          "inputName": "球根海棠"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E7%90%83%E6%A0%B9%E6%B5%B7%E6%A3%A0"
+      ]
+    },
+    {
+      "speciesId": "tol10m:3072cae41fb1d81a079e6c70",
+      "scientificName": "Nicotiana alata",
+      "chineseName": "花烟草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 40,
+          "inputName": "花烟草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:1ee7239822147c8bb0d78d06",
+      "scientificName": "Matthiola incana",
+      "chineseName": "紫罗兰",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 41,
+          "inputName": "紫罗兰"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6fc4852f413cbc3d6fcaf770",
+      "scientificName": "Lavandula angustifolia",
+      "chineseName": "薰衣草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 42,
+          "inputName": "薰衣草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0792ef5c9b97e06825fd8501",
+      "scientificName": "Antirrhinum majus",
+      "chineseName": "金鱼草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 43,
+          "inputName": "金鱼草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:4d8ea6b4a4c2fe72c1f93b66",
+      "scientificName": "Tropaeolum majus",
+      "chineseName": "旱金莲",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 45,
+          "inputName": "旱金莲"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:a3ff19ae9e2684e08aaa8f55",
+      "scientificName": "Digitalis purpurea",
+      "chineseName": "毛地黄",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 46,
+          "inputName": "毛地黄"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+      "scientificName": "Lupinus micranthus",
+      "chineseName": "羽扇豆",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 47,
+          "inputName": "羽扇豆"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7429a4d0327a51871fbabd01",
+      "scientificName": "Phlox drummondii",
+      "chineseName": "福禄考",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 48,
+          "inputName": "福禄考"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:5d08e67d08480c41c070832e",
+      "scientificName": "Disocactus ackermannii",
+      "chineseName": "令箭荷花",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 49,
+          "inputName": "令箭荷花"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+      "scientificName": "Salvia japonica",
+      "chineseName": "鼠尾草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 51,
+          "inputName": "鼠尾草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+      "scientificName": "Silene pendula",
+      "chineseName": "大蔓樱草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 54,
+          "inputName": "矮雪轮"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:72ad4fcaf04df6099951b90e",
+      "scientificName": "Cosmos bipinnatus",
+      "chineseName": "秋英",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 55,
+          "inputName": "波斯菊"
+        }
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-015",
+      "scientificName": "Epipremnum aureum",
+      "chineseName": "绿萝",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 56,
+          "inputName": "绿萝"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6b33c98d4ce894571cb886b1",
+      "scientificName": "Adiantum capillus-veneris",
+      "chineseName": "铁线蕨",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 57,
+          "inputName": "铁线蕨"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f17951f5a49cf5fc77501ff6",
+      "scientificName": "Rohdea japonica",
+      "chineseName": "万年青",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 58,
+          "inputName": "万年青"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:74db8fa10bf676cb119913e0",
+      "scientificName": "Anthurium andraeanum",
+      "chineseName": "花烛",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 59,
+          "inputName": "红掌"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+      "scientificName": "Zamioculcas zamiifolia",
+      "chineseName": "雪铁芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 60,
+          "inputName": "金钱树"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:047b008567ef5b5f525ed413",
+      "scientificName": "Sansevieria trifasciata",
+      "chineseName": "虎尾兰",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 61,
+          "inputName": "虎皮兰"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E8%99%8E%E5%B0%BE%E5%85%B0/790426"
+      ]
+    },
+    {
+      "speciesId": "bioclip:plant-014",
+      "scientificName": "Monstera deliciosa",
+      "chineseName": "龟背竹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 62,
+          "inputName": "龟背竹"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6f7b725180d75e28233b5f96",
+      "scientificName": "Dracaena sanderiana",
+      "chineseName": "富贵竹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 63,
+          "inputName": "富贵竹"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:77320dd4d792de9f9004e843",
+      "scientificName": "Alocasia odora",
+      "chineseName": "海芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 64,
+          "inputName": "滴水观音"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:87e7f016ee0ac70828a4bfc5",
+      "scientificName": "Saxifraga stolonifera",
+      "chineseName": "虎耳草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 65,
+          "inputName": "虎耳草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+      "scientificName": "Ficus elastica",
+      "chineseName": "印度榕",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 66,
+          "inputName": "橡皮树"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f1949eb78b34140906167853",
+      "scientificName": "Asparagus setaceus",
+      "chineseName": "文竹",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 67,
+          "inputName": "文竹"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:fb72e9ad41553417e83bcf9c",
+      "scientificName": "Caladium bicolor",
+      "chineseName": "五彩芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 68,
+          "inputName": "彩叶芋"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:825b72102effc22545beeda1",
+      "scientificName": "Hydrocotyle vulgaris",
+      "chineseName": "少脉香菇草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 69,
+          "inputName": "铜钱草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:05802ab369437a380133bbad",
+      "scientificName": "Schefflera heptaphylla",
+      "chineseName": "鹅掌柴",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 70,
+          "inputName": "鹅掌柴"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E9%B9%85%E6%8E%8C%E6%9F%B4",
+        "https://api.gbif.org/v1/species/match?name=Schefflera+heptaphylla&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Heptapleurum+heptaphyllum&strict=true"
+      ]
+    },
+    {
+      "speciesId": "tol10m:586378f5658469e1484aee9d",
+      "scientificName": "Dypsis lutescens",
+      "chineseName": "散尾葵",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 71,
+          "inputName": "散尾葵"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d6432a5d803886a6e3a35da1",
+      "scientificName": "Peperomia tetraphylla",
+      "chineseName": "豆瓣绿",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 72,
+          "inputName": "豆瓣绿"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:69e42467286c0b73173930d7",
+      "scientificName": "Fittonia albivenis",
+      "chineseName": "网纹草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 73,
+          "inputName": "网纹草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:927699252b5d9e824084c017",
+      "scientificName": "Goeppertia makoyana",
+      "chineseName": "孔雀肖竹芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 74,
+          "inputName": "孔雀竹芋"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:1dabf40818633a9ee3d43f12",
+      "scientificName": "Peperomia graveolens",
+      "chineseName": "红背椒草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 75,
+          "inputName": "红背椒草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:7523ae328a431040bf5a3da5",
+      "scientificName": "Parthenocissus tricuspidata",
+      "chineseName": "地锦",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 78,
+          "inputName": "爬山虎"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+      "scientificName": "Chamaedorea elegans",
+      "chineseName": "袖珍竹节椰",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 79,
+          "inputName": "袖珍椰子"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:0d50f182f54e9d342bdeda7a",
+      "scientificName": "Syngonium podophyllum",
+      "chineseName": "合果芋",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 80,
+          "inputName": "合果芋"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+      "scientificName": "Polyscias guilfoylei",
+      "chineseName": "银边南洋参",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 81,
+          "inputName": "福禄桐"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c3ff8f02bc9a21c623eb5cc4",
+      "scientificName": "Crassula ovata",
+      "chineseName": "燕子掌",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 82,
+          "inputName": "燕子掌"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:450642e20ad662c0ef362b71",
+      "scientificName": "Mentha canadensis",
+      "chineseName": "薄荷",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 83,
+          "inputName": "薄荷"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:63a6367398beba9f3315efda",
+      "scientificName": "Haworthia cooperi",
+      "chineseName": "玉露",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 85,
+          "inputName": "玉露"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+      "scientificName": "Curio rowleyanus",
+      "chineseName": "翡翠珠",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 86,
+          "inputName": "珍珠吊兰"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:47ce68d71ce138b7084f6118",
+      "scientificName": "Muehlenbeckia complexa",
+      "chineseName": "千叶兰",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 87,
+          "inputName": "千叶吊兰"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:c1efce4f758de09f7597485b",
+      "scientificName": "Heuchera micrantha",
+      "chineseName": "矾根",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 89,
+          "inputName": "矾根"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f91c21b47a458332665e7107",
+      "scientificName": "Sedum sarmentosum",
+      "chineseName": "垂盆草",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 90,
+          "inputName": "垂盆草"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+      "scientificName": "Citrus japonica",
+      "chineseName": "金柑",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 91,
+          "inputName": "金桔"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8efc6b11cdf824db473131f4",
+      "scientificName": "Vitis vinifera",
+      "chineseName": "葡萄",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 92,
+          "inputName": "葡萄"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+      "scientificName": "Fragaria ananassa",
+      "chineseName": "草莓",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 94,
+          "inputName": "草莓"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E8%8D%89%E8%8E%93/32702",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+x+ananassa&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+ananassa&strict=true"
+      ]
+    },
+    {
+      "speciesId": "tol10m:07b2fe56649390b7cd7699fd",
+      "scientificName": "Ficus microcarpa",
+      "chineseName": "榕树",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 103,
+          "inputName": "榕树"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+      "scientificName": "Canarium album",
+      "chineseName": "橄榄",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 105,
+          "inputName": "橄榄树"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:6a24ee5d4826e7ed97074c62",
+      "scientificName": "Bombax ceiba",
+      "chineseName": "木棉",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 106,
+          "inputName": "木棉"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:2ccafa9622ad34424c1187c3",
+      "scientificName": "Araucaria cunninghamii",
+      "chineseName": "南洋杉",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 107,
+          "inputName": "南洋杉"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:daeb35038d50651d52b911eb",
+      "scientificName": "Pachira glabra",
+      "chineseName": "马拉巴栗",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 108,
+          "inputName": "发财树"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:cf79e6a11c19ae475e688e5e",
+      "scientificName": "Datura stramonium",
+      "chineseName": "曼陀罗",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 112,
+          "inputName": "曼陀罗"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e9589bdf3d24bc5ce682ee30",
+      "scientificName": "Veronica persica",
+      "chineseName": "阿拉伯婆婆纳",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 113,
+          "inputName": "阿拉伯婆婆纳"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:b733e5082595186659314796",
+      "scientificName": "Solanum nigrum",
+      "chineseName": "龙葵",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 114,
+          "inputName": "龙葵"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:49a3f86771353d23358c7d8b",
+      "scientificName": "Viola philippica",
+      "chineseName": "紫花地丁",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 116,
+          "inputName": "紫花地丁"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:8d504bb80c740140a73a1623",
+      "scientificName": "Pulsatilla chinensis",
+      "chineseName": "白头翁",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 117,
+          "inputName": "白头翁"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:f2a48ffb6b7e3a597b32f2e0",
+      "scientificName": "Androsace umbellata",
+      "chineseName": "点地梅",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 118,
+          "inputName": "点地梅"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:e4088b9f9dc0e126d5f381b1",
+      "scientificName": "Taraxacum mongolicum",
+      "chineseName": "蒲公英",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 119,
+          "inputName": "蒲公英"
+        }
+      ]
+    },
+    {
+      "speciesId": "tol10m:710e458059ee4ba98144a081",
+      "scientificName": "Potentilla indica",
+      "chineseName": "蛇莓",
+      "sourceInputs": [
+        {
+          "inputList": "ornamental-plants-120",
+          "position": 120,
+          "inputName": "蛇莓"
+        }
+      ],
+      "catalogLocalizationRequired": true,
+      "chineseNameSources": [
+        "https://baike.baidu.com/item/%E8%9B%87%E8%8E%93/602803",
+        "https://api.gbif.org/v1/species/match?name=Duchesnea+indica&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Potentilla+indica&strict=true"
+      ]
+    }
+  ],
+  "unresolvedInputs": [
+    {
+      "articleNumber": 102,
+      "inputName": "苦楮",
+      "status": "needs-selection",
+      "note": "百度精确输入指苦郎树，园林语境的近字候选苦槠却不在库中；不能因为只有苦郎树有记录就直接选择它。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 110,
+      "inputName": "山麻杆",
+      "status": "catalog-gap",
+      "note": "当前来源学名未找到数据库记录；不以其他含 davidii 的近名物种替代。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 117,
+      "inputName": "春鹃",
+      "status": "needs-selection",
+      "note": "有来源物种候选杜鹃，但“春鹃”还被来源按花期用作园艺类群；现有一个候选不证明所有春鹃都属于该种。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 118,
+      "inputName": "夏鹃",
+      "status": "needs-selection",
+      "note": "来源同时涉及锦绣杜鹃、杜鹃及皋月杜鹃；先保留已有候选，不按中文名或可见性任意挑一个。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 127,
+      "inputName": "常春藤",
+      "status": "catalog-gap",
+      "note": "Kew 将本次百度来源的 var. sinensis 归为独立接受种 Hedera sinensis；两种写法库中均没有。不能删掉变种名后误连尼泊尔常春藤，也不能仅因有洋常春藤就替代。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 140,
+      "inputName": "雀舌黄杨",
+      "status": "catalog-gap",
+      "note": "来源及 Kew 的接受种在库中缺失；不能因为不区分品种而把不同物种强并成黄杨。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 163,
+      "inputName": "红帽子月季",
+      "status": "needs-selection",
+      "note": "可定位现有月季相关记录，但来源把特定园艺名称和月季花混写；Rosa hybrid 也是未核准的旧标签，不直接当母种。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 164,
+      "inputName": "丰花月季",
+      "status": "catalog-gap",
+      "note": "缺少核准的丰花月季园艺类群对应；已有 Rosa hybrid 或月季花只可作相关记录，不冒充确定的品种母种。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 177,
+      "inputName": "石菖蒲",
+      "status": "needs-selection",
+      "note": "原维基候选是库中的金钱蒲；植物志/Kew 支持另一分类实体，而相关名称库中均缺，暂不误合并。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 6,
+      "inputName": "中山杉",
+      "status": "catalog-gap",
+      "note": "库中有落羽杉属的物种，但没有该园艺系列记录。属内物种仅供定位，不把系列任意绑定为其中一种，也不推断每个编号的亲本。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 14,
+      "inputName": "白玉兰",
+      "status": "needs-selection",
+      "note": "库中已有玉兰与白兰相关学名候选，两条均缺中文名且隐藏；需要选具体植物，不把两者并成一个别名。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 43,
+      "inputName": "花桃",
+      "status": "needs-selection",
+      "note": "百度指向山桃，园林用语也可能意指观赏桃；两种均在库中，原文不足以唯一选择。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 52,
+      "inputName": "金枝垂柳",
+      "status": "catalog-gap",
+      "note": "金丝垂柳补查页给出的杂交名库中未命中；垂柳、白柳只是相关亲本记录，不能拿其中一个替代杂交植物。原名与金丝垂柳的同义关系也仍需核实。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 58,
+      "inputName": "青枫",
+      "status": "needs-selection",
+      "note": "中国园林资料与原维基来源指向不同物种，两个记录均在库中；原名单不足以排除其中一种。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 66,
+      "inputName": "悬铃木",
+      "status": "needs-selection",
+      "note": "找到了 ×/x 写法对应的二球悬铃木候选，但该记录缺中文名且隐藏；原词还可能指整个属，保留一球、三球候选。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "articleNumber": 93,
+      "inputName": "哺鸡竹",
+      "status": "needs-selection",
+      "note": "数据库有乌哺鸡竹、红哺鸡竹、白哺鸡竹；这只是中文名称相关候选，不能省略修饰词后认作同一物种，候选列表也非穷尽。",
+      "inputList": "landscape-plants-200"
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 11,
+      "inputName": "樱花",
+      "status": "needs-review",
+      "note": "来源学名是 Prunus subg. Cerasus sp.，属于多物种统称。原文未指定具体种，候选只是库中例子，不能随意选择一条。",
+      "candidateSpeciesIds": [
+        "tol10m:10eff2f4132a35c1be168236",
+        "tol10m:4388fa40600530f1d4cb4d89",
+        "tol10m:450c33c4039f4e478c4eb58b"
+      ]
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 50,
+      "inputName": "倒挂金钟",
+      "status": "needs-review",
+      "note": "来源及 GBIF 确认 Fuchsia × hybrida；数据库没有该分类实体，不能用短筒倒挂金钟 F. magellanica 代替。",
+      "candidateSpeciesIds": []
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 76,
+      "inputName": "常春藤",
+      "status": "needs-review",
+      "note": "原来源种下名经此前研究及当前 GBIF 接受种记录定位到 Hedera sinensis；数据库缺该种，不用洋常春藤替代。",
+      "candidateSpeciesIds": []
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 77,
+      "inputName": "冷水花",
+      "status": "needs-review",
+      "note": "来源及 GBIF 对应 Pilea notata，数据库缺该种；不混为透茎冷水花 P. pumila 或花叶冷水花 P. cadierei。",
+      "candidateSpeciesIds": []
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 84,
+      "inputName": "金钻",
+      "status": "needs-review",
+      "note": "来源为 Philodendron tatei 的 Congo 栽培类型，种级已明确但数据库缺该种；不能改用春羽。",
+      "candidateSpeciesIds": []
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 95,
+      "inputName": "蓝莓",
+      "status": "needs-review",
+      "note": "来源为 Vaccinium spp.，包含多个物种；不能将所有蓝莓都视作高丛越橘。",
+      "candidateSpeciesIds": [
+        "tol10m:0dee351f30c4eb55de18873b",
+        "tol10m:7be8346c498df75d54b50b77",
+        "tol10m:8a5fd3178e1c026a3871fb24"
+      ]
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 104,
+      "inputName": "桉树",
+      "status": "needs-review",
+      "note": "来源 Eucalyptus spp. 是多个物种的统称，不是单一物种；候选为库中例子，不自动纳入。",
+      "candidateSpeciesIds": [
+        "tol10m:ab98be70eeffdd8011e46e33",
+        "tol10m:b238d2eb5694eec2f8e4c4c9",
+        "tol10m:ee7a619fea152a53c19577e5"
+      ]
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 115,
+      "inputName": "车前草",
+      "status": "needs-review",
+      "note": "默认词条指平车前 Plantago depressa；名称也可能用于车前 Plantago asiatica，原文仅说路边常见，不能排除任一物种。",
+      "candidateSpeciesIds": [
+        "tol10m:0b2d5c2729d5e5a6f60e9c64",
+        "tol10m:63bfe89953ede69af8c06708"
+      ]
+    }
+  ],
+  "additionalInputMappings": [
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 1,
+      "inputName": "桂花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-009",
+      "scientificName": "Osmanthus fragrans",
+      "chineseName": "木犀",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-009",
+          "scientificName": "Osmanthus fragrans",
+          "chineseName": "木犀",
+          "aliases": [
+            "桂花"
+          ],
+          "displayName": "木犀",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 2,
+      "inputName": "月季",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-019",
+      "scientificName": "Rosa chinensis",
+      "chineseName": "月季花",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-019",
+          "scientificName": "Rosa chinensis",
+          "chineseName": "月季花",
+          "aliases": [],
+          "displayName": "月季花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 3,
+      "inputName": "三角梅",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+      "scientificName": "Bougainvillea spectabilis",
+      "chineseName": "叶子花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:cf2b5e14cf0fec744a698f95",
+          "scientificName": "Bougainvillea spectabilis",
+          "chineseName": "叶子花",
+          "aliases": [],
+          "displayName": "叶子花",
+          "isVisible": true
+        }
+      ],
+      "note": "已选择植物义项，来源指叶子花；仅采用该物种，不把光叶子花等同属物种合并。",
+      "sources": [
+        "https://baike.baidu.com/item/%E4%B8%89%E8%A7%92%E6%A2%85",
+        "https://baike.baidu.com/item/%E5%8F%B6%E5%AD%90%E8%8A%B1/1788779"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 4,
+      "inputName": "牡丹",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+      "scientificName": "Paeonia suffruticosa",
+      "chineseName": "牡丹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b0df3a424020b6974efbc94f",
+          "scientificName": "Paeonia suffruticosa",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Paeonia suffruticosa",
+          "isVisible": false
+        }
+      ],
+      "note": "来源 Paeonia × suffruticosa 与库中省略杂交符号的记录关联；不选任何亲本，不创建品种类别。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%89%A1%E4%B8%B9/6080"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 5,
+      "inputName": "芍药",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:b86ea749327f1f982ebc5e50",
+      "scientificName": "Paeonia lactiflora",
+      "chineseName": "芍药",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b86ea749327f1f982ebc5e50",
+          "scientificName": "Paeonia lactiflora",
+          "chineseName": "芍药",
+          "aliases": [],
+          "displayName": "芍药",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 6,
+      "inputName": "茉莉花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-002",
+      "scientificName": "Jasminum sambac",
+      "chineseName": "茉莉花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-002",
+          "scientificName": "Jasminum sambac",
+          "chineseName": "茉莉花",
+          "aliases": [],
+          "displayName": "茉莉花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 7,
+      "inputName": "杜鹃花",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+      "scientificName": "Rhododendron simsii",
+      "chineseName": "杜鹃",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d8ef0c09aa9fb46bd66f079f",
+          "scientificName": "Rhododendron simsii",
+          "chineseName": "杜鹃",
+          "aliases": [],
+          "displayName": "杜鹃",
+          "isVisible": true
+        }
+      ],
+      "note": "来源明确将杜鹃花列作杜鹃别名，关联到杜鹃的物种ID，不概括全部杜鹃花属。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%9D%9C%E9%B9%83/18876"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 8,
+      "inputName": "蓝雪花",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:86b4d27d45b632a666d54cbc",
+      "scientificName": "Plumbago auriculata",
+      "chineseName": "蓝花丹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:86b4d27d45b632a666d54cbc",
+          "scientificName": "Plumbago auriculata",
+          "chineseName": "蓝花丹",
+          "aliases": [],
+          "displayName": "蓝花丹",
+          "isVisible": true
+        }
+      ],
+      "note": "按本次观赏园艺语境与来源学名关联蓝花丹，不采用中文同名的 Ceratostigma plumbaginoides。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%93%9D%E9%9B%AA%E8%8A%B1/59947977"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 9,
+      "inputName": "矮牵牛",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:012964d1ecf672eacc0c6040",
+      "scientificName": "Petunia hybrida",
+      "chineseName": "矮牵牛",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:012964d1ecf672eacc0c6040",
+          "scientificName": "Petunia hybrida",
+          "chineseName": "矮牵牛",
+          "aliases": [],
+          "displayName": "矮牵牛",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 10,
+      "inputName": "向日葵",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:ef208cbbbcbbfad2e7d96de2",
+      "scientificName": "Helianthus annuus",
+      "chineseName": "向日葵",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:ef208cbbbcbbfad2e7d96de2",
+          "scientificName": "Helianthus annuus",
+          "chineseName": "向日葵",
+          "aliases": [],
+          "displayName": "向日葵",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 11,
+      "inputName": "樱花",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:10eff2f4132a35c1be168236",
+          "scientificName": "Prunus lannesiana",
+          "chineseName": "日本晚樱",
+          "aliases": [],
+          "displayName": "日本晚樱",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:4388fa40600530f1d4cb4d89",
+          "scientificName": "Prunus serrulata",
+          "chineseName": "山樱花",
+          "aliases": [],
+          "displayName": "山樱花",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:450c33c4039f4e478c4eb58b",
+          "scientificName": "Prunus yedoensis",
+          "chineseName": "东京樱花",
+          "aliases": [],
+          "displayName": "东京樱花",
+          "isVisible": true
+        }
+      ],
+      "note": "来源学名是 Prunus subg. Cerasus sp.，属于多物种统称。原文未指定具体种，候选只是库中例子，不能随意选择一条。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A8%B1%E8%8A%B1/70387"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 12,
+      "inputName": "绣球花",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "bioclip:plant-020",
+      "scientificName": "Hydrangea macrophylla",
+      "chineseName": "绣球",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-020",
+          "scientificName": "Hydrangea macrophylla",
+          "chineseName": "绣球",
+          "aliases": [],
+          "displayName": "绣球",
+          "isVisible": true
+        }
+      ],
+      "note": "按原文园艺花球语境关联绣球，不采用库中同名 Scadoxus pole-evansii。",
+      "sources": [
+        "https://www.iplant.cn/info/绣球"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 13,
+      "inputName": "铁线莲",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:07d83d85c6a532d5547b2a67",
+      "scientificName": "Clematis florida",
+      "chineseName": "铁线莲",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:07d83d85c6a532d5547b2a67",
+          "scientificName": "Clematis florida",
+          "chineseName": "铁线莲",
+          "aliases": [],
+          "displayName": "铁线莲",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 14,
+      "inputName": "荷花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-021",
+      "scientificName": "Nelumbo nucifera",
+      "chineseName": "莲",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-021",
+          "scientificName": "Nelumbo nucifera",
+          "chineseName": "莲",
+          "aliases": [],
+          "displayName": "莲",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 15,
+      "inputName": "睡莲",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:2d6ad06d0d54e9cf252778f8",
+      "scientificName": "Nymphaea tetragona",
+      "chineseName": "睡莲",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:2d6ad06d0d54e9cf252778f8",
+          "scientificName": "Nymphaea tetragona",
+          "chineseName": "睡莲",
+          "aliases": [],
+          "displayName": "睡莲",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 16,
+      "inputName": "百合",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+      "scientificName": "Lilium brownii",
+      "chineseName": "野百合",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f48ab781760c7733bb5c4116",
+          "scientificName": "Lilium brownii",
+          "chineseName": "野百合",
+          "aliases": [],
+          "displayName": "野百合",
+          "isVisible": true
+        }
+      ],
+      "note": "按来源狭义百合 Lilium brownii var. viridulum 归入野百合种级；不表示覆盖全部百合属或所有园艺杂交百合。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%99%BE%E5%90%88/7886"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 17,
+      "inputName": "康乃馨",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+      "scientificName": "Dianthus caryophyllus",
+      "chineseName": "香石竹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:89d82453ab4b0a3d50cfd5dc",
+          "scientificName": "Dianthus caryophyllus",
+          "chineseName": "香石竹",
+          "aliases": [],
+          "displayName": "香石竹",
+          "isVisible": true
+        }
+      ],
+      "note": "本名单以来源正文所述香石竹作为种级目标。康乃馨主页使用园艺类群名称，不能把所有杂交康乃馨自动标成该种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%BA%B7%E4%B9%83%E9%A6%A8/34029",
+        "https://baike.baidu.com/item/%E9%A6%99%E7%9F%B3%E7%AB%B9/505521"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 18,
+      "inputName": "大丽花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:681d4d1530b17dace52e0565",
+      "scientificName": "Dahlia pinnata",
+      "chineseName": "大丽花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:681d4d1530b17dace52e0565",
+          "scientificName": "Dahlia pinnata",
+          "chineseName": "大丽花",
+          "aliases": [],
+          "displayName": "大丽花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 19,
+      "inputName": "菊花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:414c7845208037a868c7155f",
+      "scientificName": "Chrysanthemum morifolium",
+      "chineseName": "菊花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:414c7845208037a868c7155f",
+          "scientificName": "Chrysanthemum morifolium",
+          "chineseName": "菊花",
+          "aliases": [],
+          "displayName": "菊花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 20,
+      "inputName": "风信子",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:1dba7b2ae96e198168933ba2",
+      "scientificName": "Hyacinthus orientalis",
+      "chineseName": "风信子",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:1dba7b2ae96e198168933ba2",
+          "scientificName": "Hyacinthus orientalis",
+          "chineseName": "风信子",
+          "aliases": [],
+          "displayName": "风信子",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 21,
+      "inputName": "紫藤",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:66f8f9b88f5f95a95c59c6f5",
+      "scientificName": "Wisteria sinensis",
+      "chineseName": "紫藤",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:66f8f9b88f5f95a95c59c6f5",
+          "scientificName": "Wisteria sinensis",
+          "chineseName": "紫藤",
+          "aliases": [],
+          "displayName": "紫藤",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 22,
+      "inputName": "鸢尾",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:75b111e19e785e6a7a1e0d1e",
+      "scientificName": "Iris tectorum",
+      "chineseName": "鸢尾",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:75b111e19e785e6a7a1e0d1e",
+          "scientificName": "Iris tectorum",
+          "chineseName": "鸢尾",
+          "aliases": [],
+          "displayName": "鸢尾",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 23,
+      "inputName": "萱草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:3c9e45bd0ce8eccb99b23667",
+      "scientificName": "Hemerocallis fulva",
+      "chineseName": "萱草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:3c9e45bd0ce8eccb99b23667",
+          "scientificName": "Hemerocallis fulva",
+          "chineseName": "萱草",
+          "aliases": [],
+          "displayName": "萱草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 24,
+      "inputName": "白掌",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:5bb689a6962669f3631bf421",
+      "scientificName": "Spathiphyllum floribundum",
+      "chineseName": "多花白鹤芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:5bb689a6962669f3631bf421",
+          "scientificName": "Spathiphyllum floribundum",
+          "chineseName": "多花白鹤芋",
+          "aliases": [],
+          "displayName": "多花白鹤芋",
+          "isVisible": true
+        }
+      ],
+      "note": "来源为多花白鹤芋 Clevelandii 栽培品种；仅上卷至同一物种，不单列品种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%99%BD%E6%8E%8C"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 25,
+      "inputName": "鸡冠花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:36e410b3aec1cb5755887bba",
+      "scientificName": "Celosia cristata",
+      "chineseName": "鸡冠花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:36e410b3aec1cb5755887bba",
+          "scientificName": "Celosia cristata",
+          "chineseName": "鸡冠花",
+          "aliases": [],
+          "displayName": "鸡冠花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 26,
+      "inputName": "玫瑰",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:b0875ea14851f69443ac8677",
+      "scientificName": "Rosa rugosa",
+      "chineseName": "玫瑰",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b0875ea14851f69443ac8677",
+          "scientificName": "Rosa rugosa",
+          "chineseName": "玫瑰",
+          "aliases": [],
+          "displayName": "玫瑰",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 27,
+      "inputName": "郁金香",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:2a8fcd57bca7e3ffb6440098",
+      "scientificName": "Tulipa gesneriana",
+      "chineseName": "郁金香",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:2a8fcd57bca7e3ffb6440098",
+          "scientificName": "Tulipa gesneriana",
+          "chineseName": "郁金香",
+          "aliases": [],
+          "displayName": "郁金香",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 28,
+      "inputName": "昙花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:72c38aed84b492db5fe1098b",
+      "scientificName": "Epiphyllum oxypetalum",
+      "chineseName": "昙花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:72c38aed84b492db5fe1098b",
+          "scientificName": "Epiphyllum oxypetalum",
+          "chineseName": "昙花",
+          "aliases": [],
+          "displayName": "昙花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 29,
+      "inputName": "栀子花",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "bioclip:plant-017",
+      "scientificName": "Gardenia jasminoides",
+      "chineseName": "栀子",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-017",
+          "scientificName": "Gardenia jasminoides",
+          "chineseName": "栀子",
+          "aliases": [],
+          "displayName": "栀子",
+          "isVisible": true
+        }
+      ],
+      "note": "关联栀子的物种记录。",
+      "sources": [
+        "https://www.iplant.cn/info/栀子"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 30,
+      "inputName": "水仙",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:797e410a1293203e37b1cac9",
+      "scientificName": "Narcissus tazetta",
+      "chineseName": "欧洲水仙",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:797e410a1293203e37b1cac9",
+          "scientificName": "Narcissus tazetta",
+          "chineseName": "欧洲水仙",
+          "aliases": [],
+          "displayName": "欧洲水仙",
+          "isVisible": true
+        }
+      ],
+      "note": "来源是 Narcissus tazetta subsp. chinensis；按种级范围归并，保留数据库中文名，不新增亚种类别。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%B0%B4%E4%BB%99/6410"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 31,
+      "inputName": "长寿花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:3dd966ad79e3de5d968d2cc7",
+      "scientificName": "Kalanchoe blossfeldiana",
+      "chineseName": "长寿花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:3dd966ad79e3de5d968d2cc7",
+          "scientificName": "Kalanchoe blossfeldiana",
+          "chineseName": "长寿花",
+          "aliases": [],
+          "displayName": "长寿花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 32,
+      "inputName": "万寿菊",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:c0aa99a688c4fa4f1bf59f5a",
+      "scientificName": "Tagetes erecta",
+      "chineseName": "万寿菊",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:c0aa99a688c4fa4f1bf59f5a",
+          "scientificName": "Tagetes erecta",
+          "chineseName": "万寿菊",
+          "aliases": [
+            "孔雀草"
+          ],
+          "displayName": "万寿菊",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 33,
+      "inputName": "勋章菊",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:d5225ad4a352038e430cbda4",
+      "scientificName": "Gazania rigens",
+      "chineseName": "勋章菊",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d5225ad4a352038e430cbda4",
+          "scientificName": "Gazania rigens",
+          "chineseName": "勋章菊",
+          "aliases": [],
+          "displayName": "勋章菊",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 34,
+      "inputName": "蜀葵",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:e2e8cf47f8b1317f40619f1a",
+      "scientificName": "Alcea rosea",
+      "chineseName": "蜀葵",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:e2e8cf47f8b1317f40619f1a",
+          "scientificName": "Alcea rosea",
+          "chineseName": "蜀葵",
+          "aliases": [],
+          "displayName": "蜀葵",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 35,
+      "inputName": "荷包牡丹",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:cb88374801f6e5c5e7fd96c8",
+      "scientificName": "Lamprocapnos spectabilis",
+      "chineseName": "荷包牡丹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:cb88374801f6e5c5e7fd96c8",
+          "scientificName": "Lamprocapnos spectabilis",
+          "chineseName": "荷包牡丹",
+          "aliases": [],
+          "displayName": "荷包牡丹",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 36,
+      "inputName": "沙漠玫瑰",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:f2ef49f981d85776371adc01",
+      "scientificName": "Adenium obesum",
+      "chineseName": "天宝花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f2ef49f981d85776371adc01",
+          "scientificName": "Adenium obesum",
+          "chineseName": "天宝花",
+          "aliases": [],
+          "displayName": "天宝花",
+          "isVisible": true
+        }
+      ],
+      "note": "来源学名与库中天宝花一致。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%B2%99%E6%BC%A0%E7%8E%AB%E7%91%B0/522310"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 37,
+      "inputName": "丽格海棠",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+      "scientificName": "Begonia hiemalis",
+      "chineseName": "丽格秋海棠",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:7b52760522fd806a76e2d5f8",
+          "scientificName": "Begonia hiemalis",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Begonia hiemalis",
+          "isVisible": false
+        }
+      ],
+      "note": "保留来源杂交分类实体 Begonia × hiemalis，对应库中省略 × 的记录；不替代为亲本。",
+      "sources": [
+        "https://baike.baidu.com/item/%E4%B8%BD%E6%A0%BC%E7%A7%8B%E6%B5%B7%E6%A3%A0/5554272"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 38,
+      "inputName": "四季海棠",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:f8d18bfd41b0d34a31519c9f",
+      "scientificName": "Begonia cucullata",
+      "chineseName": "四季秋海棠",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f8d18bfd41b0d34a31519c9f",
+          "scientificName": "Begonia cucullata",
+          "chineseName": "四季秋海棠",
+          "aliases": [],
+          "displayName": "四季秋海棠",
+          "isVisible": true
+        }
+      ],
+      "note": "来源直接给出 Begonia cucullata，关联该现有记录；不额外添加旧名称记录。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%9B%9B%E5%AD%A3%E7%A7%8B%E6%B5%B7%E6%A3%A0/500008"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 39,
+      "inputName": "球根海棠",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+      "scientificName": "Begonia tuberhybrida",
+      "chineseName": "球根秋海棠",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d2d3dadb54f0331db331c456",
+          "scientificName": "Begonia tuberhybrida",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Begonia tuberhybrida",
+          "isVisible": false
+        }
+      ],
+      "note": "对应来源 Begonia × tuberhybrida 的杂交分类实体；不拆成园艺品种，不改用亲本。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%90%83%E6%A0%B9%E6%B5%B7%E6%A3%A0"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 40,
+      "inputName": "花烟草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:3072cae41fb1d81a079e6c70",
+      "scientificName": "Nicotiana alata",
+      "chineseName": "花烟草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:3072cae41fb1d81a079e6c70",
+          "scientificName": "Nicotiana alata",
+          "chineseName": "花烟草",
+          "aliases": [],
+          "displayName": "花烟草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 41,
+      "inputName": "紫罗兰",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:1ee7239822147c8bb0d78d06",
+      "scientificName": "Matthiola incana",
+      "chineseName": "紫罗兰",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:1ee7239822147c8bb0d78d06",
+          "scientificName": "Matthiola incana",
+          "chineseName": "紫罗兰",
+          "aliases": [],
+          "displayName": "紫罗兰",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 42,
+      "inputName": "薰衣草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:6fc4852f413cbc3d6fcaf770",
+      "scientificName": "Lavandula angustifolia",
+      "chineseName": "薰衣草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:6fc4852f413cbc3d6fcaf770",
+          "scientificName": "Lavandula angustifolia",
+          "chineseName": "薰衣草",
+          "aliases": [],
+          "displayName": "薰衣草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 43,
+      "inputName": "金鱼草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:0792ef5c9b97e06825fd8501",
+      "scientificName": "Antirrhinum majus",
+      "chineseName": "金鱼草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:0792ef5c9b97e06825fd8501",
+          "scientificName": "Antirrhinum majus",
+          "chineseName": "金鱼草",
+          "aliases": [],
+          "displayName": "金鱼草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 44,
+      "inputName": "石竹",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:b0dcd751a16c874c3e3e7072",
+      "scientificName": "Dianthus chinensis",
+      "chineseName": "石竹",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b0dcd751a16c874c3e3e7072",
+          "scientificName": "Dianthus chinensis",
+          "chineseName": "石竹",
+          "aliases": [],
+          "displayName": "石竹",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 45,
+      "inputName": "旱金莲",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:4d8ea6b4a4c2fe72c1f93b66",
+      "scientificName": "Tropaeolum majus",
+      "chineseName": "旱金莲",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:4d8ea6b4a4c2fe72c1f93b66",
+          "scientificName": "Tropaeolum majus",
+          "chineseName": "旱金莲",
+          "aliases": [],
+          "displayName": "旱金莲",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 46,
+      "inputName": "毛地黄",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:a3ff19ae9e2684e08aaa8f55",
+      "scientificName": "Digitalis purpurea",
+      "chineseName": "毛地黄",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:a3ff19ae9e2684e08aaa8f55",
+          "scientificName": "Digitalis purpurea",
+          "chineseName": "毛地黄",
+          "aliases": [],
+          "displayName": "毛地黄",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 47,
+      "inputName": "羽扇豆",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+      "scientificName": "Lupinus micranthus",
+      "chineseName": "羽扇豆",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:c961f04a50a13eccbf44127b",
+          "scientificName": "Lupinus micranthus",
+          "chineseName": "羽扇豆",
+          "aliases": [],
+          "displayName": "羽扇豆",
+          "isVisible": true
+        }
+      ],
+      "note": "采用来源规范名对应的物种。俗称鲁冰花也用于其他羽扇豆属植物，不能据俗名给图片自动贴标签。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%BE%BD%E6%89%87%E8%B1%86"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 48,
+      "inputName": "福禄考",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:7429a4d0327a51871fbabd01",
+      "scientificName": "Phlox drummondii",
+      "chineseName": "福禄考",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:7429a4d0327a51871fbabd01",
+          "scientificName": "Phlox drummondii",
+          "chineseName": "福禄考",
+          "aliases": [],
+          "displayName": "福禄考",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 49,
+      "inputName": "令箭荷花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:5d08e67d08480c41c070832e",
+      "scientificName": "Disocactus ackermannii",
+      "chineseName": "令箭荷花",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:5d08e67d08480c41c070832e",
+          "scientificName": "Disocactus ackermannii",
+          "chineseName": "令箭荷花",
+          "aliases": [],
+          "displayName": "令箭荷花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 50,
+      "inputName": "倒挂金钟",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [],
+      "note": "来源及 GBIF 确认 Fuchsia × hybrida；数据库没有该分类实体，不能用短筒倒挂金钟 F. magellanica 代替。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%80%92%E6%8C%82%E9%87%91%E9%92%9F/948219",
+        "https://api.gbif.org/v1/species/match?name=Fuchsia+hybrida&strict=true"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 51,
+      "inputName": "鼠尾草",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+      "scientificName": "Salvia japonica",
+      "chineseName": "鼠尾草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:305c7badb0a32bc17c30bbdf",
+          "scientificName": "Salvia japonica",
+          "chineseName": "鼠尾草",
+          "aliases": [],
+          "displayName": "鼠尾草",
+          "isVisible": true
+        }
+      ],
+      "note": "采用来源规范中文名对应的物种及其种下类型；不泛指蓝花鼠尾草等其他种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%BC%A0%E5%B0%BE%E8%8D%89/1187863"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 52,
+      "inputName": "碗莲",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "bioclip:plant-021",
+      "scientificName": "Nelumbo nucifera",
+      "chineseName": "莲",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-021",
+          "scientificName": "Nelumbo nucifera",
+          "chineseName": "莲",
+          "aliases": [],
+          "displayName": "莲",
+          "isVisible": true
+        }
+      ],
+      "note": "仅归入莲的物种级目标，不增加碗莲品种类别。",
+      "sources": [
+        "https://www.iplant.cn/info/Nelumbo%20nucifera?id=84EE4C927EA209CA"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 53,
+      "inputName": "长春花",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f88babcaafa5bda9a796d7bd",
+      "scientificName": "Catharanthus roseus",
+      "chineseName": "长春花",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f88babcaafa5bda9a796d7bd",
+          "scientificName": "Catharanthus roseus",
+          "chineseName": "长春花",
+          "aliases": [],
+          "displayName": "长春花",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 54,
+      "inputName": "矮雪轮",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+      "scientificName": "Silene pendula",
+      "chineseName": "大蔓樱草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:2261530b9d9d326e0ba61124",
+          "scientificName": "Silene pendula",
+          "chineseName": "大蔓樱草",
+          "aliases": [
+            "大花樱草"
+          ],
+          "displayName": "大蔓樱草",
+          "isVisible": true
+        }
+      ],
+      "note": "来源学名与库中大蔓樱草一致。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%A4%A7%E8%94%93%E6%A8%B1%E8%8D%89/1495987"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 55,
+      "inputName": "波斯菊",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "tol10m:72ad4fcaf04df6099951b90e",
+      "scientificName": "Cosmos bipinnatus",
+      "chineseName": "秋英",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:72ad4fcaf04df6099951b90e",
+          "scientificName": "Cosmos bipinnatus",
+          "chineseName": "秋英",
+          "aliases": [],
+          "displayName": "秋英",
+          "isVisible": true
+        }
+      ],
+      "note": "关联秋英。",
+      "sources": [
+        "https://www.iplant.cn/info/Cosmos%20bipinnatus"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 56,
+      "inputName": "绿萝",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-015",
+      "scientificName": "Epipremnum aureum",
+      "chineseName": "绿萝",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-015",
+          "scientificName": "Epipremnum aureum",
+          "chineseName": "绿萝",
+          "aliases": [],
+          "displayName": "绿萝",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 57,
+      "inputName": "铁线蕨",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:6b33c98d4ce894571cb886b1",
+      "scientificName": "Adiantum capillus-veneris",
+      "chineseName": "铁线蕨",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:6b33c98d4ce894571cb886b1",
+          "scientificName": "Adiantum capillus-veneris",
+          "chineseName": "铁线蕨",
+          "aliases": [],
+          "displayName": "铁线蕨",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 58,
+      "inputName": "万年青",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f17951f5a49cf5fc77501ff6",
+      "scientificName": "Rohdea japonica",
+      "chineseName": "万年青",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f17951f5a49cf5fc77501ff6",
+          "scientificName": "Rohdea japonica",
+          "chineseName": "万年青",
+          "aliases": [],
+          "displayName": "万年青",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 59,
+      "inputName": "红掌",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:74db8fa10bf676cb119913e0",
+      "scientificName": "Anthurium andraeanum",
+      "chineseName": "花烛",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:74db8fa10bf676cb119913e0",
+          "scientificName": "Anthurium andraeanum",
+          "chineseName": "花烛",
+          "aliases": [
+            "红掌"
+          ],
+          "displayName": "花烛",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 60,
+      "inputName": "金钱树",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+      "scientificName": "Zamioculcas zamiifolia",
+      "chineseName": "雪铁芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:313883fc1a9ac35fee83fe85",
+          "scientificName": "Zamioculcas zamiifolia",
+          "chineseName": "雪铁芋",
+          "aliases": [],
+          "displayName": "雪铁芋",
+          "isVisible": true
+        }
+      ],
+      "note": "来源明确归为雪铁芋，原漏匹配是中文别名差异。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%9B%AA%E9%93%81%E8%8A%8B/10367875"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 61,
+      "inputName": "虎皮兰",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:047b008567ef5b5f525ed413",
+      "scientificName": "Sansevieria trifasciata",
+      "chineseName": "虎尾兰",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:047b008567ef5b5f525ed413",
+          "scientificName": "Sansevieria trifasciata",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Sansevieria trifasciata",
+          "isVisible": false
+        }
+      ],
+      "note": "来源学名直接匹配现有核心记录；暂不改写数据库学名。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%99%8E%E5%B0%BE%E5%85%B0/790426"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 62,
+      "inputName": "龟背竹",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "bioclip:plant-014",
+      "scientificName": "Monstera deliciosa",
+      "chineseName": "龟背竹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-014",
+          "scientificName": "Monstera deliciosa",
+          "chineseName": "龟背竹",
+          "aliases": [],
+          "displayName": "龟背竹",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 63,
+      "inputName": "富贵竹",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:6f7b725180d75e28233b5f96",
+      "scientificName": "Dracaena sanderiana",
+      "chineseName": "富贵竹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:6f7b725180d75e28233b5f96",
+          "scientificName": "Dracaena sanderiana",
+          "chineseName": "富贵竹",
+          "aliases": [],
+          "displayName": "富贵竹",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 64,
+      "inputName": "滴水观音",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:77320dd4d792de9f9004e843",
+      "scientificName": "Alocasia odora",
+      "chineseName": "海芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:77320dd4d792de9f9004e843",
+          "scientificName": "Alocasia odora",
+          "chineseName": "海芋",
+          "aliases": [],
+          "displayName": "海芋",
+          "isVisible": true
+        }
+      ],
+      "note": "默认入口为小说，已排除。海芋植物词条明确列滴水观音为商品名，采用该物种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%BB%B4%E6%B0%B4%E8%A7%82%E9%9F%B3/5299416",
+        "https://baike.baidu.com/item/%E6%B5%B7%E8%8A%8B/1101879"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 65,
+      "inputName": "虎耳草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:87e7f016ee0ac70828a4bfc5",
+      "scientificName": "Saxifraga stolonifera",
+      "chineseName": "虎耳草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:87e7f016ee0ac70828a4bfc5",
+          "scientificName": "Saxifraga stolonifera",
+          "chineseName": "虎耳草",
+          "aliases": [],
+          "displayName": "虎耳草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 66,
+      "inputName": "橡皮树",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+      "scientificName": "Ficus elastica",
+      "chineseName": "印度榕",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:c3f72f4bb22fbef2a75482b2",
+          "scientificName": "Ficus elastica",
+          "chineseName": "印度榕",
+          "aliases": [],
+          "displayName": "印度榕",
+          "isVisible": true
+        }
+      ],
+      "note": "默认入口错误跳转橡胶树 Hevea brasiliensis；按原文室内观叶语境与印度榕明确别名关联。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A9%A1%E8%83%B6%E6%A0%91/742959",
+        "https://baike.baidu.com/item/%E5%8D%B0%E5%BA%A6%E6%A6%95"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 67,
+      "inputName": "文竹",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f1949eb78b34140906167853",
+      "scientificName": "Asparagus setaceus",
+      "chineseName": "文竹",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f1949eb78b34140906167853",
+          "scientificName": "Asparagus setaceus",
+          "chineseName": "文竹",
+          "aliases": [],
+          "displayName": "文竹",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 68,
+      "inputName": "彩叶芋",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:fb72e9ad41553417e83bcf9c",
+      "scientificName": "Caladium bicolor",
+      "chineseName": "五彩芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:fb72e9ad41553417e83bcf9c",
+          "scientificName": "Caladium bicolor",
+          "chineseName": "五彩芋",
+          "aliases": [],
+          "displayName": "五彩芋",
+          "isVisible": true
+        }
+      ],
+      "note": "原词条重定向五彩芋且给出对应学名；不误连库中同名 Cyrtosperma johnstonii。",
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BA%94%E5%BD%A9%E8%8A%8B/3508680"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 69,
+      "inputName": "铜钱草",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:825b72102effc22545beeda1",
+      "scientificName": "Hydrocotyle vulgaris",
+      "chineseName": "少脉香菇草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:825b72102effc22545beeda1",
+          "scientificName": "Hydrocotyle vulgaris",
+          "chineseName": "少脉香菇草",
+          "aliases": [],
+          "displayName": "少脉香菇草",
+          "isVisible": true
+        }
+      ],
+      "note": "来源给出 Hydrocotyle vulgaris；保留库中中文名，不与 H. verticillata 合并。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%8E%E5%A4%A9%E8%83%A1%E8%8D%BD/60443754"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 70,
+      "inputName": "鹅掌柴",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:05802ab369437a380133bbad",
+      "scientificName": "Schefflera heptaphylla",
+      "chineseName": "鹅掌柴",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:05802ab369437a380133bbad",
+          "scientificName": "Schefflera heptaphylla",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Schefflera heptaphylla",
+          "isVisible": false
+        }
+      ],
+      "note": "来源新组合 Heptapleurum heptaphyllum 与库中旧组合经 GBIF 确认为同一接受种，沿用现有ID。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%B9%85%E6%8E%8C%E6%9F%B4",
+        "https://api.gbif.org/v1/species/match?name=Schefflera+heptaphylla&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Heptapleurum+heptaphyllum&strict=true"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 71,
+      "inputName": "散尾葵",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:586378f5658469e1484aee9d",
+      "scientificName": "Dypsis lutescens",
+      "chineseName": "散尾葵",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:586378f5658469e1484aee9d",
+          "scientificName": "Dypsis lutescens",
+          "chineseName": "散尾葵",
+          "aliases": [],
+          "displayName": "散尾葵",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 72,
+      "inputName": "豆瓣绿",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:d6432a5d803886a6e3a35da1",
+      "scientificName": "Peperomia tetraphylla",
+      "chineseName": "豆瓣绿",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d6432a5d803886a6e3a35da1",
+          "scientificName": "Peperomia tetraphylla",
+          "chineseName": "豆瓣绿",
+          "aliases": [],
+          "displayName": "豆瓣绿",
+          "isVisible": true
+        }
+      ],
+      "note": "采用规范中文名对应的来源物种；不把商家同名圆叶椒草 Peperomia obtusifolia 并入。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%B1%86%E7%93%A3%E7%BB%BF/528814"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 73,
+      "inputName": "网纹草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:69e42467286c0b73173930d7",
+      "scientificName": "Fittonia albivenis",
+      "chineseName": "网纹草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:69e42467286c0b73173930d7",
+          "scientificName": "Fittonia albivenis",
+          "chineseName": "网纹草",
+          "aliases": [],
+          "displayName": "网纹草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 74,
+      "inputName": "孔雀竹芋",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:927699252b5d9e824084c017",
+      "scientificName": "Goeppertia makoyana",
+      "chineseName": "孔雀肖竹芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:927699252b5d9e824084c017",
+          "scientificName": "Goeppertia makoyana",
+          "chineseName": "孔雀肖竹芋",
+          "aliases": [],
+          "displayName": "孔雀肖竹芋",
+          "isVisible": true
+        }
+      ],
+      "note": "来源接受名直接匹配库中孔雀肖竹芋；旧组合 Calathea makoyana 的异名关系也已核对。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%AD%94%E9%9B%80%E7%AB%B9%E8%8A%8B",
+        "https://api.gbif.org/v1/species/match?name=Calathea+makoyana&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Goeppertia+makoyana&strict=true"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 75,
+      "inputName": "红背椒草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:1dabf40818633a9ee3d43f12",
+      "scientificName": "Peperomia graveolens",
+      "chineseName": "红背椒草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:1dabf40818633a9ee3d43f12",
+          "scientificName": "Peperomia graveolens",
+          "chineseName": "红背椒草",
+          "aliases": [],
+          "displayName": "红背椒草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 76,
+      "inputName": "常春藤",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [],
+      "note": "原来源种下名经此前研究及当前 GBIF 接受种记录定位到 Hedera sinensis；数据库缺该种，不用洋常春藤替代。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%B8%B8%E6%98%A5%E8%97%A4/70130",
+        "https://api.gbif.org/v1/species/match?name=Hedera+sinensis&strict=true"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 77,
+      "inputName": "冷水花",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [],
+      "note": "来源及 GBIF 对应 Pilea notata，数据库缺该种；不混为透茎冷水花 P. pumila 或花叶冷水花 P. cadierei。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%86%B7%E6%B0%B4%E8%8A%B1/323106",
+        "https://api.gbif.org/v1/species/match?name=Pilea+notata&strict=true"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 78,
+      "inputName": "爬山虎",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:7523ae328a431040bf5a3da5",
+      "scientificName": "Parthenocissus tricuspidata",
+      "chineseName": "地锦",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:7523ae328a431040bf5a3da5",
+          "scientificName": "Parthenocissus tricuspidata",
+          "chineseName": "地锦",
+          "aliases": [],
+          "displayName": "地锦",
+          "isVisible": true
+        }
+      ],
+      "note": "来源重定向地锦且学名一致。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%9C%B0%E9%94%A6/1166842"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 79,
+      "inputName": "袖珍椰子",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+      "scientificName": "Chamaedorea elegans",
+      "chineseName": "袖珍竹节椰",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:2ade8d3ee6783bedffd4db85",
+          "scientificName": "Chamaedorea elegans",
+          "chineseName": "袖珍竹节椰",
+          "aliases": [],
+          "displayName": "袖珍竹节椰",
+          "isVisible": true
+        }
+      ],
+      "note": "来源学名与库中袖珍竹节椰一致。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%A2%96%E7%8F%8D%E6%A4%B0%E5%AD%90"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 80,
+      "inputName": "合果芋",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:0d50f182f54e9d342bdeda7a",
+      "scientificName": "Syngonium podophyllum",
+      "chineseName": "合果芋",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:0d50f182f54e9d342bdeda7a",
+          "scientificName": "Syngonium podophyllum",
+          "chineseName": "合果芋",
+          "aliases": [],
+          "displayName": "合果芋",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 81,
+      "inputName": "福禄桐",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+      "scientificName": "Polyscias guilfoylei",
+      "chineseName": "银边南洋参",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:8efee21b05ba2f0dd6d8b1c2",
+          "scientificName": "Polyscias guilfoylei",
+          "chineseName": "银边南洋参",
+          "aliases": [],
+          "displayName": "银边南洋参",
+          "isVisible": true
+        }
+      ],
+      "note": "来源为 Polyscias guilfoylei var. laciniata，按种级归并，不把整个南洋参属或 P. fruticosa 当作同种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%93%B6%E8%BE%B9%E5%8D%97%E6%B4%8B%E5%8F%82/4763247"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 82,
+      "inputName": "燕子掌",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:c3ff8f02bc9a21c623eb5cc4",
+      "scientificName": "Crassula ovata",
+      "chineseName": "燕子掌",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:c3ff8f02bc9a21c623eb5cc4",
+          "scientificName": "Crassula ovata",
+          "chineseName": "燕子掌",
+          "aliases": [],
+          "displayName": "燕子掌",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 83,
+      "inputName": "薄荷",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:450642e20ad662c0ef362b71",
+      "scientificName": "Mentha canadensis",
+      "chineseName": "薄荷",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:450642e20ad662c0ef362b71",
+          "scientificName": "Mentha canadensis",
+          "chineseName": "薄荷",
+          "aliases": [],
+          "displayName": "薄荷",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 84,
+      "inputName": "金钻",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [],
+      "note": "来源为 Philodendron tatei 的 Congo 栽培类型，种级已明确但数据库缺该种；不能改用春羽。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%91%E9%92%BB%E8%94%93%E7%BB%BF%E7%BB%92/3583247",
+        "https://api.gbif.org/v1/species/match?name=Philodendron+tatei&strict=true"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 85,
+      "inputName": "玉露",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:63a6367398beba9f3315efda",
+      "scientificName": "Haworthia cooperi",
+      "chineseName": "玉露",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:63a6367398beba9f3315efda",
+          "scientificName": "Haworthia cooperi",
+          "chineseName": "玉露",
+          "aliases": [],
+          "displayName": "玉露",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 86,
+      "inputName": "珍珠吊兰",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+      "scientificName": "Curio rowleyanus",
+      "chineseName": "翡翠珠",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b2ed8067378ac5b2b7d9ae00",
+          "scientificName": "Curio rowleyanus",
+          "chineseName": "翡翠珠",
+          "aliases": [],
+          "displayName": "翡翠珠",
+          "isVisible": true
+        }
+      ],
+      "note": "来源旧名 Senecio rowleyanus 经 GBIF 接受种异名列表核对为 Curio rowleyanus；未使用同名但作者不同的误匹配。",
+      "sources": [
+        "https://baike.baidu.com/item/%E7%BF%A1%E7%BF%A0%E7%8F%A0/6046691",
+        "https://api.gbif.org/v1/species/3149649/synonyms"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 87,
+      "inputName": "千叶吊兰",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:47ce68d71ce138b7084f6118",
+      "scientificName": "Muehlenbeckia complexa",
+      "chineseName": "千叶兰",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:47ce68d71ce138b7084f6118",
+          "scientificName": "Muehlenbeckia complexa",
+          "chineseName": "千叶兰",
+          "aliases": [],
+          "displayName": "千叶兰",
+          "isVisible": true
+        }
+      ],
+      "note": "来源学名与库中千叶兰一致，不与锦竹草混淆。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%8D%83%E5%8F%B6%E5%90%8A%E5%85%B0"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 88,
+      "inputName": "玉簪",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:d81a1acfbc6dcdfde20f3573",
+      "scientificName": "Hosta plantaginea",
+      "chineseName": "玉簪",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d81a1acfbc6dcdfde20f3573",
+          "scientificName": "Hosta plantaginea",
+          "chineseName": "玉簪",
+          "aliases": [],
+          "displayName": "玉簪",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 89,
+      "inputName": "矾根",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:c1efce4f758de09f7597485b",
+      "scientificName": "Heuchera micrantha",
+      "chineseName": "矾根",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:c1efce4f758de09f7597485b",
+          "scientificName": "Heuchera micrantha",
+          "chineseName": "矾根",
+          "aliases": [],
+          "displayName": "矾根",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 90,
+      "inputName": "垂盆草",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f91c21b47a458332665e7107",
+      "scientificName": "Sedum sarmentosum",
+      "chineseName": "垂盆草",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f91c21b47a458332665e7107",
+          "scientificName": "Sedum sarmentosum",
+          "chineseName": "垂盆草",
+          "aliases": [],
+          "displayName": "垂盆草",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 91,
+      "inputName": "金桔",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+      "scientificName": "Citrus japonica",
+      "chineseName": "金柑",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d032176ffd999c3bc0de59f2",
+          "scientificName": "Citrus japonica",
+          "chineseName": "金柑",
+          "aliases": [],
+          "displayName": "金柑",
+          "isVisible": true
+        }
+      ],
+      "note": "来源金橘/金柑的学名一致。",
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%91%E6%A9%98/1013700"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 92,
+      "inputName": "葡萄",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:8efc6b11cdf824db473131f4",
+      "scientificName": "Vitis vinifera",
+      "chineseName": "葡萄",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:8efc6b11cdf824db473131f4",
+          "scientificName": "Vitis vinifera",
+          "chineseName": "葡萄",
+          "aliases": [
+            "林生葡萄"
+          ],
+          "displayName": "葡萄",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 93,
+      "inputName": "石榴",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f5f69fee4326248744d0ca1c",
+      "scientificName": "Punica granatum",
+      "chineseName": "石榴",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f5f69fee4326248744d0ca1c",
+          "scientificName": "Punica granatum",
+          "chineseName": "石榴",
+          "aliases": [],
+          "displayName": "石榴",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 94,
+      "inputName": "草莓",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+      "scientificName": "Fragaria ananassa",
+      "chineseName": "草莓",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:8bb387ed215c42d9dd4412e9",
+          "scientificName": "Fragaria ananassa",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Fragaria ananassa",
+          "isVisible": false
+        }
+      ],
+      "note": "库中 Fragaria ananassa 与 Fragaria x ananassa 经 GBIF 匹配到同一 usageKey 3029912；本计划仅选规范二名写法的一条现有ID，未删除或合并数据库记录。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%8D%89%E8%8E%93/32702",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+x+ananassa&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Fragaria+ananassa&strict=true"
+      ],
+      "catalogLocalizationRequired": true
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 95,
+      "inputName": "蓝莓",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:0dee351f30c4eb55de18873b",
+          "scientificName": "Vaccinium corymbosum",
+          "chineseName": "高丛越橘",
+          "aliases": [],
+          "displayName": "高丛越橘",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:7be8346c498df75d54b50b77",
+          "scientificName": "Vaccinium angustifolium",
+          "chineseName": "狭叶越橘",
+          "aliases": [],
+          "displayName": "狭叶越橘",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:8a5fd3178e1c026a3871fb24",
+          "scientificName": "Vaccinium virgatum",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Vaccinium virgatum",
+          "isVisible": false
+        }
+      ],
+      "note": "来源为 Vaccinium spp.，包含多个物种；不能将所有蓝莓都视作高丛越橘。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%93%9D%E8%8E%93/6401"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 96,
+      "inputName": "佛手",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:7103098fabbac77885499506",
+      "scientificName": "Citrus medica",
+      "chineseName": "香橼",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:7103098fabbac77885499506",
+          "scientificName": "Citrus medica",
+          "chineseName": "香橼",
+          "aliases": [],
+          "displayName": "香橼",
+          "isVisible": true
+        }
+      ],
+      "note": "来源为香橼的种下栽培类型，按用户要求归入香橼，不单设品种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BD%9B%E6%89%8B/467548"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 97,
+      "inputName": "火棘",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:401dceac758d42eada7de8e0",
+      "scientificName": "Pyracantha fortuneana",
+      "chineseName": "火棘",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:401dceac758d42eada7de8e0",
+          "scientificName": "Pyracantha fortuneana",
+          "chineseName": "火棘",
+          "aliases": [],
+          "displayName": "火棘",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 98,
+      "inputName": "无花果",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:839e2722450db90a9f271d24",
+      "scientificName": "Ficus carica",
+      "chineseName": "无花果",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:839e2722450db90a9f271d24",
+          "scientificName": "Ficus carica",
+          "chineseName": "无花果",
+          "aliases": [],
+          "displayName": "无花果",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 99,
+      "inputName": "枇杷",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:60ef1702b3bced02d13b6646",
+      "scientificName": "Eriobotrya japonica",
+      "chineseName": "枇杷",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:60ef1702b3bced02d13b6646",
+          "scientificName": "Eriobotrya japonica",
+          "chineseName": "枇杷",
+          "aliases": [],
+          "displayName": "枇杷",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 100,
+      "inputName": "柿子",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "tol10m:d745f1be8e41defe4c17b5f7",
+      "scientificName": "Diospyros kaki",
+      "chineseName": "柿",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:d745f1be8e41defe4c17b5f7",
+          "scientificName": "Diospyros kaki",
+          "chineseName": "柿",
+          "aliases": [],
+          "displayName": "柿",
+          "isVisible": true
+        }
+      ],
+      "note": "按观果植物语境关联柿。",
+      "sources": [
+        "https://www.iplant.cn/info/柿"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 101,
+      "inputName": "香樟树",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "bioclip:plant-008",
+      "scientificName": "Cinnamomum camphora",
+      "chineseName": "樟",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-008",
+          "scientificName": "Cinnamomum camphora",
+          "chineseName": "樟",
+          "aliases": [],
+          "displayName": "樟",
+          "isVisible": true
+        }
+      ],
+      "note": "关联原名单香樟对应的樟，不新增树字后缀类别；沿用数据库稳定ID与学名，不改写分类。",
+      "sources": [
+        "https://www.iplant.cn/info/樟"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 102,
+      "inputName": "银杏树",
+      "status": "linked",
+      "matchMethod": "scoped-scientific-link",
+      "speciesId": "bioclip:plant-001",
+      "scientificName": "Ginkgo biloba",
+      "chineseName": "银杏",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "bioclip:plant-001",
+          "scientificName": "Ginkgo biloba",
+          "chineseName": "银杏",
+          "aliases": [],
+          "displayName": "银杏",
+          "isVisible": true
+        }
+      ],
+      "note": "关联银杏，不新增树字后缀类别。",
+      "sources": [
+        "https://www.iplant.cn/info/银杏"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 103,
+      "inputName": "榕树",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:07b2fe56649390b7cd7699fd",
+      "scientificName": "Ficus microcarpa",
+      "chineseName": "榕树",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:07b2fe56649390b7cd7699fd",
+          "scientificName": "Ficus microcarpa",
+          "chineseName": "榕树",
+          "aliases": [],
+          "displayName": "榕树",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 104,
+      "inputName": "桉树",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:ab98be70eeffdd8011e46e33",
+          "scientificName": "Eucalyptus urophylla",
+          "chineseName": "尾叶桉",
+          "aliases": [],
+          "displayName": "尾叶桉",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:b238d2eb5694eec2f8e4c4c9",
+          "scientificName": "Eucalyptus robusta",
+          "chineseName": "桉",
+          "aliases": [
+            "大叶桉"
+          ],
+          "displayName": "桉",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:ee7a619fea152a53c19577e5",
+          "scientificName": "Eucalyptus grandis",
+          "chineseName": "大桉",
+          "aliases": [],
+          "displayName": "大桉",
+          "isVisible": true
+        }
+      ],
+      "note": "来源 Eucalyptus spp. 是多个物种的统称，不是单一物种；候选为库中例子，不自动纳入。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A1%89%E6%A0%91/60831639"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 105,
+      "inputName": "橄榄树",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+      "scientificName": "Canarium album",
+      "chineseName": "橄榄",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:cb5fa9894b07262841d69b36",
+          "scientificName": "Canarium album",
+          "chineseName": "橄榄",
+          "aliases": [],
+          "displayName": "橄榄",
+          "isVisible": true
+        }
+      ],
+      "note": "来源明确指橄榄科橄榄，不与油橄榄 Olea europaea 合并。",
+      "sources": [
+        "https://baike.baidu.com/item/%E6%A9%84%E6%A6%84%E6%A0%91/834"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 106,
+      "inputName": "木棉",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:6a24ee5d4826e7ed97074c62",
+      "scientificName": "Bombax ceiba",
+      "chineseName": "木棉",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:6a24ee5d4826e7ed97074c62",
+          "scientificName": "Bombax ceiba",
+          "chineseName": "木棉",
+          "aliases": [],
+          "displayName": "木棉",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 107,
+      "inputName": "南洋杉",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:2ccafa9622ad34424c1187c3",
+      "scientificName": "Araucaria cunninghamii",
+      "chineseName": "南洋杉",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:2ccafa9622ad34424c1187c3",
+          "scientificName": "Araucaria cunninghamii",
+          "chineseName": "南洋杉",
+          "aliases": [],
+          "displayName": "南洋杉",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 108,
+      "inputName": "发财树",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:daeb35038d50651d52b911eb",
+      "scientificName": "Pachira glabra",
+      "chineseName": "马拉巴栗",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:daeb35038d50651d52b911eb",
+          "scientificName": "Pachira glabra",
+          "chineseName": "马拉巴栗",
+          "aliases": [],
+          "displayName": "马拉巴栗",
+          "isVisible": true
+        }
+      ],
+      "note": "已选择植物义项，来源为光瓜栗 Pachira glabra；不直接套用另一物种 P. aquatica。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%8F%91%E8%B4%A2%E6%A0%91",
+        "https://baike.baidu.com/item/%E5%85%89%E7%93%9C%E6%A0%97/23637271"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 109,
+      "inputName": "法国梧桐",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:ba919b92da307b78d8731dab",
+      "scientificName": "Platanus orientalis",
+      "chineseName": "三球悬铃木",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:ba919b92da307b78d8731dab",
+          "scientificName": "Platanus orientalis",
+          "chineseName": "三球悬铃木",
+          "aliases": [
+            "法国梧桐"
+          ],
+          "displayName": "三球悬铃木",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 110,
+      "inputName": "紫薇",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:294311e4b8cd11fed6b55c0e",
+      "scientificName": "Lagerstroemia indica",
+      "chineseName": "紫薇",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:294311e4b8cd11fed6b55c0e",
+          "scientificName": "Lagerstroemia indica",
+          "chineseName": "紫薇",
+          "aliases": [],
+          "displayName": "紫薇",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 111,
+      "inputName": "夹竹桃",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:281487c1062c0facab7c8f60",
+      "scientificName": "Nerium oleander",
+      "chineseName": "夹竹桃",
+      "alreadyInOriginal162": true,
+      "candidates": [
+        {
+          "speciesId": "tol10m:281487c1062c0facab7c8f60",
+          "scientificName": "Nerium oleander",
+          "chineseName": "夹竹桃",
+          "aliases": [],
+          "displayName": "夹竹桃",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 112,
+      "inputName": "曼陀罗",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:cf79e6a11c19ae475e688e5e",
+      "scientificName": "Datura stramonium",
+      "chineseName": "曼陀罗",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:cf79e6a11c19ae475e688e5e",
+          "scientificName": "Datura stramonium",
+          "chineseName": "曼陀罗",
+          "aliases": [],
+          "displayName": "曼陀罗",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 113,
+      "inputName": "阿拉伯婆婆纳",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:e9589bdf3d24bc5ce682ee30",
+      "scientificName": "Veronica persica",
+      "chineseName": "阿拉伯婆婆纳",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:e9589bdf3d24bc5ce682ee30",
+          "scientificName": "Veronica persica",
+          "chineseName": "阿拉伯婆婆纳",
+          "aliases": [],
+          "displayName": "阿拉伯婆婆纳",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 114,
+      "inputName": "龙葵",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:b733e5082595186659314796",
+      "scientificName": "Solanum nigrum",
+      "chineseName": "龙葵",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:b733e5082595186659314796",
+          "scientificName": "Solanum nigrum",
+          "chineseName": "龙葵",
+          "aliases": [],
+          "displayName": "龙葵",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 115,
+      "inputName": "车前草",
+      "status": "needs-review",
+      "matchMethod": "source-reviewed",
+      "speciesId": null,
+      "scientificName": null,
+      "chineseName": null,
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:0b2d5c2729d5e5a6f60e9c64",
+          "scientificName": "Plantago depressa",
+          "chineseName": "平车前",
+          "aliases": [],
+          "displayName": "平车前",
+          "isVisible": true
+        },
+        {
+          "speciesId": "tol10m:63bfe89953ede69af8c06708",
+          "scientificName": "Plantago asiatica",
+          "chineseName": "车前",
+          "aliases": [],
+          "displayName": "车前",
+          "isVisible": true
+        }
+      ],
+      "note": "默认词条指平车前 Plantago depressa；名称也可能用于车前 Plantago asiatica，原文仅说路边常见，不能排除任一物种。",
+      "sources": [
+        "https://baike.baidu.com/item/%E5%B9%B3%E8%BD%A6%E5%89%8D/9222790"
+      ],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 116,
+      "inputName": "紫花地丁",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:49a3f86771353d23358c7d8b",
+      "scientificName": "Viola philippica",
+      "chineseName": "紫花地丁",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:49a3f86771353d23358c7d8b",
+          "scientificName": "Viola philippica",
+          "chineseName": "紫花地丁",
+          "aliases": [],
+          "displayName": "紫花地丁",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 117,
+      "inputName": "白头翁",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:8d504bb80c740140a73a1623",
+      "scientificName": "Pulsatilla chinensis",
+      "chineseName": "白头翁",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:8d504bb80c740140a73a1623",
+          "scientificName": "Pulsatilla chinensis",
+          "chineseName": "白头翁",
+          "aliases": [],
+          "displayName": "白头翁",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 118,
+      "inputName": "点地梅",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:f2a48ffb6b7e3a597b32f2e0",
+      "scientificName": "Androsace umbellata",
+      "chineseName": "点地梅",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:f2a48ffb6b7e3a597b32f2e0",
+          "scientificName": "Androsace umbellata",
+          "chineseName": "点地梅",
+          "aliases": [],
+          "displayName": "点地梅",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 119,
+      "inputName": "蒲公英",
+      "status": "linked",
+      "matchMethod": "catalog-exact-or-previous-mapping",
+      "speciesId": "tol10m:e4088b9f9dc0e126d5f381b1",
+      "scientificName": "Taraxacum mongolicum",
+      "chineseName": "蒲公英",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:e4088b9f9dc0e126d5f381b1",
+          "scientificName": "Taraxacum mongolicum",
+          "chineseName": "蒲公英",
+          "aliases": [],
+          "displayName": "蒲公英",
+          "isVisible": true
+        }
+      ],
+      "note": "",
+      "sources": [],
+      "catalogLocalizationRequired": false
+    },
+    {
+      "inputList": "ornamental-plants-120",
+      "position": 120,
+      "inputName": "蛇莓",
+      "status": "linked",
+      "matchMethod": "source-reviewed",
+      "speciesId": "tol10m:710e458059ee4ba98144a081",
+      "scientificName": "Potentilla indica",
+      "chineseName": "蛇莓",
+      "alreadyInOriginal162": false,
+      "candidates": [
+        {
+          "speciesId": "tol10m:710e458059ee4ba98144a081",
+          "scientificName": "Potentilla indica",
+          "chineseName": null,
+          "aliases": [],
+          "displayName": "Potentilla indica",
+          "isVisible": false
+        }
+      ],
+      "note": "来源 Duchesnea indica 为 GBIF 确认的 Potentilla indica 异名，关联现有核心ID。",
+      "sources": [
+        "https://baike.baidu.com/item/%E8%9B%87%E8%8E%93/602803",
+        "https://api.gbif.org/v1/species/match?name=Duchesnea+indica&strict=true",
+        "https://api.gbif.org/v1/species/match?name=Potentilla+indica&strict=true"
+      ],
+      "catalogLocalizationRequired": true
+    }
+  ],
+  "trainedSupportDeclared": false,
+  "sourceVerificationNote": "43 pending names reviewed against captured Baidu plant entries and GBIF taxonomy responses; earlier 7 scoped links retain their original verification limitations. Genus/group names and missing core records are not silently resolved.",
+  "databaseWritten": false,
+  "runningCollectionOrTrainingChanged": false,
+  "unresolvedMayNotBeSilentlyDropped": true,
+  "sourceFiles": [
+    {
+      "path": "server/.artifacts/china-landscape-from-scratch-20260924/targets.json",
+      "sha256": "5e7246282f93444bf46a231195a377d7c3c57db0fd13cd6ef08f42ff72f8a4ec"
+    },
+    {
+      "path": "docs/research/ornamental-plants-120.txt",
+      "sha256": "738ad4f4454a3a5b1808fe52fa08448af187303caad682a77f1683c240fe51fb"
+    },
+    {
+      "path": "docs/research/ornamental-plants-120-mapping-reviewed-20260924.json",
+      "sha256": "b74f68d0ff97ef732e7ef12ed9a377c270faff159e0b8cb69ea08897b7139ef8"
+    }
+  ],
+  "catalogSha256": "c5d561ceb7f368e8f1a7b854065b7486d7d0728802782bf95179d80017ccbb60"
+}

@@ -1,0 +1,169 @@
+{
+  "architecture": "squeezenet1_0",
+  "classCount": 1081,
+  "manifest": {
+    "format": 1,
+    "architecture": "squeezenet1_0",
+    "classCount": 1081,
+    "datasetVariant": "official-1081-class-pretrained-not-V2",
+    "source": "https://github.com/plantnet/PlantNet-300K",
+    "preprocess": {
+      "resizeShortEdge": 256,
+      "centerCrop": 224,
+      "interpolation": "bilinear",
+      "mean": [
+        0.485,
+        0.456,
+        0.406
+      ],
+      "std": [
+        0.229,
+        0.224,
+        0.225
+      ]
+    },
+    "files": {
+      "class_idx_to_species_id.json": {
+        "bytes": 24837,
+        "sha256": "12139cf778d9c960c53c484be4d37f100928e52e27d60d39f4897862a58fe2ec"
+      },
+      "plantnet300K_species_id_2_name.json": {
+        "bytes": 46964,
+        "sha256": "9c8185db8ebb75958ffa77c8c1b1012b8e3dd493fc64c7cfb33f2049df084d23"
+      },
+      "squeezenet_weights_best_acc.tar": {
+        "bytes": 10354289,
+        "sha256": "3644b96450ad01af55d294a9a7179a4f160ebbaf9c2afa6aed8c304ace5d5507"
+      }
+    },
+    "integrity": "Published directory sizes checked; local SHA-256, not publisher-signed hashes",
+    "licenseStatus": "External checkpoint license not separately verified; local trial, not deployment"
+  },
+  "metrics": {
+    "images": 52,
+    "targetSpecies": 11,
+    "coveredSpecies": 1,
+    "top1Hits": 5,
+    "top5Hits": 5,
+    "top1": 0.09615384615384616,
+    "top5": 0.09615384615384616,
+    "macroTop5": 0.09090909090909091,
+    "technicalSuccessRate": 1.0,
+    "latencyMedianSeconds": 0.08865,
+    "latencyP95Seconds": 0.0922,
+    "bySpecies": {
+      "Broussonetia papyrifera": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Commelina communis": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Cynanchum rostellatum": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Nelumbo nucifera": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Orychophragmus violaceus": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Oxalis corniculata": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Oxalis debilis": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Phytolacca americana": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Portulaca oleracea": {
+        "images": 2,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      },
+      "Trifolium repens": {
+        "images": 5,
+        "labelCovered": true,
+        "top1Hits": 5,
+        "top5Hits": 5
+      },
+      "Veronica persica": {
+        "images": 5,
+        "labelCovered": false,
+        "top1Hits": 0,
+        "top5Hits": 0
+      }
+    }
+  },
+  "testManifestSha256": "cad8648ad0e658f3e7db349e825d85f565726161f1a053abe7a4042058594b07",
+  "initializationSeconds": 3.4531,
+  "totalSeconds": 8.3896,
+  "peakProcessRssMiB": 352.71,
+  "versions": {
+    "torch": "2.14.0+cpu",
+    "torchvision": "0.29.0+cpu",
+    "pillow": "12.3.0"
+  },
+  "limitations": [
+    "Few species, geographically/observer-biased sample collection.",
+    "Public community labels, not expert-audited gold labels.",
+    "Foundation-training overlap not ruled out.",
+    "Conservative exact binomial matching; unreviewed synonyms not bridged.",
+    "Original full 1081-class output; no target-specific shortlist or retraining.",
+    "Uncovered labels and inference errors remain in the denominator.",
+    "Softmax scores are not calibrated confidence; closed set has no nonplant rejection."
+  ],
+  "scoreType": "softmax_score_not_calibrated_confidence",
+  "nnpackEnabledForTrial": false,
+  "date": "2026-09-22",
+  "status": "completed-small-offline-trial-not-production-benchmark",
+  "artifact": "server/.artifacts/plantnet-pretrained/official-squeezenet-1081-test.json",
+  "artifactSha256": "c9bab06174da8275f8b794bb487375c2c4e9ce6440fbc5fb7c59fbf3d6009e1b",
+  "v2MetadataDirectMatchesToTheseTargets": [
+    "Trifolium repens"
+  ],
+  "v2ContainsGinkgoBiloba": false,
+  "resnet50": {
+    "status": "completed-small-offline-trial-not-production-benchmark",
+    "bytes": 206149183,
+    "report": "docs/research/plantnet-resnet50-trial.json",
+    "artifact": "server/.artifacts/plantnet-pretrained/official-resnet50-1081-test.json",
+    "artifactSha256": "4dea4f9e9368600cdac35a10e49190d922450850bf69bd9c943baf7e2890aaa4",
+    "top1": 0.09615384615384616,
+    "top5": 0.09615384615384616,
+    "coveredSpecies": 1
+  },
+  "externalRecognitionCalls": 0,
+  "trainingResumed": false,
+  "productionChanged": false,
+  "runtimeRegistryChanged": false,
+  "officialCodeSnapshots": {
+    "official-utils.py.txt": "fa48ed46547460e2af32e0586416f370f6bc58c5c4149ab8d24e2a13b1f1e801",
+    "official-main.py.txt": "ec014d22e977f17a75b7e47aceb9c48d293161087c4244553b4e75227934cabf"
+  }
+}

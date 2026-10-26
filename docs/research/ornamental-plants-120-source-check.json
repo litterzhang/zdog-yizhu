@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-09-24",
+  "results": [
+    {
+      "name": "绣球花",
+      "url": "https://www.iplant.cn/info/绣球",
+      "status": 403,
+      "scientificName": "Hydrangea macrophylla",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "栀子花",
+      "url": "https://www.iplant.cn/info/栀子",
+      "status": 403,
+      "scientificName": "Gardenia jasminoides",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "香樟树",
+      "url": "https://www.iplant.cn/info/樟",
+      "status": 403,
+      "scientificName": "Cinnamomum camphora",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "银杏树",
+      "url": "https://www.iplant.cn/info/银杏",
+      "status": 403,
+      "scientificName": "Ginkgo biloba",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "柿子",
+      "url": "https://www.iplant.cn/info/柿",
+      "status": 403,
+      "scientificName": "Diospyros kaki",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "碗莲",
+      "url": "https://www.iplant.cn/info/Nelumbo%20nucifera?id=84EE4C927EA209CA",
+      "status": 403,
+      "scientificName": "Nelumbo nucifera",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    },
+    {
+      "name": "波斯菊",
+      "url": "https://www.iplant.cn/info/Cosmos%20bipinnatus",
+      "status": 403,
+      "scientificName": "Cosmos bipinnatus",
+      "scientificNameFound": false,
+      "title": [
+        "您的访问请求可能对网站造成安全威胁，请求已被阻断。"
+      ]
+    }
+  ],
+  "bypassAttempted": false,
+  "note": "Source pages returned HTTP 403. Do not report them as successfully read."
+}

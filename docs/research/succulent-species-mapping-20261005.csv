@@ -1,0 +1,264 @@
+﻿index,sourceName,status,officialChineseName,scientificName,catalogScientificName,speciesId,reason
+1,白牡丹,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+2,黑王子,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+3,莱恩小精灵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+4,紫珍珠,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+5,芙蓉雪莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+6,白凤,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+7,初恋,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+8,大和锦,accepted-new-species,大和锦,Echeveria purpusiorum,Echeveria purpusorum,tol10m:6a6dbed6035ad1ce9eb68741,目录中文物种名与GBIF物种级精确匹配共同支持。
+9,小和锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+10,白和锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+11,红粉台阁,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+12,红稚莲,mapped-species-deferred-no-training-data,红稚莲,Echeveria macdougallii,,tol10m:7bdf28c27432477fc2f58410,已核对到 Echeveria macdougallii，虽有训练图片，但开放来源没有取得与训练/开发图片独立的终验图片，暂不进入模型支持集。
+13,花月夜,accepted-new-species,花月夜,Echeveria pulidonis,Echeveria pulidonis,tol10m:aca8362f3c8a3c1716653b0f,目录中文物种名与GBIF物种级精确匹配共同支持。
+14,雨燕座,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+15,月光女神,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+16,红边月影,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+17,红宝石,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+18,薄叶蓝鸟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+19,锦晃星,accepted-new-species,锦晃星,Echeveria pulvinata,Echeveria pulvinata,tol10m:1b60d371c840573c4604e123,目录中文物种名与GBIF物种级精确匹配共同支持。
+20,静夜,accepted-new-species,静夜,Echeveria derenbergii,Echeveria derenbergii,tol10m:bd408c106be482ec7fffd1b6,目录中文物种名与GBIF物种级精确匹配共同支持。
+21,山地玫瑰,accepted-new-species,山地玫瑰,Aeonium aureum,Aeonium aureum,tol10m:4a2f70c47981929316979dd5,目录中文物种名与GBIF物种级精确匹配共同支持。
+22,丽娜莲,accepted-new-species,丽娜莲,Echeveria lilacina,Echeveria lilacina,tol10m:c8f98493593dac0ea0c318ae,目录中文物种名与GBIF物种级精确匹配共同支持。
+23,露娜莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+24,玉蝶,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+25,中斑莲花掌,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+26,爱染锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+27,黑法师,accepted-new-species,莲花掌,Aeonium arboreum,Aeonium arboreum,tol10m:3e5471be223fb8dfd1b7bfc0,目录中文物种名与GBIF物种级精确匹配共同支持。
+28,明镜,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+29,艳日辉,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+30,小人祭,accepted-new-species,小人祭,Aeonium sedifolium,Aeonium sedifolium,tol10m:a089e9a4e49f71583190c81e,目录中文物种名与GBIF物种级精确匹配共同支持。
+31,钱串,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+32,赤鬼城,accepted-new-species,赤鬼城,Crassula fusca,Crassula fusca,tol10m:3c6aab3c8bebb4c3b5dc3186,目录中文物种名与GBIF物种级精确匹配共同支持。
+33,火祭,accepted-new-species,火祭,Crassula capitella,Crassula capitella,tol10m:5d7b2516555b438c486b0ce1,目录中文物种名与GBIF物种级精确匹配共同支持。
+34,茜之塔,accepted-new-species,茜之塔,Crassula tabularis,Crassula tabularis,tol10m:9c2b2f4d336e22c6992590d5,目录中文物种名与GBIF物种级精确匹配共同支持。
+35,方鳞绿塔,accepted-new-species,方鳞绿塔,Crassula pyramidalis,Crassula pyramidalis,tol10m:3b4f6fe0a186e9ef64d7addd,目录中文物种名与GBIF物种级精确匹配共同支持。
+36,达摩绿塔,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+37,薄雪万年草,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+38,黄金万年草,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+39,冰梅,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+40,赤豆白石,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+41,晚霞之舞,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+42,晚霞,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+43,草莓卷娟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+44,橘子球,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+45,蛛丝卷绢,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+46,阿尔巴白月影,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+47,爱斯诺,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+48,昂斯诺,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+49,奥利维亚,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+50,滇石莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+51,星球,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+52,布纹球,accepted-new-species,布纹球,Euphorbia obesa,Euphorbia obesa,tol10m:6c8c922c5928232761db6889,目录中文物种名与GBIF物种级精确匹配共同支持。
+53,春之奇迹,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+54,鸾凤玉,accepted-new-species,鸾凤玉,Astrophytum myriostigma,Astrophytum myriostigma,tol10m:7c129e839c75bd2e6ab0161d,目录中文物种名与GBIF物种级精确匹配共同支持。
+55,虹之玉,accepted-new-species,虹之玉,Sedum rubrotinctum,Sedum rubrotinctum,tol10m:5bace0e359168c60b043b883,目录中文物种名与GBIF物种级精确匹配共同支持。
+56,乙女心,accepted-new-species,乙女心,Sedum pachyphyllum,Sedum pachyphyllum,tol10m:1b0114353f55b80448ef5797,目录中文物种名与GBIF物种级精确匹配共同支持。
+57,八千代,accepted-new-species,八千代,Sedum corynephyllum,Sedum corynephyllum,tol10m:7845055e0c36996f381fc2a5,目录中文物种名与GBIF物种级精确匹配共同支持。
+58,虹之玉锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+59,若歌诗,accepted-new-species,若歌诗,Crassula rogersii,Crassula rogersii,tol10m:550a669fcbc87afdd4701386,目录中文物种名与GBIF物种级精确匹配共同支持。
+60,天狗之舞,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+61,小天狗,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+62,黄丽,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+63,铭月,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+64,秋丽,excluded-horticultural-name,,,,,园艺杂交名称，不能可靠归入文章目录命中的 Graptopetalum bartramii。
+65,姬胧月,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+66,姬秋丽,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+67,丸叶姬秋丽,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+68,红色浆果,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+69,姬星美人,excluded,,,,,存在物种候选，但名称可能是属级统称、品种名或多义名称。
+70,千佛手,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+71,垂盆草,mapped-existing-species,垂盆草,Sedum sarmentosum,Sedum sarmentosum,tol10m:f91c21b47a458332665e7107,目录中文物种名与GBIF物种级精确匹配共同支持。
+72,水蜜桃,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+73,月兔耳,accepted-new-species,月兔耳,Kalanchoe tomentosa,Kalanchoe tomentosa,tol10m:91a35eed020327356c166aa6,目录中文物种名与GBIF物种级精确匹配共同支持。
+74,宽叶不死鸟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+75,唐印,excluded,,,,,存在物种候选，但名称可能是属级统称、品种名或多义名称。
+76,观音莲,accepted-new-species,观音莲,Sempervivum tectorum,Sempervivum tectorum,tol10m:f352be6f5da363caaa517ab7,目录中文物种名与GBIF物种级精确匹配共同支持。
+77,熊童子,accepted-new-species,熊童子,Cotyledon tomentosa,Cotyledon tomentosa,tol10m:149ecdab4a1fda815de28c2d,目录中文物种名与GBIF物种级精确匹配共同支持。
+78,桃美人,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+79,艾伦,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+80,桃之卵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+81,奶酪,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+82,千代田之松,accepted-new-species,千代田之松,Pachyphytum compactum,Pachyphytum compactum,tol10m:37a16f14ac887d336928c274,目录中文物种名与GBIF物种级精确匹配共同支持。
+83,青星美人,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+84,子持莲华,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+85,玉扇,accepted-new-species,玉扇,Haworthia truncata,Haworthia truncata,tol10m:3411de9724003eca376dd22c,目录中文物种名与GBIF物种级精确匹配共同支持。
+86,白斑玉露,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+87,姬玉露,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+88,三角琉璃莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+89,草水晶,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+90,草玉露,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+91,樱水晶,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+92,圆头玉露,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+93,冰灯玉露,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+94,条纹十二卷,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+95,蓝松,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+96,佛珠,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+97,情人泪,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+98,紫玄月,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+99,特玉莲,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+100,雅乐之舞,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+101,金枝玉叶,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+102,雅乐之华,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+103,碰碰香,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+104,爱之蔓,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+105,白雪姬,accepted-new-species,白雪姬,Tradescantia sillamontana,Tradescantia sillamontana,tol10m:24b89fdaa6165b38c640ae7b,目录中文物种名与GBIF物种级精确匹配共同支持。
+106,火星兔子,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+107,雪莲,accepted-new-species,雪莲,Echeveria laui,Echeveria laui,tol10m:e3344f4af6adfc68ad1bddb7,目录中文物种名与GBIF物种级精确匹配共同支持。
+108,蒂凡尼,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+109,天锦章,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+110,丘比特,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+111,红边灵影,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+112,不死鸟锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+113,梦椿,accepted-new-species,梦椿,Crassula pubescens,Crassula pubescens,tol10m:8126c61b83e61e25aed5d857,目录中文物种名与GBIF物种级精确匹配共同支持。
+114,纱维红,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+115,粉山地玫瑰,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+116,五十铃玉,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+117,帝玉,accepted-new-species,帝玉,Pleiospilos nelii,Pleiospilos nelii,tol10m:2034099d71fe679e647a2f80,目录中文物种名与GBIF物种级精确匹配共同支持。
+118,苯巴蒂斯,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+119,橙梦露,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+120,处女座,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+121,紫罗兰女王,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+122,棕玫瑰,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+123,纸风车,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+124,玉珠东云,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+125,约瑟琳,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+126,黑爪,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+127,原始绿爪,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+128,雪爪,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+129,红爪,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+130,樱桃,excluded,,,,,原文是多肉商品名，但同名目录物种明显属于非多肉植物，禁止按文字自动映射。
+131,不夜城,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+132,碧玉环,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+133,碧玉莲,accepted-new-species,碧玉莲,Braunsia maximiliani,Braunsia maximiliani,tol10m:b16c847a69410207e97dbabd,目录中文物种名与GBIF物种级精确匹配共同支持。
+134,鹿角海棠,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+135,留碟玉,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+136,藻铃玉,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+137,串钱藤,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+138,心叶球兰,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+139,紫米粒,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+140,沙漠玫瑰,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+141,艾格尼斯玫瑰,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+142,爱可儿,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+143,奥普琳娜,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+144,霜之朝,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+145,白花小松,accepted-new-species,白花小松,Sedum goldmanii,Sedum goldmanii,tol10m:dfce4f93318503202d31e001,目录中文物种名与GBIF物种级精确匹配共同支持。
+146,白姬之舞,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+147,春萌,accepted-new-species,春萌,Sedum clavatum,Sedum clavatum,tol10m:e38bc22f38af0d0035032f45,目录中文物种名与GBIF物种级精确匹配共同支持。
+148,马库斯,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+149,白霜,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+150,红霜,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+151,织锦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+152,胜利骑兵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+153,魅惑之宵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+154,金蜡冬云,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+155,圣诞东云,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+156,黄金玉杯,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+157,狂野男爵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+158,绿龟之卵,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+159,天使之泪,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+160,紫梦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+161,黛比,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+162,玉缀,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+163,新玉缀,accepted-new-species,新玉缀,Sedum burrito,Sedum burrito,tol10m:0c3026c54b1f80e7044f2eed,目录中文物种名与GBIF物种级精确匹配共同支持。
+164,小米星,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+165,彩色蜡笔,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+166,蓝黛莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+167,蒂亚,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+168,罗密欧,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+169,大和峰,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+170,蜜糖,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+171,贝飞达,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+172,宝丽安娜,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+173,吉娃莲,accepted-new-species,吉娃莲,Echeveria chihuahuaensis,Echeveria chihuahuaensis,tol10m:5b9e75ec1336712a176777c1,目录中文物种名与GBIF物种级精确匹配共同支持。
+174,蓝精灵,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+175,蓝苹果,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+176,莎莎女王,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+177,小红衣,mapped-species-deferred-no-training-data,小红衣,Echeveria globulosa,,tol10m:9541d44dca7b813170739f24,已核对到 Echeveria globulosa，但三类开放来源均无可用于训练的许可兼容图片，暂不进入模型支持集。
+178,小蓝衣,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+179,秀妍,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+180,原始姬莲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+181,央金,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+182,紫羊绒,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+183,雪天使,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+184,灯美人,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+185,银月,accepted-new-species,银月,Caputia tomentosa,Caputia tomentosa,tol10m:87b2c6d0a6b735d3bbff878e,目录中文物种名与GBIF物种级精确匹配共同支持。
+186,荷花,excluded,,,,,原文是多肉商品名，但同名目录物种明显属于非多肉植物，禁止按文字自动映射。
+187,白夜香槟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+188,断崖女王,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+189,粉蓝鸟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+190,粉蔓,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+191,绿豆,excluded,,,,,原文是多肉商品名，但同名目录物种明显属于非多肉植物，禁止按文字自动映射。
+192,蓝豆,accepted-new-species,蓝豆,Graptopetalum pachyphyllum,Graptopetalum pachyphyllum,tol10m:52c80e72f7a710b1abd35de0,目录中文物种名与GBIF物种级精确匹配共同支持。
+193,生石花,excluded,,,,,存在物种候选，但名称可能是属级统称、品种名或多义名称。
+194,仙女杯,excluded,,,,,存在物种候选，但名称可能是属级统称、品种名或多义名称。
+195,棒叶仙女杯,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+196,小球玫瑰,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+197,特里尔宝石,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+198,紫心,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+199,汤姆漫画,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+200,蜡牡丹,excluded-horticultural-name,,,,,园艺杂交或品种名称，不能因同名直接归入 Echeveria nuda。
+201,TP,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+202,墨西哥雪球,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+203,莫兰,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+204,红化妆,excluded-horticultural-name,,,,,园艺杂交或品种名称，不能因同名直接归入 Sedum palmeri。
+205,柳叶莲华,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+206,女雏,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+207,大卫,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+208,莎维娜,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+209,桃太郎,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+210,香水,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+211,绿蔷薇,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+212,弗兰克,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+213,雨滴,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+214,婴儿手指,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+215,葡萄,excluded,,,,,原文是多肉商品名，但同名目录物种明显属于非多肉植物，禁止按文字自动映射。
+216,广寒宫,accepted-new-species,广寒宫,Echeveria cante,Echeveria cante,tol10m:6091105db6e6df28a315858c,目录中文物种名与GBIF物种级精确匹配共同支持。
+217,晨光,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+218,卡罗拉,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+219,达摩福娘,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+220,劳尔,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+221,罗琦,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+222,PINKY,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+223,格林,excluded,,,,,外部分类自动补全存在植物候选，但尚无本地官方中文名证据。
+224,蓝色惊喜,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+225,Sempervivum'Bedivere',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+226,SempervivumCmirals Yellow,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+227,大西洋Sempervivum Atlanticum,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+228,凌樱,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+229,诺曼Sempervivum Normann,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+230,醉莲Sempervivum Tipsy,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+231,百惠,excluded-horticultural-name,,,,,卷绢属园艺品种名，文章未提供可核验的物种身份。
+232,大红卷娟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+233,埃尔多拉多,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+234,松衣Sempervivum ruthenicum,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+235,小红卷娟,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+236,红勋花Sempervivum Gray Lady,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+237,Sempervivum Tommella,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+238,Sempervivum'Commander Hay',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+239,Sempervivum Alchemist,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+240,Sempervivum 'Georgette',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+241,海姆里克,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+242,天狼星Sempervivum‘Sirius’,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+243,紫牡丹Sempervivum 'Stansfieldii',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+244,SempervivumBronze Pastel,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+245,阿曼达Sempervivum Amanda,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+246,炼金术Sempervivum‘Alchemist,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+247,Sempervivum Tederheid,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+248,骑士Sempervivum Pacific Knight,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+249,紫红牡丹,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+250,红夕月'beniyuugetu',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+251,赤爪レンゲ'Akatumerenge',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+252,大紫杯'oomurasakihai',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+253,雪牡丹'Yukibotan',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+254,紫云杯'murasakikumohai',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+255,夕山樱'yuuyamazakura',excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+256,rosa and violette,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+257,Sempervivum Picasso,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+258,红蛋水泡,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+259,小辣椒水泡,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+260,白银玛丽安水泡,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+261,神想曲,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+262,海豹水泡,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。
+263,朱唇石水泡,excluded,,,,,尚无可靠的唯一物种级映射；不得作为模型类别。

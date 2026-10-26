@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-21",
+  "modelRecordDoi": "10.5281/zenodo.10848263",
+  "counts": {
+    "classCount": 7806,
+    "mappingRows": 7806,
+    "uniqueBinomials": 7496,
+    "excludedRows": 310,
+    "ambiguousBinomials": 0,
+    "catalogTotal": 108372,
+    "catalogVisible": 19716,
+    "matchedCatalog": 6088,
+    "matchedVisible": 2427,
+    "matchedHidden": 3661,
+    "visibleCoveragePercent": 12.31
+  },
+  "method": {
+    "scientificPattern": "([A-Z][a-z]+ [a-z][a-z-]*)(?:\\s+(.*))?",
+    "authorityTailRule": "Empty, starts with uppercase character, or starts with left parenthesis. Other tails excluded conservatively, including some lowercase author prefixes.",
+    "synonymResolution": false,
+    "hybridOrInfraspecificCollapse": false,
+    "matching": "Exact binomial string against catalog scientific_name; unique IDs only.",
+    "accuracyMeasured": false
+  },
+  "catalogSha256": "38faa0c3f0da61d74bbfde82a97a203a9553fbd93606fe47e1d173de3067f910",
+  "classFileSources": [
+    {
+      "cacheFile": "tar-pretrained_models__class_mapping.txt",
+      "bytes": 62448,
+      "sha256": "85e16f8f9fd4cbbe8d0e3d268a9180a37defe4a320066e85af3521915a5cdfa7"
+    },
+    {
+      "cacheFile": "tar-pretrained_models__species_id_to_name.txt",
+      "bytes": 324013,
+      "sha256": "995b9bbfa02675069eea12e2b646f3629baf4fb54df7987836a93f71f61965cd"
+    },
+    {
+      "cacheFile": "zenodo-record.json",
+      "bytes": 8215,
+      "sha256": "4a29ee78fd514d2bcb6dff1c9c77e906ddd5f66bcb11c80ddb7594c0e9450a7d"
+    },
+    {
+      "cacheFile": "datacite.json",
+      "bytes": 16877,
+      "sha256": "3d916fd1cff7d5b4ce26892c50171cbcfb96a7e23f78dac651377227221e2083"
+    },
+    {
+      "cacheFile": "tar-manifest.json",
+      "bytes": 6091,
+      "sha256": "b040bc6964f44382b79091c1e95bad6b1771c9a6376e37451d10dea988f7fedf"
+    }
+  ],
+  "examples": [
+    {
+      "scientificName": "Osmanthus fragrans",
+      "catalogId": "bioclip:plant-009",
+      "catalogChineseName": "木犀",
+      "catalogAliases": [
+        "桂花"
+      ],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Ginkgo biloba",
+      "catalogId": "bioclip:plant-001",
+      "catalogChineseName": "银杏",
+      "catalogAliases": [],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Magnolia grandiflora",
+      "catalogId": "bioclip:plant-010",
+      "catalogChineseName": "荷花木兰",
+      "catalogAliases": [
+        "荷花玉兰"
+      ],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Hydrangea macrophylla",
+      "catalogId": "bioclip:plant-020",
+      "catalogChineseName": "绣球",
+      "catalogAliases": [],
+      "modelEntries": [
+        {
+          "index": 2060,
+          "sourceId": "1361819",
+          "rawName": "Hydrangea macrophylla (Thunb.) Ser."
+        }
+      ]
+    },
+    {
+      "scientificName": "Epipremnum aureum",
+      "catalogId": "bioclip:plant-015",
+      "catalogChineseName": "绿萝",
+      "catalogAliases": [],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Jasminum sambac",
+      "catalogId": "bioclip:plant-002",
+      "catalogChineseName": "茉莉花",
+      "catalogAliases": [],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Monstera deliciosa",
+      "catalogId": "bioclip:plant-014",
+      "catalogChineseName": "龟背竹",
+      "catalogAliases": [],
+      "modelEntries": []
+    },
+    {
+      "scientificName": "Oxalis corniculata",
+      "catalogId": "bioclip:plant-024",
+      "catalogChineseName": "酢浆草",
+      "catalogAliases": [],
+      "modelEntries": [
+        {
+          "index": 2511,
+          "sourceId": "1363638",
+          "rawName": "Oxalis corniculata L."
+        }
+      ]
+    },
+    {
+      "scientificName": "Trifolium repens",
+      "catalogId": "bioclip:plant-023",
+      "catalogChineseName": "白车轴草",
+      "catalogAliases": [],
+      "modelEntries": [
+        {
+          "index": 2553,
+          "sourceId": "1363740",
+          "rawName": "Trifolium repens L."
+        }
+      ]
+    },
+    {
+      "scientificName": "Helianthus annuus",
+      "catalogId": "tol10m:ef208cbbbcbbfad2e7d96de2",
+      "catalogChineseName": "向日葵",
+      "catalogAliases": [],
+      "modelEntries": [
+        {
+          "index": 2712,
+          "sourceId": "1364145",
+          "rawName": "Helianthus annuus L."
+        }
+      ]
+    }
+  ],
+  "licenseMetadata": "CC-BY-4.0, Zenodo record and DataCite agree; image licenses separate",
+  "modelWeightsDownloaded": false,
+  "archiveFullChecksumVerified": false,
+  "archivePayloadBytesRead": 437687,
+  "installedTimmVersion": "1.0.29",
+  "publishedTrainingTimmVersion": "0.9.16"
+}

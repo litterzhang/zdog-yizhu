@@ -1,0 +1,73 @@
+{
+  "scope": "Only this user-provided list; not global aliases, database edits or image labels.",
+  "reviewedAt": "2026-09-24",
+  "scientificNameLinks": {
+    "绣球花": {
+      "scientificName": "Hydrangea macrophylla",
+      "note": "按原文园艺花球语境关联绣球，不采用库中同名 Scadoxus pole-evansii。",
+      "sources": [
+        "https://www.iplant.cn/info/绣球"
+      ]
+    },
+    "栀子花": {
+      "scientificName": "Gardenia jasminoides",
+      "note": "关联栀子的物种记录。",
+      "sources": [
+        "https://www.iplant.cn/info/栀子"
+      ]
+    },
+    "香樟树": {
+      "scientificName": "Cinnamomum camphora",
+      "note": "关联原名单香樟对应的樟，不新增树字后缀类别；沿用数据库稳定ID与学名，不改写分类。",
+      "sources": [
+        "https://www.iplant.cn/info/樟"
+      ]
+    },
+    "银杏树": {
+      "scientificName": "Ginkgo biloba",
+      "note": "关联银杏，不新增树字后缀类别。",
+      "sources": [
+        "https://www.iplant.cn/info/银杏"
+      ]
+    },
+    "柿子": {
+      "scientificName": "Diospyros kaki",
+      "note": "按观果植物语境关联柿。",
+      "sources": [
+        "https://www.iplant.cn/info/柿"
+      ]
+    },
+    "碗莲": {
+      "scientificName": "Nelumbo nucifera",
+      "note": "仅归入莲的物种级目标，不增加碗莲品种类别。",
+      "sources": [
+        "https://www.iplant.cn/info/Nelumbo%20nucifera?id=84EE4C927EA209CA"
+      ]
+    },
+    "波斯菊": {
+      "scientificName": "Cosmos bipinnatus",
+      "note": "关联秋英。",
+      "sources": [
+        "https://www.iplant.cn/info/Cosmos%20bipinnatus"
+      ]
+    }
+  },
+  "needsReview": {
+    "羽扇豆": "库中同名指 Lupinus micranthus；原文鲁冰花/观赏花序不足以唯一确定该种，暂不按同名直接关联。",
+    "彩叶芋": "库中同名指 Cyrtosperma johnstonii；需要核实原文是否意指园艺花叶芋类群，不直接采用同名条目。",
+    "豆瓣绿": "先核实原文盆栽语境与库中 Peperomia tetraphylla 是否相符，不直接把园艺同名当作精确物种证据。",
+    "鼠尾草": "原文蓝紫色观花语境未明确具体物种，暂不直接采用库中同名 Salvia japonica。",
+    "蓝雪花": "植物智同时列出蓝花丹 Plumbago auriculata 的俗名蓝雪花，以及蓝雪花 Ceratostigma plumbaginoides；原文未足以区分，保留候选，不按字面自动关联。"
+  },
+  "notes": [
+    "未命中不等于植物不存在；可能是别名、类群或目录缺口。",
+    "这里只记录名称关联依据，不复制原文养护、药食或毒性描述。",
+    "目前没有依据的别名不做模糊匹配；所有未解决名称保留。"
+  ],
+  "reviewSources": {
+    "蓝雪花": [
+      "https://www.iplant.cn/info/蓝花丹"
+    ]
+  },
+  "sourceVerification": "Direct source-page verification returned HTTP 403; links are reference locations, not successfully fetched evidence. Scoped name links are planning mappings, not automatic image labels."
+}

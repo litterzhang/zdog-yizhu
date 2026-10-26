@@ -1,0 +1,118 @@
+@use '../styles/tokens' as *;
+
+.yizhu-dialog {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  padding-top: calc(24px + env(safe-area-inset-top));
+  padding-bottom: calc(24px + env(safe-area-inset-bottom));
+  color: $ink;
+  box-sizing: border-box;
+}
+.yizhu-dialog__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(37, 49, 41, 0.32);
+  touch-action: none;
+}
+.yizhu-dialog__panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 360PX;
+  max-height: 100%;
+  min-height: 0;
+  padding: 24px;
+  box-sizing: border-box;
+  border: 1px solid $line;
+  border-radius: 22px;
+  background: $paper;
+  box-shadow: 0 12px 48px rgba(37, 49, 41, 0.12);
+}
+.yizhu-dialog__heading { flex-shrink: 0; padding-bottom: 18px; }
+.yizhu-dialog__sprig {
+  position: relative;
+  width: 28px;
+  height: 26px;
+  margin-bottom: 14px;
+  color: $green;
+  border-left: 1px solid currentColor;
+  transform: translateX(10px) rotate(24deg);
+}
+.yizhu-dialog__sprig view,
+.yizhu-dialog__sprig taro-view-core {
+  position: absolute;
+  width: 12px;
+  height: 7px;
+  border: 1px solid currentColor;
+  border-radius: 80% 0 80% 0;
+  left: 0;
+  top: 3px;
+  transform: rotate(-24deg);
+}
+.yizhu-dialog__sprig view:last-child,
+.yizhu-dialog__sprig taro-view-core:last-child {
+  left: -12px;
+  top: 12px;
+  transform: rotate(32deg);
+}
+.yizhu-dialog__title {
+  display: block;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  overflow-wrap: anywhere;
+}
+.yizhu-dialog__body { flex: 0 1 auto; min-height: 0; max-height: 44vh; overscroll-behavior: contain; }
+.yizhu-dialog__content {
+  display: block;
+  color: $muted;
+  font-size: 14px;
+  line-height: 1.85;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.yizhu-dialog__actions {
+  display: flex;
+  flex-shrink: 0;
+  gap: 10px;
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid $line;
+}
+.yizhu-dialog .yizhu-dialog__button {
+  flex: 1;
+  min-width: 0;
+  min-height: 48px;
+  margin: 0;
+  padding: 11px 10px;
+  box-sizing: border-box;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  white-space: normal;
+}
+.yizhu-dialog .yizhu-dialog__button::after { border: 0; }
+.yizhu-dialog .yizhu-dialog__button--cancel { background: $paper; color: $muted; border-color: $line; }
+.yizhu-dialog .yizhu-dialog__button--confirm { background: $green; color: $paper; }
+.yizhu-dialog--danger .yizhu-dialog__sprig { color: $warning; }
+.yizhu-dialog--danger .yizhu-dialog__button--confirm { background: $warning; }
+.yizhu-dialog__button--pressed { opacity: 0.8; }
+
+@media (max-height: 480px) {
+  .yizhu-dialog { padding-top: 12px; padding-bottom: 12px; }
+  .yizhu-dialog__panel { padding: 16px 20px; }
+  .yizhu-dialog__sprig { display: none; }
+  .yizhu-dialog__heading { padding-bottom: 10px; }
+  .yizhu-dialog__body { max-height: 36vh; }
+  .yizhu-dialog__actions { margin-top: 12px; padding-top: 12px; }
+}
